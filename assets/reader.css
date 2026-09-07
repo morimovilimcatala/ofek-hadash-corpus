@@ -1,0 +1,563 @@
+
+:root{
+  --paper:#f5f6f8; --raised:#ffffff; --sunk:#eceff4;
+  --ink:#15181f; --ink-dim:#5b6474; --ink-faint:#8b94a5;
+  --rule:#dfe3ea; --rule-soft:#ebeef3;
+  --accent:#31497a; --accent-soft:#e7ecf6; --accent-ink:#243758;
+  --good:#2c6e4e; --good-soft:#e4f0e9;
+  --warn:#8a5d16; --warn-soft:#f7efdf;
+  --bad:#9a3b3b;  --bad-soft:#f7e6e6;
+  --flash:#fdf2cf;
+  /* The sticky topbar's height, re-measured by script because the document
+     title wraps to one or two lines. Anything that sticks BELOW the topbar
+     offsets by it: at a flat top:16px the section index's first rows sat
+     behind the bar, so a document's §§1-3 were simply not there. */
+  --topbar-h:108px;
+}
+html{scroll-padding-top:calc(var(--topbar-h) + 12px);}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#101319; --raised:#171b23; --sunk:#0b0e13;
+    --ink:#e6e9f0; --ink-dim:#a5aec0; --ink-faint:#788296;
+    --rule:#282e3a; --rule-soft:#1f242e;
+    --accent:#8aa9de; --accent-soft:#1c2534; --accent-ink:#adc4ea;
+    --good:#6fc094; --good-soft:#16241d;
+    --warn:#d7a75e; --warn-soft:#271f14;
+    --bad:#e08585;  --bad-soft:#2a1a1a;
+    --flash:#3a3318;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#101319; --raised:#171b23; --sunk:#0b0e13;
+  --ink:#e6e9f0; --ink-dim:#a5aec0; --ink-faint:#788296;
+  --rule:#282e3a; --rule-soft:#1f242e;
+  --accent:#8aa9de; --accent-soft:#1c2534; --accent-ink:#adc4ea;
+  --good:#6fc094; --good-soft:#16241d;
+  --warn:#d7a75e; --warn-soft:#271f14;
+  --bad:#e08585;  --bad-soft:#2a1a1a;
+  --flash:#3a3318;
+}
+*{box-sizing:border-box;}
+/* min-height, NOT height. At height:100% the grid's single row is exactly
+   one viewport tall, the document pane's content overflows that row, and the
+   sticky rail's containing block ends after 100vh — so scrolling past the
+   first screen took the whole navigation away and left blank paper behind
+   the overflow. The row has to grow with the document. */
+html{height:100%;}
+body{min-height:100%;}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased;
+  display:grid; grid-template-columns:302px minmax(0,1fr);
+}
+code,.mono{font-family:"IBM Plex Mono",ui-monospace,"SF Mono",monospace;}
+.he{font-family:"Frank Ruhl Libre","Times New Roman",serif;}
+a{color:var(--accent);}
+:focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+
+/* ---------------- navigation spine ---------------- */
+.spine{
+  background:var(--sunk); border-inline-end:1px solid var(--rule);
+  height:100vh; position:sticky; top:0;
+  display:flex; flex-direction:column; min-height:0;
+}
+.spine-head{padding:16px 16px 12px; border-bottom:1px solid var(--rule);
+  display:flex; flex-direction:column; gap:10px;}
+.brand{display:flex; align-items:baseline; gap:8px; text-decoration:none;
+  color:var(--ink);}
+.brand b{font-size:14px; font-weight:600; letter-spacing:-.01em;}
+.brand span{font-size:11px; color:var(--ink-faint);
+  font-variant-numeric:tabular-nums;}
+.search{width:100%; padding:7px 10px; font:inherit; font-size:13px;
+  border:1px solid var(--rule); border-radius:5px;
+  background:var(--raised); color:var(--ink);}
+.search::placeholder{color:var(--ink-faint);}
+/* What the filter matched. Hidden until a query is typed, so the head keeps
+   its height when nobody is searching. */
+.found{font-size:11px; color:var(--ink-faint); margin:-4px 2px 0;
+  font-variant-numeric:tabular-nums;}
+.found.none{color:var(--ink-dim);}
+.tree{overflow-y:auto; flex:1; min-height:0; padding:8px 8px 24px;}
+.folder{margin-bottom:2px;}
+.folder>summary{
+  cursor:pointer; list-style:none; padding:5px 8px; border-radius:4px;
+  font-size:12px; font-weight:600; color:var(--ink-dim);
+  display:flex; align-items:center; gap:6px; white-space:nowrap;
+}
+.folder>summary>span.lbl{overflow:hidden; text-overflow:ellipsis;}
+.folder>summary::-webkit-details-marker{display:none;}
+.folder>summary::before{content:"▸"; color:var(--ink-faint); font-size:9px;}
+.folder[open]>summary::before{content:"▾";}
+.folder>summary:hover{background:var(--accent-soft); color:var(--accent-ink);}
+.folder>summary .count{margin-inline-start:8px; font-weight:400;
+  letter-spacing:0; color:var(--ink-faint);
+  font-variant-numeric:tabular-nums;}
+.folder>summary .lbl{flex:1;}
+.folder ul{list-style:none; margin:0; padding:0 0 4px 10px;}
+.sub{margin:1px 0 1px 8px;}
+.sub>summary{cursor:pointer; list-style:none; padding:3px 8px; border-radius:4px;
+  font-size:11.5px; color:var(--ink-faint); display:flex; gap:6px;
+  align-items:center; white-space:nowrap;}
+.sub>summary::-webkit-details-marker{display:none;}
+.sub>summary::before{content:"·"; color:var(--ink-faint);}
+.sub>summary:hover{background:var(--accent-soft); color:var(--accent-ink);}
+.sub>summary .count{margin-inline-start:auto;}
+.sub>summary .count{margin-inline-start:auto; font-variant-numeric:tabular-nums;}
+.sub>summary .lbl{font-variant-numeric:tabular-nums;}
+.folder li a{
+  display:flex; align-items:flex-start; gap:8px; padding:6px 8px;
+  border-radius:4px; text-decoration:none; color:var(--ink);
+  font-size:13px; line-height:1.45;
+  border-inline-start:2px solid transparent;
+}
+.folder li a:hover{background:var(--accent-soft); color:var(--accent-ink);}
+.folder li a.on{background:var(--accent-soft); color:var(--accent-ink);
+  border-inline-start-color:var(--accent); font-weight:500;}
+/* Each label picks its own direction from its first strong character, so a
+   Hebrew title lays out RTL and a filename-derived Latin one LTR. Without it
+   the Latin labels were clipped at the START — "...reform founding agreement"
+   — losing the half that identifies them.
+   The label WRAPS to two lines rather than ellipsing on one: these titles run
+   long and differ only near their end, so a single clipped line showed nine
+   agreements as nine copies of "הסכם קיבוצי — החלת חלק מ…". */
+.folder li a .nm{unicode-bidi:plaintext; text-align:start; min-width:0;
+  display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical;
+  overflow:hidden;}
+/* The date column: fixed width so the dates line up into something the eye
+   can run down, and tabular figures so they do not jitter. It is the fact
+   that tells two near-identically titled instruments apart. */
+.folder li a .dt{flex:0 0 auto; min-width:52px; font-size:10.5px;
+  font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;
+  color:var(--ink-faint); padding-top:2px; text-align:left; letter-spacing:-.2px;}
+.folder li a.on .dt,.folder li a:hover .dt{color:var(--accent);}
+/* A qualifier lifted out of a trimmed title — "(מסגרת)", "(שכר)" — is a real
+   distinction between agreements, so it survives the trim as a chip. */
+.folder li a .body{display:flex; flex-direction:column; min-width:0; gap:1px;}
+/* The copy-distinguishing tail. Never clamped: it is the whole reason the
+   row is not a duplicate, so it must survive when the title does not. */
+.folder li a .tag{unicode-bidi:plaintext; text-align:start;
+  font-family:"IBM Plex Mono",monospace; font-size:10px; letter-spacing:-.2px;
+  color:var(--ink-faint); white-space:nowrap; overflow:hidden;
+  text-overflow:ellipsis;}
+.folder li a.on .tag,.folder li a:hover .tag{color:var(--accent-ink);}
+.folder li a .chip{display:inline-block; margin-inline-end:5px; padding:0 5px;
+  border-radius:3px; background:var(--accent-soft);
+  border:1px solid var(--rule); font-size:10px; font-weight:500;
+  font-family:"IBM Plex Sans",sans-serif; color:var(--accent-ink);
+  vertical-align:2px;}
+.folder li a.on .chip,.folder li a:hover .chip{border-color:var(--accent);
+  color:var(--accent-ink);}
+
+/* ---------------- main pane ---------------- */
+.pane{min-width:0; display:flex; flex-direction:column;}
+.topbar{
+  background:var(--raised); border-bottom:1px solid var(--rule);
+  position:sticky; top:0; z-index:5;
+  padding:14px 26px; display:flex; flex-wrap:wrap; gap:14px;
+  align-items:flex-start; justify-content:space-between;
+}
+.topbar h1{margin:0; font-size:17px; font-weight:600; letter-spacing:-.01em;
+  text-wrap:balance;}
+.topbar h1.he{font-size:20px; font-weight:500; direction:rtl;}
+.crumb{font-size:11.5px; color:var(--ink-faint); margin-bottom:5px;}
+.facts{display:flex; flex-wrap:wrap; gap:5px 16px; margin-top:7px;
+  font-size:11.5px; color:var(--ink-faint);}
+.facts b{color:var(--ink-dim); font-weight:500;}
+.pager{display:flex; gap:6px; align-items:center; flex:none;}
+.pager a{font-size:12px; text-decoration:none; padding:5px 10px;
+  border:1px solid var(--rule); border-radius:5px; background:var(--paper);
+  color:var(--ink-dim); white-space:nowrap;}
+.pager a:hover{border-color:var(--accent); color:var(--accent);}
+
+.work{display:grid; grid-template-columns:minmax(0,1fr) 230px; gap:34px;
+  padding:22px 34px 70px; align-items:start; max-width:1180px;}
+.work.solo{grid-template-columns:minmax(0,1fr); max-width:900px;}
+/* A salary table is 11 to 19 columns wide and has no business being folded
+   into a 900px reading measure — that column limit is for PROSE, and it was
+   hiding two thirds of the conversion tables behind a scrollbar. A document
+   that contains a table gets the pane. */
+.work.has-table{max-width:none;}
+/* Below this the rail costs more than it gives: it becomes a collapsed strip
+   above the document instead of stealing 40% of a narrow screen. */
+
+@media (max-width:1080px){ .work{grid-template-columns:minmax(0,1fr);} }
+.toc{position:sticky; top:calc(var(--topbar-h) + 12px); font-size:12px;
+  max-height:calc(100vh - var(--topbar-h) - 28px);
+  overflow:auto; border-left:1px solid var(--rule-soft); padding-left:12px;}
+.toc h2{font-size:10px; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-faint); margin:0 0 7px;}
+.toc a{display:grid; grid-template-columns:26px 1fr; gap:6px; padding:3px 4px;
+  text-decoration:none; color:var(--ink-dim); border-radius:3px;}
+.toc a:hover{background:var(--accent-soft); color:var(--accent-ink);}
+.toc .n{text-align:end; color:var(--ink-faint);
+  font-variant-numeric:tabular-nums;}
+/* Runs of unheaded articles between the headed ones, so the index can carry
+   every article without a row per number. The margin sets a run apart from
+   the headed rows it sits between. */
+.numstrip{display:flex; flex-wrap:wrap; gap:3px; direction:rtl;
+  margin:4px 0 6px;}
+.numstrip a{display:inline-block; min-width:26px; text-align:center;
+  padding:2px 4px; border:1px solid var(--rule-soft); border-radius:3px;
+  font-variant-numeric:tabular-nums; font-size:11px; color:var(--ink-dim);}
+.numstrip a:hover{border-color:var(--accent); color:var(--accent);
+  background:var(--accent-soft);}
+/* Two lines, like the spine's labels: these headings differ near their end
+   ("ביטול סכסוכי עבודה, מיצוי תביעות ושקט תעשייתי"), which is precisely what
+   a single ellipsed line removes. */
+.toc .t{direction:rtl; text-align:right; overflow:hidden; min-width:0;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+  font-family:"Frank Ruhl Libre",serif;}
+.toc a{align-items:start;}
+
+/* ---------------- the document ---------------- */
+.doc{direction:rtl; text-align:right; min-width:0;}
+/* ONE rule for every numbered block, at every level: the number HANGS in the
+   gutter and the text keeps a constant measure beside it.
+   Set as a line of its own — which is what it was — a number made two
+   rhythms out of one document. A headed article opened with a number, a
+   title and then prose; an unheaded one opened with a bare figure floating
+   over its text; and an enumerated "(א)" took a whole line to itself above a
+   sentence the page prints it INSIDE. Only some articles are headed (the
+   base agreement heads 100 of its 160), so that was not a rare case.
+   In the gutter a number is never a line, and an article, a takanon section
+   and a lettered sub-clause are all laid out the same way. */
+.akn-article,.akn-chapter,.akn-section,.akn-part,.akn-title,
+.akn-paragraph,.akn-subparagraph,.akn-clause{position:relative;}
+.akn-article{border-top:1px solid var(--rule-soft); padding:16px 0 6px;
+  scroll-margin-top:14px; padding-inline-start:46px;}
+.akn-article:first-child{border-top:none;}
+.akn-chapter{border-top:1px solid var(--rule); margin-top:22px;
+  padding:18px 0 6px; padding-inline-start:46px; scroll-margin-top:14px;}
+.akn-section{padding:10px 0 2px; padding-inline-start:46px;
+  scroll-margin-top:14px;}
+.akn-num{font-weight:600; color:var(--ink-faint); font-size:15px;
+  font-variant-numeric:tabular-nums;}
+.akn-article>.akn-num,.akn-chapter>.akn-num,.akn-section>.akn-num{
+  position:absolute; inset-inline-start:0; top:16px; width:38px;
+  text-align:end;}
+/* A chapter's number is WORDS here, not a figure: the takanon numbers its
+   chapters "1א'" and fits the 38px gutter, but an agreement or a circular
+   writes "פרק ראשון". Hung in that gutter it wrapped to two lines and ran
+   through its own heading — "פרק" beside the title and "שני" orphaned under
+   it. So a chapter's number sits on its own line above the heading, which is
+   also how these documents print it; articles and sections keep the gutter,
+   where a figure belongs. */
+.akn-chapter>.akn-num{position:static; width:auto; text-align:start;
+  color:var(--accent); font-size:17px; display:block; margin-block-end:.15em;
+  white-space:nowrap;}
+.akn-section>.akn-num{top:10px;}
+.akn-chapter>.akn-heading{font-size:21px; font-weight:600;}
+.akn-heading{font-family:"Frank Ruhl Libre",serif; font-size:18px;
+  font-weight:500; margin:0 0 8px; line-height:1.4; text-wrap:balance;}
+.akn-p{display:block; font-family:"Frank Ruhl Libre","Times New Roman",serif;
+  font-size:16.5px; line-height:1.8; margin:0 0 8px; max-width:76ch;}
+/* The same gutter one level down, with the nesting rail kept beside it. */
+.akn-paragraph,.akn-subparagraph,.akn-clause{
+  margin:8px 0; padding-inline-start:34px;
+  border-inline-start:2px solid var(--rule-soft);}
+.akn-paragraph>.akn-num,.akn-subparagraph>.akn-num,.akn-clause>.akn-num{
+  position:absolute; inset-inline-start:2px; top:2px; width:30px;
+  text-align:end; font-size:14px;}
+a.akn-ref-work{border-bottom:1px solid color-mix(in srgb,var(--accent) 45%,transparent);}
+a.akn-ref-work::after{content:"↗"; font-size:.8em; vertical-align:.25em;
+  margin-inline-start:.15em; opacity:.65;}
+a.akn-ref{color:var(--accent); text-decoration:none;
+  border-bottom:1px solid var(--accent-soft);
+  font-variant-numeric:tabular-nums;}
+a.akn-ref:hover{border-bottom-color:var(--accent);
+  background:var(--accent-soft);}
+/* A date the encoding recognised. Marked quietly — the reader is reading an
+   instrument, not an annotation — but findable, and its normalized value is
+   on the element for anything that consumes the page. */
+.akn-date{border-bottom:1px dotted var(--rule); cursor:help;}
+/* A person the document names. The corpus knows who they are — every one is
+   declared as a TLCPerson — so the name is set apart from the prose around
+   it without being turned into a link to nowhere. */
+.akn-person{font-weight:600; text-underline-offset:3px;
+  text-decoration:underline dotted var(--rule);}
+/* An organization or an office the document names, each linked to its TLC
+   declaration. Quieter than a person's name — they recur constantly — but
+   still distinguishable from the prose carrying them. */
+.akn-organization{text-underline-offset:3px;
+  text-decoration:underline dotted var(--rule); }
+.akn-role{color:var(--ink-dim);}
+/* A link OUT of the corpus. Marked more quietly than akn-ref, which goes to
+   another instrument the repository holds: this one leaves. */
+a.akn-a{color:var(--accent); text-decoration:none;
+        border-bottom:1px dotted color-mix(in srgb,var(--accent) 50%,transparent);}
+a.akn-a:hover{border-bottom-style:solid;}
+.akn-location{text-underline-offset:3px;
+              text-decoration:underline dotted color-mix(in srgb,var(--ink-dim) 45%,transparent);}
+.akn-docnumber{color:var(--ink-dim); font-variant-numeric:tabular-nums;}
+/* A term the document defines for its own later use: "(להלן: "המדינה")". */
+.akn-def{font-weight:600; font-style:normal;}
+/* A pay-scale code — "קוד דירוג 101" — which is the key tying a salary table
+   to the grade it prices. Set like the other ontology marks: findable in the
+   caption, and never louder than the caption itself. */
+.akn-concept{text-underline-offset:3px;
+  text-decoration:underline dotted var(--rule);}
+/* "[חסר בסריקה: …]" — the transcriber recording that the source is missing
+   pages here. It is evidence about the scan, and must not read as text of
+   the instrument. */
+.scangap{border-inline-start:3px solid var(--warn); background:var(--warn-soft);
+  padding:9px 13px; margin:10px 0; border-radius:0 4px 4px 0;
+  font-size:13.5px; line-height:1.65; color:var(--warn);}
+:target{animation:flash 1.5s ease-out;}
+@keyframes flash{from{background:var(--flash);} to{background:transparent;}}
+@media (prefers-reduced-motion:reduce){
+  :target{animation:none; outline:2px solid var(--accent); outline-offset:3px;}
+}
+.table-wrap{overflow-x:auto; margin:12px 0;}
+/* A table's own header, wrapped by extraction into loose lines above the
+   grid. Set with the table and like a label band, so a document whose header
+   survived inside the grid and one whose header did not still look alike. */
+.tbl-caption{margin:12px 0 0; font-weight:600;}
+.tbl-caption .akn-p{margin:0; font-size:14.5px; line-height:1.5;
+  max-width:none;}
+.tbl-caption+.table-wrap{margin-top:4px;}
+/* The document is RTL and so is the table: a grid wider than the pane must
+   open at its RIGHT edge, where the row labels are, not at its left. Pushing
+   the table over with an auto inline-start margin puts the start of the
+   scroll where a Hebrew reader begins. */
+/* Flush to the INLINE START, which in RTL is the right — where the Hebrew
+   text beside it begins. The auto margin goes on the END for that: setting
+   it on the start put the free space on the right and pushed every narrow
+   table over to the left of the page. */
+.table-wrap>table{margin-inline-end:auto; width:max-content;}
+/* The row label stays put while a wide grid scrolls under it: without this
+   the ותק column slides away and the salaries lose the row they belong to.
+   In RTL the first cell is the RIGHTMOST, so it pins to the right. */
+.table-wrap td:first-child,.table-wrap th:first-child{
+  position:sticky; inset-inline-start:0; background:var(--paper);
+  font-weight:600; border-inline-end:2px solid var(--rule);}
+.buildnote .akn-p{font:inherit; margin:0; max-width:none; display:inline;}
+/* Folded shut by default: the summary is Hebrew and belongs to the page, the
+   note inside is an English verification log and belongs to whoever is
+   checking the encoding. */
+.buildnote{background:var(--sunk); border:1px solid var(--rule-soft);
+  border-radius:5px; margin:0 0 12px; max-width:none;}
+.buildnote>summary{cursor:pointer; padding:7px 11px; font-size:12px;
+  color:var(--ink-dim); list-style:none;}
+.buildnote>summary::-webkit-details-marker{display:none;}
+.buildnote>summary::before{content:"▸ "; color:var(--ink-faint);}
+.buildnote[open]>summary::before{content:"▾ ";}
+.buildnote>p{direction:ltr; text-align:left;
+  font-family:"IBM Plex Mono",monospace; font-size:11px; line-height:1.55;
+  color:var(--ink-faint); padding:0 11px 9px; margin:0;}
+.akn-heading.filename{direction:ltr; text-align:left;
+  font-family:"IBM Plex Mono",monospace; font-size:12px; font-weight:500;
+  color:var(--ink-dim); margin:0 0 4px;}
+.nocontent{border:1px dashed var(--rule); border-radius:6px; padding:22px 24px;
+  color:var(--ink-dim); font-size:14px; max-width:60ch;}
+.nocontent p{margin:0 0 8px;}
+table{border-collapse:collapse; font-size:13.5px;}
+/* One rhythm for every table in the corpus. The row height used to follow
+   whatever the cells happened to hold, so a grid of salaries and a grid of
+   weekly hours — the same object to a reader — came out with different row
+   heights and wildly different column widths, purely because one had long
+   words in its header. A minimum column width stops an empty column from
+   collapsing to a sliver, and a label cell wraps instead of stretching its
+   column to fit "מדריך מקצועי מוסמך בפועל". */
+th,td{border:1px solid var(--rule); padding:6px 10px; text-align:center;
+  font-variant-numeric:tabular-nums; line-height:1.45;
+  min-width:3.4em; vertical-align:middle;}
+th,.table-wrap tr.lbl>td{max-width:14ch; overflow-wrap:anywhere;}
+/* A cell's paragraph is not a paragraph of the document: it carried the
+   body's 8px bottom margin, so every row of a table whose cells came from
+   prose stood ~8px taller than the same row in a table built from a CSV,
+   where the cell is bare text. That was the last thing making two tables of
+   one kind look unalike. */
+th>.akn-p,td>.akn-p{margin:0; font:inherit; line-height:inherit;}
+/* An unpriced cell, recessed. Every salary table in the corpus is a triangle
+   — a darga starts at a vetek and has nothing below it — so a third of a
+   grid is legitimately blank, and blank-on-white read as a table that had
+   failed to load rather than one whose page prints no value there. */
+.table-wrap td.e{background:var(--sunk);}
+/* A header cell is BOLD, not a coloured band. Only the CSV-derived tables
+   know which row is a header — a reconstructed grid never promotes one,
+   because the printed labels sit a column off their values — so a filled
+   band made the same salary grid look like two different kinds of table
+   depending on which source it came from. */
+/* One look for a label, whichever way the table was recovered: a <th> from a
+   verified CSV or a transcription, and the leading label band of a grid
+   reconstructed from a PDF, which the XML deliberately does not call a
+   header. */
+th,.table-wrap tr.lbl>td{font-weight:600; color:var(--ink);}
+.table-wrap tr:first-child>th,.table-wrap tr.lbl.last>td{
+  border-bottom:2px solid var(--rule);}
+.eid{direction:ltr; text-align:left; font-size:10px; color:var(--ink-faint);
+  opacity:0; transition:opacity .12s;}
+.akn-article:hover .eid,.akn-paragraph:hover>.eid{opacity:1;}
+.akn-preamble{padding:0 0 10px; border-bottom:1px solid var(--rule-soft);
+  margin-bottom:8px;}
+.akn-conclusions{border-top:1px solid var(--rule-soft); margin-top:12px;
+  padding-top:14px; color:var(--ink-dim);}
+/* The recital chain and the enacting formula that closes it. Set apart from
+   the letterhead above them because they ARE a distinct part of the
+   instrument, not because they are decorative. */
+/* ---- the masthead ----
+   The opening of an agreement is not body prose and should not be set as
+   it: at one full-width paragraph per line, single words like "בין" and
+   "מצד אחד" each took a paragraph and a gap, and the registration stamp
+   read as a sentence of the instrument. Narrower measure, tighter leading,
+   and each part set according to what it is. */
+.akn-preamble{max-width:62ch; margin:0 auto 6px; padding-bottom:14px;
+  border-bottom:1px solid var(--rule-soft);}
+.akn-preamble .akn-p{margin:0 0 5px; max-width:none;}
+/* The line where the instrument names itself. Marked by WHAT IT SAYS, not by
+   being first: two documents open with something else — a registry stamp,
+   and a fax whose text layer is bidi-wreckage — and both were being set in
+   19px bold as though the mangling were a title. */
+.akn-preamble .role-title{text-align:center; font-size:19px;
+  font-weight:600; letter-spacing:.01em; margin:0 0 12px;}
+/* The registry stamp: an artefact stamped ONTO the page, not a clause of
+   it. Boxed and small, the way it sits on the paper. */
+/* A letterhead or running footer the source prints on every page. It is on
+   the page, so it is kept, but it is typography rather than a clause and is
+   set apart so it does not read as something the document says. */
+.role-running-head{font-size:12px; color:var(--ink-faint);
+  border-top:1px solid var(--rule-soft); padding-top:6px; margin-top:14px;}
+.role-running-head .akn-p{font-size:inherit; color:inherit;}
+.akn-preamble .role-registration{border:1px solid var(--rule);
+  border-radius:5px; background:var(--sunk); padding:7px 10px;
+  margin:0 0 12px; font-size:11.5px; line-height:1.6; color:var(--ink-dim);}
+.akn-preamble .role-registration .akn-p{margin:0; font-family:inherit;
+  font-size:inherit;}
+/* "בין" / "מצד אחד" — the document's own delimiters for its parties. They
+   label the block that follows; they are not sentences. */
+.akn-preamble .role-party-marker{margin:10px 0 2px; font-size:11px;
+  letter-spacing:.14em; color:var(--ink-faint); font-weight:600;}
+.akn-preamble .role-party-marker .akn-p{margin:0; font-size:inherit;
+  letter-spacing:inherit; font-family:"IBM Plex Sans",sans-serif;}
+/* "(להלן: …)" — the defined short name, an aside to the party above it. */
+.akn-preamble .role-aside{margin:0 0 4px; color:var(--ink-dim);
+  font-size:13px;}
+.akn-preamble .role-aside .akn-p{margin:0; font-size:inherit;}
+.akn-recitals{margin:14px 0 0; padding-right:14px;
+  border-right:2px solid var(--rule-soft);}
+.akn-recital{margin:0 0 6px;}
+.akn-recital .akn-p{margin:0;}
+.akn-formula{margin:14px 0 2px; font-weight:600; text-align:center;}
+.akn-formula .akn-p{margin:0; max-width:none;}
+.akn-attachment{border-top:2px solid var(--rule); margin-top:22px;
+  padding-top:16px; scroll-margin-top:14px;}
+.akn-attachment>.akn-heading{font-size:20px; font-weight:600;}
+
+/* ---------------- index landing ---------------- */
+.stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+  gap:12px; padding:22px 26px 6px;}
+.stat{border:1px solid var(--rule); border-radius:6px; padding:12px 14px;
+  background:var(--raised);}
+.stat .n{font-size:23px; font-weight:600; font-variant-numeric:tabular-nums;
+  display:block; line-height:1.1;}
+.stat .l{font-size:10.5px; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--ink-faint); margin-top:4px; display:block;}
+.stat .d{font-size:11.5px; color:var(--ink-dim); margin-top:6px;
+  line-height:1.4;}
+.prose-note{padding:14px 26px 40px; max-width:76ch; font-size:13.5px;
+  color:var(--ink-dim);}
+.prose-note h2{font-size:12px; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--ink-faint); margin:22px 0 8px;}
+.empty{color:var(--ink-faint); padding:26px;}
+.landing{padding:26px; max-width:860px;}
+.landing h2{font-size:13px; letter-spacing:.07em; text-transform:uppercase;
+  color:var(--ink-faint); margin:0 0 12px; font-weight:600;}
+.recent-h{font-size:12px; letter-spacing:.07em; text-transform:uppercase;
+  color:var(--ink-faint); margin:30px 0 10px; font-weight:600;}
+table.recent{border-collapse:collapse; width:100%;}
+table.recent{table-layout:fixed;}
+table.recent td{border:none; border-bottom:1px solid var(--rule-soft);
+  padding:8px 10px 8px 0; font-size:13.5px; vertical-align:middle;
+  text-align:start;}
+table.recent td.d{color:var(--ink-faint); font-variant-numeric:tabular-nums;
+  white-space:nowrap; width:86px; text-align:start;}
+table.recent td.k{color:var(--ink-faint); white-space:nowrap; width:120px;}
+table.recent a{color:var(--ink); text-decoration:none;
+  unicode-bidi:plaintext;}
+table.recent a:hover{color:var(--accent); text-decoration:underline;}
+table.recent a.slug{color:var(--ink-dim);}
+.lede{font-size:14px; color:var(--ink-dim); max-width:68ch; line-height:1.65;}
+kbd{font-family:"IBM Plex Mono",monospace; font-size:11.5px;
+  border:1px solid var(--rule); border-radius:3px; padding:1px 5px;
+  background:var(--sunk);}
+details.tech{margin-top:7px;}
+details.tech>summary{cursor:pointer; font-size:11px; color:var(--ink-faint);
+  letter-spacing:.05em; text-transform:uppercase; list-style:none;}
+details.tech>summary::-webkit-details-marker{display:none;}
+details.tech>summary::before{content:"▸ ";}
+details.tech[open]>summary::before{content:"▾ ";}
+.notice.off{background:var(--sunk); color:var(--ink-dim);}
+.folder li a .nm.slug{color:var(--ink-faint);}
+.folder li a .nm.he{font-family:"Frank Ruhl Libre",serif; direction:rtl;
+  text-align:right; font-size:13.5px;}
+
+/* ---------------- phone ---------------- */
+/* The rail is a DRAWER below this width. Stacked above the document it took
+   the whole first screen, so every page opened on a list of other documents
+   and the one you asked for started below the fold. */
+.navbtn{display:none; font:inherit; font-size:13px; cursor:pointer;
+  padding:8px 13px; border:1px solid var(--rule); border-radius:6px;
+  background:var(--paper); color:var(--ink-dim); flex:none;}
+.scrim{display:none;}
+@media (max-width:900px){
+  /* height:100% would force both stacked rows into one viewport and crush
+     the rail to a sliver. */
+  html,body{height:auto;}
+  body{grid-template-columns:minmax(0,1fr);}
+  /* An app bar: the drawer button and the pager share the first line, the
+     title takes the second. Left to wrap on their own they made three. */
+  .navbtn{display:block; order:-2;}
+  .topbar>.pager{order:-1; margin-inline-start:auto;}
+  /* :not(.pager) — the pager is a div too, so a bare `.topbar>div` gave it a
+     100% basis and a line of its own, which is the three-row bar again. */
+  .topbar>div:not(.pager){flex:1 1 100%; order:1;}
+  .spine{position:fixed; inset:0; z-index:60; height:100dvh; max-height:none;
+    width:min(86vw,420px); inset-inline-end:auto;
+    border-inline-end:1px solid var(--rule); box-shadow:0 0 40px #0003;
+    transform:translateX(-102%); transition:transform .18s ease;}
+  html[dir="rtl"] .spine{transform:translateX(102%);}
+  body.nav-open .spine,html[dir="rtl"] body.nav-open .spine{
+    transform:translateX(0);}
+  .tree{max-height:none;}
+  body.nav-open .scrim{display:block; position:fixed; inset:0; z-index:55;
+    background:#0006;}
+  /* Room for a thumb, and a measure a phone can hold. */
+  .work{padding:14px 14px 60px; gap:16px;}
+  .topbar{padding:11px 14px; gap:10px; align-items:center;}
+  .topbar h1{font-size:16px;}
+  .topbar h1.he{font-size:18px;}
+  .landing{padding:16px;}
+  .folder li a{padding:9px 8px;}
+  .pager a{padding:8px 12px;}
+  .akn-p{font-size:16px; line-height:1.75;}
+  .akn-article,.akn-chapter,.akn-section{padding-inline-start:36px;}
+  .akn-article>.akn-num,.akn-chapter>.akn-num,.akn-section>.akn-num{
+    width:30px;}
+  .akn-paragraph,.akn-subparagraph,.akn-clause{padding-inline-start:26px;}
+  .akn-paragraph>.akn-num,.akn-subparagraph>.akn-num,.akn-clause>.akn-num{
+    width:22px;}
+  /* The section index is a block to scroll PAST on a phone, so it is capped
+     and scrolls in place rather than pushing the document off the screen. */
+  .toc{position:static; max-height:34vh; overflow:auto; padding:10px 12px;
+    border:1px solid var(--rule-soft); border-radius:6px;
+    background:var(--raised);}
+  .akn-preamble{max-width:none;}
+  /* The landing page's "recent documents" list is a three-column table with
+     fixed 86px and 120px columns, which on a phone squeezed every title into
+     a fifth of the width and wrapped it to five lines. On a narrow screen it
+     stops being a table and becomes a list: date and kind on one line, the
+     title under them. */
+  table.recent,table.recent tbody,table.recent tr,table.recent td{
+    display:block; width:auto;}
+  table.recent tr{border-bottom:1px solid var(--rule-soft); padding:10px 0;}
+  table.recent td{border:none; padding:0;}
+  table.recent td.d,table.recent td.k{display:inline-block; width:auto;
+    font-size:11.5px;}
+  /* A separator, not a margin: the date is an LTR run and the kind an RTL
+     one, so they sat against each other — "29.6.2026הסכמים קיבוציים". */
+  table.recent td.k::before{content:"·"; margin:0 7px; color:var(--ink-faint);}
+  table.recent td:last-child{margin-top:3px; font-size:15px; line-height:1.5;}
+  .recent-h{margin-top:22px;}
+}
+@media (prefers-reduced-motion:reduce){.spine{transition:none;}}

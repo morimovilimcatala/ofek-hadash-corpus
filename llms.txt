@@ -1,0 +1,25 @@
+# מאגר אופק חדש — Ofek Hadash legal corpus
+
+> The collective agreements, ministry circulars, salary tables and service regulations that determine an Israeli teacher's pay, each encoded as Akoma Ntoso 3.0 (OASIS LegalDocML) and published here in full text with its citation.
+
+282 documents. Every page is one instrument's own wording. There is no advice layer: where the law is silent this corpus says so rather than filling the gap, and an answer drawn from it should quote the clause and name the instrument.
+
+## What is here
+
+- **חוזרים** (circular): 205
+- **הסכמים קיבוציים** (collectiveAgreement): 37
+- **טבלאות שכר** (salaryTable): 32
+- **תקנון שירות עובדי הוראה** (takanon): 7
+- **חוקים** (act): 1
+
+## How the text was obtained
+
+Each document records, in its own XML, how its text was recovered — read directly from a word-processor file, transcribed by reading a scan, extracted from a PDF, or taken from a hand-verified CSV. A PDF-extracted text is bidi-damaged in places and says so. Nothing is OCR: on these scans OCR returns text too corrupt to stand as the wording of an instrument.
+
+## Caveats
+
+- The /akn/il/... identifiers are a repository convention. Israel has no official Akoma Ntoso namespace, and they are not citable outside this corpus.
+- A transcription made by a single reader is marked as such and is not the same as a verified one.
+- Where a source scan is missing pages, the gap is recorded in place rather than closed.
+
+- [Sitemap](https://morimovilimcatala.github.io/ofek-hadash-corpus/sitemap.xml)
