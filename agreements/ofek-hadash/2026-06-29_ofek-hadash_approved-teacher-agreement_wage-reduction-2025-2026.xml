@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <act name="collectiveAgreement" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2026-06-29/2026-06-29-ofek-hadash-approved-teacher-agreement-wage-reduction-2025-2026/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2026-06-29/2026-06-29-ofek-hadash-approved-teacher-agreement-wage-reduction-2025-2026" />
+          <FRBRdate date="2026-06-29" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRauthor href="#mof" as="#author" />
+          <FRBRauthor href="#state-israel" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="collectiveAgreement" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2026-06-29/2026-06-29-ofek-hadash-approved-teacher-agreement-wage-reduction-2025-2026/heb@/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2026-06-29/2026-06-29-ofek-hadash-approved-teacher-agreement-wage-reduction-2025-2026/heb@" />
+          <FRBRdate date="2026-06-29" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRauthor href="#mof" as="#author" />
+          <FRBRauthor href="#state-israel" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2026-06-29/2026-06-29-ofek-hadash-approved-teacher-agreement-wage-reduction-2025-2026/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2026-06-29/2026-06-29-ofek-hadash-approved-teacher-agreement-wage-reduction-2025-2026/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2026-06-29" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
+        <TLCTerm eId="term_0b1844ff" href="/ontology/term/il/0b1844ff" showAs="הסכם קיבוצי מאושר" />
+        <TLCTerm eId="term_2db30064" href="/ontology/term/il/2db30064" showAs="עובדי הוראה" />
+        <TLCTerm eId="term_3689facd" href="/ontology/term/il/3689facd" showAs="הסכם קיבוצי" />
+        <TLCTerm eId="term_4e3b0fc3" href="/ontology/term/il/4e3b0fc3" showAs="משכורת" />
+        <TLCTerm eId="term_6212c8fd" href="/ontology/term/il/6212c8fd" showAs="הסתדרות המורים" />
+        <TLCTerm eId="term_96274e64" href="/ontology/term/il/96274e64" showAs="החוק" />
+        <TLCTerm eId="term_9c553b17" href="/ontology/term/il/9c553b17" showAs="עובד הוראה" />
+        <TLCTerm eId="term_c94fec6f" href="/ontology/term/il/c94fec6f" showAs="הסכם" />
+        <TLCTerm eId="term_c99a53b0" href="/ontology/term/il/c99a53b0" showAs="תשלום עבור פעילויות בית ספריות" />
+        <TLCTerm eId="term_db95b0d7" href="/ontology/term/il/db95b0d7" showAs="הפחתת קצובת ביגוד 2025" />
+        <TLCTerm eId="term_ddf2350a" href="/ontology/term/il/ddf2350a" showAs="המדינה" />
+        <TLCTerm eId="term_efe1378d" href="/ontology/term/il/efe1378d" showAs="עובדים" />
+        <TLCTerm eId="term_f4ac77cd" href="/ontology/term/il/f4ac77cd" showAs="הבסיס הקובע" />
+        <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל, בשם מדינת ישראל" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCRole eId="role-mankal-chinuch-m" href="/ontology/role/il/mankal-chinuch-m" showAs="מנכ&quot;ל משרד החינוך" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCPerson eId="p_9a95b8ac" href="/ontology/person/il/9a95b8ac" showAs="אפרים מלכין" />
+        <TLCPerson eId="p_d1bfb07f" href="/ontology/person/il/d1bfb07f" showAs="יפה בן-דויד" />
+        <TLCPerson eId="p_4a7c0e08" href="/ontology/person/il/4a7c0e08" showAs="מאיר שמעוני" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="paired">Structure from the PDF text layer, prose from a clean transcription beside it, aligned article by article (each &lt;article&gt; carries its alignment score as repo:score).</repo:prose>
+          <repo:date precision="day">the document's own date, from the filename</repo:date>
+          <repo:source path="law/agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.pdf" sha256="41e4fd9a6afabec66b2a78bffe0a1022d5c16a64aebfd458f6e559c9bda1eb61" transcription="reference/2026-06-29-approved-teacher-agreement-text.txt" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>הסכם קיבוצי מאושר — הפחתת שכר 2025-2026, כקבוע בחוק</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p repo:role="title">הסכם קיבוצי</p>
+      <p>שנערך ונחתם ביום <date date="2026-06-29">29 ביוני 2026</date>
+      </p>
+      <p>בין: <party eId="party_1" refersTo="#state">ממשלת ישראל</party>, בשם <party eId="party_2" refersTo="#state-israel">מדינת ישראל</party>, המיוצגת על-ידי <role eId="rol_3" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_4" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_1" refersTo="#p_9a95b8ac">אפרים מלכין</person> ועל ידי מר <person eId="pers_2" refersTo="#p_4a7c0e08">מאיר שמעוני</person>, <role eId="rol_5" refersTo="#role-mankal-chinuch-m">מנכ"ל משרד החינוך</role>;</p>
+      <p repo:role="aside">(להלן: "<def refersTo="#term_ddf2350a">המדינה</def>") — מצד אחד</p>
+      <p>ובין: <party eId="party_3" refersTo="#histadrut-hamorim">הסתדרות המורים</party> בישראל, המיוצגת על-ידי המזכירה הכללית, גב' <person eId="pers_3" refersTo="#p_d1bfb07f">יפה בן-דויד</person>;</p>
+      <p repo:role="aside">(להלן: "<def refersTo="#term_6212c8fd">הסתדרות המורים</def>") — מצד שני</p>
+      <recitals eId="recitals_1">
+        <recital eId="rec_1">
+          <p>הואיל: וכחלק מתקציב המדינה לשנת 2025 גובשה תוכנית כלכלית שמטרתה לאפשר התמודדות עם המצב הכלכלי במדינה, על רקע ההוצאות התקציביות הנרחבות הנובעות ממצב המלחמה בו נתונה המדינה מיום <date date="2023-10-07">7.10.2023</date>. במסגרת זו נחקק חוק להשתתפותם של העובדים ובעלי תפקיד בשירות הציבורי, בצעדים לייצוב פיסקלי במדינה במהלך השנים 2025 ו-2026 (הוראת שעה), התשפ"ה-2025 (להלן: "<def refersTo="#term_96274e64">החוק</def>");</p>
+        </recital>
+      </recitals>
+      <recitals eId="recitals_2">
+        <recital eId="rec_2">
+          <p>והואיל: ובמסגרת החוק נקבע, בין היתר, כי בתקופות המוגדרות בחוק תופחת משכורתו של עובד, בהתאם להוראות שנקבעו בהסכם קיבוצי החל עליו, שיאושר לעניין זה על ידי שר האוצר או על ידי <role eId="rol_7" refersTo="#role-memuneh-sachar">הממונה על השכר</role> (להלן — "<def refersTo="#term_0b1844ff">הסכם קיבוצי מאושר</def>");</p>
+        </recital>
+      </recitals>
+      <recitals eId="recitals_3">
+        <recital eId="rec_3">
+          <p>והואיל: ונקבע בהוראות החוק, כי בהעדר הסכם קיבוצי מאושר כאמור לעיל, תתבצע הפחתת שכר, כקבוע בחוק;</p>
+        </recital>
+      </recitals>
+      <recitals eId="recitals_4">
+        <recital eId="rec_4">
+          <p>והואיל: וביום <date date="2025-05-19">19.5.2025</date> תוקן החוק והוארכה התקופה לחתימה על הסכם קיבוצי מאושר;</p>
+        </recital>
+      </recitals>
+      <recitals eId="recitals_5">
+        <recital eId="rec_5">
+          <p>והואיל: והצדדים ניהלו משא ומתן והגיעו להסכמות, שישתכללו להסכם קיבוצי מאושר, זאת במטרה לעמוד במסגרת הכלכלית לשנת 2025 ולהגיע לסכום החסכון הנדרש, כהגדרתו בחוק;</p>
+        </recital>
+      </recitals>
+      <formula name="enactingFormula">
+        <p>לפיכך הוצהר, הותנה והוסכם בין הצדדים כדלקמן:</p>
+      </formula>
+    </preamble>
+    <body>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <heading>הוראות כלליות</heading>
+        <content>
+          <p>המבוא להסכם זה ונספחיו מהווה חלק בלתי נפרד ממנו.</p>
+        </content>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <content>
+          <p>בכל מקום בהסכם זה בו דובר בלשון זכר, הכוונה גם ללשון נקבה או להיפך, אלא אם כן צוין אחרת במפורש.</p>
+        </content>
+      </article>
+      <article eId="art_3" repo:prose="same-source">
+        <num>3</num>
+        <content>
+          <p>בכל מקום בו דובר בלשון יחיד הכוונה בלשון רבים או להיפך, אלא אם צוין אחרת במפורש.</p>
+        </content>
+      </article>
+      <article eId="art_4" repo:prose="same-source">
+        <num>4</num>
+        <content>
+          <p>אין באזכור הסדר, נוהל, הוראה, חוזר, מכתב, או כל הוראה מינהלית אחרת בהסכם זה, לרבות כללים או הנחיות, כדי לשנות ממעמדם הנורמטיבי.</p>
+        </content>
+      </article>
+      <article eId="art_5" repo:prose="same-source">
+        <num>5</num>
+        <content>
+          <p>כותרות ההסכם הן לשם הנוחות בלבד ואין ללמוד מהן לעניין פרשנותו.</p>
+        </content>
+      </article>
+      <article eId="art_6" repo:prose="same-source">
+        <num>6</num>
+        <heading>תחולה</heading>
+        <content>
+          <p>הסכם זה יחול על כל העובדים המועסקים בשירות המדינה, <organization eId="org_8" refersTo="#moe">במשרד החינוך</organization>, המדורגים בדירוג עובדי הוראה, המועסקים במוסדות החינוך, כהגדרתם <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם הקיבוצי בעניין רפורמת אופק חדש מיום 25.12.2008</ref>, כפי שתוקן מעת לעת, או באולפנים, בתנאי <concept eId="con_9" refersTo="#reform_ofek">אופק חדש</concept> וכן על עובדי הוראה בשירות המדינה, <organization eId="org_10" refersTo="#moe">במשרד החינוך</organization>, המדורגים בדירוג עובדי הוראה, המועסקים בתפקידי הדרכה בתנאי <concept eId="con_11" refersTo="#reform_ofek">אופק חדש</concept> (לגבי חלק המשרה בו הם מועסקים בהדרכה) (להלן בהסכם זה: <def refersTo="#term_efe1378d">עובדים</def>, <def refersTo="#term_2db30064">עובדי הוראה</def>, <def refersTo="#term_9c553b17">עובד הוראה</def>).</p>
+        </content>
+      </article>
+      <article eId="art_7" repo:prose="same-source">
+        <num>7</num>
+        <content>
+          <p>למען הסר ספק מובהר כי הסכם זה לא יחול על המפורטים להלן: עובדי הוראה</p>
+          <p>המועסקים במכללות להכשרת עובדי הוראה ועובדים המדורגים בדירוג עובדי הוראה המועסקים בשירות המדינה בתפקידי פיקוח ומטה.</p>
+        </content>
+      </article>
+      <article eId="art_8" repo:prose="same-source">
+        <num>8</num>
+        <heading>הפחתות שכר 2025-2026</heading>
+        <intro>
+          <p>בהסכם קיבוצי זה —</p>
+          <p>"<def refersTo="#term_f4ac77cd">הבסיס הקובע</def>" — משכורת, למעט כל אחד מאלה:</p>
+        </intro>
+        <paragraph eId="art_8__para_a">
+          <num>(א)</num>
+          <content>
+            <p>תשלומים שאינם משולמים על בסיס חודשי, שבועי או יומי ואינם מחושבים על בסיס רכיבי שכר אחרים;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>דמי הבראה וקצובת ביגוד או תשלומים אחרים הדומים להם במהותם אף אם כינויים שונה;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>החזר הוצאות;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>גילום חלק מהמס החל על העובד אשר משולם בידי המעסיק;</p>
+            <p>"<def refersTo="#term_c94fec6f">הסכם</def>" — הסכם קיבוצי, צו הרחבה כמשמעותו בחוק הסכמים קיבוציים, הסדר קיבוצי לרבות הסדר חד צדדי, נוהג, הוראת מינהל, או חוזה עבודה אישי לרבות חוזה מיוחד לפי סעיף 40 לחוק שירות המדינה (מינויים), התשי"ט-1959;</p>
+            <p>"<def refersTo="#term_3689facd">הסכם קיבוצי</def>" — הסכם קיבוצי כללי או הסכם קיבוצי מיוחד כמשמעותם בחוק הסכמים קיבוציים;</p>
+            <p>"<def refersTo="#term_4e3b0fc3">משכורת</def>" — הכנסת עבודה כמשמעותה בסעיף 2(2) לפקודת מס הכנסה, שניתנת בכסף;</p>
+            <p>"קופת גמל לקצבה" ו"קרן השתלמות" — בהגדרתן בחוק הפיקוח על שירותים פיננסיים (קופות גמל), תשס"ה-2005;</p>
+            <p>"<def refersTo="#term_c99a53b0">תשלום עבור פעילויות בית ספריות</def>" — תשלום לעובד הוראה בגין פעילויות בית ספריות או פעילויות גן, בהגדרתן <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש מיום 25.12.2008</ref> ובהסכם בעלי תפקידים וגננות מיום [לא קריא ב-OCR], כפי שתוקנו <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">בהסכם הקיבוצי מיום 19.10.2022</ref>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_9" repo:prose="same-source">
+        <num>9</num>
+        <intro>
+          <p>מוסכם, כי על אף האמור בכל הסכם, תופחת משכורתו של עובד הוראה בהתאם למפורט להלן:</p>
+        </intro>
+        <paragraph eId="art_9__para_a">
+          <num>א.</num>
+          <content>
+            <p>בתקופה שמיום <date date="2025-05-01">1.5.2025</date> ועד יום <date date="2025-12-31">31.12.2025</date> או בעדה — בשיעור של <quantity eId="qty_1" refersTo="#percentage" normalized="0.95">0.95%</quantity> מהבסיס הקובע;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_b">
+          <num>ב.</num>
+          <content>
+            <p>בתקופה שמיום <date date="2026-01-01">1.1.2026</date> ועד יום <date date="2026-12-31">31.12.2026</date> או בעדה — בשיעור של <quantity eId="qty_2" refersTo="#percentage" normalized="1.2">1.2%</quantity> מהבסיס הקובע.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_10" repo:prose="same-source">
+        <num>10</num>
+        <content>
+          <p>הפחתת המשכורת כאמור תבוצע החל ממשכורת חודש מאי 2025 המשולמת בחודש יוני 2025.</p>
+        </content>
+      </article>
+      <article eId="art_11" repo:prose="same-source">
+        <num>11</num>
+        <content>
+          <p>מובהר למען הסר ספק, כי לגבי עובד הוראה שהעסקתו תחל לאחר חודש מאי 2025, הפחתת השכר תעשה בעד התקופה שמתחילת העסקתו.</p>
+        </content>
+      </article>
+      <article eId="art_12" repo:prose="same-source">
+        <num>12</num>
+        <content>
+          <p>למען הסר ספק יופחת בשיעור כאמור בסעיף <ref href="#art_9">9</ref>.א. לעיל ובשיעור כאמור בסעיף <ref href="#art_9">9</ref>.ב.</p>
+          <p>לעיל, לפי העניין, גם הבסיס לחישוב הסכומים המשולמים בעד עובד ההוראה לקרן השתלמות.</p>
+        </content>
+      </article>
+      <article eId="art_13" repo:prose="same-source">
+        <num>13</num>
+        <content>
+          <p>למען הסר ספק, מובהר כי ההפחתה הקבועה בסעיף <ref href="#art_9">9</ref> לעיל לא תחול לגבי סכומים שישולמו בתקופה האמורה בסעיף 9.א לעיל או בתקופה האמורה בסעיף 9.ב. לעיל, בעד תקופה שקדמה לחודש מאי 2025. כן מובהר כי לגבי תשלומים שישולמו בתקופה האמורה בסעיף 9.א לעיל או בתקופה האמורה בסעיף 9.ב. לעיל, בעד חודש אפריל 2025, תחול ההפחתה הקבועה בסעיף 3 לחוק.</p>
+        </content>
+      </article>
+      <article eId="art_14" repo:prose="same-source">
+        <num>14</num>
+        <content>
+          <p>על אף האמור בסעיף <ref href="#art_9">9</ref> לעיל, לגבי עובד הוראה אשר זכאי לתשלום עבור פעילויות בית ספריות במשכורת חודש דצמבר 2025, יחול האמור להלן:</p>
+          <p repo:note="continuation">[המשך הסעיף בראש עמ' 4 — ברובו לא קריא ב-OCR; ההקשר: הסדר מיוחד לתשלום פעילויות בית ספריות בתקופת החודשים ספטמבר-דצמבר 2025]</p>
+        </content>
+      </article>
+      <article eId="art_15" repo:prose="same-source">
+        <num>15</num>
+        <content>
+          <p>מובהר כי לא יחול שינוי, בשל הסכם זה, בכללים החלים לעניין הכרה בוותק לצורך התקדמות בוותק בטבלת השכר של עובדי ההוראה.</p>
+        </content>
+      </article>
+      <article eId="art_16" repo:prose="same-source">
+        <num>16</num>
+        <content>
+          <p>על אף האמור בסעיף <ref href="#art_15">15</ref> לעיל ובכל הסכם אחר, לגבי עובד הוראה אשר זכאי לקידום בוותק בטבלת השכר של עובדי ההוראה, במשכורת חודש ספטמבר 2025, תופחת משכורתו בסכום השווה לעליה במשכורת לה הוא זכאי בשל קידום בוותק כאמור, וזאת במשכורות המשולמות החל במשכורת חודש ספטמבר כאמור ועד חודש דצמבר 2025 (כולל).</p>
+        </content>
+      </article>
+      <article eId="art_17" repo:prose="same-source">
+        <num>17</num>
+        <content>
+          <p>הסכום הכולל של ההפחתות המפורטות בסעיפים <ref href="#art_9">9</ref> עד <ref href="#art_16">16</ref> לעיל יופיע בשורה אחת</p>
+          <p>בתלוש המשכורת של עובד ההוראה, ויכונה "חוק הת. כלכלית אופק".</p>
+        </content>
+      </article>
+      <article eId="art_18" repo:prose="same-source">
+        <num>18</num>
+        <heading>סייג לעניין תשלומים שונים</heading>
+        <intro>
+          <p>הפחתות השכר המפורטות בסעיפים <ref href="#art_9">9</ref> עד <ref href="#art_16">16</ref> לעיל, לא תבואנה בחשבון בעניינים</p>
+          <p>המפורטים להלן, והתשלומים המפורטים להלן יהיו בסכומים שהיו מחושבים אלמלא הוראות סעיפים אלו, דהיינו כאילו שולמו במועדם וללא ההפחתה:</p>
+        </intro>
+        <paragraph eId="art_18__para_1">
+          <num>(1)</num>
+          <content>
+            <p>תשלום חד פעמי המשולם לעובד או לשאיריו, לפי דין או הסכם, עקב סיום עבודה, לפי העניין;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_2">
+          <num>(2)</num>
+          <content>
+            <p>הסכום המשולם לקופת גמל לקצבה בעד עובד;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_3">
+          <num>(3)</num>
+          <content>
+            <p>המשכורת הקובעת לחישוב תשלומי עובדים בפנסיה תקציבית לפי סעיף 89 לחוק התכנית להבראת כלכלת ישראל (תיקוני חקיקה להשגת יעדי התקציב והמדיניות הכלכלית לשנות הכספים 2003 ו-2004), התשס"ג-2003;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_4">
+          <num>(4)</num>
+          <content>
+            <p>תשלומי פנסיה תקציבית, המשולמת על פי דין או הסכם;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_5">
+          <num>(5)</num>
+          <content>
+            <p>תשלומי גישור או סכום תוספת לקצבה הנרכש מקופת גמל לקצבה או ממבטח בעד העובד במימון מלא של המעסיק. לעניין זה תשלומי גישור — תשלומים המשולמים מדי חודש באופן רציף לפי הסכם, מקופת המעסיק, מקופת גמל לקצבה או ממבטח למי שפרש מעבודתו בעד התקופה שממועד פרישתו מעבודה עד המועד שבו הוא זכאי לתשלומי קצבה מקופת גמל לקצבה;</p>
+            <p>גמול תפקיד בית ספרי (סעיף 22 <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי מיום 19.10.2022</ref>) — גמול חדש</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_19" repo:prose="same-source">
+        <num>19</num>
+        <content>
+          <p>בסעיף 22.1 להסכם הקיבוצי שנחתם בין הצדדים ביום <date date="2022-10-19">19.10.2022</date>, במקום "החל בשנת הלימודים תשפ"ו (המתחילה ביום <date date="2025-09-01">1.9.2025</date>)", יבוא: "החל בשנת הלימודים תשפ"ז (המתחילה ביום [<date date="2026-09-01">1.9.2026</date>])".</p>
+        </content>
+      </article>
+      <article eId="art_20" repo:prose="same-source">
+        <num>20</num>
+        <heading>קצובת ביגוד לשנת 2025</heading>
+        <intro>
+          <p>על אף האמור בכל הסכם אחר, במשכורת בה משולמת לעובד הוראה קצובת הביגוד, בגין שנת הלימודים תשפ"ה בלבד, תבוצע הפחתה חד פעמית ממשכורתו של עובד ההוראה כדלהלן:</p>
+        </intro>
+        <paragraph eId="art_20__para_a">
+          <num>א.</num>
+          <subparagraph eId="art_20__para_a__subpara_1">
+            <num>(1)</num>
+            <intro>
+              <p>לעובד הוראה המועסק במשרה מלאה — סכום השווה לסך של שני אלה:</p>
+            </intro>
+            <clause eId="art_20__para_a__subpara_1__cls_a">
+              <num>(א)</num>
+              <content>
+                <p>ההפרש בין סכום קצובת הביגוד לו זכאי עובד הוראה בשנת הלימודים תשפ"ה כולל הצמדה למדד המחירים לצרכן, לבין סכום קצובת הביגוד לו זכאי עובד ההוראה לשנת הלימודים תשפ"ה, ללא הצמדה למדד המחירים לצרכן;</p>
+              </content>
+            </clause>
+            <clause eId="art_20__para_a__subpara_1__cls_b">
+              <num>(ב)</num>
+              <content>
+                <p>סכום של <quantity eId="qty_3" refersTo="#ILS" normalized="91">91 ₪</quantity>.</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_20__para_a__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>לעובד הוראה המועסק במשרה חלקית או בחלק משנת הלימודים תשפ"ה — החלק היחסי של הסכום האמור ב<ref href="#art_20__para_a">סעיף קטן (א)</ref>(1), בהתאם לחלקיות המשרה או לתקופת עבודתו בשנת הלימודים תשפ"ה, אשר לפיה משולמת לו קצובת הביגוד.</p>
+              <p>(להלן: <def refersTo="#term_db95b0d7">הפחתת קצובת ביגוד 2025</def>).</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_20__para_b">
+          <num>ב.</num>
+          <content>
+            <p>יובהר, כי לא יחול שינוי כלשהו בחישוב קצובת הביגוד לשנת הלימודים תשפ"ו ואילך בשל הוראות סעיף זה, וכי חישוב קצובת הביגוד לשנת הלימודים תשפ"ו ואילך, יכלול גם את עדכון קצובת הביגוד לשנת תשפ"ה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_20__para_c">
+          <num>ג.</num>
+          <content>
+            <p>לגבי הפחתת קצובת ביגוד 2025 יחולו הוראות סעיף <ref href="#art_18">18</ref> לעיל.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_20__para_d">
+          <num>ד.</num>
+          <content>
+            <p>הפחתת קצובת הביגוד 2025 תיכלל באותה שורה בתלוש השכר כמפורט בסעיף <ref href="#art_17">17</ref> לעיל.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_21" repo:prose="same-source">
+        <num>21</num>
+        <heading>גמולי שילוב ופיצול בשנת 2026</heading>
+        <intro>
+          <p>הואיל והוסכם כי תשלום גמול פיצול וגמול שילוב בשנת הלימודים תשפ"ו ובחודשים ספטמבר 2026 עד דצמבר 2026 יוקפא וזאת עד למציאת מקור תקציבי חלופי, ככל שיימצא בהתאם לסעיף קטן ג. להלן; והואיל והוסכם כי במהלך שנת הלימודים תשפ"ו תתקיים הידברות בין הצדדים כדי למצוא מקור תקציבי חלופי למימון גמול שילוב וגמול פיצול עבור התקופות האמורות לעיל, כך שיתאפשר תשלום גמולים אלו בתקופות הנזכרות. לפיכך הוסכם כדלקמן:</p>
+        </intro>
+        <paragraph eId="art_21__para_a">
+          <num>א.</num>
+          <content>
+            <p>הוראות סעיפים 24 ו-25 <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי מיום 19.10.2022</ref>, כפי שתוקנו בהחלטות ועדת המעקב מיום <date date="2024-09-12">12.9.2024</date> ומיום <date date="2025-04-25">25.4.2025</date>, לא יחולו לגבי שנת הלימודים תשפ"ו ולגבי החודשים ספטמבר 2026 עד דצמבר 2026. וכן לא יחולו הוראות סעיף 8 להחלטת ועדת המעקב מיום <date date="2025-04-23">23.4.2025</date>, שכותרתו "הוראות למענק [שילוב] בשנת הלימודים תשפ"ו" והוראות סעיף 14 להחלטת ועדת המעקב מיום <date date="2025-04-23">23.4.2025</date> שכותרתו "הוראות למענק [פיצול] בשנת הלימודים תשפ"ו", וזאת לגבי שנת הלימודים תשפ"ו.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_21__para_b">
+          <num>ב.</num>
+          <content>
+            <p>נוסח סעיף <ref href="#art_15">15</ref> להחלטת ועדת המעקב מיום <date date="2025-04-23">23.4.2025</date> יימחק, ותחתיו יבוא הנוסח הבא: "15. למען הסר ספק, מובהר כי מסגרת העלות שסוכמה במסגרת מכתב של <role eId="rol_12" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מיום <date date="2022-10-19">19.10.2022</date> לתשלום גמול פיצול וגמול שילוב תחול באופן יחסי בשנת תשפ"ז, בגין התקופה החל מיום <date date="2027-01-01">1.1.2027</date> ועד לתום שנת הלימודים, וכן תחול בשנים שלאחר מכן. כללי הזכאות והתשלום לגמול שילוב ולגמול פיצול עבור השנים תשפ"ז ואילך ייקבעו בין הצדדים. ככל שעד ליום <date date="2027-01-01">1.1.2027</date>, לגבי שנת הלימודים תשפ"ז, או עד למועד תחילת שנת הלימודים, לגבי שנות הלימודים שלאחר מכן, לא ייקבעו כללים כאמור, יחולו הכללים המפורטים בסעיפים <ref href="#art_8">8</ref> ו-<ref href="#art_14">14</ref> לעיל, בהתאמות הנדרשות מבחינת המועדים, גם לאותה שנת לימודים".</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_21__para_c">
+          <num>ג.</num>
+          <content>
+            <p>במהלך שנת הלימודים תשפ"ו תתקיים הידברות בין הצדדים כדי למצוא מקור תקציבי חלופי [המשך בעמ' 7] למימון גמול שילוב וגמול פיצול עבור שנת הלימודים תשפ"ו ועבור החודשים ספטמבר 2026 עד דצמבר 2026. ככל שיימצא מקור כאמור יעוגנו ההסכמות שיושגו בין הצדדים בנוגע לתשלום הגמול כאמור בהחלטת ועדת מעקב.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_22" repo:prose="same-source">
+        <num>22</num>
+        <heading>דחיית תשלומים <organization eId="org_13" refersTo="#histadrut-hamorim">להסתדרות המורים</organization>
+        </heading>
+        <content>
+          <p>מוסכם כי העברת עשרים (20) מיליון ש"ח מתוך סכום ההקצאה השנתית כמפורט בסעיף <ref href="#art_4">4</ref> למכתב <role eId="rol_14" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מיום <date date="2020-08-24">24.8.2020</date>, בגין שנת 2025, תידחה כך שהעברת הסכום האמור תבוצע בשנת 2026 וככל הניתן בחודש ינואר 2026.</p>
+        </content>
+      </article>
+      <article eId="art_23" repo:prose="same-source">
+        <num>23</num>
+        <intro>
+          <p>מוסכם כי העברת ארבעים וחמישה (45) מיליון ש"ח המפורטים להלן, שיועדו לעבור <organization eId="org_15" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> בשנת 2025, תידחה כך שהעברת הסכום האמור תבוצע בשנת 2026 וככל הניתן בחודש ינואר 2026:</p>
+        </intro>
+        <paragraph eId="art_23__para_a">
+          <num>א.</num>
+          <content>
+            <p>14.281 מיליון ₪ מסכום השתתפות <organization eId="org_16" refersTo="#moe">משרד החינוך</organization> בשי לחגים ובפעולות חברה ותרבות [פירוט הפעילויות — ראו הסריקה];</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_23__para_b">
+          <num>ב.</num>
+          <content>
+            <p>9.571 מיליון ש"ח מסכום תקציב הקרן לקידום מקצועי של עובדי ההוראה (סעיף 3 להסכם הקיבוצי מיום <date date="2011-12-08">8.12.2011</date>);</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_23__para_c">
+          <num>ג.</num>
+          <content>
+            <p>21.148 מיליון ש"ח מסכום תקציב קרן הרווחה של עובדי ההוראה (החלטת ועדת המעקב הפריטטית מיום <date date="2002-04-15">15.4.2002</date> וסעיף 28 <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי מיום 19.10.2022</ref>).</p>
+            <p>ביצוע שעת הוראה פרונטלית נוספת בשנה"ל תשפ"ו במילוי מקום (בשל הצעדים הארגוניים שננקטו ביום <date date="2025-05-04">4.5.2025</date>)</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_24" repo:prose="same-source">
+        <num>24</num>
+        <content>
+          <p>בשנת הלימודים תשפ"ו, יבצעו עובדי ההוראה שעת הוראה פרונטלית בודדת כממלאי מקום, בהתאם לצרכי המוסד ובתיאום עם עובד ההוראה. שעת מילוי מקום זו לא תהיה על חשבון שעות העבודה הכלולות במשרתו של עובד ההוראה, אלא בנוסף להן.</p>
+        </content>
+      </article>
+      <article eId="art_25" repo:prose="same-source">
+        <num>25</num>
+        <content>
+          <p>בגין שעת מילוי המקום כאמור בסעיף <ref href="#art_24">24</ref> לעיל ישולם לעובדי ההוראה <quantity eId="qty_4" refersTo="#percentage" normalized="25">25%</quantity> מערך שעת עבודתו של עובד ההוראה (בנוסף על משכורתו החודשית הרגילה). למען הסר ספק, לא תשולם לעובד ההוראה כל תמורה נוספת בעד שעה זו.</p>
+          <p repo:note="checked">[אומת מול הסריקה: 25% — לא 125%; תעריף מיוחד להסכם זה, נמוך מתעריף מילוי-מקום הרגיל (125% x ערך שעה, הסכם 2008 סעיף 29)]</p>
+        </content>
+      </article>
+      <article eId="art_26" repo:prose="same-source">
+        <num>26</num>
+        <content>
+          <p>למען הסר ספק, הוראות סעיפים <ref href="#art_24">24</ref>-<ref href="#art_25">25</ref> לעיל לא יחולו על עובדי הוראה שביצעו עבודה סדירה ביום <date date="2025-05-04">4.5.2025</date> בהתאם למערכת השעות הקבועה שלהם [המשך בעמ' 8] (כגון: עובד הוראה ששהה באותו יום ביום חופשי לפי מערכת השעות הקבועה שלו או שליווה טיול בית ספרי באותו יום).</p>
+        </content>
+      </article>
+      <article eId="art_27" repo:prose="same-source">
+        <num>27</num>
+        <heading>שקט תעשייתי, מיצוי תביעות והוראות כלליות</heading>
+        <content>
+          <p>הסכם זה מהווה מיצוי של כל טענות <organization eId="org_17" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> ביחס לחתימה על "הסכם</p>
+          <p>מאושר" כהגדרתו בחוק.</p>
+        </content>
+      </article>
+      <article eId="art_28" repo:prose="same-source">
+        <num>28</num>
+        <content>
+          <p>למען הסר ספק, אין בהוראות הסכם זה, לרבות בהוראות סעיף 21.ג. לעיל, כדי לגרוע מהוראות מיצוי תביעות ושקט תעשייתי החלות על הצדדים, לרבות מכוח <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">ההסכם הקיבוצי מיום 19.10.2022</ref> וההסכם הקיבוצי מיום <date date="2023-08-06">6.8.2023</date> בעניין עובדי ההוראה באולפנים.</p>
+        </content>
+      </article>
+      <article eId="art_29" repo:prose="same-source">
+        <num>29</num>
+        <heading>ביטול סכסוכי עבודה</heading>
+        <content>
+          <p>סכסוך העבודה שהוכרז על-ידי <organization eId="org_18" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> מיום <date date="2025-04-10">10.04.2025</date> מבוטל.</p>
+        </content>
+      </article>
+      <article eId="art_30" repo:prose="same-source">
+        <num>30</num>
+        <heading>יישוב חילוקי דעות</heading>
+        <content>
+          <p>ועדת מעקב בהשתתפות <role eId="rol_19" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <role eId="rol_20" refersTo="#role-mankal-chinuch-m">מנכ"ל משרד החינוך</role>
+          </p>
+          <p>ומזכ"לית <organization eId="org_21" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> תעקוב אחר ביצועו של הסכם זה ותכריע בחילוקי דעות הנוגעים לו. החלטותיה של ועדת המעקב תהיינה סופיות ותחייבנה את הצדדים.</p>
+          <p>ולראייה באו הצדדים על החתום: [חתימות]</p>
+          <p repo:note="enclosure">[מכתב נלווה למזכ"לית הסתדרות המורים, מיום ההסכם: אם ייקבע מכוח החוק (לרבות תיקון עתידי) שיעור הפחתה רוחבית נמוך יותר לקבוצת עובדי הוראה אחרת שעליה לא חל ההסכם, המדינה תעדכן את הסתדרות המורים תוך 14 ימים והצדדים ינהלו משא ומתן לגבי תיקון ההסכם.]</p>
+        </content>
+      </article>
+    </body>
+  </act>
+</akomaNtoso>

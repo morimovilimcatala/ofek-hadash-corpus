@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2017-04-06/2016-17-tashaz-04/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2017-04-06/2016-17-tashaz-04" />
+          <FRBRdate date="2017-04-06" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2017-04-06/2016-17-tashaz-04/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2017-04-06/2016-17-tashaz-04/heb@" />
+          <FRBRdate date="2017-04-06" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2017-04-06/2016-17-tashaz-04/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2017-04-06/2016-17-tashaz-04/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2017-04-06" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="reform_oz" href="/ontology/concept/il/reform/oz-latmura" showAs="עוז לתמורה" />
+        <TLCTerm eId="term_79dfe769" href="/ontology/term/il/79dfe769" showAs="המדד החדש" />
+        <TLCTerm eId="term_9cca023e" href="/ontology/term/il/9cca023e" showAs="המדד הקודם" />
+        <TLCTerm eId="term_e702a626" href="/ontology/term/il/e702a626" showAs="מדד" />
+        <TLCTerm eId="term_f3f03137" href="/ontology/term/il/f3f03137" showAs="התוספת השקלית לעובד הוראה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_50e0a119" href="/ontology/organization/il/unit/50e0a119" showAs="לשכת מנהלת אגף בכיר כוח-אדם בהוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_021a1da6" href="/ontology/role/il/021a1da6" showAs="מנהלי תחומי כח-אדם בהוראה במחוזות" />
+        <TLCRole eId="office_4ed2f902" href="/ontology/role/il/4ed2f902" showAs="מנהלי המחוזות" />
+        <TLCRole eId="office_89f5c2ad" href="/ontology/role/il/89f5c2ad" showAs="מנהלת אגף בכיר כח-אדם בהוראה" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
+        <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_73257817" href="/ontology/person/il/73257817" showAs="אבי פרידמן" />
+        <TLCPerson eId="p_4572337a" href="/ontology/person/il/4572337a" showAs="אבי קמינסקי" />
+        <TLCPerson eId="p_d97f14ff" href="/ontology/person/il/d97f14ff" showAs="אייל רם" />
+        <TLCPerson eId="p_4f19a187" href="/ontology/person/il/4f19a187" showAs="איריס שלו-טל" />
+        <TLCPerson eId="p_69b3f2ff" href="/ontology/person/il/69b3f2ff" showAs="אסף שירמן" />
+        <TLCPerson eId="p_a7f6ad5a" href="/ontology/person/il/a7f6ad5a" showAs="אריאל לוי" />
+        <TLCPerson eId="p_ff5ed563" href="/ontology/person/il/ff5ed563" showAs="בני בנימין" />
+        <TLCPerson eId="p_764ccce1" href="/ontology/person/il/764ccce1" showAs="דורית מורג" />
+        <TLCPerson eId="p_e03b783f" href="/ontology/person/il/e03b783f" showAs="דסי בארי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_5c443ad9" href="/ontology/person/il/5c443ad9" showAs="יוסי שטראוס" />
+        <TLCPerson eId="p_141537ad" href="/ontology/person/il/141537ad" showAs="מירי כהן" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_1e57b451" href="/ontology/person/il/1e57b451" showAs="סוניה פרץ" />
+        <TLCPerson eId="p_e6a72cc2" href="/ontology/person/il/e6a72cc2" showAs="עופר רימון" />
+        <TLCPerson eId="p_bfdd3a7b" href="/ontology/person/il/bfdd3a7b" showAs="עידית ורונין" />
+        <TLCPerson eId="p_8962711c" href="/ontology/person/il/8962711c" showAs="ערן יעקב" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_4b203808" href="/ontology/person/il/4b203808" showAs="שמואל אבואב" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2016-17_tashaz_04.pdf" sha256="b17f6caa7d00d4702584c49502eee097941eb4f634d597ef532e3e273024e6d7" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ז/4</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>
+      </p>
+      <p><organization eId="org_4" refersTo="#unit_50e0a119">לשכת מנהלת אגף בכיר כוח-אדם בהוראה</organization>
+      </p>
+      <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2017-04-06">י' בניסן תשע"ז</date>
+      </p>
+      <p><date date="2017-04-06">06 באפריל 2017</date>
+      </p>
+      <p>חוזר לבעלויות <docNumber>תשע"ז4 /</docNumber>
+      </p>
+      <p>לכבוד</p>
+      <p>הבעלויות על מוסדות החינוך</p>
+      <p>שלום רב,</p>
+      <p>הנדון:</p>
+      <p>.1 תוספת שקלית לעובדי הוראה בחטיבות העליונות החל מיום <date date="2016-09-01">1.9.2016</date>
+      </p>
+      <p>.2 תוספת אחוזית לעובדי הוראה בחטיבות העליונות החל מיום <date date="2017-04-01">1.4.2017</date>
+      </p>
+      <p>ביום  <date date="2016-03-20">20.3.2016</date> וביום  <date date="2017-03-23">23.3.2017</date> נחתמו הסכמים קיבוציים בין המרכז לשלטון</p>
+      <p>מקומי <organization eId="org_5" refersTo="#three-cities">ושלוש הערים הגדולות</organization> לבין <organization eId="org_6" refersTo="#irgun-hamorim">ארגון המורים</organization> בבתי הספר העל-יסודיים (להלן</p>
+      <p>בהתאמה": הסכם ההחלה" ו"הסכם היישום").</p>
+      <p>מטרת חוזר זה הינה לפרסם את ההוראות לגבי תשלום תוספת שקלית 2016</p>
+      <p>לעובדי הוראה, החל מיום  <date date="2016-09-01">1.9.2016</date> ולגבי תשלום תוספת אחוזית  2016 לעובדי</p>
+      <p>ההוראה, החל מיום .<date date="2017-04-01">1.4.2017</date>
+      </p>
+      <p>תחולה:</p>
+      <p>הוראות חוזר זה יחולו על כל עובד המדורג בדירוג עובדי הוראה, המועסק על-ידי</p>
+      <p>הבעלויות על מוסדות החינוך המפוקחים על ידי <organization eId="org_7" refersTo="#moe">משרד החינוך</organization> (להלן": עובד</p>
+      <p>הוראה") ואשר מועסק בחטיבות העליונות ובכיתות י"ג-י"ד.</p>
+      <p>למען הסר ספק, ההוראות יחולו הן לגבי עובדי הוראה המועסקים לפי תנאי</p>
+      <p>רפורמת <concept eId="con_8" refersTo="#reform_oz">עוז לתמורה</concept> והן לגבי עובדי הוראה המועסקים שלא עפ"י תנאי הרפורמה.</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <heading>תוספת שקלית אחידה לעובדי הוראה החל מיום <date date="2016-09-01">1.9.2016</date>
+        </heading>
+        <paragraph eId="art_1__para_a">
+          <num>א.</num>
+          <content>
+            <p>בהתאם לאמור בסעיפים קטנים (5א)( )1ו(5-א)( )2 להסכם ההחלה,</p>
+            <p>ולהוראות סעיפים קטנים (4ב)( )1ו(4-ב)( )2 להסכם היישום, החל מיום <date date="2016-09-01">1.9.2016</date> יהיו עובדי ההוראה זכאים לתוספת חודשית שקלית, בהתאם למפורט להלן (להלן": <def refersTo="#term_f3f03137">התוספת השקלית לעובד הוראה</def>").</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_b">
+          <num>ב.</num>
+          <content>
+            <p>סכום התוספת השקלית לעובד הוראה במשרה מלאה יהיה במועדים כדלקמן בסכומים כדלקמן:</p>
+            <p>( )1 החל ביום  <date date="2016-09-01">1.9.2016</date> ועד יום  108.74 - <date date="2017-03-31">31.3.2017</date>ש"ח (במילים:</p>
+            <p>מאה ושמונה שקלים חדשים ושבעים וארבע אגורות).</p>
+            <p>( )2 החל ביום  176.70 - <date date="2017-04-01">1.4.2017</date>ש"ח (במילים: מאה ושבעים וששה</p>
+            <p>שקלים חדשים ושבעים אגורות). מועדים נוספים בהם יחול שינוי בסכום התוספת השקלית יפורסמו בהמשך, בסמוך למועד השינוי.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_c">
+          <num>ג.</num>
+          <content>
+            <p>עובד הוראה במשרה חלקית יהיה זכאי לתוספת שקלית בסכום</p>
+            <p>שיחושב באופן יחסי לחלקיות משרתו בהשוואה לעובד הוראה במשרה מלאה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_d">
+          <num>ד.</num>
+          <content>
+            <p>החל מחודש ינואר  2017 יעודכן, אחת לשנה, בחודש ינואר (להלן:</p>
+            <p>"מועד עדכון"), סכום התוספת השקלית שייקבע כאמור לעיל, לפי שיעור עליית מדד החדש לעומת המדד הקודם.</p>
+            <p>לעניין סעיף זה:</p>
+            <p>"<def refersTo="#term_e702a626">מדד</def>"  -מדד המחירים לצרכן המתפרסם על ידי <organization eId="org_9" refersTo="#cbs">הלשכה המרכזית לסטטיסטיקה</organization>.</p>
+            <p>"<def refersTo="#term_79dfe769">המדד החדש</def>"  -מדד חודש דצמבר של השנה שקדמה לחודש העדכון.</p>
+            <p>"<def refersTo="#term_9cca023e">המדד הקודם</def>"  -מדד חודש דצמבר של השנה שקדמה לחודש העדכון</p>
+            <p>הקודם, ולעניין העדכון הראשון  -מדד חודש דצמבר ( 2015 שהמתפרסם בחודש ינואר. )2016</p>
+            <p>מובהר כי אם בשנה מסוימת שיעור השינוי במדד יהיה שלילי, לא יבוצע</p>
+            <p>בשל כך עדכון של סכום התוספת השקלית לעובד הוראה, והעדכון ידחה</p>
+            <p>למועד עדכון בו ניתן יהיה לבצע עדכון חיובי תוך קיזוז מלוא השיעור</p>
+            <p>השלילי, על פי חישוב לפי שיעור עליית המדד החדש לעומת המדד הקודם האחרון ששימש לעדכון התוספת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_e">
+          <num>ה.</num>
+          <content>
+            <p>מוסכם כי התוספת השקלית לעובד הוראה לא תובא בחשבון לעניין חישוב</p>
+            <p>השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום,</p>
+            <p>התשמ"ז .1987-למען הסר ספק מובהר כי התוספת מהווה "תוספת</p>
+            <p>מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום –</p>
+            <p>הוראת שעה), התשע"ה.2015-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_f">
+          <num>ו.</num>
+          <content>
+            <p>התוספת השקלית לעובדי הוראה תהווה שכר לכל דבר ועניין, ותובא בחשבון</p>
+            <p>לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי</p>
+            <p>מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת</p>
+            <p>שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי</p>
+            <p>פיטורים, התשכ"ג, 1963-לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף 46 להסכם <concept eId="con_10" refersTo="#reform_oz">עוז לתמורה</concept> ולעניין הפרשות לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_g">
+          <num>ז.</num>
+          <content>
+            <p>מוסכם כי התוספת השקלית לעובד הוראה לא תיכלל בבסיס לחישוב כל תוספת שכר וכל תוספת לשכר (אחוזית ושקלית).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_h">
+          <num>ח.</num>
+          <content>
+            <p>על אף האמור בסעיף ז לעיל, התוספת השקלית לעובד הוראה תובא בחשבון לעניין חישוב מענק יובל.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_i">
+          <num>ט.</num>
+          <content>
+            <p>התשלומים הנובעים מסעיף זה ישולמו החל במשכורת המשולמת בעד חודש</p>
+            <p>אפריל  2017 המשתלמת בחודש מאי  2017 ולא יאוחר מהמשכורת המשולמת</p>
+            <p>בעד חודש מאי  2017 המשתלמת בחודש יוני  .2017 במסגרת המשכורת האמורה ישולמו גם ההפרשים בעד התקופה שמיום .<date date="2016-09-01">1.9.2016</date>
+            </p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <heading>תוספת אחוזית 2016</heading>
+        <paragraph eId="art_2__para_a">
+          <num>א.</num>
+          <content>
+            <p>בנוסף לאמור בסעיף  <ref href="#art_1">1</ref> לעיל, החל מיום  <date date="2017-04-01">1.4.2017</date> עובדי ההוראה יהיו זכאים</p>
+            <p>לתוספת שכר אחוזית חדשה(, להלן": תוספת אחוזית  )"2016 בשיעור של ( <quantity eId="qty_1" refersTo="#percentage" normalized="0.625">0.625%</quantity>במילים: שש מאות עשרים וחמש מאיות האחוז).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_b">
+          <num>ב.</num>
+          <content>
+            <p>מועדים נוספים בהם יחול שינוי בשיעור תוספת אחוזית  2016 יפורסמו בהמשך, בסמוך למועד השינוי.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_c">
+          <num>ג.</num>
+          <content>
+            <p>תוספת אחוזית  2016 תשולם בשיעור אחיד לכל עובד הוראה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_d">
+          <num>ד.</num>
+          <content>
+            <p>תוספת אחוזית  2016 תחושב על בסיס השכר המשולב, תוספת, 2001 תוספת ,2008 תוספת, 2011 תוספת שחיקה  2011 ותוספת <concept eId="con_11" refersTo="#reform_oz">עוז לתמורה</concept> (ככל שהעובד זכאי לה).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_e">
+          <num>ה.</num>
+          <intro>
+            <p>תוספת אחוזית  2016 תובא בחשבון לחישוב תוספת אחוזיות המחושבות</p>
+            <p>מהשכר המשולב למעט תוספת, 2001 תוספת, 2008 תוספת, 2011 תוספת</p>
+            <p>שחיקה, 2011 תוספת <concept eId="con_12" refersTo="#reform_oz">עוז לתמורה</concept> ותוספת דרגת קידום, וכן לעניין חישוב</p>
+            <p>ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם</p>
+            <p>במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת</p>
+            <p>היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים,</p>
+            <p>התשכ"ג, 1963-לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף  46 להסכם</p>
+            <p><concept eId="con_13" refersTo="#reform_oz">עוז לתמורה</concept>, לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה).</p>
+          </intro>
+          <subparagraph eId="art_2__para_e__subpara_e">
+            <num>ה.</num>
+            <content>
+              <p>החל מיום  <date date="2017-04-01">1.4.2017</date> תוספת  '87ו-תוספת, '94 המשולמות לעובדי הוראה,</p>
+              <p>יוגדלו בשיעור של  <quantity eId="qty_2" refersTo="#percentage" normalized="0.625">0.625%</quantity>ביחס לערכם השקלי ערב חתימת הסכם זה.</p>
+              <p>לפיכך, החל מיום  <date date="2017-04-01">1.4.2017</date> סכומן יעמוד על:</p>
+              <p>תוספת '87</p>
+              <p><quantity eId="qty_3" refersTo="#ILS" normalized="246.39">₪ 246.39</quantity>            מורה בחט"ע המועסק בתנאי רפורמת <concept eId="con_14" refersTo="#reform_oz">עוז לתמורה</concept>
+              </p>
+              <p><quantity eId="qty_4" refersTo="#ILS" normalized="177.05">₪ 177.05</quantity>                                           יתר עובדי ההוראה בחט"ע</p>
+              <p>תוספת '94</p>
+              <p><quantity eId="qty_5" refersTo="#ILS" normalized="221.57">₪ 221.57</quantity>            מורה בחט"ע המועסק בתנאי רפורמת <concept eId="con_15" refersTo="#reform_oz">עוז לתמורה</concept>
+              </p>
+              <p><quantity eId="qty_6" refersTo="#ILS" normalized="159.22">₪ 159.22</quantity>                                          יתר עובדי ההוראה בחט"ע</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_2__para_e__subpara_f">
+            <num>ו.</num>
+            <content>
+              <p>תוספת אחוזית  2016 לא תובא בחשבון לעניין חישוב השלמת השכר עד</p>
+              <p>לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז .1987-למען</p>
+              <p>הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין הוראות</p>
+              <p>חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה.2015-</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_3" repo:prose="same-source">
+        <num>3</num>
+        <content>
+          <p>שיפוי לבעלויות יינתן בעלויות השעה הרלוונטיות במערכת התשלומים.</p>
+        </content>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><signature eId="signature_1">
+          <person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person> <role eId="rol_28" refersTo="#office_89f5c2ad">מנהלת אגף בכיר כח-אדם בהוראה</role>
+        </signature>
+      </p>
+      <p>העתקים:</p>
+      <p>מר <person eId="pers_2" refersTo="#p_4b203808">שמואל אבואב</person>, <role eId="rol_16" refersTo="#role-mankal">המנהל הכללי</role>
+      </p>
+      <p>מר <person eId="pers_3" refersTo="#p_8962711c">ערן יעקב</person>, <role eId="rol_17" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_18" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_adcb72bb">קובי בר נתן</person>, סגן בכיר לממונה על השכר, <organization eId="org_19" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_5" refersTo="#p_5c443ad9">יוסי שטראוס</person>, <role eId="rol_20" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>מר <person eId="pers_6" refersTo="#p_a7f6ad5a">אריאל לוי</person>, סמנכ"ל בכיר ומנהל המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_7" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>מר <person eId="pers_8" refersTo="#p_d97f14ff">אייל רם</person>, סמנכ"ל מינהל עובדי הוראה</p>
+      <p>עו"ד <person eId="pers_9" refersTo="#p_764ccce1">דורית מורג</person>, <role eId="rol_21" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>דר' <person eId="pers_10" refersTo="#p_e6a72cc2">עופר רימון</person>, מנהל מינהל תקשוב טכנולוגיה ומערכות מידע</p>
+      <p>עו"ד <person eId="pers_11" refersTo="#p_4f19a187">איריס שלו-טל</person>, הלשכה המשפטית</p>
+      <p>מר <person eId="pers_12" refersTo="#p_4b7467e5">רן ארז</person>, מזכ"ל <organization eId="org_22" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>
+      </p>
+      <p><role eId="rol_29" refersTo="#office_4ed2f902">מנהלי המחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_13" refersTo="#p_e03b783f">דסי בארי</person>, מנהלת אגף א' חינוך על-יסודי</p>
+      <p>גב' <person eId="pers_14" refersTo="#p_141537ad">מירי כהן</person>, מינהל כלכלה ותקציבים</p>
+      <p>מר <person eId="pers_15" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף א', ארגון מוסדות חינוך, המינהל הפדגוגי</p>
+      <p>גב' <person eId="pers_16" refersTo="#p_88bb0a53">תמר כהן</person>, מנהלת תחום בכיר תיאום משכורות מורים, חשבות המשרד</p>
+      <p>מר <person eId="pers_17" refersTo="#p_ff5ed563">בני בנימין</person>, מנהל תחום בכיר משכורות, חשבות המשרד</p>
+      <p>תחום תשלומים <organization eId="org_23" refersTo="#local-government">למרכז השלטון המקומי</organization>, חשבות המשרד</p>
+      <p>מר <person eId="pers_18" refersTo="#p_69b3f2ff">אסף שירמן</person>, מנהל תחום, שכר והסכמי עבודה, <organization eId="org_24" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_19" refersTo="#p_73257817">אבי פרידמן</person>, מרכז בכיר חינוך <organization eId="org_25" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_20" refersTo="#p_f71cee61">רחל טייטלבום</person>, מנהלת תחום תנאי שירות עובדי הוראה</p>
+      <p>גב' <person eId="pers_21" refersTo="#p_bca8a4ab">חגית מגן</person>, ממונה על יחסי עבודה ושכר, <organization eId="org_26" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_22" refersTo="#p_4572337a">אבי קמינסקי</person>, יו"ר איגוד מנהלי אגפי החינוך ברשויות המקומיות</p>
+      <p>עו"ד <person eId="pers_23" refersTo="#p_bfdd3a7b">עידית ורונין</person>, ממונה על תנאי שירות, <organization eId="org_27" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p><role eId="rol_30" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_31" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

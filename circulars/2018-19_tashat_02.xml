@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2019-03-12/2018-19-tashat-02/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2019-03-12/2018-19-tashat-02" />
+          <FRBRdate date="2019-03-12" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2019-03-12/2018-19-tashat-02/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2019-03-12/2018-19-tashat-02/heb@" />
+          <FRBRdate date="2019-03-12" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2019-03-12/2018-19-tashat-02/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2019-03-12/2018-19-tashat-02/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2019-03-12" source="#repo-generator" type="generation" />
+        <eventRef eId="e_entryIntoForce" date="2018-09-01" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <temporalData source="#repo-generator">
+        <temporalGroup eId="tg_inForce">
+          <timeInterval eId="ti_inForce" start="#e_entryIntoForce" refersTo="#inForce" />
+        </temporalGroup>
+      </temporalData>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="month" href="/ontology/concept/quantity/month" showAs="חודש" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="year" href="/ontology/concept/quantity/year" showAs="שנה" />
+        <TLCTerm eId="term_652edaac" href="/ontology/term/il/652edaac" showAs="עובד שהיה זכאי לדרגת קידום" />
+        <TLCTerm eId="term_79dfe769" href="/ontology/term/il/79dfe769" showAs="המדד החדש" />
+        <TLCTerm eId="term_9cca023e" href="/ontology/term/il/9cca023e" showAs="המדד הקודם" />
+        <TLCTerm eId="term_c6d420a5" href="/ontology/term/il/c6d420a5" showAs="עובד שלא היה זכאי לדרגת קידום" />
+        <TLCTerm eId="term_e702a626" href="/ontology/term/il/e702a626" showAs="מדד" />
+        <TLCTerm eId="term_f8deecfd" href="/ontology/term/il/f8deecfd" showAs="הסכום לחישוב" />
+        <TLCTerm eId="term_fbd98cdb" href="/ontology/term/il/fbd98cdb" showAs="מועד הבדיקה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_545210c4" href="/ontology/organization/il/unit/545210c4" showAs="לשכת חשב" />
+        <TLCOrganization eId="unit_8e31efd0" href="/ontology/organization/il/unit/8e31efd0" showAs="אגף בכיר כח-אדם בהוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCRole eId="office_989834aa" href="/ontology/role/il/989834aa" showAs="מנהלי מחוזות" />
+        <TLCRole eId="office_d49f75b4" href="/ontology/role/il/d49f75b4" showAs="מנהלי תחומי כח אדם במחוזות במחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל, בשם מדינת ישראל" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="civil-service" href="/ontology/organization/il/civil-service-commission" showAs="נציבות שירות המדינה" />
+        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_4572337a" href="/ontology/person/il/4572337a" showAs="אבי קמינסקי" />
+        <TLCPerson eId="p_55e6c019" href="/ontology/person/il/55e6c019" showAs="איל רם" />
+        <TLCPerson eId="p_19c967f8" href="/ontology/person/il/19c967f8" showAs="אילת מלקמן" />
+        <TLCPerson eId="p_4f19a187" href="/ontology/person/il/4f19a187" showAs="איריס שלו-טל" />
+        <TLCPerson eId="p_69b3f2ff" href="/ontology/person/il/69b3f2ff" showAs="אסף שירמן" />
+        <TLCPerson eId="p_be4337f4" href="/ontology/person/il/be4337f4" showAs="גילה נגר" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_5c443ad9" href="/ontology/person/il/5c443ad9" showAs="יוסי שטראוס" />
+        <TLCPerson eId="p_3d4b65e4" href="/ontology/person/il/3d4b65e4" showAs="יפה בן דוד" />
+        <TLCPerson eId="p_24c98f9d" href="/ontology/person/il/24c98f9d" showAs="יפה בן דויד" />
+        <TLCPerson eId="p_141537ad" href="/ontology/person/il/141537ad" showAs="מירי כהן" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_5b10e7d8" href="/ontology/person/il/5b10e7d8" showAs="משה בכר" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_32cd5b02" href="/ontology/person/il/32cd5b02" showAs="נח גרינפלד" />
+        <TLCPerson eId="p_1e57b451" href="/ontology/person/il/1e57b451" showAs="סוניה פרץ" />
+        <TLCPerson eId="p_bfdd3a7b" href="/ontology/person/il/bfdd3a7b" showAs="עידית ורונין" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_b6e49f0c" href="/ontology/person/il/b6e49f0c" showAs="קובי בר-נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_d555efc3" href="/ontology/person/il/d555efc3" showAs="שוש נחום" />
+        <TLCPerson eId="p_4b203808" href="/ontology/person/il/4b203808" showAs="שמואל אבואב" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+        <TLCConcept eId="inForce" href="/ontology/concept/inForce" showAs="in force" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2018-19_tashat_02.pdf" sha256="a9ce2d7e43364f3f9729ab9ef5d3829dd9229aa0b1ba80da965a8ac521edcfc2" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ט/2</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                                    <organization eId="org_4" refersTo="#unit_545210c4">לשכת חשב</organization>
+      </p>
+      <p>תאום משכורות לעובדי הוראה</p>
+      <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2019-03-12">ה' אדר ב תשע"ט</date>
+      </p>
+      <p><date date="2019-03-12">12 מרץ 2019</date>
+      </p>
+      <p>סימוכין <docNumber>2000-1028-2019-0116397</docNumber> :</p>
+      <p>חוזר לבעלויות <docNumber>תשע"ט2/</docNumber>
+      </p>
+      <p>לכבוד</p>
+      <p>המכללות האקדמיות להכשרת עובדי הוראה</p>
+      <p>שלום רב,</p>
+      <p>הנדון: <docTitle eId="doctitle_1">הסכם בענין הרפורמות במכללות להכשרת עובדי הוראה  -מתוקן</docTitle>
+      </p>
+      <p>בתאריך  <date date="2019-01-21">21.1.19</date> נחתם הסכם קיבוצי בין: <organization eId="org_5" refersTo="#state">ממשלת ישראל</organization> בשם <organization eId="org_6" refersTo="#state-israel">מדינת ישראל</organization>, המיוצגת על ידי הממונה על</p>
+      <p>השכר והסכמי עבודה <organization eId="org_7" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_1" refersTo="#p_b6e49f0c">קובי בר-נתן</person>, ועל ידי <role eId="rol_8" refersTo="#role-mankal">המנהל הכללי</role> של <organization eId="org_9" refersTo="#moe">משרד החינוך</organization>, מר שמואל</p>
+      <p>אבואב; לבין <organization eId="org_10" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> בישראל, המיוצגת על ידי המזכירה הכללית, גב' <person eId="pers_2" refersTo="#p_24c98f9d">יפה בן דויד</person>.</p>
+      <p>הסכם זה הינו בהמשך להסכם הקיבוצי מיום  <date date="2015-05-07">7.5.2015</date> בעניין הרפורמה במכללות להכשרת עובדי הוראה,</p>
+      <p>)להלן": הסכם הרפורמה במכללות"(; בו הוסכם בין הצדדים על מסגרת עלות לתוספות שכר והטבות כספיות</p>
+      <p>אשר תוקצה כמפורט שם, וכן לגבי הקצאתה של יתרת העלות לטובת קידום הדרגות.</p>
+      <p>חוזר זה בא לפרסם את ההסכמות שעוגנו בהסכם קיבוצי זה;</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <heading>הוראות כלליות:</heading>
+        <paragraph eId="art_1__para_a">
+          <num>א.</num>
+          <content>
+            <p>המבוא להסכם זה מהווה חלק בלתי נפרד ממנו.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_b">
+          <num>ב.</num>
+          <content>
+            <p>בכל מקום בהסכם זה בו דובר בלשון זכר, הכוונה גם ללשון נקבה או להפך, אלא אם כן צוין אחרת במפורש.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_c">
+          <num>ג.</num>
+          <content>
+            <p>בכל מקום בו דובר בלשון יחיד הכוונה גם בלשון רבים או להפך. אלא אם כן צוין אחרת במפורש.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_d">
+          <num>ד.</num>
+          <content>
+            <p>כותרות ההסכם הן לשם הנוחות בלבד ואין ללמוד מהם לעניין פרשנותו.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <heading>תחולת ההסכם</heading>
+        <content>
+          <p>הסכם זה יחול על עובדי ההוראה עליהם חל הסכם הרפורמה במכללות )להלן ולעיל": עובדי הוראה</p>
+          <p>במכללות"(.</p>
+        </content>
+      </article>
+      <article eId="art_3" repo:prose="same-source">
+        <num>3</num>
+        <heading>תחילה</heading>
+        <content>
+          <p>תחילתו של הסכם זה ביום ) <date date="2018-09-01">1.9.2018</date> להלן": המועד הקובע"(.</p>
+        </content>
+      </article>
+      <article eId="art_4" repo:prose="same-source">
+        <num>4</num>
+        <heading>הגדרות</heading>
+        <content>
+          <p>"<def refersTo="#term_652edaac">עובד שהיה זכאי לדרגת קידום</def>"  -עובד הוראה במכללה אשר ערב חתימת הסכם זה זכאי לדרגת</p>
+          <p>קידום לפי ההסכם הקיבוצי שנחתם בין הצדדים ביום  <date date="1997-05-22">22.5.1997</date> בדבר הנהגת דרגות קידום במכללות</p>
+          <p>להכשרת עובדי הוראה )כנוסחו לפי ההסכמים הקיבוציים שנחתמו בין הצדדים ביום  <date date="1997-12-30">30.12.1997</date> וביום</p>
+          <p>) (<date date="2001-12-18">18.12.2001</date> להלן כל ההסכמים יחד": הסכמי דרגות הקידום"( ומשולמת לו תוספת דרגת קידום לפי</p>
+          <p>הסכמי דגות הקידום.</p>
+          <p>"<def refersTo="#term_c6d420a5">עובד שלא היה זכאי לדרגת קידום</def>"  -עובד הוראה במכללה אשר אינו עובד הוראה שהיה זכאי לדרגת</p>
+          <p>קידום )למען הסר ספק, עובד הוראה במכללה אשר ערב חתימת הסכם זה לא זכאי לדרגת קידום לפי</p>
+          <p>הסכמי דרגות הקידום ולא משולמת לו תוספת דרגת קידום לפי הסכמי דרגות הקידום(.</p>
+        </content>
+      </article>
+      <article eId="art_5" repo:prose="same-source">
+        <num>5</num>
+        <heading>שינויים במבנה השכר והעסקה של עובדי הוראה במכללות</heading>
+        <intro>
+          <p>לאור השינויים במבנה הארגוני במכללות, במסגרת יישום הרפורמה, והתאמתה למבנה הארגוני של סגל</p>
+          <p>ההוראה במוסדות להשכלה גבוהה שאינם אוניברסיטאות ובמכללות האקדמיות המוכרות על ידי</p>
+          <p>המועצה להשכלה גבוהה, תוך שמירה על אופיין הייחודי של המכללות, הוסכם על שינוי במבנה השכר</p>
+          <p>וההעסקה של עובדי הוראה במכללות, כדלקמן:</p>
+        </intro>
+        <paragraph eId="art_5__para_a">
+          <num>(א)</num>
+          <content>
+            <p>ביטול הסכמי דרגות הקידום וקביעת תוספת דרגת קידום נגררת</p>
+            <p>) (1 החל מהמועד הקובע, הסכמי דרגות הקידום בטלים ולא ינהגו עוד על פיהם.</p>
+            <p>) (2 למען הסר ספק מובהר כי בכל מקרה עובדי הוראה במכללות )עובד שהיה זכאי לדרגת קידום</p>
+            <p>ועובד שלא היה זכאי לדרגת קידום( לא יקודמו עוד על-פי סולם דרגות הקידום שנקבע בהסכמי</p>
+            <p>דרגות הקידום, וקידומם יהא אך ורק בדרגות אקדמיות כמפורט בסעיף זה. עוד מובהר למען</p>
+            <p>הסר ספק כי עובדי הוראה במכללות )עובד שהיה זכאי לדרגת קידום ועובד שלא היה זכאי</p>
+            <p>לדרגת קידום( לא יהיו זכאים עוד לתוספות השכר הצמודות לדרגות הקידום בסולם דרגות הקידום לפי הסכמי דרגות הקידום.</p>
+            <p>) (3 החל מהמועד הקובע, עובד שהיה זכאי לדרגת קידום יהיה זכאי לתוספת אחוזית אשר תחושב</p>
+            <p>על בסיס השכר המשולב, תוספת הסכם הוראה, 94 תוספת, 2001 תוספת  2008 תוספת 2011</p>
+            <p>ותוספת רפורמה, ושיעורה יהיה זהה לשיעור של תוספת דרגת הקידום לה היה זכאי ערב</p>
+            <p>חתימת הסכם זה )להלן": תוספת דרגת קידום נגררת"(.</p>
+            <p>) (4 תוספת דרגת קידום נגררת תהווה שכר לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה,</p>
+            <p>לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג, 1963-לעניין הפרשות לקופת</p>
+            <p>גמל לקצבה )עבור עובד הוראה המבוטח בפנסיה צוברת בגין המשכורת הקובעת( ולעניין הפרשות לקרן השתלמות.</p>
+            <p>) (5 מוסכם כי תוספת דרגת קידום נגררת לא תיכלל בבסיס לחישוב כל תוספת שכר וכל תוספת לשכר )אחוזית או שקלית(.</p>
+            <p>) (6 על אף האמור בסעיף קטן ) (5 לעיל, תוספת דרגת קידום נגררת תובא בחשבון לעניין חישוב</p>
+            <p>תוספות שנתיות ומענקים שנתיים המחושבים על בסיס השכר המובא בחשבון לצורך חישוב ערך</p>
+            <p>שעה לעבודה נוספת או על בסיס המשכורת הקובעת בפנסיה תקציבית.</p>
+            <p>) (7 <organization eId="org_11" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בתוספת דרגת קידום נגררת הקבועה בסעיף זה כתוספת</p>
+            <p repo:role="running-head">קבועה לעניין חוק שירות המדינה )גמלאות(]נוסח משולב[, התש"ל.1970-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_5__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>דרגות אקדמיות</p>
+            <p>החל מהמועד הקובע, עובדי הוראה במכללות )עובד שהיה זכאי לדרגת קידום ועובד שלא היה זכאי</p>
+            <p>לדרגת קידום( יתקדמו בדרגות אקדמיות המפורטות להלן בלבד:</p>
+            <p>(1 מרצה  /מרצה נלווה;</p>
+            <p>(2 מרצה בכיר  /מרצה בכיר נלווה;</p>
+            <p>(3 פרופסור חבר  /פרופסור חבר נלווה;</p>
+            <p>(4 פרופסור מן המניין;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_5__para_c">
+          <num>(ג)</num>
+          <intro>
+            <p>זכאות לקבלת דרגה אקדמית</p>
+          </intro>
+          <subparagraph eId="art_5__para_c__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>הזכאות לקבלת הדרגות האקדמיות הבאות:</p>
+              <p>) (1 דרגה אקדמית של "מרצה";</p>
+              <p>) (2 דרגה אקדמית של "מרצה נלווה";</p>
+              <p>) (3 דרגה אקדמית של "מרצה בכיר";</p>
+              <p>) (4 דרגה אקדמית של "מרצה בכיר נלווה"</p>
+              <p>תיקבע בהתאם לנהלי המועצה להשכלה גבוהה בעניין ניהול אקדמי של המכללות</p>
+              <p>האקדמיות, כפי שהם מעת לעת )להלן": כללי הניהול"(.</p>
+              <p>מובהר כי על-פי כללי הניהול הקיימים היום קבלת אחת מהדרגות האקדמיות כאמור</p>
+              <p>נקבעת על ידי ועדת מינויים מוסדית או פנימית בכל מכללה. ועדת המינויים כאמור</p>
+              <p>תפעל לפי נהלים שייקבעו לעניין זה בתקנון המינויים של המכללה. תקנון המינויים</p>
+              <p>כאמור ייקבע בהתאם לכללי הניהול ובאישור של הגורם המתקצב את המכללה  -משרד</p>
+              <p>החינוך או הועדה לתכנון ותקצוב, לפי העניין. מובהר כי על פי כללי הניהול הקיימים</p>
+              <p>היום, וועדת המנויים כוללת חברי סגל אקדמי. בתקנון המינויים ייכללו גם תנאי</p>
+              <p>הזכאות המפורטים בסעיפים קטנים )5ג() (3ו)5-ג() (4 להלן, וכן ההוראה בעניין מועד</p>
+              <p>הזכאות המפורטת בסעיף )5ג(). (7 בנוסף לאמור, בתקנון המינויים תיכלל גם הוראה</p>
+              <p>זמנית לפיה במהלך השנים  2018 עד, 2020 מורה קבוע המועסק בפועל במכללה</p>
+              <p>להכשרת עובדי הוראה במשך  <quantity eId="qty_1" refersTo="#year" normalized="6">6 שנים</quantity> והיקף משרה של  <quantity eId="qty_2" refersTo="#percentage" normalized="65">65%</quantity>ומעלה כאשר לפחות <quantity eId="qty_3" refersTo="#percentage" normalized="50">50%</quantity>
+              </p>
+              <p>משרה במסלולים אקדמיים, יהיה פטור מדרישת פרק הזמן המינימלי הנדרש בדרגת</p>
+              <p>"מרצה", לצורך זכאות לדרגה אקדמית של "מרצה בכיר" או "מרצה בכיר נלווה".</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_c__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>הזכאות לקבלת דרגה אקדמית "פרופסור חבר" או דרגה אקדמית "פרופסור חבר נלווה" או דרגה אקדמית "פרופסור מן המניין" תקבע בהתאם לכללי הניהול.</p>
+              <p>מובהר כי על-פי כללי הניהול הקיימים היום קבלת אחת מהדרגות האקדמיות כאמור</p>
+              <p>נקבעת על ידי וועדת מינויים עליונה של המועצה להשכלה גבוהה, לאחר קבלת המלצה</p>
+              <p>של הוועדה העליונה של המכללה. בתקנון המינויים של המכללה תיכלל הוראה לפיה</p>
+              <p>מתן המלצה לקבלת דרגה אקדמית כאמור בסעיף זה יהיה מותנה בעמידה בתנאי</p>
+              <p>הקבוע בסעיף קטן )5ג() (5 שלהלן. בנוסף לאמור לעיל, בתקנון המינויים תיכלל גם</p>
+              <p>הוראה זמנית לפיה במהלך השנים,  ,2018-2022 מורה קבוע המועסק בפועל במכללה</p>
+              <p>להכשרת עובדי הוראה במשך  <quantity eId="qty_4" refersTo="#year" normalized="6">6 שנים</quantity> לפחות, המועסק בהיקף משרה של <quantity eId="qty_5" refersTo="#percentage" normalized="100">100%</quantity>
+              </p>
+              <p>במסלולים אקדמיים, יהיה פטור מדרישת פרק הזמן המינימלי הנדרש בדרגת "מרצה"</p>
+              <p>לצורך קבלת המלצה של הוועדה העליונה של המכללה, לדרגת "פרופסור חבר", "פרופסור חבר נלווה" או "פרופסור מן המניין".</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_c__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>בנוסף לאמור בסעיף קטן ) (1 לעיל, כתנאי לקבלת דרגה אקדמית "מרצה" או "מרצה</p>
+              <p>נלווה" על פי הסכם זה, על המורה להיות מועסק באותה מכללה בהיקף משרה קבועה של  <quantity eId="qty_6" refersTo="#percentage" normalized="60">60%</quantity>ומעלה כאשר לפחות  <quantity eId="qty_7" refersTo="#percentage" normalized="50">50%</quantity>משרה במסלולים אקדמיים.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_c__subpara_4">
+            <num>(4)</num>
+            <content>
+              <p>בנוסף לאמור בסעיף קטן ) (1 לעיל, כתנאי לקבלת דרגה אקדמית "מרצה בכיר" או</p>
+              <p>"מרצה בכיר נלווה" על פי הסכם זה, על המורה להיות מועסק באותה מכללה בהיקף משרה קבועה של  <quantity eId="qty_8" refersTo="#percentage" normalized="65">65%</quantity>ומעלה כאשר לפחות  <quantity eId="qty_9" refersTo="#percentage" normalized="50">50%</quantity>משרה במסלולים אקדמיים.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_c__subpara_5">
+            <num>(5)</num>
+            <content>
+              <p>בנוסף לאמור בסעיף קטן ) (2 לעיל, כתנאי לקבלת דרגה אקדמית "פרופסור חבר" או</p>
+              <p>"פרופסור חבר נלווה" או "פרופסור מן המניין" על פי הסכם זה, על המורה להיות</p>
+              <p>מועסק באותה מכללה בהיקף משרה קבועה של  <quantity eId="qty_10" refersTo="#percentage" normalized="100">100%</quantity>כאשר לפחות  <quantity eId="qty_11" refersTo="#percentage" normalized="75">75%</quantity>משרה במסלולים אקדמיים.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_c__subpara_6">
+            <num>(6)</num>
+            <content>
+              <p>למען הסר ספק מובהר כי קביעת היקף המשרה במעמד של קביעות יהיה כפי הנהוג כיום לעניין זה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_c__subpara_7">
+            <num>(7)</num>
+            <content>
+              <p>מועד הזכאות לדרגה האקדמית יהא באחד לחודש ספטמבר של שנת הלימודים בה</p>
+              <p>אושרה הדרגה לפי כללי הניהול או באחד לחודש העוקב למועד הגשת הבקשה לדרגה</p>
+              <p>האקדמית שאושרה כאמור, לפי המאוחר מבין שני המועדים )להלן": מועד הזכאות לדרגה האקדמית"(.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_c__subpara_8">
+            <num>(8)</num>
+            <content>
+              <p>עובד הוראה במכללה שהוא עובד קבוע ועומד בתנאים הקבועים בסעיף זה זכאי להגיש</p>
+              <p>מועמדותו לקבלת דרגה אקדמית. עובד הוראה במכללה אשר עובר לחתימת הסכם זה</p>
+              <p>אושרה לו דרגה אקדמית בהתאם לכללי הניהול כאמור לעיל, יהיה זכאי לדרגה</p>
+              <p>האקדמית האמורה, החל מהמועד הקובע, רק אם התקיימו לגביו התנאים המפורטים</p>
+              <p>בסעיפים קטנים ) (4), (3 או ), (5 לפי העניין, ואם לא התקיימו, החל מהמועד בו יתקיימו לגביו התנאים כאמור, מבלי לגרוע מהוראות סעיף קטן ) (7 לעיל.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_5__para_d">
+          <num>(ד)</num>
+          <intro>
+            <p>תגמול בדרגה אקדמית לעובד שלא היה זכאי לדרגת קידום</p>
+          </intro>
+          <subparagraph eId="art_5__para_d__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>בסעיף זה:</p>
+              <p>"<def refersTo="#term_f8deecfd">הסכום לחישוב</def>"  -הסכום השקלי של רכיב השכר "גמול ניהול נגרר" או של רכיב</p>
+              <p>השכר "גמול ייעוץ נגרר" לו זכאי העובד שלא היה זכאי לדרגת קידום בשכרו כעובד</p>
+              <p>הוראה במכללה במועד הבדיקה, והמשולם לו באותו מועד.</p>
+              <p>"<def refersTo="#term_fbd98cdb">מועד הבדיקה</def>"  -כל אחד מאלה:</p>
+              <p>) (1 ערב קבלת הדרגה האקדמית;</p>
+              <p>) (2 מועד שינוי בוותק או בהשכלה אקדמית;</p>
+              <p>) (3 מועד עדכון טבלאות השכר לעובדי הוראה במכללות לפי הסכמי שכר שייחתמו בין</p>
+              <p>הצדדים.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_d__subpara_2">
+            <num>(2)</num>
+            <intro>
+              <p>החל מהמועד הקובע, עובד שלא היה זכאי לדרגת קידום אשר זכאי לדרגה אקדמית</p>
+              <p>כאמור בסעיף קטן )5ג( לעיל, יתוגמל בתוספת שכר שקלית, כמפורט בסעיף זה, כל עוד</p>
+              <p>הוא זכאי לאותה הדרגה האקדמית )להלן": התוספת השקלית לעובד שלא היה זכאי לדרגת קידום בעל דרגה אקדמית"(:</p>
+            </intro>
+            <clause eId="art_5__para_d__subpara_2__cls_a">
+              <num>(א)</num>
+              <content>
+                <p>עובד שלא היה זכאי לדרגת קידום המועסק במשרה מלאה במכללה, וזכאי לדרגה</p>
+                <p>אקדמית של "מרצה" או "מרצה נלווה" יקבל תוספת שכר שקלית בסכום הגבוה מבין שני אלה:</p>
+                <p>) 800 (<quantity eId="qty_12" refersTo="#ILS" normalized="1">1ש"ח</quantity> פחות הסכום לחישוב שחושב עבורו )מובהר כי אם סכום לחישוב הוא אפס ) (0 אז הסכום הוא  <quantity eId="qty_13" refersTo="#ILS" normalized="800">800ש"ח</quantity>(;</p>
+                <p>) (2 סכום של  <quantity eId="qty_14" refersTo="#ILS" normalized="300">300ש"ח</quantity>.</p>
+                <p>הבחינה תעשה בכל אחד מהמועדים שלהלן, ולפי תוצאותיה ישולם התגמול לעובד שלא היה זכאי לדרגת קידום החל מאותו מועד ועד למועד ביצוע הבדיקה הבאה:</p>
+                <p>מועד קבלת הדרגה האקדמית;               -</p>
+                <p>מועד שינוי בוותק או בהשכלה אקדמית;                -</p>
+                <p>מועד עדכון טבלאות השכר לעובדי הוראה במכללות לפי הסכמי שכר                             -</p>
+                <p>שייחתמו בין הצדדים.</p>
+              </content>
+            </clause>
+            <clause eId="art_5__para_d__subpara_2__cls_b">
+              <num>(ב)</num>
+              <content>
+                <p>עובד שלא היה זכאי לדרגת קידום המועסק במשרה מלאה במכללה, וזכאי לדרגה</p>
+                <p>אקדמית של "מרצה בכיר" או "מרצה בכיר נלווה" יתוגמל כאמור בסעיף קטן )א( לעיל בשינויים שלהלן:</p>
+                <p>) (1 בסעיף קטן )א() (1 לעיל, במקום הסכום של " <quantity eId="qty_15" refersTo="#ILS" normalized="800">800ש"ח</quantity>" יבוא 1,000": ש"ח";</p>
+                <p>) (2 בסעיף קטן )א() (2 לעיל, במקום הסכום של " <quantity eId="qty_16" refersTo="#ILS" normalized="300">300ש"ח</quantity>", יבוא 400": ש"ח".</p>
+              </content>
+            </clause>
+            <clause eId="art_5__para_d__subpara_2__cls_c">
+              <num>(ג)</num>
+              <intro>
+                <p>עובד שלא היה זכאי לדרגת קידום המועסק במשרה מלאה במכללה, וזכאי לדרגה</p>
+                <p>אקדמית של "פרופסור חבר" או "פרופסור חבר נלווה" יתוגמל כאמור בסעיף קטן</p>
+              </intro>
+              <point eId="art_5__para_d__subpara_2__cls_c__pnt_a">
+                <num>(א)</num>
+                <content>
+                  <p>לעיל בשינויים שלהלן:</p>
+                  <p>) (1 בסעיף קטן )א() (1 לעיל, במקום הסכום של " <quantity eId="qty_17" refersTo="#ILS" normalized="800">800ש"ח</quantity>" יבוא 1,450": ש"ח";</p>
+                  <p>) (2 בסעיף קטן )א() (2 לעיל, במקום הסכום של " <quantity eId="qty_18" refersTo="#ILS" normalized="300">300ש"ח</quantity>", יבוא 400": ש"ח".</p>
+                </content>
+              </point>
+              <point eId="art_5__para_d__subpara_2__cls_c__pnt_d">
+                <num>(ד)</num>
+                <content>
+                  <p>עובד שלא היה זכאי לדרגת קידום המועסק במשרה מלאה במכללה, וזכאי לדרגה</p>
+                  <p>אקדמית של פרופסור מן המניין יתוגמל כאמור בסעיף קטן )א( לעיל בשינויים שלהלן:</p>
+                  <p>) (1 בסעיף קטן )א() (1 לעיל, במקום הסכום של " <quantity eId="qty_19" refersTo="#ILS" normalized="800">800ש"ח</quantity>" יבוא 2,100": ש"ח";</p>
+                  <p>) (2 בסעיף קטן )א() (2 לעיל, במקום הסכום של " <quantity eId="qty_20" refersTo="#ILS" normalized="300">300ש"ח</quantity>", יבוא 400": ש"ח".</p>
+                </content>
+              </point>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_5__para_d__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>עובד שלא היה זכאי לדרגת קידום המקבל דרגה אקדמית כאמור בסעיפים קטנים</p>
+              <p>)5ד()(2),א( עד ) 5ד() (2 לעיל, אשר מועסק במשרה חלקית במכללה, יהיה זכאי לתוספת</p>
+              <p>שקלית שתחושב באופן יחסי לחלקיות משרתו במכללה, בהשוואה לעובד שלא היה</p>
+              <p>זכאי לדרגת קידום המקבל דרגה אקדמית זהה במשרה מלאה. מובהר כי לא תהא זכאות לגבי חלק המשרה העולה על משרה מלאה, ככל שקיים למורה מסוים.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_d__subpara_4">
+            <num>(4)</num>
+            <content>
+              <p>החל מחודש ינואר  2019 יעודכנו, אחת לשנה, בחודש ינואר )להלן": מועד עדכון"(,</p>
+              <p>הסכומים המצוינים בסעיפים קטנים )5ד())(2א(עד 5)ד())(2ד( לעיל, לפי שיעור עליית מדד החדש לעומת המדד הקודם.</p>
+              <p>לעניין סעיף זה:</p>
+              <p>"<def refersTo="#term_e702a626">מדד</def>"  -מדד המחירים לצרכן המתפרסם על ידי <organization eId="org_12" refersTo="#cbs">הלשכה המרכזית לסטטיסטיקה</organization>.</p>
+              <p>"<def refersTo="#term_79dfe769">המדד החדש</def>"  -מדד חודש דצמבר של השנה שקדמה לחודש העדכון.</p>
+              <p>"<def refersTo="#term_9cca023e">המדד הקודם</def>"  -מדד חודש דצמבר של השנה שקדמה לחודש העדכון הקודם, ולעניין העדכון הראשון  -מדד חודש דצמבר ) 2017 שהתפרסם בחודש ינואר. (2018</p>
+              <p>מובהר כי אם בשנה מסוימת שיעור השינוי במדד יהיה שלילי, לא יבוצע בשל כך עדכון</p>
+              <p>של הסכומים המפורטים בסעיף קטן )5ד() (2 לעיל, והעדכון ידחה למועד עדכון בו ניתן</p>
+              <p>יהיה לבצע עדכון חיובי תוך קיזוז מלוא השיעור השלילי, על פי חישוב לפי שיעור עליית המדד החדש לעומת המדד הקודם האחרון ששימש לעדכון התוספת.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_d__subpara_5">
+            <num>(5)</num>
+            <content>
+              <p>התוספת השקלית לעובד שלא היה זכאי לדרגת קידום בעל דרגה אקדמית תהווה שכר</p>
+              <p>לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה, לעניין פיצויי פיטורים</p>
+              <p>כמשמעותם בחוק פיצויי פיטורים, התשכ"ג, 1963-לעניין הפרשות לקופת גמל לקצבה</p>
+              <p>)עבור עובד הוראה המבוטח בפנסיה צוברת בגין המשכורת הקובעת( ולעניין הפרשות לקרן השתלמות.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_d__subpara_6">
+            <num>(6)</num>
+            <content>
+              <p>מוסכם כי התוספת השקלית לעובד שלא היה זכאי לדרגת קידום בעל דרגה אקדמית לא תיכלל בבסיס לחישוב כל תוספת שכר וכל תוספת לשכר )אחוזית או שקלית(.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_d__subpara_7">
+            <num>(7)</num>
+            <content>
+              <p>על אף האמור בסעיף קטן ) (6 לעיל, התוספת השקלית לעובד שלא היה זכאי לדרגת</p>
+              <p>קידום בעל דרגה אקדמית תובא בחשבון לעניין חישוב תוספות שנתיות ומענקים</p>
+              <p>שנתיים המחושבים על בסיס השכר המובא בחשבון לצורך חישוב ערך שעה לעבודה נוספת או על בסיס המשכורת הקובעת בפנסיה תקציבית.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_d__subpara_8">
+            <num>(8)</num>
+            <content>
+              <p><organization eId="org_13" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בתוספת השקלית הקבועה בסעיף זה כתוספת קבועה לעניין חוק שירות המדינה )גמלאות(]נוסח משולב[, התש"ל.1970-</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_d__subpara_9">
+            <num>(9)</num>
+            <content>
+              <p>הזכאות לתוספת השקלית לעובד שלא היה זכאי לדרגת קידום אשר זכאי לדרגה</p>
+              <p>אקדמית לפי הוראות הסכם זה, תחל ממועד הזכאות לדרגה האקדמית )וכל עוד הוא זכאי לאותה הדרגה האקדמית(.</p>
+              <p>למען הסר ספק מובהר כי עובד שלא היה זכאי לדרגת קידום אשר הוא בעל דרגה</p>
+              <p>אקדמית טרם חתימת הסכם זה ואשר לא התקיימו לגביו התנאים המפורטים</p>
+              <p>בסעיפים קטנים )5ג())5, (3ג() (4 או )5ג(), (5 לפי העניין, קרי אינו זכאי לדרגה אקדמית לפי הוראות הסכם זה, לא זכאי לתוספת השקלית.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_5__para_e">
+          <num>(ה)</num>
+          <intro>
+            <p>תגמול בדרגה אקדמית לעובד שהיה זכאי לדרגת קידום ) (1 בסעיף זה:</p>
+            <p>"<def refersTo="#term_f8deecfd">הסכום לחישוב</def>"  -צירוף )בפעולת חיבור( של אלה:</p>
+            <p>) (1 הסכום השקלי של רכיב השכר "תוספת דרגת קידום נגררת" לו זכאי העובד שהיה זכאי</p>
+            <p>לדרגת קידום בשכרו כעובד הוראה במכללה במועד הבדיקה, והמשולם לו באותו מועד;</p>
+            <p>) (2 הסכום השקלי של רכיב השכר "גמול ניהול נגרר" או של רכיב השכר "גמול ייעוץ נגרר" לו</p>
+            <p>זכאי העובד שהיה זכאי לדרגת קידום בשכרו כעובד הוראה במכללה במועד הבדיקה, והמשולם לו באותו מועד.</p>
+            <p>"<def refersTo="#term_fbd98cdb">מועד הבדיקה</def>"  -כל אחד מאלה:</p>
+            <p>) (1 ערב קבלת הדרגה האקדמית;</p>
+            <p>) (2 מועד שינוי בוותק או בהשכלה אקדמית;</p>
+            <p>) (3 מועד עדכון טבלאות השכר לעובדי הוראה במכללות לפי הסכמי שכר שייחתמו בין הצדדים.</p>
+            <p>) (2 החל מהמועד הקובע, עובד שהיה זכאי לדרגת קידום אשר זכאי לדרגה אקדמית כאמור בסעיף</p>
+            <p>קטן )5ג( לעיל, יתוגמל בתוספת שכר שקלית, כמפורט בסעיף זה, כל עוד הוא זכאי לאותה</p>
+            <p>הדרגה האקדמית )להלן": התוספת השקלית לעובד הוראה קיים בעל דרגה אקדמית"(.</p>
+            <p>) (3 עובד שהיה זכאי לדרגת קידום המועסק במשרה מלאה במכללה, הזכאי לדרגה אקדמית</p>
+            <p>"מרצה" או "מרצה נלווה" יקבל תוספת שכר שקלית בסכום הגבוה מבין שני אלה:</p>
+          </intro>
+          <subparagraph eId="art_5__para_e__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p><quantity eId="qty_21" refersTo="#ILS" normalized="800">800ש"ח</quantity> פחות הסכום לחישוב שחושב עבורו )מובהר כי אם הסכום לחישוב גדול מ800-</p>
+              <p>ש"ח, הסכום הוא אפס );((0</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_e__subpara_b">
+            <num>(ב)</num>
+            <intro>
+              <p><quantity eId="qty_22" refersTo="#ILS" normalized="300">300ש"ח</quantity>.</p>
+              <p>הבחינה תעשה בכל אחד מהמועדים שלהלן, ולפי תוצאותיה ישולם התגמול לעובד הוראה קיים</p>
+              <p>החל מאותו מועד ועד למועד ביצוע הבדיקה הבאה:</p>
+              <p>מועד קבלת הדרגה האקדמית;               -</p>
+              <p>מועד שינוי בוותק או בהשכלה אקדמית;                -</p>
+              <p>מועד עדכון טבלאות השכר לעובדי הוראה במכללות לפי הסכמי שכר                             -</p>
+              <p>שייחתמו בין הצדדים.</p>
+              <p>) (4 עובד שהיה זכאי לדרגת קידום המועסק במשרה מלאה במכללה, הזכאי לדרגה אקדמית של</p>
+              <p>"מרצה בכיר" או "מרצה בכיר נלווה" יתוגמל כאמור בסעיף קטן ) (3 לעיל בשינויים שלהלן:</p>
+            </intro>
+            <clause eId="art_5__para_e__subpara_b__cls_a">
+              <num>(א)</num>
+              <content>
+                <p>בסעיף קטן 3)א( לעיל, במקום הסכום של " <quantity eId="qty_23" refersTo="#ILS" normalized="800">800ש"ח</quantity>" יבוא 1,000": ש"ח";</p>
+              </content>
+            </clause>
+            <clause eId="art_5__para_e__subpara_b__cls_b">
+              <num>(ב)</num>
+              <intro>
+                <p>בסעיף קטן 3)ב( לעיל, במקום הסכום של " <quantity eId="qty_24" refersTo="#ILS" normalized="300">300ש"ח</quantity>", יבוא 400": ש"ח".</p>
+                <p>) (5 עובד שהיה זכאי לדרגת קידום המועסק במשרה מלאה במכללה, הזכאי לדרגה אקדמית של</p>
+                <p>"פרופסור חבר" או "פרופסור חבר נלווה" יתוגמל כאמור בסעיף קטן ) (3 לעיל, בשינויים שלהלן:</p>
+              </intro>
+              <point eId="art_5__para_e__subpara_b__cls_b__pnt_a">
+                <num>(א)</num>
+                <content>
+                  <p>בסעיף קטן 3)א( לעיל, במקום הסכום של " <quantity eId="qty_25" refersTo="#ILS" normalized="800">800ש"ח</quantity>" יבוא 1,450": ש"ח";</p>
+                </content>
+              </point>
+              <point eId="art_5__para_e__subpara_b__cls_b__pnt_b">
+                <num>(ב)</num>
+                <intro>
+                  <p>בסעיף קטן 3)ב( לעיל, במקום הסכום של " <quantity eId="qty_26" refersTo="#ILS" normalized="300">300ש"ח</quantity>", יבוא 400": ש"ח".</p>
+                  <p>) (6 עובד שהיה זכאי לדרגת קידום המועסק במשרה מלאה במכללה, הזכאי לדרגה אקדמית של</p>
+                  <p>"פרופסור מן המניין" יתוגמל כאמור בסעיף קטן ) (3 לעיל בשינויים שלהלן:</p>
+                </intro>
+                <point eId="art_5__para_e__subpara_b__cls_b__pnt_b__pnt_a">
+                  <num>(א)</num>
+                  <content>
+                    <p>בסעיף קטן 3)א( לעיל, במקום הסכום של " <quantity eId="qty_27" refersTo="#ILS" normalized="800">800ש"ח</quantity>" יבוא 2,100": ש"ח";</p>
+                  </content>
+                </point>
+                <point eId="art_5__para_e__subpara_b__cls_b__pnt_b__pnt_b">
+                  <num>(ב)</num>
+                  <content>
+                    <p>בסעיף קטן 3)ב(לעיל, במקום הסכום של " <quantity eId="qty_28" refersTo="#ILS" normalized="300">300ש"ח</quantity>", יבוא 400": ש"ח".</p>
+                    <p>) (7 הסכומים המצוינים בסעיפים קטנים )5ה() (3 עד )5ה() (6 לעיל, יעודכנו בהתאם למנגנון העדכון הקבוע בסעיף קטן )5ד() (4 לעיל.</p>
+                    <p>) (8 הוראות סעיפים קטנים )5ד() (3ו)5-ד() (5 עד )5ד() (9 לעיל יחולו לגבי התוספת השקלית לעובד שהיה זכאי לדרגת קידום בעל דרגה אקדמית.</p>
+                  </content>
+                </point>
+              </point>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_6" repo:prose="same-source">
+        <num>6</num>
+        <heading>ביצוע</heading>
+        <content>
+          <p>התשלומים לפי סעיפים )5א( )) 5, (3ד( ו)5-ה( לעיל, וביטול תוספות השכר כאמור בסעיף קטן )5א()(1</p>
+          <p>לעיל, יבוצעו החל במשכורת המשולמת בעד חודש יוני  2019 המשתלמת בחודש יולי  2019 ולא יאוחר</p>
+          <p>המשכורת המשתלמת בעד חודש יולי  2019 המשתלמת בחודש אוגוסט .2019</p>
+          <p>במסגרת משכורת החודש שבו יחל הביצוע כאמור, ישולמו גם ההפרשים שמיום, <date date="2018-09-01">1.9.2018</date> ככל</p>
+          <p>שקיימים.</p>
+          <p>שני מענקים חד פעמיים בשווי מצטבר של  <quantity eId="qty_29" refersTo="#ILS" normalized="13000">13,000ש"ח</quantity>
+          </p>
+        </content>
+      </article>
+      <article eId="art_7" repo:prose="same-source">
+        <num>7</num>
+        <heading>מענק חד פעמי  -מענק: 2015</heading>
+        <paragraph eId="art_7__para_a">
+          <num>(א)</num>
+          <content>
+            <p>עובד הוראה במכללה אשר היה מועסק במשרה מלאה בכל התקופה שמיום <date date="2013-09-01">1.9.2013</date> עד יום ) <date date="2015-08-31">31.8.2015</date> להלן": התקופה למענק"(, יהיה זכאי למענק חד פעמי בסכום של <quantity eId="qty_30" refersTo="#ILS" normalized="5000">5,000ש"ח</quantity> בלבד )להלן": מענק. ("2015</p>
+            <p>מענק  2015 ישולם במשכורת חודש ינואר )2019 המשולמת בחודש פברואר  (2019 ולא יאוחר ממשכורת חודש פברואר) 2019 המשולמת בחודש מרץ. (2019</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>עובד הוראה במכללה אשר הועסק במשרה מלאה בחלק מהתקופה למענק אך לא פחות מ <quantity eId="qty_31" refersTo="#month" normalized="10">10-חודשים</quantity>, יהיה זכאי לחלק יחסי של המענק המשולם, ביחס לתקופת העבודה של עובד ההוראה במכללה בתקופה למענק.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>עובד הוראה במכללה אשר הועסק במשרה חלקית בכל )מלוא( התקופה למענק יהיה זכאי לחלקו היחסי של מענק, 2015 ביחס לחלקיות משרתו )המשוקללת( בתקופה</p>
+            <p>למענק. בכל מקרה, בחישוב חלקיות משרתו של עובד הוראה בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל.<quantity eId="qty_32" refersTo="#percentage" normalized="100">100%</quantity>-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>עובד הוראה במכללה אשר הועסק במשרה חלקית בחלק מהתקופה למענק אך לא</p>
+            <p>פחות מ <quantity eId="qty_33" refersTo="#month" normalized="10">10-חודשים</quantity>, יהיה זכאי לחלק יחסי של מענק, 2015 ביחס לחלקיות משרתו</p>
+            <p>ולתקופת העבודה של עובד ההוראה בתקופה למענק. בכל מקרה, בחישוב חלקיות</p>
+            <p>משרתו של עובד הוראה בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל.<quantity eId="qty_34" refersTo="#percentage" normalized="100">100%</quantity>-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_e">
+          <num>(ה)</num>
+          <content>
+            <p>מוסכם כי בחישוב תקופת העבודה במסגרת התקופה למענק, לא יילקחו בחשבון</p>
+            <p>תקופות בהן שהה עובד ההוראה במכללה, מכל סיבה שהיא, בחופשה ללא תשלום</p>
+            <p>לרבות שבתון או בחופשה שדינה כדין חופשה ללא תשלום. מוסכם כי יובאו בחשבון</p>
+            <p>תקופות בהן שהה עובד ההוראה במכללה בשירות מילואים או בתקופת לידה והורות, לפי חוק עבודת נשים, התשי"ד 1954-או בחופשה ללא משכורת לרגל מחלה.</p>
+            <p>למען הסר ספק, היעדרות שדינה כדין חופשה ללא תשלום, שהיא לאחר תום תקופת</p>
+            <p>הלידה וההורות כמשמעותה בחוק עבודת נשים, לא תילקח בחשבון בחישוב תקופת העבודה במסגרת התקופה למענק.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_f">
+          <num>(ו)</num>
+          <content>
+            <p>בתקופת לידה והורות או שירות מילואים או חופשה ללא משכורת לרגל מחלה אשר</p>
+            <p>חלה במהלך התקופה למענק )כולה או חלקה( תחושב חלקיות המשרה )בעבור כל חודש היעדרות מלא(, לפי חלקיות העסקה שהייתה לעובד ההוראה ערב יציאתו לתקופת הלידה וההורות או לשירות המילואים או לחופשה ללא משכורת לרגל מחלה.</p>
+            <p>בכל מקרה, בחישוב חלקיות משרתו של עובד הוראה במכללה בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל.<quantity eId="qty_35" refersTo="#percentage" normalized="100">100%</quantity>-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_g">
+          <num>(ז)</num>
+          <content>
+            <p>מובהר כי האמור בסעיפים )ה( ו)-ו( לעיל, חל בהתאמה גם לגבי עובד הוראה במכללה אשר יצא לתקופת לידה והורות בהתאם להוראות חוק עבודת נשים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_h">
+          <num>(ח)</num>
+          <content>
+            <p>מענק  2015 אינו מהווה שכר לכל דבר ועניין, לא יובא בחשבון לעניין חישוב ערך שעה לעניין חישוב התמורה עבור ביצוע שעות מילוי מקום, לעניין הפחתת שכר בשל שעת</p>
+            <p>היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג, 1963-ולא</p>
+            <p>יבוצעו בגינו הפרשות כלשהן לקופת גמל )לרבות לקרן השתלמות, קרן פנסיה או ביטוח מנהלים(.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_i">
+          <num>(ט)</num>
+          <content>
+            <p>למען הסר ספק, מענק  2015 לא יובא בחשבון לצורך חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז.1987-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_j">
+          <num>(י)</num>
+          <content>
+            <p>אין בתשלום מענק  2015 כדי לשנות את בסיס השכר על פי טבלאות השכר המשולב.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_8" repo:prose="same-source">
+        <num>8</num>
+        <heading>מענק חד פעמי  -מענק 2018</heading>
+        <paragraph eId="art_8__para_a">
+          <num>(א)</num>
+          <content>
+            <p>עובד הוראה במכללה אשר היה מועסק במשרה מלאה בכל התקופה שמיום  <date date="2015-09-01">1.9.2015</date> עד יום</p>
+            <p>) <date date="2018-06-30">30.6.2018</date> להלן": התקופה למענק"(, יהיה זכאי למענק חד פעמי בסכום של  <quantity eId="qty_36" refersTo="#ILS" normalized="8000">8,000ש"ח</quantity> בלבד )להלן": מענק. ("2018</p>
+            <p>מענק  2018 ישולם במשכורת חודש מאי ) 2019 המשולמת בחודש יוני  (2019 ולא יאוחר ממשכורת חודש יוני ) 2018 המשולמת בחודש יולי. (2019</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>הוראות סעיפים קטנים 7)ב(עד 7)י( יחולו לגבי מענק, 2018 אך בסעיפים קטנים )7ב( -ו)7ד( במקום " <quantity eId="qty_37" refersTo="#month" normalized="10">10 חודשים</quantity>" יבוא " <quantity eId="qty_38" refersTo="#month" normalized="12">12 חודשים</quantity>".</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_9" repo:prose="same-source">
+        <num>9</num>
+        <heading>מענק יישום רפורמה במכללות</heading>
+        <paragraph eId="art_9__para_a">
+          <num>(א)</num>
+          <content>
+            <p>סעיף זה יחול על עובדי הוראה במכללות אשר מתקיימים לגביהם כל אלה במצטבר:</p>
+            <p>) (1 העסקתם במכללות הסתיימה החל מיום  <date date="2015-08-31">31.8.2015</date> כתוצאה מהשינויים הארגוניים הנדרשים במכללות.</p>
+            <p>) (2 הועסקו בהוראה במכללות במשך  <quantity eId="qty_39" refersTo="#year" normalized="10">10 שנים</quantity> לפחות, ברצף.</p>
+            <p>) (3 אינם זכאים ולא היו זכאים לתנאי פרישה לפי תוכנית פרישה של <organization eId="org_14" refersTo="#civil-service">נציבות שירות המדינה</organization> לרבות</p>
+            <p>תנאי פרישה לפי תוכנית פרישה של <organization eId="org_15" refersTo="#civil-service">נציבות שירות המדינה</organization> בשל פרישה קודמת משירות המדינה</p>
+            <p>ולא קיבלו תנאי פרישה כאמור )פרישה קודמת לפרישה מהכללה כתוצאה מהשינויים הארגוניים הנדרשים במכללות כאמור בסעיף קטן ) (1 לעיל(.</p>
+            <p>)להלן": עובדי הוראה אשר סיימו העסקתם במכללה"(.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>עובדי הוראה אשר סיימו העסקתם במכללה אשר גילם במועד סיום העסקתם )גמר יחסי עובד</p>
+            <p>מעסיק(, הוא כמפורט בטור א' בטבלה שלהלן, יהיו זכאים למענק יישום רפורמה במכללות )להלן:</p>
+            <p>"המענק המיוחד"( על פי הרשום בטור ב' בטבלה שלהלן, כדלקמן:</p>
+            <p>טור ב'                                   טור א'</p>
+            <p>סכום המענק המיוחד בשקלים חדשים                             עד גיל              מגיל</p>
+            <p>) 200,000מאתיים אלף(            54ו <quantity eId="qty_40" refersTo="#month" normalized="11">11-חודשים</quantity>                    50</p>
+            <p>) 120,000מאה ועשרים אלף(              59ו <quantity eId="qty_41" refersTo="#month" normalized="11">11-חודשים</quantity>                    55</p>
+            <p>) 80,000שמונים אלף(           63ו <quantity eId="qty_42" refersTo="#month" normalized="11">11-חודשים</quantity>                    60</p>
+            <p>) 35,000שלושים וחמישה אלף(                             65                 64</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>המענק המיוחד יחושב באופן יחסי להיקף המשרה המשוקלל של עובד הוראה אשר סיים העסקתו במכללה, וישתלם עד לתקרה של .<quantity eId="qty_43" refersTo="#percentage" normalized="100">100%</quantity>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>על אף האמור בסעיף קטן )ב( לעיל, עובדי הוראה אשר זכאים למענק הפרישה הקבוע בסעיף 22</p>
+            <p>לחוק שירות המדינה )גימלאות( ]נוסח משולב[, התש"ל, 1970-לא יהיו זכאים למענק המיוחד אלא</p>
+            <p>להפרש החיובי )ככל שקיים( בין סכום המענק המיוחד אילו היה משולם להם ובין סכום המענק ששולם להם לפי סעיף  22 לחוק האמור.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_e">
+          <num>(ה)</num>
+          <content>
+            <p>המענק המיוחד ישולם לעובדי הוראה הזכאים, עם גמר יחסי עובד מעסיק ולגבי עובדי הוראה</p>
+            <p>זכאים אשר פרשו טרם חתימת הסכם זה, ישולם עד חודש חודש מאי  2019 ולכל המאוחר יוני .2019</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_f">
+          <num>(ו)</num>
+          <content>
+            <p>למען הסר ספק מובהר כי עובדי הוראה שסיימו העסקתם במכללה כתוצאה מהשינויים הארגוניים</p>
+            <p>הנדרשים במכללות, וזכאים לתנאי פרישה לפי תוכנית פרישה של <organization eId="org_16" refersTo="#civil-service">נציבות שירות המדינה</organization>, לא יהיו זכאים למענקים כאמור.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_g">
+          <num>(ז)</num>
+          <content>
+            <p>למען הסר ספק מובהר כי עובדי הוראה אשר העסקתם הסתיימה שלא כתוצאה מהשינויים הארגוניים הנדרשים במכללות כגון מטעמים פדגוגים, לא יהיו זכאים למענקים כאמור.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_h">
+          <num>(ח)</num>
+          <content>
+            <p>בכל מקרה, עובדי הוראה אשר היו זכאים למענק המיוחד לפי סעיף זה, לא יהיו זכאים לתנאי פרישה לפי תוכנית פרישה של <organization eId="org_17" refersTo="#civil-service">נציבות שירות המדינה</organization>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_10" repo:prose="same-source">
+        <num>10</num>
+        <heading>מענק יובל</heading>
+        <content>
+          <p>בעקבות החלת הרפורמה במכללות להכשרת עובדי הוראה, החל במשכורת בגין חודש יוני ) 2016 מועד</p>
+          <p>תשלום מענק יובל עבור שנת הלימודים תשע"ו(, הוותק המצטבר בהוראה הנדרש לצורך זכאות לתשלום</p>
+          <p>מענק יובל כאמור בסעיף  11 להסכם הקיבוצי מיום, <date date="1994-09-19">19.9.1994</date> יהיה  <quantity eId="qty_44" refersTo="#year" normalized="25">25 שנה</quantity>, במקום  <quantity eId="qty_45" refersTo="#year" normalized="30">30 שנה</quantity> כמפורט</p>
+          <p>בסעיף האמור.</p>
+          <p>אין באמור בהוראה זו כדי לשנות את יתר הכללים החלים לגבי מענק יובל. ההפרשים הנובעים מהוראה</p>
+          <p>זו יבוצעו במשכורת חודש חודש מאי  2019 ולכל המאוחר יוני .2019</p>
+        </content>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><person eId="pers_3" refersTo="#p_1e57b451">סוניה פרץ</person>                                                                      <person eId="pers_4" refersTo="#p_88bb0a53">תמר כהן</person>
+      </p>
+      <p>סמנכ"לית ומנהלת                                                              מנהלת תחום בכיר</p>
+      <p><organization eId="org_18" refersTo="#unit_8e31efd0">אגף בכיר כח-אדם בהוראה</organization>                                                         משכורות לעובדי הוראה</p>
+      <p>העתקים:</p>
+      <p>מר <person eId="pers_5" refersTo="#p_4b203808">שמואל אבואב</person>, <role eId="rol_19" refersTo="#role-mankal">המנהל הכללי</role>, <organization eId="org_20" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p>גב' <person eId="pers_6" refersTo="#p_be4337f4">גילה נגר</person>, משנה למנהל הכללי</p>
+      <p>מר <person eId="pers_7" refersTo="#p_adcb72bb">קובי בר נתן</person>, <role eId="rol_21" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_22" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_8" refersTo="#p_5b10e7d8">משה בכר</person>, סגן בכיר לממונה על השכר, <organization eId="org_23" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_9" refersTo="#p_5c443ad9">יוסי שטראוס</person>, <role eId="rol_24" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>מר <person eId="pers_10" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>מר <person eId="pers_11" refersTo="#p_55e6c019">איל רם</person>, סמנכ"ל ומנהל מינהל עובדי הוראה</p>
+      <p>עו"ד <person eId="pers_12" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_25" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>גב' <person eId="pers_13" refersTo="#p_3d4b65e4">יפה בן דוד</person>, מזכ"לית <organization eId="org_26" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      </p>
+      <p><role eId="rol_30" refersTo="#office_989834aa">מנהלי מחוזות</role>
+      </p>
+      <p>ד"ר <person eId="pers_14" refersTo="#p_d555efc3">שוש נחום</person>, סמנכ"לית בכירה ומנהלת המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_15" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף א' אמח"י</p>
+      <p>מר <person eId="pers_16" refersTo="#p_32cd5b02">נח גרינפלד</person>, מנהל אגף א' הכשרת עובדי הוראה</p>
+      <p>גב' <person eId="pers_17" refersTo="#p_141537ad">מירי כהן</person>, מינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_18" refersTo="#p_4f19a187">איריס שלו-טל</person>, סגנית בכירה ליועצת המשפטית</p>
+      <p>מר <person eId="pers_19" refersTo="#p_69b3f2ff">אסף שירמן</person>, מנהל תחום, <organization eId="org_27" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_20" refersTo="#p_f71cee61">רחל טייטלבום</person>, מנהלת תחום תנאי שירות עובדי הוראה</p>
+      <p>גב' <person eId="pers_21" refersTo="#p_bca8a4ab">חגית מגן</person>, ראש מנהל שכר והסכמי עבודה, <organization eId="org_28" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_22" refersTo="#p_4572337a">אבי קמינסקי</person>, יו"ר איגוד מנהלי אגפי החינוך ברשויות המקומיות</p>
+      <p>עו"ד <person eId="pers_23" refersTo="#p_bfdd3a7b">עידית ורונין</person>, ממונה על תנאי שירות, <organization eId="org_29" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p><role eId="rol_31" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+      <p><role eId="rol_32" refersTo="#office_d49f75b4">מנהלי תחומי כח אדם במחוזות במחוזות</role>
+      </p>
+      <p>הנהלת אגף בכיר כוח-אדם בהוראה</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

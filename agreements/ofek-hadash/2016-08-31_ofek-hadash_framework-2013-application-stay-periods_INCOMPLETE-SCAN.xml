@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <act name="collectiveAgreement" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-08-31/2016-08-31-ofek-hadash-framework-2013-application-stay-periods-incomplete-scan/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-08-31/2016-08-31-ofek-hadash-framework-2013-application-stay-periods-incomplete-scan" />
+          <FRBRdate date="2016-08-31" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRauthor href="#mof" as="#author" />
+          <FRBRauthor href="#state-israel" as="#author" />
+          <FRBRauthor href="#histadrut" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="collectiveAgreement" />
+          <FRBRnumber value="269/2016" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-08-31/2016-08-31-ofek-hadash-framework-2013-application-stay-periods-incomplete-scan/heb@/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-08-31/2016-08-31-ofek-hadash-framework-2013-application-stay-periods-incomplete-scan/heb@" />
+          <FRBRdate date="2016-08-31" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRauthor href="#mof" as="#author" />
+          <FRBRauthor href="#state-israel" as="#author" />
+          <FRBRauthor href="#histadrut" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-08-31/2016-08-31-ofek-hadash-framework-2013-application-stay-periods-incomplete-scan/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-08-31/2016-08-31-ofek-hadash-framework-2013-application-stay-periods-incomplete-scan/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2016-08-31" source="#repo-generator" type="generation" />
+        <eventRef eId="e_registration" date="2017-01-15" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="grade" href="/ontology/concept/quantity/grade" showAs="דרגה" />
+        <TLCConcept eId="month" href="/ontology/concept/quantity/month" showAs="חודש" />
+        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
+        <TLCTerm eId="term_0cdeaf5a" href="/ontology/term/il/0cdeaf5a" showAs="ההסתדרות" />
+        <TLCTerm eId="term_107d8ff2" href="/ontology/term/il/107d8ff2" showAs="הסכם המסגרת המתוקן" />
+        <TLCTerm eId="term_d905330e" href="/ontology/term/il/d905330e" showAs="הסכם המסגרת הכללי" />
+        <TLCTerm eId="term_ddf2350a" href="/ontology/term/il/ddf2350a" showAs="המדינה" />
+        <TLCTerm eId="term_e5557f11" href="/ontology/term/il/e5557f11" showAs="הסכם 2016" />
+        <TLCTerm eId="term_f24a166f" href="/ontology/term/il/f24a166f" showAs="הסכם 2013" />
+        <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל, בשם מדינת ישראל" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="histadrut" href="/ontology/organization/il/histadrut" showAs="ההסתדרות הכללית" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCRole eId="role-mankal-chinuch" href="/ontology/role/il/mankal-chinuch" showAs="מנכ&quot;לית משרד החינוך" />
+        <TLCRole eId="role-mazkir-klali" href="/ontology/role/il/mazkir-klali" showAs="המזכיר הכללי" />
+        <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCPerson eId="p_9317fe46" href="/ontology/person/il/9317fe46" showAs="יוסי וסרמן" />
+        <TLCPerson eId="p_5a0c479a" href="/ontology/person/il/5a0c479a" showAs="יוסי כהן" />
+        <TLCPerson eId="p_6bb70ed1" href="/ontology/person/il/6bb70ed1" showAs="מיכל כהן" />
+        <TLCPerson eId="p_43b7f0e7" href="/ontology/person/il/43b7f0e7" showAs="שלמה יצחקי" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="transcribed" passes="1">The content is a transcription made by READING the document's pages (reference/transcriptions/), not extracted and not OCR. A single reader made it; no second pass yet (@passes=1). It is not 'verified': that word is reserved for a person checking against the source.</repo:prose>
+          <repo:date precision="day">the document's own date, from the filename</repo:date>
+          <repo:source path="law/agreements/ofek-hadash/2016-08-31_ofek-hadash_framework-2013-application-stay-periods_INCOMPLETE-SCAN.pdf" sha256="042b2cb5d7ea1d4487c8b07af32a1e7beb4a7afbe9229451859237391870e28f" transcription="reference/transcriptions/2016-08-31_ofek-hadash_framework-2013-application-stay-periods_INCOMPLETE-SCAN.txt" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>הסכם קיבוצי — החלת עלות הסכם המסגרת ופרקי זמן השהייה הנדרשים לצורך קידום בדרגות</p>
+      </longTitle>
+    </preface>
+    <body>
+      <hcontainer eId="hc_1" name="text" repo:structure="flat">
+        <intro>
+          <p>הסכם קיבוצי</p>
+          <p>שנחתם ביום [בכתב יד: <date date="2016-08-31">31/8/16</date>]</p>
+          <p repo:note="stamp">[חותמת רישום:] חוק הסכמים קיבוציים [לא קריא] | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2017-01-15">15.01.2017</date> | ומספרו: [בכתב יד: 269/2016] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
+          </p>
+          <p>בין: <organization eId="org_2" refersTo="#state">ממשלת ישראל</organization> בשם <organization eId="org_3" refersTo="#state-israel">מדינת ישראל</organization>, המיוצגת על ידי <role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> (בפועל) <organization eId="org_5" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_2" refersTo="#p_5a0c479a">יוסי כהן</person>, ועל ידי <role eId="rol_6" refersTo="#role-mankal-chinuch">מנכ"לית משרד החינוך</role>, גב' <person eId="pers_3" refersTo="#p_6bb70ed1">מיכל כהן</person>;</p>
+          <p>(להלן: "<def refersTo="#term_ddf2350a">המדינה</def>");</p>
+          <p>מצד אחד</p>
+          <p>לבין: <organization eId="org_7" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> בישראל, המיוצגת על ידי <role eId="rol_8" refersTo="#role-mazkir-klali">המזכיר הכללי</role>, מר <person eId="pers_4" refersTo="#p_9317fe46">יוסי וסרמן</person>;</p>
+          <p>(להלן: "<def refersTo="#term_0cdeaf5a">ההסתדרות</def>");</p>
+          <p>מצד שני</p>
+          <p>והואיל: ובהסכם הקיבוצי שנחתם בין הצדדים ביום <date date="2013-09-17">17.9.2013</date> (להלן: "<def refersTo="#term_f24a166f">הסכם 2013</def>"), נקבע, בין היתר, כי ככל שייחתם הסכם מסגרת בין <organization eId="org_9" refersTo="#histadrut">ההסתדרות הכללית</organization> לבין המדינה ו/או המעסיקים במגזר הציבורי, בגין תקופת <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">הסכם 2013</ref> או חלקה, הצדדים ינהלו משא ומתן בדבר החלת עלות הסכם המסגרת על עובדי ההוראה, בגין תקופת <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">הסכם 2013</ref> (מיום <date date="2013-08-27">27.8.2013</date> ועד ליום <date date="2015-06-30">30.6.2015</date>), ובהתחשב בעלותו;</p>
+          <p>והואיל: ועל בסיס ההבנות שגובשו בין המדינה ומעסיקים נוספים מהשירות הציבורי ובין <organization eId="org_10" refersTo="#histadrut">ההסתדרות הכללית</organization> ביום <date date="2015-12-23">23.12.2015</date>, נחתם ביום <date date="2016-04-18">18.4.2016</date> הסכם קיבוצי (מסגרת) לתקופה שמיום <date date="2013-01-01">1.1.2013</date> עד <date date="2017-12-31">31.12.2017</date> (להלן: "<def refersTo="#term_d905330e">הסכם המסגרת הכללי</def>");</p>
+          <p>והואיל: וביום <date date="2016-02-22">22.2.2016</date> נחתם בין הצדדים הסכם קיבוצי לעניין החלת עלות <ref href="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector">הסכם המסגרת הכללי</ref>, לתקופה שמיום <date date="2013-08-27">27.8.2013</date> ועד ליום <date date="2015-06-30">30.6.2015</date>, לגבי עובדי ההוראה עליהם חל <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">הסכם 2013</ref> (ובהתאמה להוראותיו), ולגבי עובדים נוספים, בהתחשב בעלות <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">הסכם 2013</ref> ובתקופתו, ובגין תקופה נוספת (עד יום <date date="2015-12-31">31.12.2015</date>), כמפורט שם (להלן: "<def refersTo="#term_e5557f11">הסכם 2016</def>");</p>
+          <p>והואיל. בהתאם לסעיף 15 <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">להסכם 2013</ref>, בשים לב להסכמות <ref href="/akn/il/act/collectiveAgreement/2016-02-22/2016-02-22-ofek-hadash-hascam-2016-tables-and-sheklit">בהסכם 2016</ref> ובהתחשב בתיקון <ref href="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector">הסכם המסגרת הכללי</ref> שנחתם בין הצדדים <ref href="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector">להסכם המסגרת הכללי</ref> ביום <date date="2016-08-08">8.8.2016</date> (להלן: "<def refersTo="#term_107d8ff2">הסכם המסגרת המתוקן</def>"), הצדדים ניהלו משא ומתן על הסכם שכר בגין התקופה שעד יום <date date="2018-06-30">30.6.2018</date>;</p>
+          <p>והואיל: ובמסגרת המשא ומתן כאמור הוסכם בין הצדדים כי העלות שהוקצתה לפי <ref href="/akn/il/act/collectiveAgreement/2016-02-22/2016-02-22-ofek-hadash-hascam-2016-tables-and-sheklit">הסכם 2016</ref> תוקצה באופן שונה מהמתואר שם; וכן הוסכם על שינויים נוספים ביחס להסכמות המעוגנות <ref href="/akn/il/act/collectiveAgreement/2016-02-22/2016-02-22-ofek-hadash-hascam-2016-tables-and-sheklit">בהסכם 2016</ref>;</p>
+          <p>והואיל: והצדדים טרם הספיקו להגיע לנוסח מוסכם של הסכם קיבוצי בו יעוגנו ההסכמות אליהן הגיעו כאמור לעיל;</p>
+          <p>והואיל: ותחילתן של חלק מהוראות <ref href="/akn/il/act/collectiveAgreement/2016-02-22/2016-02-22-ofek-hadash-hascam-2016-tables-and-sheklit">הסכם 2016</ref> נקבע ליום <date date="2016-09-01">1.9.2016</date>;</p>
+          <p>1</p>
+          <p repo:note="scan-gap">[הסריקה חסרה — עמוד מודפס 2 אינו קיים בקובץ; ההמשך הוא עמוד מודפס 3]</p>
+        </intro>
+        <paragraph eId="hc_1__para_b">
+          <num>ב.</num>
+          <intro>
+            <p>החל מיום <date date="2016-09-01">1.9.2016</date> :</p>
+          </intro>
+          <subparagraph eId="hc_1__para_b__subpara_1">
+            <num>1)</num>
+            <content>
+              <p><mod eId="hc_1__para_b__subpara_1__mod_1">במקום האמור בסעיף 38(ב) להסכם רפורמת <concept eId="con_11" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן בהחלטת ועדת המעקב מיום <date date="2015-02-19">19.2.2015</date>) יבוא:<quotedStructure eId="hc_1__para_b__subpara_1__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                    <p>להלן פרקי זמן השהייה הנדרשים לצורך קידום לדרגות 2 עד 6 :</p>
+                    <paragraph eId="hc_1__para_b__subpara_1__mod_1__qstr_1__para_a">
+                      <num>(א)</num>
+                      <content>
+                        <p>קידום <quantity eId="qty_1" refersTo="#grade" normalized="1">מדרגה 1</quantity> <quantity eId="qty_2" refersTo="#grade" normalized="2">לדרגה 2</quantity> - <quantity eId="qty_3" refersTo="#month" normalized="26">26 חודשי שהיה</quantity> <quantity eId="qty_4" refersTo="#grade" normalized="1">בדרגה 1</quantity> ;</p>
+                      </content>
+                    </paragraph>
+                    <paragraph eId="hc_1__para_b__subpara_1__mod_1__qstr_1__para_b">
+                      <num>(ב)</num>
+                      <content>
+                        <p>קידום <quantity eId="qty_5" refersTo="#grade" normalized="2">מדרגה 2</quantity> <quantity eId="qty_6" refersTo="#grade" normalized="3">לדרגה 3</quantity> - <quantity eId="qty_7" refersTo="#month" normalized="26">26 חודשי שהיה</quantity> <quantity eId="qty_8" refersTo="#grade" normalized="2">בדרגה 2</quantity>;</p>
+                      </content>
+                    </paragraph>
+                    <paragraph eId="hc_1__para_b__subpara_1__mod_1__qstr_1__para_c">
+                      <num>(ג)</num>
+                      <content>
+                        <p>קידום <quantity eId="qty_9" refersTo="#grade" normalized="3">מדרגה 3</quantity> <quantity eId="qty_10" refersTo="#grade" normalized="4">לדרגה 4</quantity> - <quantity eId="qty_11" refersTo="#month" normalized="37">37 חודשי שהיה</quantity> <quantity eId="qty_12" refersTo="#grade" normalized="3">בדרגה 3</quantity>;</p>
+                      </content>
+                    </paragraph>
+                    <paragraph eId="hc_1__para_b__subpara_1__mod_1__qstr_1__para_d">
+                      <num>(ד)</num>
+                      <content>
+                        <p>קידום <quantity eId="qty_13" refersTo="#grade" normalized="4">מדרגה 4</quantity> <quantity eId="qty_14" refersTo="#grade" normalized="5">לדרגה 5</quantity> - <quantity eId="qty_15" refersTo="#month" normalized="37">37 חודשי שהיה</quantity> <quantity eId="qty_16" refersTo="#grade" normalized="4">בדרגה 4</quantity>;</p>
+                      </content>
+                    </paragraph>
+                    <paragraph eId="hc_1__para_b__subpara_1__mod_1__qstr_1__para_e">
+                      <num>(ה)</num>
+                      <content>
+                        <p>קידום <quantity eId="qty_17" refersTo="#grade" normalized="5">מדרגה 5</quantity> <quantity eId="qty_18" refersTo="#grade" normalized="6">לדרגה 6</quantity> - <quantity eId="qty_19" refersTo="#month" normalized="37">37 חודשי שהיה</quantity> <quantity eId="qty_20" refersTo="#grade" normalized="5">בדרגה 5</quantity>;</p>
+                      </content>
+                    </paragraph>
+                  </quotedStructure>
+                </mod>
+              </p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_b__subpara_2">
+            <num>2)</num>
+            <content>
+              <p><mod eId="hc_1__para_b__subpara_2__mod_1">במקום האמור בסעיף 38(ו) להסכם רפורמת <concept eId="con_12" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן בהחלטת ועדת המעקב מיום <date date="2015-02-19">19.2.2015</date>) יבוא:<quotedStructure eId="hc_1__para_b__subpara_2__mod_1__qstr_1" startQuote="&quot;">
+                    <p>להלן פרקי זמן השהייה הנדרשים לצורך קידום לדרגות 7 עד 9 :</p>
+                    <paragraph eId="hc_1__para_b__subpara_2__mod_1__qstr_1__para_a">
+                      <num>(א)</num>
+                      <content>
+                        <p>קידום <quantity eId="qty_21" refersTo="#grade" normalized="6">מדרגה 6</quantity> <quantity eId="qty_22" refersTo="#grade" normalized="7">לדרגה 7</quantity> - <quantity eId="qty_23" refersTo="#month" normalized="38">38 חודשי שהיה</quantity> <quantity eId="qty_24" refersTo="#grade" normalized="6">בדרגה 6</quantity>;</p>
+                      </content>
+                    </paragraph>
+                    <paragraph eId="hc_1__para_b__subpara_2__mod_1__qstr_1__para_b">
+                      <num>(ב)</num>
+                      <content>
+                        <p>קידום <quantity eId="qty_25" refersTo="#grade" normalized="7">מדרגה 7</quantity> <quantity eId="qty_26" refersTo="#grade" normalized="8">לדרגה 8</quantity> - <quantity eId="qty_27" refersTo="#month" normalized="38">38 חודשי שהיה</quantity> <quantity eId="qty_28" refersTo="#grade" normalized="7">בדרגה 7</quantity> ;</p>
+                      </content>
+                    </paragraph>
+                    <paragraph eId="hc_1__para_b__subpara_2__mod_1__qstr_1__para_c">
+                      <num>(ג)</num>
+                      <content>
+                        <p>קידום מדרגת 8 <quantity eId="qty_29" refersTo="#grade" normalized="9">לדרגה 9</quantity> - <quantity eId="qty_30" refersTo="#month" normalized="38">38 חודשי שהיה</quantity> <quantity eId="qty_31" refersTo="#grade" normalized="8">בדרגה 8</quantity>;</p>
+                      </content>
+                    </paragraph>
+                  </quotedStructure>
+                </mod>
+              </p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="hc_1__para_c">
+          <num>ג.</num>
+          <content>
+            <p>למען הסר ספק, מובהר כי האמור בסעיפים קטנים (ב)(1) ו-(ב)(2) לעיל, יחול גם על עובדי הוראה אשר היו זכאים לקידום בדרגה מיום <date date="2016-09-01">1.9.2016</date> ואילך, אלמלא הוראות הסכם זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="hc_1__para_d">
+          <num>ד.</num>
+          <intro>
+            <p>אין באמור בסעיף זה כדי לגרוע מיתר הוראות הסכם רפורמת <concept eId="con_13" refersTo="#reform_ofek">אופק חדש</concept>, על תיקוניו מעת לעת, או מהסכמות קיבוציות אחרות בין הצדדים, באשר לאופן הקידום בדרגות, אלא אם נקבע במפורש אחרת בהסכם זה.</p>
+          </intro>
+          <subparagraph eId="hc_1__para_d__subpara_5">
+            <num>5.</num>
+            <content>
+              <p>מיצוי תביעות ושקט תעשייתי</p>
+              <p>אין באמור בהסכם זה כדי לגרוע מההוראות בעניין מיצוי תביעות ושקט תעשייתי החלות בין הצדדים, או כדי להוסיף עליהן.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </hcontainer>
+    </body>
+    <conclusions>
+      <p>[חתימות] <organization eId="org_14" refersTo="#state-israel">מדינת ישראל</organization> | <organization eId="org_15" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      </p>
+      <p>2016-27355</p>
+      <p>3</p>
+    </conclusions>
+  </act>
+</akomaNtoso>

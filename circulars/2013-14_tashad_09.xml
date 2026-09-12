@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2014-08-19/2013-14-tashad-09/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2014-08-19/2013-14-tashad-09" />
+          <FRBRdate date="2014-08-19" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2014-08-19/2013-14-tashad-09/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2014-08-19/2013-14-tashad-09/heb@" />
+          <FRBRdate date="2014-08-19" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2014-08-19/2013-14-tashad-09/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2014-08-19/2013-14-tashad-09/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2014-08-19" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="hour" href="/ontology/concept/quantity/hour" showAs="שעה" />
+        <TLCConcept eId="month" href="/ontology/concept/quantity/month" showAs="חודש" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="student" href="/ontology/concept/quantity/student" showAs="תלמיד" />
+        <TLCConcept eId="study-unit" href="/ontology/concept/quantity/study-unit" showAs="יחידת לימוד" />
+        <TLCConcept eId="reform_oz" href="/ontology/concept/il/reform/oz-latmura" showAs="עוז לתמורה" />
+        <TLCTerm eId="term_2db30064" href="/ontology/term/il/2db30064" showAs="עובדי הוראה" />
+        <TLCTerm eId="term_62651766" href="/ontology/term/il/62651766" showAs="עבודה מופחתת" />
+        <TLCTerm eId="term_a35df041" href="/ontology/term/il/a35df041" showAs="ההסכם'" />
+        <TLCOrganization eId="unit_9b299eca" href="/ontology/organization/il/unit/9b299eca" showAs="אגף בכיר כח אדם בהוראה" />
+        <TLCOrganization eId="unit_cd9b3fd1" href="/ontology/organization/il/unit/cd9b3fd1" showAs="מנהל עובדי הוראה" />
+        <TLCRole eId="office_4550f3c8" href="/ontology/role/il/4550f3c8" showAs="ומנהל מינהל עובדי הוראה" />
+        <TLCRole eId="office_6fcdd19a" href="/ontology/role/il/6fcdd19a" showAs="סמנכ&quot;ל" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCPerson eId="p_d97f14ff" href="/ontology/person/il/d97f14ff" showAs="אייל רם" />
+        <TLCPerson eId="p_39fdaf3d" href="/ontology/person/il/39fdaf3d" showAs="קובי אמסלם" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2013-14_tashad_09.pdf" sha256="a6950db8ef4eb5b60c3f82b43b49a4d5a8739815cfe8c6863f3f695d336d8361" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר <docNumber>תשע"ד/9</docNumber> - הסכם קיבוצי עם <organization eId="org_1" refersTo="#irgun-hamorim">ארגון המורים</organization> בנושא הרפורמה ללמידה משמעותית</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_2" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_4" refersTo="#unit_cd9b3fd1">מנהל עובדי הוראה</organization>
+      </p>
+      <p><organization eId="org_5" refersTo="#unit_9b299eca">אגף בכיר כח אדם בהוראה</organization>
+      </p>
+      <p repo:role="title">הסכם קיבוצי עם <organization eId="org_6" refersTo="#irgun-hamorim">ארגון המורים</organization> בנושא הרפורמה ללמידה משמעותית</p>
+      <p><date date="2014-08-19">כג' אב תשע"ד</date>
+      </p>
+      <p><date date="2014-08-19">19 אוגוסט 2014</date>
+      </p>
+      <p>בתאריך  <date date="2014-07-15">15.7.2014</date> נחתם הסכם קיבוצי בין <organization eId="org_7" refersTo="#local-government">מרכז השלטון המקומי</organization> <organization eId="org_8" refersTo="#three-cities">ושלוש הערים הגדולות</organization>, לבין <organization eId="org_9" refersTo="#irgun-hamorim">ארגון המורים</organization> העל-</p>
+      <p>יסודיים, אשר קיבל את אישור <role eId="rol_10" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_11" refersTo="#mof">במשרד האוצר</organization> (להלן': <def refersTo="#term_a35df041">ההסכם'</def>) מצ"ב קישור לעותק מההסכם.</p>
+      <p>להלן עיקרי ההסכם:</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_a" repo:prose="same-source">
+        <num>א.</num>
+        <heading>כללי</heading>
+        <paragraph eId="art_a__para_1">
+          <num>1.</num>
+          <content>
+            <p>תחולת ההסכם</p>
+            <p>ההסכם חל על כל העובדים המדורגים בדירוג עובדי הוראה, המיוצגים על ידי <organization eId="org_12" refersTo="#irgun-hamorim">ארגון המורים</organization>, ומועסקים בשירות המעסיקים בחינוך העל יסודי – בחטיבות העליונות תלת שנתיות וארבע שנתיות (לרבות בכיתות י"ג  -י"ד), המפוקחות על-ידי <organization eId="org_13" refersTo="#moe">משרד החינוך</organization> (להלן": <def refersTo="#term_2db30064">עובדי הוראה</def>").</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_a__para_2">
+          <num>2.</num>
+          <content>
+            <p>תקופת ההסכם</p>
+            <p>תקופת ההסכם ותחילתו הינה מיום חתימת ההסכם ועד ליום .<date date="2017-08-31">31.8.2017</date>
+            </p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_b" repo:prose="same-source">
+        <num>ב.</num>
+        <heading>תיקון הסכם "<concept eId="con_14" refersTo="#reform_oz">עוז לתמורה</concept>"</heading>
+        <paragraph eId="art_b__para_1">
+          <num>1.</num>
+          <intro>
+            <p>הארכת משך היישום ההדרגתי של רפורמת <concept eId="con_15" refersTo="#reform_oz">עוז לתמורה</concept> בבתי הספר</p>
+          </intro>
+          <subparagraph eId="art_b__para_1__subpara_a">
+            <num>א.</num>
+            <content>
+              <p>רפורמת <concept eId="con_16" refersTo="#reform_oz">עוז לתמורה</concept> תיושם בבתי הספר אצל המעסיקים באופן הדרגתי, במהלך שנות הלימודים תשע"ב עד תשע"ז. החל משנת הלימודים תשע"ה, הרפורמה תיושם באופן מלא בלבד בכל בתי הספר בהם מיושמת הרפורמה. החל משנת הלימודים תשע"ז תיושם הרפורמה באופן מלא ומחייב בכלל החטיבות העליונות המפוקחות על ידי <organization eId="org_17" refersTo="#moe">משרד החינוך</organization>, בכפוף להוראות ההסכם.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_b__para_1__subpara_b">
+            <num>ב.</num>
+            <content>
+              <p>בשנות הלימודים תשע"ה ותשע"ו, נדרשת הסכמה בכתב של  <quantity eId="qty_1" refersTo="#percentage" normalized="60">60%</quantity>מעובדי ההוראה</p>
+              <p>המועסקים בבית הספר והעומדים בתנאים להעסקה בתנאי הרפורמה, כתנאי סף ליישום</p>
+              <p>הרפורמה בבית הספר. <organization eId="org_18" refersTo="#moe">משרד החינוך</organization> יהיה רשאי לקבוע כי נדרשת הסכמה בכתב בשיעור הנמוך מ <quantity eId="qty_2" refersTo="#percentage" normalized="60">60%</quantity>-מעובדי ההוראה בבית הספר, העומדים בתנאים להעסקה בתנאי הרפורמה, כתנאי סף ליישום הרפורמה בבית הספר.</p>
+              <p><organization eId="org_19" refersTo="#moe">משרד החינוך</organization> הוא הגורם אשר יודיע לבעלות בדבר צירוף בית ספר <concept eId="con_20" refersTo="#reform_oz">לעוז לתמורה</concept>. אין לצרף בית ספר <concept eId="con_21" refersTo="#reform_oz">לעוז לתמורה</concept> מבלי שהתקבלה הודעה על צירוף בית הספר מאת המינהל הפדגוגי של <organization eId="org_22" refersTo="#moe">משרד החינוך</organization>.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_b__para_2">
+          <num>2.</num>
+          <content>
+            <p>עובדי הוראה קיימים</p>
+            <p>סעיף ( 7ב) להסכם <concept eId="con_23" refersTo="#reform_oz">עוז לתמורה</concept>, אשר לפיו עובד הוראה קיים (אשר אינו משמש בתפקיד מנהל) המועסק בבית ספר בו מיושמת הרפורמה, אשר לא הודיע בכתב (דהיינו, במערכת הממוחשבת המיועדת לכך של <organization eId="org_24" refersTo="#moe">משרד החינוך</organization>) על הסכמתו להצטרפות לרפורמה, לא יועסק לפי תנאי הרפורמה, יוארך עד לשנה"ל תשע"ו (כולל). החל משנה"ל תשע"ז כל עובדי ההוראה יועסקו לפי תנאי הרפורמה.</p>
+            <p>מקרים חריגים ידונו בוועדת חריגים של <organization eId="org_25" refersTo="#moe">משרד החינוך</organization> בהתאם לכללים בסעיף ( 7ז) בהסכם <concept eId="con_26" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_b__para_3">
+          <num>3.</num>
+          <content>
+            <p>אופן העסקה במילוי מקום</p>
+            <p>הכללים בסעיף זה, סעיף  8 להסכם <concept eId="con_27" refersTo="#reform_oz">עוז לתמורה</concept>, יוארכו עד לשנה"ל תשע"ו (כולל).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_b__para_4">
+          <num>4.</num>
+          <content>
+            <p>הצטרפות עובדי הוראה המלמדים בכיתות י"ג -י"ד לרפורמה</p>
+            <p>סעיף  18 להחלטת ועדת המעקב שעניינו הצטרפות עובדי הוראה המלמדים בכיתות י"ג -י"ד לרפורמה יתוקן כך שבכל מקום בו מצוינות המילים "שנת הלימודים תשע"ה", יבואו המלים": שנת הלימודים תשע"ז". לפיכך, ההצטרפות של עובדי ההוראה המלמדים בכיתות י"ג -י"ד לרפורמה תבוצע רק בשנה"ל תשע"ז.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_b__para_5">
+          <num>5.</num>
+          <intro>
+            <p>מבנה שבוע העבודה</p>
+          </intro>
+          <subparagraph eId="art_b__para_5__subpara_a">
+            <num>א.</num>
+            <content>
+              <p>גמר תוקפו של סעיף זה הינו ביום  .<date date="2017-08-31">31.8.2017</date> לאחר סיום תוקפו של סעיף זה ימשיכו לחול הכללים האמורים בסעיפים  9ו 22-להסכם "<concept eId="con_28" refersTo="#reform_oz">עוז לתמורה</concept>" כפי שהיו ערב חתימת ההסכם .</p>
+              <p>ככל שיוחלט על הארכת סעיף זה יפורסם הדבר כמקובל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_b__para_5__subpara_b">
+            <num>ב.</num>
+            <intro>
+              <p>בסעיף  9 להסכם <concept eId="con_29" refersTo="#reform_oz">עוז לתמורה</concept> תוקנו מספר סעיפי משנה. משכך מבנה שבוע העבודה של מורה ברפורמה, ביישומה המלא יהיה כמפורט להלן:</p>
+            </intro>
+            <clause eId="art_b__para_5__subpara_b__cls_a">
+              <num>א.</num>
+              <content>
+                <p>בסיס המשרה של מורה המועסק בהיקף משרה של  <quantity eId="qty_3" refersTo="#percentage" normalized="100">100%</quantity>יהיה  <quantity eId="qty_4" refersTo="#hour" normalized="40">40 שעות</quantity> שבועיות (ש"ש).</p>
+              </content>
+            </clause>
+            <clause eId="art_b__para_5__subpara_b__cls_b">
+              <num>ב.</num>
+              <content>
+                <p>שעות העבודה של מורה המועסק בהיקף משרה של  <quantity eId="qty_5" refersTo="#percentage" normalized="100">100%</quantity>יהיו:</p>
+                <p>בימים א' עד ה' 8:00: עד ( 15:30 בכפוף לסעיפים קטנים (ג) ו – (ד) להלן);</p>
+                <p>ביום ו' (או יום שבת  /יום א' במגזר שאינו יהודי) 8:00: עד ( 12:45 בכפוף</p>
+                <p>לסעיפים קטנים (ג) ו – (ד) להלן) בכפוף ללוח הצלצולים שבהתאם להנחיות <organization eId="org_30" refersTo="#moe">משרד החינוך</organization>;</p>
+                <p>ב 1.שעות העבודה של עובד הוראה ייספרו מרגע החתימה בשעון הנוכחות, אך לא לפני השעה  7:45 בבוקר, בכפוף לאמור בסעיפים קטנים (ב )2ו – (ג). ".</p>
+                <p>ב .2 על אף האמור לעיל, מנהל בית ספר יוכל לקבוע, לפי בקשה של עובד ההוראה לפני תחילת שנת לימודים או לפני תחילת מחצית של שנת לימודים, כי יום העבודה של עובד ההוראה יחל לפני השעה  8:00 בבוקר, אך לא לפני השעה  7:00 בבוקר. במקרה זה ייספרו שעות העבודה של עובד ההוראה מרגע החתימה בשעון הנוכחות, אך לא לפני השעה שקבע המנהל כתחילת יום העבודה. שעות העבודה שלפני השעה  8:00 בבוקר כאמור ישובצו במערכת השעות השבועית של עובד ההוראה כשעות תומכות הוראה, כאמור בסעיף-קטן (ו) להלן. יום עבודה זה יסתיים מוקדם יותר בהתאמה.</p>
+              </content>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_c" repo:prose="same-source">
+        <num>ג.</num>
+        <content>
+          <p>בבית ספר בו מתקיימת תפילה בבוקר, עובד הוראה אשר נוכחותו בתפילה נדרשת</p>
+          <p>בהתאם לרשימה שיקבע מנהל בית הספר, יהיה רשאי להתחיל את יום העבודה (בו</p>
+          <p>נדרשת ממנו נוכחות כאמור) בשעת תחילת התפילה (כפי שיקבע מנהל בית הספר) אך</p>
+          <p>לא לפני השעה  .7:00 יום עבודה זה יסתיים מוקדם יותר בהתאמה.</p>
+        </content>
+      </article>
+      <article eId="art_d" repo:prose="same-source">
+        <num>ד.</num>
+        <content>
+          <p>מורה, המועסק בהיקף משרה של  <quantity eId="qty_6" refersTo="#percentage" normalized="100">100%</quantity>ושהיום החופשי שלו בשבוע אינו יום הלימודים הקצר בשבוע, יבצע את השעות הנדרשות לצורך השלמה של מכסת  <quantity eId="qty_7" refersTo="#hour" normalized="40">40 השעות</quantity> השבועיות בימים א' עד ה' מ –  15:30 עד, 16:15ו/או ביום ו' (או יום שבת  /יום א' במגזר שאינו יהודי): בין  13:00ל –  13:45 בכפוף ללוח הצלצולים שבהתאם להנחיות <organization eId="org_31" refersTo="#moe">משרד החינוך</organization>.</p>
+        </content>
+      </article>
+      <article eId="art_e" repo:prose="same-source">
+        <num>ה.</num>
+        <content>
+          <p>במקרים מיוחדים (כגון ביום בו מתקיימת בבית הספר אסיפת הורים, וכיו"ב) יהיה מנהל בית הספר רשאי לקבוע, בהסכמת ועד המורים של בית הספר, ולאותם מקרים בלבד, שעות עבודה שונות מהקבוע בסעיף-קטן (ב) לעיל. למען הסר ספק מובהר, כי אין בכך כדי לאפשר שינוי של מספר השעות השבועיות, כמפורט בסעיף–קטן (א) לעיל, או של הרכבן, כמפורט בסעיף-קטן (ו) להלן.</p>
+          <p>ה .1 עובדי הוראה, אשר לשם ביצוע עבודתם זקוקים לתשתיות מיוחדות, שאינן עומדות לרשותם באופן שיוכלו לבצע את כל שעות עבודתם בין השעות  8:00ל – ( 16:15 כגון אולם מחול, חדר עריכה, בימת תיאטרון, מעבדה וכדו'), יהיו רשאים לבצע את עבודתם גם לאחר השעה  16:15 ובלבד שלא יעבדו במשך יותר מ –  <quantity eId="qty_8" refersTo="#hour" normalized="9">9 שעות</quantity> במהלך יום אחד.</p>
+        </content>
+      </article>
+      <article eId="art_f" repo:prose="same-source">
+        <num>ו.</num>
+        <heading>ההרכב של  <quantity eId="qty_9" refersTo="#hour" normalized="40">40 השעות</quantity> השבועיות יהיה כדלהלן:</heading>
+        <content>
+          <p>24 .<quantity eId="qty_10" refersTo="#hour" normalized="1">1 שעות</quantity> הוראה פרונטאלית בפני כיתה (בכפוף לאמור בסעיפים  11, 10ו 12 -</p>
+          <p>להסכם <concept eId="con_32" refersTo="#reform_oz">עוז לתמורה</concept>);</p>
+          <p>6 .<quantity eId="qty_11" refersTo="#hour" normalized="2">2 שעות</quantity> פרטניות, בהן יעבוד המורה עם קבוצה של עד  <quantity eId="qty_12" refersTo="#student" normalized="3">3 תלמידים</quantity>, או, לפי</p>
+          <p>החלטה של צוות פדגוגי בראשות מנהל בית הספר – עד  <quantity eId="qty_13" refersTo="#student" normalized="5">5 תלמידים</quantity>.</p>
+          <p>השעות הפרטניות ישמשו לצורך מתן תגבור לימודי, הרחבה והעמקה למגוון</p>
+          <p>תלמידים ולהעמקת השיח המשמעותי בין המורה לתלמידיו.</p>
+          <p>10 .<quantity eId="qty_14" refersTo="#hour" normalized="3">3 שעות</quantity> תומכות הוראה, בהן ישהה המורה בבית הספר ויעסוק בפעילויות</p>
+          <p>הבאות:</p>
+          <p>ישיבות עבודה ( <quantity eId="qty_15" refersTo="#hour" normalized="2">2ש"ש</quantity>);</p>
+          <p>השתלמויות צוותיות ( <quantity eId="qty_16" refersTo="#hour" normalized="2">2ש"ש</quantity>);</p>
+          <p>שיחות עם הורים ( <quantity eId="qty_17" refersTo="#hour" normalized="1">1ש"ש</quantity>);</p>
+          <p>הכנת חומרי הוראה, בדיקת עבודת ומבחנים ( <quantity eId="qty_18" refersTo="#hour" normalized="5">5ש"ש</quantity>).</p>
+        </content>
+      </article>
+      <article eId="art_g" repo:prose="same-source">
+        <num>ז.</num>
+        <content>
+          <p>על -פי החלטה של מנהל בית הספר או באישורו לבקשה של מורה/ים, ניתן יהיה לשנות את תמהיל הפעילויות המבוצעות במהלך השעות תומכות ההוראה, ובלבד שבממוצע דו-</p>
+          <p>חודשי יהיה התמהיל כאמור בסעיף-קטן (ו).</p>
+        </content>
+      </article>
+      <article eId="art_h" repo:prose="same-source">
+        <num>ח.</num>
+        <content>
+          <p>לא תתאפשר המרה של שעות פרטניות בשעות תומכות הוראה, המרה של שעות</p>
+          <p>תומכות הוראה בשעות פרטניות, או המרה של שעות פרונטאליות בשעות פרטניות או</p>
+          <p>בשעות תומכות הוראה.</p>
+        </content>
+      </article>
+      <article eId="art_i" repo:prose="same-source">
+        <num>ט.</num>
+        <content>
+          <p>עובד הוראה יהיה רשאי לבצע שעת מילוי מקום במקום שעה תומכת הוראה. עובד</p>
+          <p>הוראה אשר בחר שלא להשלים את השעה תומכת ההוראה האמורה יהיה זכאי לתגמול</p>
+          <p>בשווי של  <quantity eId="qty_19" refersTo="#percentage" normalized="125">125%</quantity>כפול ערך שעה עבור השעה האמורה, ולא ישולם לו התגמול הרגיל</p>
+          <p>עבור השעה תומכת ההוראה.</p>
+        </content>
+      </article>
+      <article eId="art_j" repo:prose="same-source">
+        <num>י.</num>
+        <intro>
+          <p>במקרה בו בחר עובד ההוראה להשלים את השעה תומכת ההוראה אשר במקומה ביצע</p>
+          <p>שעת מילוי מקום, יחולו כללי התגמול עבור שעת מילוי מקום אשר היו קיימים ערב</p>
+          <p>חתימת הסכם <concept eId="con_33" refersTo="#reform_oz">עוז לתמורה</concept> (ולא יחול האמור בסעיף-קטן (ט) לעיל).</p>
+          <p>י.1</p>
+          <p>על אף האמור לעיל, במקרה בו מנהל בית הספר סבור, כי בחלק מהחודשים</p>
+          <p>במהלך שנת הלימודים, קיים צורך בעבודה מוגברת של עובד ההוראה, מעבר</p>
+          <p>לשעות העבודה הנדרשות ממנו על-פי היקף משרתו(, להלן": עבודה מוגברת"),</p>
+          <p>יוכל מנהל בית הספר, בהסכמה עם עובד ההוראה, להכין עבור עובד ההוראה</p>
+          <p>תוכנית עבודה, לפיה בחודשים הקודמים לחודשים האמורים, במהלך אותה שנת</p>
+          <p>לימודים, אך לא יותר מחודש אחד בגין כל חודש של עבודה מוגברת, יבצע</p>
+          <p>העובד מספר נמוך של שעות תומכות הוראה מהנדרש על-פי היקף משרתו</p>
+          <p>(להלן": <def refersTo="#term_62651766">עבודה מופחתת</def>"), ובמקום השעות שהופחתו יבצע עובד ההוראה,</p>
+          <p>בחודשים בהם נדרשת עבודה מוגברת, מספר שעות תומכות הוראה גבוה</p>
+          <p>מהנדרש לפי היקף משרתו. כל האמור הינו בכפוף לכך שעובד ההוראה לא יעבוד</p>
+          <p>למעלה מ –  <quantity eId="qty_20" refersTo="#hour" normalized="9">9 שעות</quantity> ביום ולמעלה מ –  <quantity eId="qty_21" refersTo="#hour" normalized="43">43 שעות</quantity> בשבוע.</p>
+          <p>המשכורת המשולמת לעובד ההוראה עבור כל חודש לא תשתנה בשל תוכנית</p>
+          <p>העבודה האמורה בפסקה (. )1 התשלום עבור השעות שלא בוצעו בחודשים בהן</p>
+          <p>בוצעה עבודה מופחתת יהווה מקדמה עבור החודשים בהם תבוצע עבודה</p>
+          <p>מוגברת.</p>
+          <p>עובד ההוראה יחתום על הסכמה לתוכנית העבודה ולתשלום מקדמה בחודשי</p>
+          <p>העבודה המופחתת על חשבון השכר המגיע עבור חודשי העבודה המוגברת.</p>
+        </intro>
+        <paragraph eId="art_j__para_ja">
+          <num>יא.</num>
+          <content>
+            <p>לצורך קביעת משך הנוכחות השבועית בבית הספר של מורה, המועסק במשרה מלאה או חלקית, בפחות מ <quantity eId="qty_22" refersTo="#hour" normalized="8">8 -ש"ש</quantity> (שעות שבועיות) ביום העבודה, משך שעה שבועית (ש"ש) בבית הספר ייקבע על פי משכה של שעת הוראה במערכת החינוך, כפי שנקבע בהוראות <organization eId="org_34" refersTo="#moe">משרד החינוך</organization> ועל פי לוח הצלצולים הנוהג בבית הספר זאת מבלי לגרוע מהאמור בהוראות סעיף ( 9ב( – )1ב )2 לעיל.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_j__para_jb">
+          <num>יב.</num>
+          <content>
+            <p>אין בהוראות האמורות לעיל כדי לגרוע מחובתו של עובד הוראה לבצע את מכלול מטלותיו במשך כל שהותו בבית הספר, או לגרוע מחובותיו על פי מערכת השעות.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_j__para_jc">
+          <num>יג.</num>
+          <intro>
+            <p>למען הסר ספק, סעיף (26י) וסעיף (30ג) להסכם <concept eId="con_35" refersTo="#reform_oz">עוז לתמורה</concept> בטלים. כמו כן,</p>
+            <p>בטבלאות שבוע העבודה המצורפות כנספחים א', א', 3ב', ב', 3ג', ג' 3 להסכם <concept eId="con_36" refersTo="#reform_oz">עוז לתמורה</concept> במקום שמצוין כי': משך הנוכחות השבועית בבית הספר (שעות של  60 דקות)', המילים '(שעות של  60 דקות)' יימחקו." .</p>
+          </intro>
+          <subparagraph eId="art_j__para_jc__subpara_ja">
+            <num>(יא)</num>
+            <intro>
+              <p>(יב) (יג) ג. בסעיף  22 להסכם <concept eId="con_37" refersTo="#reform_oz">עוז לתמורה</concept> תוקנו מס' סעיפי משנה. משכך מבנה שבוע        ג.</p>
+              <p>העבודה של מנהל בית ספר ברפורמה, יהיה כמפורט להלן:</p>
+            </intro>
+            <clause eId="art_j__para_jc__subpara_ja__cls_1">
+              <num>1.</num>
+              <content>
+                <p>בסיס המשרה של מנהל בית ספר יהיה  <quantity eId="qty_23" refersTo="#hour" normalized="40">40 שעות</quantity> שבועיות (ש"ש) (היקף משרה של .)<quantity eId="qty_24" refersTo="#percentage" normalized="100">100%</quantity>
+                </p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jc__subpara_ja__cls_2">
+              <num>2.</num>
+              <content>
+                <p>שעות העבודה של מנהל בית ספר יהיו:</p>
+                <p>בימים א' עד ה' 8:00: עד; 16:15 / 15:30</p>
+                <p>ביום ו' (או יום שבת  /יום א' במגזר שאינו יהודי) 8:00: עד 13:45 / 12:45</p>
+                <p>ובכפוף ללוח הצלצולים שבהתאם להנחיות <organization eId="org_38" refersTo="#moe">משרד החינוך</organization>.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jc__subpara_ja__cls_3">
+              <num>3.</num>
+              <content>
+                <p>מנהל בית ספר אשר היום החופשי שלו בשבוע אינו יום הלימודים הקצר בשבוע,</p>
+                <p>יבצע את השעות הנדרשות לצורך השלמה של מכסת  <quantity eId="qty_25" refersTo="#hour" normalized="40">40 השעות</quantity> השבועיות בימים א' עד ה' מ –  15:30 עד, 16:15ו/או ביום ו' (או יום שבת  /יום א' במגזר שאינו יהודי): בין  13:00ל –  13:45 בכפוף ללוח הצלצולים שבהתאם להנחיות <organization eId="org_39" refersTo="#moe">משרד החינוך</organization>.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jc__subpara_ja__cls_4">
+              <num>4.</num>
+              <content>
+                <p>מתוך  <quantity eId="qty_26" refersTo="#hour" normalized="40">40 השעות</quantity> השבועיות 3, עד  <quantity eId="qty_27" refersTo="#hour" normalized="6">6 שעות</quantity> שבועיות יהיו שעות הוראה פרונטאלית (בפועל), בהתאם להנחיות <organization eId="org_40" refersTo="#moe">משרד החינוך</organization>. ביתר השעות יעסוק המנהל בניהול בית הספר ובהערכה של מורים.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jc__subpara_ja__cls_5">
+              <num>5.</num>
+              <content>
+                <p>שעות תפקיד של מנהל בית ספר יבוצעו על-ידו בין כותלי בית הספר.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jc__subpara_ja__cls_6">
+              <num>6.</num>
+              <content>
+                <p>מנהלת שהינה מורה אם (אם לילד עד גיל, )14 המועסקת בתנאי הרפורמה, תהיה</p>
+                <p>זכאית להפחתה של  <quantity eId="qty_28" refersTo="#hour" normalized="2.4">2.4 שעות</quantity> ניהול ממשרתה, מבלי שייפגעו היקף משרתה או השתכרותה בשל כך.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jc__subpara_ja__cls_7">
+              <num>7.</num>
+              <intro>
+                <p>לא יחול שינוי בכללים החלים על מנהל בית ספר לעניין הפחתת שעות בשל גיל.</p>
+              </intro>
+              <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_6">
+                <num>6.</num>
+                <intro>
+                  <p>הערכת מורים</p>
+                </intro>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_6__pnt_a">
+                  <num>א.</num>
+                  <content>
+                    <p>בהמשך לאמור בסעיף  19 להסכם <concept eId="con_41" refersTo="#reform_oz">עוז לתמורה</concept>, החל משנת הלימודים תשע"ה, הערכת מורים בבית הספר, תבוצע, בכל בתי הספר, הן בבתי הספר שהצטרפו לרפורמה והן בבתי הספר שטרם הצטרפו לרפורמה. ההערכה תבוצע בהתאם למודל ההערכה הראשוני, שנקבע על ידי <organization eId="org_42" refersTo="#moe">משרד החינוך</organization> בתיאום עם <organization eId="org_43" refersTo="#irgun-hamorim">ארגון המורים</organization>.</p>
+                    <p>הוראות נוספות בדבר אופן הערכת מורים בשנת הלימודים תשע"ה יפורסמו על ידי <organization eId="org_44" refersTo="#moe">משרד החינוך</organization> בהמשך.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_6__pnt_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>החל משנת הלימודים תשע"ד, הוראת סעיף  35 להסכם <concept eId="con_45" refersTo="#reform_oz">עוז לתמורה</concept> (על כל סעיפי המשנה שבה) מבוטלת.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_6__pnt_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>אין באמור לעיל כדי לגרוע מההוראות הקבועות בסעיף  20 להסכם <concept eId="con_46" refersTo="#reform_oz">עוז לתמורה</concept>, לפיו למורה המועסק בתנאי הרפורמה תינתן האפשרות לצבור נקודות זכות בגין תוצאות ההערכה שתבוצע בשנת הלימודים תשע"ה ומאותה שנה ואילך, על מנת לזכות בתוספת דרגת קידום.</p>
+                    <p>בכוונת המדינה, <organization eId="org_47" refersTo="#local-government">מרכז השלטון המקומי</organization> <organization eId="org_48" refersTo="#three-cities">ושלוש הערים הגדולות</organization> לשקול את האפשרות ליצור הסדר לתשלום מענק לעובדי הוראה המועסקים בחטיבות העליונות בגין תוצאות הערכה אישית, אך לא לפני שנת הלימודים תשע"ז.</p>
+                  </content>
+                </point>
+              </point>
+              <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_7">
+                <num>7.</num>
+                <intro>
+                  <p>מענק חד פעמי</p>
+                </intro>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_7__pnt_a">
+                  <num>א.</num>
+                  <content>
+                    <p>מורים אשר הועסקו בתנאי הרפורמה ( מלאה או חלקית) בשנת הלימודים תשע"ג יהיו זכאים למענק חד פעמי בסכום של. <quantity eId="qty_29" refersTo="#ILS" normalized="666">₪ 666</quantity> הסכום הוא למורה שהועסק בשנה זו ב –  <quantity eId="qty_30" refersTo="#percentage" normalized="100">100%</quantity>משרה.</p>
+                    <p>מורה אשר הועסק בתנאי הרפורמה בשנה זו, במשרה חלקית, או רק בחלק משנת הלימודים תשע"ג (לרבות מורה אשר שהה בחל"ת או בשבתון בחלק משנת הלימודים), יהיה זכאי לחלק היחסי של הסכום האמור, בהתאם לחלקיות משרתו ו/או לחלק היחסי של התקופה בה הועסק מתוך שנת הלימודים (ספטמבר עד יוני).</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_7__pnt_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>מענק האמור בסעיף זה לא ייכלל בבסיס לחישוב ערך שעה, פיצויי פיטורים או תוספות אחוזיות, ולא יבוצעו בגינו הפרשות לקרן השתלמות.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_7__pnt_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>בגין מענק האמור בסעיף זה יבוצעו הפרשות לקופת גמל לקצבה בשיעורים של  - <quantity eId="qty_31" refersTo="#percentage" normalized="5">5%</quantity>הפרשת מעסיק לתגמולים ו –  <quantity eId="qty_32" refersTo="#percentage" normalized="5">5%</quantity>ניכוי ממשכורת המורה לתגמולים.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_7__pnt_d">
+                  <num>ד.</num>
+                  <content>
+                    <p>למען הסר ספק, מורים אשר הועסקו בשנת הלימודים תשע"ג ( <date date="2012-08-27">27.8.2012</date> ועד )<date date="2013-06-20">20.6.2013</date> במילוי מקום בלבד, ומורים אשר שהו בחל"ת או בשבתון במשך למעלה מ –  <quantity eId="qty_33" refersTo="#month" normalized="6">6 חודשים</quantity> מתוך</p>
+                    <p>שנת הלימודים לא יהיו זכאים לתשלום המענק האמור. המענק ישולם למורים הזכאים לו במשכורת חודש אוגוסט .2014</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_7__pnt_e">
+                  <num>ה.</num>
+                  <content>
+                    <p>למען הסר ספק, לא ישולם מענק בגין שנת הלימודים תשע"ד וכן לא עבור השנים תשע"ה ותשע"ו.</p>
+                  </content>
+                </point>
+              </point>
+              <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_8">
+                <num>8.</num>
+                <intro>
+                  <p>שינויים בשכר מנהלי בתי ספר</p>
+                </intro>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_8__pnt_a">
+                  <num>א.</num>
+                  <content>
+                    <p>בשינוי לאמור בסעיף (24ב) להסכם <concept eId="con_49" refersTo="#reform_oz">עוז לתמורה</concept>, החל משנת הלימודים תשע"ד, תוספת מעבר לרפורמה בשיעור של  <quantity eId="qty_34" refersTo="#percentage" normalized="50">50%</quantity>כמשמעותה בסעיף  24 באותו הסכם, תיכלל בבסיס לחישוב גמול ניהול המשולם למנהלים.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_8__pnt_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>החל משנת הלימודים תשע"ד, סעיפים (24ד)(24, ה) (24ו)( 31, א) להסכם <concept eId="con_50" refersTo="#reform_oz">עוז לתמורה</concept> שעניינם תוספת <concept eId="con_51" refersTo="#reform_oz">עוז לתמורה</concept> למנהלים בשיעור של, <quantity eId="qty_35" refersTo="#percentage" normalized="30">30%</quantity>בטלים ומשכך אין לשלם תוספת <concept eId="con_52" refersTo="#reform_oz">עוז לתמורה</concept> – מנהלים החל מתחילת שנת הלימודים תשע"ד</p>
+                  </content>
+                </point>
+              </point>
+              <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_9">
+                <num>9.</num>
+                <intro>
+                  <p>הרפורמה בבחינות הבגרות</p>
+                  <p>במסגרת ההסכם <organization eId="org_53" refersTo="#irgun-hamorim">ארגון המורים</organization> הודיע כי הרפורמה בבחינות הבגרות, כפי שנקבעה על ידי <organization eId="org_54" refersTo="#moe">משרד החינוך</organization> ואשר הוצגה <organization eId="org_55" refersTo="#irgun-hamorim">לארגון המורים</organization> בישיבה מיום  <date date="2014-02-05">5.2.2014</date> כמפורט בסיכום הדיון מאותו מועד ובנספח לו, מקובלת עליו, וזאת למעט האמור בסעיף  5 לנספח ("שלב שני"), והוא התחייב לשתף פעולה באופן מלא בכל הקשור ליישומה ובין היתר, בקיום הערכה חלופית בבתי הספר (לרבות הנחייה והכוונה של תלמידים לביצוע ההערכה חלופית).</p>
+                  <p>הוראות מפורטות בדבר הרפורמה בבחינות הבגרות וההערכה החלופית פורסמו בחוזר מנכ"ל תשע"ד(7/ד). יש לעקוב אחר פרסומים נוספים בחוזרי מנכ"ל בהמשך.</p>
+                </intro>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_9__pnt_a">
+                  <num>א.</num>
+                  <content>
+                    <p>מובהר כי אין שינוי בהוראות ההסכמים הקיימים לעניין התגמול לעובד הוראה בגין ליווי והנחיה של תלמידים במקצועות לבגרות (למען הסר ספק, לרבות במסגרת עבודות חקר ומטלת ביצוע).</p>
+                    <p>זאת, ביחס למקצועות ולמטלות שבגינם ניתן התגמול כאמור, קודם לחתימת ההסכם.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_9__pnt_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>אין שינוי בתנאי הזכאות הקבועים לקבלת הגמולים בגין הכנה לבגרות, הן לעניין הגמול המשולם על דרך שעות והן הגמול המשולם באחוזים, כל גמול לפי תנאיו, וזאת בכפוף לאמור להלן.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_9__pnt_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>נוכח מתכונת הבחינות הקבועה במסגרת הרפורמה בבחינות הבגרות, אשר במסגרתה בחינת הבגרות בכל מקצוע נחלקת לבחינת בגרות חיצונית (כ–  <quantity eId="qty_36" refersTo="#percentage" normalized="70">70%</quantity>מהחומר) ולהערכה בית ספרית (כ  <quantity eId="qty_37" refersTo="#percentage" normalized="30">30%</quantity>-מהחומר), במקרה בו בחינת הבגרות החיצונית וההערכה הבית ספרית תתקיימנה שלא באותה שנת לימודים, תשלום גמול ההכנה לבגרות למקצוע יחולק בהתאם. דהיינו <quantity eId="qty_38" refersTo="#percentage" normalized="70">70%</quantity> , מגמול ההכנה לבגרות במקצוע ישולם למורה, בשנת הלימודים בה ניגשת הכיתה לבחינת הבגרות החיצונית, ו <quantity eId="qty_39" refersTo="#percentage" normalized="30">30%</quantity>-מגמול ההכנה לבגרות במקצוע ישולם למורה בשנת הלימודים בה נערכת ההערכה הבית ספרית.</p>
+                    <p>להלן דוגמאות לשם המחשה:</p>
+                    <p>הגמול עבור הכנה לבחינת בגרות בגין  <quantity eId="qty_40" refersTo="#study-unit" normalized="2">2 יחידות לימוד</quantity> הינה  1.5:ש"ש.<quantity eId="qty_41" refersTo="#percentage" normalized="2">2%</quantity>+</p>
+                    <p>מורה המכין כיתת תלמידים לבחינת הבגרות החיצונית, אשר משקלה  <quantity eId="qty_42" refersTo="#percentage" normalized="70">70%</quantity>מהחומר, יהיה זכאי לקבל בשנה בה הכתה ניגשת לבחינת הבגרות החיצונית  <quantity eId="qty_43" refersTo="#percentage" normalized="70">70%</quantity>מהגמול המלא, דהיינו, יקבל  <quantity eId="qty_44" refersTo="#hour" normalized="1.05">1.05ש"ש</quantity>  .<quantity eId="qty_45" refersTo="#percentage" normalized="1.4">1.4%</quantity>+במידה ויכין בשנה שלאחר מכן את הכתה להערכה הבית ספרית שמשקלה  <quantity eId="qty_46" refersTo="#percentage" normalized="30">30%</quantity>מהחומר, יהיה זכאי לקבל, בשנה בה הכתה מגישה את ההערכה הבית ספרית <quantity eId="qty_47" refersTo="#percentage" normalized="30">30%</quantity>, מהגמול המלא, דהיינו יקבל  <quantity eId="qty_48" refersTo="#hour" normalized="0.45">0.45ש"ש</quantity> .<quantity eId="qty_49" refersTo="#percentage" normalized="0.6">0.6%</quantity>+אם המורה יגיש את הכתה באותה השנה הן לבחינה חיצונית והן להערכה בית ספרית יהיה זכאי באותה השנה למלוא הגמול.</p>
+                  </content>
+                </point>
+              </point>
+              <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_10">
+                <num>10.</num>
+                <intro>
+                  <p>אופן השלמת שעות העבודה בעקבות צעדים ארגוניים של <organization eId="org_56" refersTo="#irgun-hamorim">ארגון המורים</organization> ואי נקיטה בפעולות בהתאם למכתבו של מר <person eId="pers_1" refersTo="#p_39fdaf3d">קובי אמסלם</person>, <role eId="rol_57" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> מיום, <date date="2014-07-23">23.7.2014</date> להלן הבהרותינו:</p>
+                  <p>ככל שעובד הוראה החסיר מזמן עבודתו ושהה בבית הספר פחות מהמתחייב בהסכם <concept eId="con_58" refersTo="#reform_oz">עוז לתמורה</concept>, יוכל להשלים את משך זמן עבודתו באופן הבא:</p>
+                </intro>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_10__pnt_a">
+                  <num>א.</num>
+                  <content>
+                    <p>הארכת משך הנוכחות בבית הספר בימי עבודה החלים במהלך תקופת הלימודים שעד ליום .<date date="2014-12-31">31.12.2014</date> זמן עבודה נוסף זה ישמש לביצוע משימות המבוצעות בשעות תומכות הוראה, וזאת בהסתמך על כך שעובד ההוראה לא החסיר שעות הוראה פרונטאליות או שעות פרטניות.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_10__pnt_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>זמן העבודה שיושלם לא יעלה על  <quantity eId="qty_50" refersTo="#hour" normalized="11">11 שעות</quantity> תומכות הוראה בסך הכל.</p>
+                  </content>
+                </point>
+                <point eId="art_j__para_jc__subpara_ja__cls_7__pnt_10__pnt_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>עובד הוראה שישלים את זמן העבודה שהחסיר, או  <quantity eId="qty_51" refersTo="#hour" normalized="11">11 שעות</quantity> תומכות הוראה, לפי הנמוך מבניהם -</p>
+                    <p>לא תבוצע הפחתה משכרו בגין החסרת זמן עבודה בשל הצעדים הארגוניים שנקט ההוראות במכתבו זה של <role eId="rol_59" refersTo="#role-memuneh-sachar">הממונה על השכר</role> באות במקום ההוראות שבמכתבו מיום .<date date="2014-03-02">2.3.2014</date> אין לנקוט בפעולה כלשהי ביחס לעובדי הוראה אשר פעלו החל מיום  <date date="2014-03-11">11.3.2014</date> בהתאם להוראות ההסכם.</p>
+                  </content>
+                </point>
+              </point>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>לשאלות בנוגע לחוזר זה, ניתן לפנות ליחידה לתנאי שירות עובדי הוראה בטלפונים:</p>
+      <p>.02-5604828/4757</p>
+      <p>בכבוד רב,</p>
+      <p><signature eId="signature_1">
+          <person eId="pers_2" refersTo="#p_d97f14ff">אייל רם</person> <role eId="rol_62" refersTo="#office_6fcdd19a">סמנכ"ל</role>
+        </signature>
+      </p>
+      <p><role eId="rol_63" refersTo="#office_4550f3c8">ומנהל מינהל עובדי הוראה</role>
+      </p>
+      <p>נספחים לחוזר זה:</p>
+      <p><a href="http://meyda.education.gov.il/files/MinhalPedagogy/heskemoz.pdf">הסכם קיבוצי החתום מתאריך</a> <date date="2014-07-15">15.7.2014</date>
+      </p>
+      <p><a href="https://meyda.education.gov.il/files/Sherut/shfysv.pdf">פרוטוקול מיום</a> .<date date="2014-02-05">5.2.2014</date>
+      </p>
+      <p>מכתבו של <role eId="rol_60" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מיום  <date date="2014-07-23">23.7.2014</date> <a href="http://cms.education.gov.il/NR/rdonlyres/7AD605E7-DB30-484A-B38A-BF2B28B11B6C/211652/memune.pdf">בנושא "אופן השלמת שעות העבודה בעקבות צעדים</a> ארגוניים של <organization eId="org_61" refersTo="#irgun-hamorim">ארגון המורים</organization> ואי נקיטה בפעולות" <a href="http://cms.education.gov.il/NR/rdonlyres/7AD605E7-DB30-484A-B38A-BF2B28B11B6C/211653/protokol.pdf">פרוטוקול בנושא הערכת מורים מיום</a> . <date date="2014-03-06">6.3.2014</date> מודל הערכת מורים בחטיבה העליונה חוזר מנכ"ל תשעד(7/ד), <date date="2014-03-23">כ"א באדר ב' התשע"ד</date> 23, במרץ  - 2014 החטיבה העליונה  -ארגון הלימודים ותעודות הסיום מודל הערכת מורים בחטיבה העליונה</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

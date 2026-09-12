@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2015-09-01/2015-16-tashav-05/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2015-09-01/2015-16-tashav-05" />
+          <FRBRdate date="2015-09-01" name="schoolYearStart" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2015-09-01/2015-16-tashav-05/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2015-09-01/2015-16-tashav-05/heb@" />
+          <FRBRdate date="2015-09-01" name="schoolYearStart" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2015-09-01/2015-16-tashav-05/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2015-09-01/2015-16-tashav-05/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2015-09-01" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="month" href="/ontology/concept/quantity/month" showAs="חודש" />
+        <TLCTerm eId="term_3e53ed76" href="/ontology/term/il/3e53ed76" showAs="המענק" />
+        <TLCTerm eId="term_6b1b4285" href="/ontology/term/il/6b1b4285" showAs="חוק עבודת נשים" />
+        <TLCTerm eId="term_9c553b17" href="/ontology/term/il/9c553b17" showAs="עובד הוראה" />
+        <TLCOrganization eId="unit_a1943f15" href="/ontology/organization/il/unit/a1943f15" showAs="מינהל עובדי הוראה" />
+        <TLCOrganization eId="unit_d1bbffaf" href="/ontology/organization/il/unit/d1bbffaf" showAs="לשכת מנהלת אגף בכיר כוח אדם בהוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_021a1da6" href="/ontology/role/il/021a1da6" showAs="מנהלי תחומי כח-אדם בהוראה במחוזות" />
+        <TLCRole eId="office_89f5c2ad" href="/ontology/role/il/89f5c2ad" showAs="מנהלת אגף בכיר כח-אדם בהוראה" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCRole eId="office_abee0065" href="/ontology/role/il/abee0065" showAs="מנהלות ומנהלי המחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal-chinuch" href="/ontology/role/il/mankal-chinuch" showAs="מנכ&quot;לית משרד החינוך" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_73257817" href="/ontology/person/il/73257817" showAs="אבי פרידמן" />
+        <TLCPerson eId="p_4572337a" href="/ontology/person/il/4572337a" showAs="אבי קמינסקי" />
+        <TLCPerson eId="p_d97f14ff" href="/ontology/person/il/d97f14ff" showAs="אייל רם" />
+        <TLCPerson eId="p_4f19a187" href="/ontology/person/il/4f19a187" showAs="איריס שלו-טל" />
+        <TLCPerson eId="p_a7f6ad5a" href="/ontology/person/il/a7f6ad5a" showAs="אריאל לוי" />
+        <TLCPerson eId="p_ff5ed563" href="/ontology/person/il/ff5ed563" showAs="בני בנימין" />
+        <TLCPerson eId="p_764ccce1" href="/ontology/person/il/764ccce1" showAs="דורית מורג" />
+        <TLCPerson eId="p_e03b783f" href="/ontology/person/il/e03b783f" showAs="דסי בארי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_5c443ad9" href="/ontology/person/il/5c443ad9" showAs="יוסי שטראוס" />
+        <TLCPerson eId="p_6bb70ed1" href="/ontology/person/il/6bb70ed1" showAs="מיכל כהן" />
+        <TLCPerson eId="p_141537ad" href="/ontology/person/il/141537ad" showAs="מירי כהן" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_5b10e7d8" href="/ontology/person/il/5b10e7d8" showAs="משה בכר" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_94827b85" href="/ontology/person/il/94827b85" showAs="ננולי טרוני" />
+        <TLCPerson eId="p_1e57b451" href="/ontology/person/il/1e57b451" showAs="סוניה פרץ" />
+        <TLCPerson eId="p_e6a72cc2" href="/ontology/person/il/e6a72cc2" showAs="עופר רימון" />
+        <TLCPerson eId="p_bfdd3a7b" href="/ontology/person/il/bfdd3a7b" showAs="עידית ורונין" />
+        <TLCPerson eId="p_39fdaf3d" href="/ontology/person/il/39fdaf3d" showAs="קובי אמסלם" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="school-year">SCHOOL YEAR from the filename, dated to its 1 September start. This is NOT the document's own date, which is not encoded in the filename.</repo:date>
+          <repo:source path="law/circulars/2015-16_tashav_05.pdf" sha256="dd560521cfa9b6ae3cdde9f7fd71afcbb1a1e0a0ec408429f828bf8cef1c19f2" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ו/5</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_a1943f15">מינהל עובדי הוראה</organization>
+      </p>
+      <p><organization eId="org_4" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>
+      </p>
+      <p><organization eId="org_5" refersTo="#unit_d1bbffaf">לשכת מנהלת אגף בכיר כוח אדם בהוראה</organization>
+      </p>
+      <p>ירושלים <date date="2016-03-28">י"ח אדר ב תשע"ו</date>
+      </p>
+      <p>28 מרץ 2102 ,</p>
+      <p>סימוכין <docNumber>09271</docNumber>:</p>
+      <p>לכבוד: הבעלויות על מוסדות החינוך</p>
+      <p>חוזר לבעלויות <docNumber>תשע"ו5 /</docNumber>
+      </p>
+      <p>שלום רב,</p>
+      <p>הנדון: תשלום מענק חד פעמי לעובדי הוראה בחטיבות העליונות</p>
+      <p>בהתאם להסכם הקיבוצי עם <organization eId="org_6" refersTo="#irgun-hamorim">ארגון המורים</organization> מיום  21.1.2102 נקבע תשלום מענק חד פעמי, על פי</p>
+      <p>המפורט בהוראות חוזר <role eId="rol_7" refersTo="#role-memuneh-sachar">הממונה על השכר</role> <organization eId="org_8" refersTo="#mof">במשרד האוצר</organization> מיום .22.2.2102</p>
+      <p>מטרת חוזר זה הינה לפרסם את הוראות תנאי הזכאות של עובדי ההוראה למענק החד פעמי</p>
+      <p>ואופן ביצוע התשלום. הוראות נוספות בדבר ההסכם הקיבוצי יפורסמו בהמשך.</p>
+      <p>תחולה:</p>
+      <p>הוראות חוזר זה יחולו על כל עובד המדורג בדירוג עובדי הוראה, המועסק במוסדות החינוך</p>
+      <p>המפוקחים על ידי <organization eId="org_9" refersTo="#moe">משרד החינוך</organization> (להלן": <def refersTo="#term_9c553b17">עובד הוראה</def>") בחטיבה העליונה.</p>
+      <p>להלן הנחיות לביצוע תשלום המענק החד פעמי:</p>
+      <p>. 0 במשכורת חודש מרץ ( 2102 המשולמת בחודש אפריל  )2102 ולא יאוחר ממשכורת חודש</p>
+      <p>אפריל ( 2102 המשולמת בחודש מאי, )2102 ישולם מענק חד פעמי (להלן  -<def refersTo="#term_3e53ed76">המענק</def>), כמפורט</p>
+      <p>להלן:</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_a" repo:prose="same-source">
+        <num>א.</num>
+        <content>
+          <p>עובד הוראה, אשר היה מועסק ברצף מיום  0.7.2101 ועד ליום ( 0.02.2101 להלן:</p>
+          <p>"התקופה הקובעת"), יהא זכאי למענק חד פעמי בסכום של  <quantity eId="qty_1" refersTo="#ILS" normalized="0111">0,111ש"ח</quantity> בהתאם למפורט</p>
+          <p>להלן.</p>
+        </content>
+      </article>
+      <article eId="art_b" repo:prose="same-source">
+        <num>ב.</num>
+        <intro>
+          <p>מובהר כי הסכום האמור הוא לעובד הוראה שהועסק במשרה מלאה. לצורך חישוב</p>
+          <p>הסכום לו זכאי כל עובד הוראה שזכאי למענק כאמור בסעיף קטן (0א) לעיל, תחושב</p>
+          <p>חלקיות המשרה, בתקופה שמיום  0.02.2101 עד יום  .11.00.2101 סכום המענק יחושב</p>
+          <p>באופן יחסי לחלקיות המשרה של כל עובד הוראה (ממוצע חודשי מייצג) ביחס למשרה</p>
+          <p>מלאה בתקופה שמיום  0.02.2101 עד יום .11.00.2101</p>
+          <p>לגבי עובד הוראה שהועסק במהלך התקופה שמיום  0.02.2101 עד יום 11.00.2101</p>
+          <p>במשרה חלקית ואשר היה מועסק רק בחלק מהתקופה הנ"ל, אך עבד ברציפות בתקופה</p>
+          <p>:כתובת אתר המשרד  <a href="http://www.education.gov.il">http://www.education.gov.il</a>:כתובת אתר ממשל זמין~ 1 ~,  <a href="http://www.gov.il">http://www.gov.il</a> :</p>
+          <p>הקובעת, יבוצע תחשיב חלקיות המשרה הממוצעת לפי התקופה בה הועסק בפועל</p>
+          <p>במהלך התקופה שמיום  0.02.2101 עד יום .11.00.2101</p>
+        </intro>
+        <paragraph eId="art_b__para_c">
+          <num>ג.</num>
+          <content>
+            <p>המענק אינו מהווה שכר לכל דבר ועניין, לא יובא בחשבון לעניין פיצויי פיטורים או</p>
+            <p>חישוב ערך שעה לעבודה נוספת, לרבות לגמול בעד שעות נוספות, ולא יבוצעו בגינו הפרשות כלשהן לקופת גמל (לרבות לקרן השתלמות, לקרן פנסיה או לביטוח מנהלים).</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_d" repo:prose="same-source">
+        <num>ד.</num>
+        <heading>למען הסר ספק:</heading>
+        <content>
+          <p>( )0 המענק לא יובא בחשבון לצורך חישוב השלמת השכר עד לשכר המינימום כמשמעותו</p>
+          <p>בחוק שכר המינימום, התשמ"ז.0789-</p>
+          <p>( )2 אין בתשלום המענק כדי לשנות את בסיס השכר על פי טבלת השכר המשולב הקיימת</p>
+          <p>ערב חוזר זה.</p>
+          <p>( )1 המענק ישולם לפי חלקיות משרה, בהתאם לאמור בחוזר אך לא יותר ממשרה מלאה</p>
+          <p>אחת.</p>
+        </content>
+      </article>
+      <article eId="art_e" repo:prose="same-source">
+        <num>ה.</num>
+        <intro>
+          <p>לעניין סעיף קטן (0א) לעיל, מובהר כדלקמן:</p>
+          <p>חופשת לידה:</p>
+          <p>תקופת חופשת הלידה, כמשמעותה בסעיף  2 לחוק עבודת נשים, התשי"ד0711-                            )0</p>
+          <p>(להלן – "<def refersTo="#term_6b1b4285">חוק עבודת נשים</def>"), במהלך התקופה הקובעת, לא תקטע את רצף העסקה</p>
+          <p>של עובדת אשר יצאה לחופשת לידה כאמור, והיא תהיה זכאית לתשלום המענק</p>
+          <p>במשכורת הראשונה שתשולם לה לאחר חזרתה לעבודה ולא יאוחר מן המשכורת</p>
+          <p>שלאחר מכן.</p>
+          <p>יצוין כי אורכה של חופשת הלידה לפי חוק עבודת נשים עומד ככלל על עשרים</p>
+          <p>ושישה שבועות אלא אם כן היא הוארכה בנסיבות המפורטות בסעיף  2 לחוק.</p>
+          <p>חלקיות משרתה של עובדת הוראה בחופשת הלידה מזכה תקבע בהתאם לחלקיות</p>
+          <p>ההעסקה שהייתה בה ערב חופשת הלידה.</p>
+        </intro>
+        <paragraph eId="art_e__para_2">
+          <num>2)</num>
+          <intro>
+            <p>למען הסר ספק, האמור בסעיף קטן ה ( )0 לעיל, אינו חל לגבי חופשה ללא תשלום</p>
+            <p>או על היעדרות שדינה כדין חופשה ללא תשלום, שהיא לאחר תום חופשת הלידה כמשמעותה בחוק עבודת נשים, ולגביה יחול האמור בסעיף קטן ( )8 להלן.</p>
+          </intro>
+          <subparagraph eId="art_e__para_2__subpara_1">
+            <num>1)</num>
+            <intro>
+              <p>למען הסר ספק, שאר התנאים וההוראות שנקבעו בחוזר זה לעניין זכאות וחישוב המענק יחולו גם על עובדות אשר שהו בחופשת לידה.</p>
+            </intro>
+            <clause eId="art_e__para_2__subpara_1__cls_1">
+              <num>1)</num>
+              <intro>
+                <p>מובהר כי האמור בסעיפים קטנים ( )0 עד ( )1 לעיל, חל בהתאמה גם לגבי עובד הוראה גבר אשר בהתאם להוראות חוק עבודת נשים יצא לחופשת לידה.</p>
+                <p>שירות מילואים:</p>
+              </intro>
+              <point eId="art_e__para_2__subpara_1__cls_1__pnt_1">
+                <num>1)</num>
+                <content>
+                  <p>מובהר כי שירות במילואים בתקופה הקובעת, לא יקטע את רצף העסקה, והעובד יהיה זכאי לתשלום המענק.</p>
+                  <p>:כתובת אתר המשרד  <a href="http://www.education.gov.il">http://www.education.gov.il</a>:כתובת אתר ממשל זמין~ 2 ~,  <a href="http://www.gov.il">http://www.gov.il</a> :</p>
+                  <p>חופשת מחלה:</p>
+                </content>
+              </point>
+              <point eId="art_e__para_2__subpara_1__cls_1__pnt_2">
+                <num>2)</num>
+                <content>
+                  <p>מובהר כי חופשת מחלה בשכר כאמור בפרק  0.21.1 לתקנון שירות עובדי הוראה</p>
+                  <p>בתקופה הקובעת, אינה קוטעת את רצף ההעסקה של העובד, לצורך קביעת הזכאות לתשלום המענק.</p>
+                  <p>היעדרות באישור המעסיק ובתשלום:</p>
+                </content>
+              </point>
+              <point eId="art_e__para_2__subpara_1__cls_1__pnt_9">
+                <num>9)</num>
+                <content>
+                  <p>מובהר כי תקופת פגרות החגים והקיץ בתקופה הקובעת, אינם קוטעים את רצף ההעסקה של העובד, לצורך קביעת הזכאות לתשלום המענק.</p>
+                  <p>חופשה ללא תשלום והיעדרות מעבודה שדינה כדין חופשה ללא תשלום, כולל שבתון מלא וחצי שבתון:</p>
+                </content>
+              </point>
+            </clause>
+            <clause eId="art_e__para_2__subpara_1__cls_8">
+              <num>8)</num>
+              <intro>
+                <p>עובד הוראה אשר שהה, במהלך התקופה הקובעת, כולה או חלקה, בחופשה ללא</p>
+                <p>תשלום, או נעדר מן העבודה, במהלך התקופה האמורה, היעדרות שדינה כדין חופשה ללא תשלום, יחולו לגביו ההוראות הבאות:</p>
+                <p>.0 עובד הוראה שבתקופה מיום  0.7.2101 עד יום  10.0.2102 היה זכאי</p>
+                <p>למשכורת בגין  <quantity eId="qty_2" refersTo="#month" normalized="1">1 חודשי עבודה</quantity> מלאים ויום אחד נוסף לפחות, ברצף, בין</p>
+                <p>אם הועסק במשרה מלאה ובין אם הועסק במשרה חלקית, יהיה זכאי למענק החד פעמי, לפי הוראות שבפסקה ( )2 להלן.</p>
+              </intro>
+              <point eId="art_e__para_2__subpara_1__cls_8__pnt_2">
+                <num>2.</num>
+                <intro>
+                  <p>בחישוב חלקיות משרתו (ממוצע חודשי מייצג) לצורך חישוב המענק,</p>
+                  <p>תילקח בחשבון התקופה שמיום  0.02.2101 עד יום, 11.00.2101 בה הועסק בפועל.</p>
+                  <p>ככל שעובד ההוראה לא היה זכאי כלל למשכורת בתקופה האמורה,</p>
+                  <p>תילקח בחשבון לצורך חישוב חלקיות משרתו, התקופה שמיום 0.02.2101</p>
+                  <p>עד יום,  11.2.2102 בה היה זכאי למשכורת מהמעסיק (גם אם לא הייתה ברצף).</p>
+                </intro>
+                <point eId="art_e__para_2__subpara_1__cls_8__pnt_2__pnt_1">
+                  <num>1.</num>
+                  <content>
+                    <p>המענק ישולם לעובד ההוראה כאמור במשכורת חודש יוני 2102</p>
+                    <p>(המשתלמת בחודש יולי 2102)ולא יאוחר ממשכורת חודש יולי 2102 (המשתלמת בחודש אוגוסט. )2102</p>
+                    <p>:כתובת אתר המשרד  <a href="http://www.education.gov.il">http://www.education.gov.il</a>:כתובת אתר ממשל זמין~ 3 ~,  <a href="http://www.gov.il">http://www.gov.il</a> :</p>
+                  </content>
+                </point>
+              </point>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_f" repo:prose="same-source">
+        <num>ו.</num>
+        <content>
+          <p>שיפוי לבעלויות יינתן במערכת התשלומים.</p>
+          <p>נא היערכותכם לתשלום המענק למורים הזכאים במשכורת חודש מרץ ( 2102 המשולמת</p>
+          <p>בחודש אפריל  )2102 ולא יאוחר ממשכורת חודש אפריל ( 2102 המשולמת בחודש מאי</p>
+          <p>. )2102</p>
+        </content>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><signature eId="signature_1">
+          <person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person> <role eId="rol_22" refersTo="#office_89f5c2ad">מנהלת אגף בכיר כח-אדם בהוראה</role>
+        </signature>
+      </p>
+      <p>העתקים:</p>
+      <p>גב' <person eId="pers_2" refersTo="#p_6bb70ed1">מיכל כהן</person>, <role eId="rol_10" refersTo="#role-mankal-chinuch">מנכ"לית משרד החינוך</role>
+      </p>
+      <p>מר <person eId="pers_3" refersTo="#p_39fdaf3d">קובי אמסלם</person>, <role eId="rol_11" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_12" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_adcb72bb">קובי בר נתן</person>, סגן בכיר לממונה על השכר, <organization eId="org_13" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_5" refersTo="#p_5c443ad9">יוסי שטראוס</person>, <role eId="rol_14" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>מר <person eId="pers_6" refersTo="#p_a7f6ad5a">אריאל לוי</person>, סמנכ"ל בכיר ומנהל המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_7" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>מר <person eId="pers_8" refersTo="#p_d97f14ff">אייל רם</person>, סמנכ"ל מינהל עובדי הוראה</p>
+      <p>עו"ד <person eId="pers_9" refersTo="#p_764ccce1">דורית מורג</person>, <role eId="rol_15" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>דר' <person eId="pers_10" refersTo="#p_e6a72cc2">עופר רימון</person>, מנהל מינהל תקשוב טכנולוגיה ומערכות מידע</p>
+      <p>עו"ד <person eId="pers_11" refersTo="#p_4f19a187">איריס שלו-טל</person>, הלשכה המשפטית</p>
+      <p>מר <person eId="pers_12" refersTo="#p_4b7467e5">רן ארז</person>, יו"ר <organization eId="org_16" refersTo="#irgun-hamorim">ארגון המורים</organization> בבתי הספר העל-יסודיים</p>
+      <p><role eId="rol_23" refersTo="#office_abee0065">מנהלות ומנהלי המחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_13" refersTo="#p_e03b783f">דסי בארי</person>, מנהלת האגף לחינוך על-יסודי</p>
+      <p>גב' <person eId="pers_14" refersTo="#p_141537ad">מירי כהן</person>, מינהל כלכלה ותקציבים</p>
+      <p>מר <person eId="pers_15" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף א', ארגון מוסדות חינוך, המינהל הפדגוגי</p>
+      <p>גב' <person eId="pers_16" refersTo="#p_88bb0a53">תמר כהן</person>, מנהלת תיאום משכורות מורים, חשבות המשרד</p>
+      <p>מר <person eId="pers_17" refersTo="#p_ff5ed563">בני בנימין</person>, מנהל תחום בכיר משכורות, חשבות המשרד</p>
+      <p>גב' <person eId="pers_18" refersTo="#p_94827b85">ננולי טרוני</person>, מנהלת תחום תשלומים <organization eId="org_17" refersTo="#local-government">למרכז השלטון המקומי</organization>, חשבות המשרד</p>
+      <p>מר <person eId="pers_19" refersTo="#p_5b10e7d8">משה בכר</person>, רכז חינוך והשכלה גבוהה, <organization eId="org_18" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_20" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך <organization eId="org_19" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_21" refersTo="#p_f71cee61">רחל טייטלבום</person>, ממונה על תנאי שירות עובדי הוראה</p>
+      <p>גב' <person eId="pers_22" refersTo="#p_bca8a4ab">חגית מגן</person>, ממונה על יחסי עבודה ושכר, <organization eId="org_20" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_23" refersTo="#p_4572337a">אבי קמינסקי</person>, יו"ר איגוד מנהלי אגפי החינוך ברשויות המקומיות</p>
+      <p>עו"ד <person eId="pers_24" refersTo="#p_bfdd3a7b">עידית ורונין</person>, ממונה על תנאי שירות, <organization eId="org_21" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p><role eId="rol_24" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_25" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+      <p>:כתובת אתר המשרד  <a href="http://www.education.gov.il">http://www.education.gov.il</a>:כתובת אתר ממשל זמין~ 4 ~,  <a href="http://www.gov.il">http://www.gov.il</a> :</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

@@ -1,0 +1,1854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <act name="collectiveAgreement" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector" />
+          <FRBRdate date="2016-04-18" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#mof" as="#author" />
+          <FRBRauthor href="#state-israel" as="#author" />
+          <FRBRauthor href="#local-government" as="#author" />
+          <FRBRauthor href="#regional-councils-centre" as="#author" />
+          <FRBRauthor href="#religious-councils" as="#author" />
+          <FRBRauthor href="#employment-service" as="#author" />
+          <FRBRauthor href="#clalit" as="#author" />
+          <FRBRauthor href="#hadassah" as="#author" />
+          <FRBRauthor href="#israel-post" as="#author" />
+          <FRBRauthor href="#huji" as="#author" />
+          <FRBRauthor href="#biu" as="#author" />
+          <FRBRauthor href="#bgu" as="#author" />
+          <FRBRauthor href="#haifa-university" as="#author" />
+          <FRBRauthor href="#tau" as="#author" />
+          <FRBRauthor href="#technion" as="#author" />
+          <FRBRauthor href="#weizmann" as="#author" />
+          <FRBRauthor href="#jewish-agency" as="#author" />
+          <FRBRauthor href="#wzo" as="#author" />
+          <FRBRauthor href="#kkl" as="#author" />
+          <FRBRauthor href="#keren-hayesod" as="#author" />
+          <FRBRauthor href="#cbs" as="#author" />
+          <FRBRauthor href="#nii" as="#author" />
+          <FRBRauthor href="#three-cities" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="collectiveAgreement" />
+          <FRBRnumber value="7014/2016" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/heb@/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/heb@" />
+          <FRBRdate date="2016-04-18" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#mof" as="#author" />
+          <FRBRauthor href="#state-israel" as="#author" />
+          <FRBRauthor href="#local-government" as="#author" />
+          <FRBRauthor href="#regional-councils-centre" as="#author" />
+          <FRBRauthor href="#religious-councils" as="#author" />
+          <FRBRauthor href="#employment-service" as="#author" />
+          <FRBRauthor href="#clalit" as="#author" />
+          <FRBRauthor href="#hadassah" as="#author" />
+          <FRBRauthor href="#israel-post" as="#author" />
+          <FRBRauthor href="#huji" as="#author" />
+          <FRBRauthor href="#biu" as="#author" />
+          <FRBRauthor href="#bgu" as="#author" />
+          <FRBRauthor href="#haifa-university" as="#author" />
+          <FRBRauthor href="#tau" as="#author" />
+          <FRBRauthor href="#technion" as="#author" />
+          <FRBRauthor href="#weizmann" as="#author" />
+          <FRBRauthor href="#jewish-agency" as="#author" />
+          <FRBRauthor href="#wzo" as="#author" />
+          <FRBRauthor href="#kkl" as="#author" />
+          <FRBRauthor href="#keren-hayesod" as="#author" />
+          <FRBRauthor href="#cbs" as="#author" />
+          <FRBRauthor href="#nii" as="#author" />
+          <FRBRauthor href="#three-cities" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2016-04-18" source="#repo-generator" type="generation" />
+        <eventRef eId="e_registration" date="2016-07-19" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="day" href="/ontology/concept/quantity/day" showAs="יום" />
+        <TLCConcept eId="hour" href="/ontology/concept/quantity/hour" showAs="שעה" />
+        <TLCConcept eId="month" href="/ontology/concept/quantity/month" showAs="חודש" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCTerm eId="term_0cdeaf5a" href="/ontology/term/il/0cdeaf5a" showAs="ההסתדרות" />
+        <TLCTerm eId="term_24bd47e9" href="/ontology/term/il/24bd47e9" showAs="תוספת אחוזית 2016" />
+        <TLCTerm eId="term_29185c06" href="/ontology/term/il/29185c06" showAs="דירוגים ייחודיים בשירות המדינה" />
+        <TLCTerm eId="term_2a1a2303" href="/ontology/term/il/2a1a2303" showAs="קבוצת החישוב" />
+        <TLCTerm eId="term_2bda2d5d" href="/ontology/term/il/2bda2d5d" showAs="הסוכנות היהודית" />
+        <TLCTerm eId="term_2d50e06d" href="/ontology/term/il/2d50e06d" showAs="חוזר המענק" />
+        <TLCTerm eId="term_3974f0d0" href="/ontology/term/il/3974f0d0" showAs="פורש זכאי בדירוג רשות מקרקעי ישראל" />
+        <TLCTerm eId="term_3a01aaf8" href="/ontology/term/il/3a01aaf8" showAs="המשכורת הקובעת" />
+        <TLCTerm eId="term_487e93dc" href="/ontology/term/il/487e93dc" showAs="יום חופשה להורים" />
+        <TLCTerm eId="term_54b7724c" href="/ontology/term/il/54b7724c" showAs="מפעלים ביטחוניים" />
+        <TLCTerm eId="term_655cd1fd" href="/ontology/term/il/655cd1fd" showAs="תוספות מיוחדות" />
+        <TLCTerm eId="term_6a257662" href="/ontology/term/il/6a257662" showAs="פורש זכאי" />
+        <TLCTerm eId="term_79dfe769" href="/ontology/term/il/79dfe769" showAs="המדד החדש" />
+        <TLCTerm eId="term_8379e986" href="/ontology/term/il/8379e986" showAs="חוזרי המענק" />
+        <TLCTerm eId="term_88a5098d" href="/ontology/term/il/88a5098d" showAs="המעסיקים" />
+        <TLCTerm eId="term_8b90bde1" href="/ontology/term/il/8b90bde1" showAs="חוק הגמלאות" />
+        <TLCTerm eId="term_8c944c96" href="/ontology/term/il/8c944c96" showAs="הסכם המעו" />
+        <TLCTerm eId="term_926006b0" href="/ontology/term/il/926006b0" showAs="ברירת המחדל" />
+        <TLCTerm eId="term_9612a29c" href="/ontology/term/il/9612a29c" showAs="סכום הבסיס" />
+        <TLCTerm eId="term_9cca023e" href="/ontology/term/il/9cca023e" showAs="המדד הקודם" />
+        <TLCTerm eId="term_9df0c765" href="/ontology/term/il/9df0c765" showAs="תקופת השימוש" />
+        <TLCTerm eId="term_affea8fd" href="/ontology/term/il/affea8fd" showAs="הסכם גמול מומחיות" />
+        <TLCTerm eId="term_bee4af21" href="/ontology/term/il/bee4af21" showAs="תקופת ההסכם" />
+        <TLCTerm eId="term_ca0a1e3c" href="/ontology/term/il/ca0a1e3c" showAs="תוספת שקלית 2016" />
+        <TLCTerm eId="term_d4df7f3c" href="/ontology/term/il/d4df7f3c" showAs="פסיכולוג" />
+        <TLCTerm eId="term_db42967d" href="/ontology/term/il/db42967d" showAs="מענק יובל" />
+        <TLCTerm eId="term_e68d64db" href="/ontology/term/il/e68d64db" showAs="העובדים באחיד ובמח" />
+        <TLCTerm eId="term_e702a626" href="/ontology/term/il/e702a626" showAs="מדד" />
+        <TLCTerm eId="term_ff00e072" href="/ontology/term/il/ff00e072" showAs="שעות החופשה המיוחדות להורים" />
+        <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל, בשם מדינת ישראל" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
+        <TLCOrganization eId="religious-councils" href="/ontology/organization/il/religious-councils" showAs="חבר המועצות הדתיות בישראל" />
+        <TLCOrganization eId="employment-service" href="/ontology/organization/il/employment-service" showAs="שירות התעסוקה" />
+        <TLCOrganization eId="clalit" href="/ontology/organization/il/clalit-health-services" showAs="שירותי בריאות כללית" />
+        <TLCOrganization eId="hadassah" href="/ontology/organization/il/hadassah-medical" showAs="הסתדרות מדיצינית הדסה" />
+        <TLCOrganization eId="israel-post" href="/ontology/organization/il/israel-post" showAs="חברת דואר ישראל בע&quot;מ" />
+        <TLCOrganization eId="huji" href="/ontology/organization/il/hebrew-university" showAs="האוניברסיטה העברית בירושלים" />
+        <TLCOrganization eId="biu" href="/ontology/organization/il/bar-ilan-university" showAs="אוניברסיטת בר-אילן" />
+        <TLCOrganization eId="bgu" href="/ontology/organization/il/ben-gurion-university" showAs="אוניברסיטת בן גוריון בנגב" />
+        <TLCOrganization eId="haifa-university" href="/ontology/organization/il/haifa-university" showAs="אוניברסיטת חיפה" />
+        <TLCOrganization eId="tau" href="/ontology/organization/il/tel-aviv-university" showAs="אוניברסיטת תל-אביב" />
+        <TLCOrganization eId="technion" href="/ontology/organization/il/technion" showAs="הטכניון, מכון טכנולוגי לישראל" />
+        <TLCOrganization eId="weizmann" href="/ontology/organization/il/weizmann-institute" showAs="מכון ויצמן למדע" />
+        <TLCOrganization eId="jewish-agency" href="/ontology/organization/il/jewish-agency" showAs="הסוכנות היהודית לארץ ישראל" />
+        <TLCOrganization eId="wzo" href="/ontology/organization/il/world-zionist-organization" showAs="ההסתדרות הציונית העולמית" />
+        <TLCOrganization eId="kkl" href="/ontology/organization/il/jewish-national-fund" showAs="הקרן הקיימת לישראל" />
+        <TLCOrganization eId="keren-hayesod" href="/ontology/organization/il/keren-hayesod" showAs="קרן היסוד" />
+        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
+        <TLCOrganization eId="nii" href="/ontology/organization/il/national-insurance" showAs="המוסד לביטוח לאומי" />
+        <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCPerson eId="p_ec6b989f" href="/ontology/person/il/ec6b989f" showAs="אבי ניסנקורן" />
+        <TLCPerson eId="p_050bf727" href="/ontology/person/il/050bf727" showAs="אברהם פרץ" />
+        <TLCPerson eId="p_e8601488" href="/ontology/person/il/e8601488" showAs="בועז הירש" />
+        <TLCPerson eId="p_54c9967e" href="/ontology/person/il/54c9967e" showAs="גדי כהן" />
+        <TLCPerson eId="p_a7bd516f" href="/ontology/person/il/a7bd516f" showAs="דני גולדשטיין" />
+        <TLCPerson eId="p_12abe807" href="/ontology/person/il/12abe807" showAs="זאב רוטשטיין" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_06501117" href="/ontology/person/il/06501117" showAs="חיים ביבס" />
+        <TLCPerson eId="p_e55fda7d" href="/ontology/person/il/e55fda7d" showAs="יובל אדר" />
+        <TLCPerson eId="p_689def6d" href="/ontology/person/il/689def6d" showAs="ישראל נדיבי" />
+        <TLCPerson eId="p_1f437143" href="/ontology/person/il/1f437143" showAs="משה דיין" />
+        <TLCPerson eId="p_076ccd78" href="/ontology/person/il/076ccd78" showAs="פנחס הומינר" />
+        <TLCPerson eId="p_39fdaf3d" href="/ontology/person/il/39fdaf3d" showAs="קובי אמסלם" />
+        <TLCPerson eId="p_a061151b" href="/ontology/person/il/a061151b" showAs="שלמה דולברג" />
+        <TLCPerson eId="p_43b7f0e7" href="/ontology/person/il/43b7f0e7" showAs="שלמה יצחקי" />
+        <TLCPerson eId="p_e702ff94" href="/ontology/person/il/e702ff94" showAs="שלמה מור יוסף" />
+        <TLCPerson eId="p_6b73d80f" href="/ontology/person/il/6b73d80f" showAs="שלמה תנעמי" />
+        <TLCPerson eId="p_22148ae1" href="/ontology/person/il/22148ae1" showAs="שמואל ריפמן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="transcribed" passes="1">The content is a transcription made by READING the document's pages (reference/transcriptions/), not extracted and not OCR. A single reader made it; no second pass yet (@passes=1). It is not 'verified': that word is reserved for a person checking against the source. THIS TRANSCRIPTION IS INCOMPLETE: pages 1-26 of 45: the agreement's own §§1-28 with its signature block, and נספח א' — the list of 31 dirugim — on p.26. Pages 27-45 are not read: נספח ב', the כתב הצטרפות accession form §3(ג) requires, on p.27; an attached one-off-grant circular of the Commissioner of Wages from p.28, labelled "נספח ג(1)" in pen over its letterhead and carrying its own נספח א' and נספח ב'; נספח ד', the unique-dirug salary tables §7.1 and §11.5-1(ג) cite, from p.36; נספח ו', the budgetary-pension coefficient table §19 cites, on p.43; and a table of the employers bound and the dates they were recognised, on p.45. The prose claims נספח ב', ד', ה' and ו'.</repo:prose>
+          <repo:date precision="day">the document's own date, from the filename</repo:date>
+          <repo:source path="law/agreements/framework/2016-04-18_framework-agreement_public-sector.pdf" sha256="08703522660fa54793436b68ae8e9b1bab4f20d53ab0cab15e5f7d16064633ed" transcription="reference/transcriptions/2016-04-18_framework-agreement_public-sector.txt" continuation="reference/transcriptions/2016-04-18_framework-agreement_public-sector.p4-23.txt reference/transcriptions/2016-04-18_framework-agreement_public-sector.p24-45.txt" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>הסכם קיבוצי (מסגרת)</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p repo:role="title">הסכם קיבוצי (מסגרת)</p>
+      <p repo:note="stamp" repo:role="registration">[חותמת רישום:] חוק הסכמים קיבוציים תשי"ג - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2016-07-19">19.07.2016</date> | ומספרו: [בכתב יד: 7014/2016] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
+      </p>
+      <p>שנחתם ביום <date date="2016-04-18">18 באפריל 2016</date>
+      </p>
+      <p repo:role="party-marker">בין</p>
+      <p><party eId="party_1" refersTo="#state">ממשלת ישראל</party>, בשם <party eId="party_2" refersTo="#state-israel">מדינת ישראל</party>, המיוצגת על-ידי <role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_5" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_2" refersTo="#p_39fdaf3d">קובי אמסלם</person>, ו/או נציב שירות המדינה מר <person eId="pers_3" refersTo="#p_1f437143">משה דיין</person>; ולגבי עובדים במפעלים המשרתים את מערכת הביטחון (להלן: "<def refersTo="#term_54b7724c">מפעלים ביטחוניים</def>") אשר חל עליהם האמור בסעיף 2(6) לחוק שירות המדינה (מינויים), התשי"ט-1969, על ידי הגורמים המוסמכים לייצג את המפעלים הביטחוניים בחתימה על הסכמים קיבוציים;</p>
+      <p><party eId="party_3" refersTo="#local-government">מרכז השלטון המקומי</party> בישראל, בשם כל הרשויות המקומיות, למעט <organization eId="org_7" refersTo="#three-cities">שלוש הערים הגדולות</organization>, המיוצג על-ידי מר <person eId="pers_4" refersTo="#p_06501117">חיים ביבס</person>, יו"ר <organization eId="org_8" refersTo="#local-government">מרכז השלטון המקומי</organization> וראש עיריית מודיעין, על-ידי מר <person eId="pers_5" refersTo="#p_a061151b">שלמה דולברג</person>, מנכ"ל <organization eId="org_9" refersTo="#local-government">מרכז השלטון המקומי</organization> ועל-ידי גב' <person eId="pers_6" refersTo="#p_bca8a4ab">חגית מגן</person>, הממונה על הסכמי עבודה ושכר <organization eId="org_10" refersTo="#local-government">במרכז השלטון המקומי</organization>;</p>
+      <p><party eId="party_4" refersTo="#three-cities">שלוש הערים הגדולות</party> (ירושלים, תל אביב וחיפה), המיוצגות על ידי מר <person eId="pers_7" refersTo="#p_050bf727">אברהם פרץ</person>, סמנכ"ל משאבי אנוש ומינהל בעיריית תל אביב;</p>
+      <p><party eId="party_5" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</party> המיוצג על-ידי מר <person eId="pers_8" refersTo="#p_22148ae1">שמואל ריפמן</person>, יו"ר <organization eId="org_13" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>, מר <person eId="pers_9" refersTo="#p_689def6d">ישראל נדיבי</person>, מנכ"ל <organization eId="org_14" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization> ומר <person eId="pers_10" refersTo="#p_076ccd78">פנחס הומינר</person>, הממונה על הסכמי עבודה ושכר <organization eId="org_15" refersTo="#regional-councils-centre">במרכז המועצות האזוריות</organization>;</p>
+      <p><party eId="party_6" refersTo="#religious-councils">חבר המועצות הדתיות</party> בישראל המיוצג על-ידי מר <person eId="pers_11" refersTo="#p_6b73d80f">שלמה תנעמי</person>, יו"ר <organization eId="org_17" refersTo="#religious-councils">חבר המועצות הדתיות</organization>;</p>
+      <p><party eId="party_7" refersTo="#nii">המוסד לביטוח לאומי</party>, המיוצג על-ידי מנכ"ל <organization eId="org_19" refersTo="#nii">המוסד לביטוח לאומי</organization>, פרופ' <person eId="pers_12" refersTo="#p_e702ff94">שלמה מור יוסף</person>;</p>
+      <p><party eId="party_8" refersTo="#employment-service">שירות התעסוקה</party>, המיוצג על-ידי מנכ"ל <organization eId="org_21" refersTo="#employment-service">שירות התעסוקה</organization>, מר <person eId="pers_13" refersTo="#p_e8601488">בועז הירש</person>;</p>
+      <p><party eId="party_9" refersTo="#huji">האוניברסיטה העברית</party> בירושלים, המיוצגת על ידי ________;</p>
+      <p><party eId="party_10" refersTo="#biu">אוניברסיטת בר-אילן</party>, המיוצגת על ידי ________;</p>
+      <p><party eId="party_11" refersTo="#bgu">אוניברסיטת בן גוריון</party> בנגב, המיוצגת על ידי ________;</p>
+      <p><party eId="party_12" refersTo="#haifa-university">אוניברסיטת חיפה</party>, המיוצגת על ידי ________;</p>
+      <p><party eId="party_13" refersTo="#tau">אוניברסיטת תל-אביב</party>, המיוצגת על ידי ________;</p>
+      <p><party eId="party_14" refersTo="#technion">הטכניון</party>, מכון טכנולוגי לישראל, המיוצג על ידי ________;</p>
+      <p><party eId="party_15" refersTo="#weizmann">מכון ויצמן למדע</party>, המיוצג על ידי ________;</p>
+      <p><party eId="party_16" refersTo="#hadassah">הסתדרות מדיצינית הדסה</party>, המיוצגת על ידי פרופ' <person eId="pers_14" refersTo="#p_12abe807">זאב רוטשטיין</person>, מנכ"ל הדסה, ומר <person eId="pers_15" refersTo="#p_e55fda7d">יובל אדר</person>, סמנכ"ל כספים;</p>
+      <p><party eId="party_17" refersTo="#clalit">שירותי בריאות כללית</party>, המיוצגת על-ידי מר <person eId="pers_16" refersTo="#p_54c9967e">גדי כהן</person>, סמנכ"ל וראש חטיבת משאבי אנוש ומידע;</p>
+      <p><party eId="party_18" refersTo="#israel-post">חברת דואר ישראל</party> בע"מ, המיוצגת על-ידי מנכ"ל החברה, מר <person eId="pers_17" refersTo="#p_a7bd516f">דני גולדשטיין</person>;</p>
+      <p><party eId="party_19" refersTo="#jewish-agency">הסוכנות היהודית</party> לארץ ישראל, בשמה ובשם <party eId="party_20" refersTo="#wzo">ההסתדרות הציונית העולמית</party>, <party eId="party_21" refersTo="#kkl">הקרן הקיימת לישראל</party> <party eId="party_22" refersTo="#keren-hayesod">וקרן היסוד</party>, המיוצגות על-ידי ________ (להלן: "<def refersTo="#term_2bda2d5d">הסוכנות היהודית</def>");</p>
+      <p repo:role="aside">(להלן - "<def refersTo="#term_88a5098d">המעסיקים</def>")</p>
+      <p repo:role="party-marker">מצד אחד</p>
+      <p repo:role="party-marker">לבין</p>
+      <p>הסתדרות העובדים הכללית החדשה, המיוצגת על-ידי יו"ר ההסתדרות ויו"ר האגף לאיגוד מקצועי, מר <person eId="pers_18" refersTo="#p_ec6b989f">אבי ניסנקורן</person>;</p>
+      <p repo:role="aside">(להלן - "<def refersTo="#term_0cdeaf5a">ההסתדרות</def>")</p>
+      <p repo:role="party-marker">מצד שני</p>
+      <recitals eId="recitals_1">
+        <recital eId="rec_1">
+          <p>הואיל: והמעסיקים וההסתדרות ניהלו משא ומתן בדבר מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים לתקופה שמיום <date date="2013-01-01">1.1.2013</date> עד יום <date date="2017-12-31">31.12.2017</date> ובגין התקופה כאמור, לצד מתן הטבות נוספות בגין התקופה האמורה;</p>
+        </recital>
+        <recital eId="rec_2">
+          <p>והואיל: והצדדים רואים חשיבות בצמצום פערי השכר במגזר הציבורי ובשיפור הפריון בעבודת המגזר הציבורי;</p>
+        </recital>
+        <recital eId="rec_3">
+          <p>והואיל: והצדדים מעוניינים לעגן את ההסכמות אליהן הגיעו במשא ומתן כאמור בהסכם קיבוצי זה;</p>
+        </recital>
+      </recitals>
+      <formula name="enactingFormula">
+        <p>לפיכך, הוצהר הותנה והוסכם בין הצדדים כדלקמן:</p>
+      </formula>
+    </preamble>
+    <body>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <heading>מבוא</heading>
+        <content>
+          <p>המבוא להסכם זה מהווה חלק בלתי נפרד ממנו;</p>
+          <p>למען הסר ספק, כותרות הסכם זה מובאות לשם נוחות בלבד, ואין בהן כדי להשפיע על פרשנותו;</p>
+          <p>אין באזכור הוראות התקשי"ר כדי לשנות ממעמדן הנורמטיבי של הוראות התקשי"ר.</p>
+        </content>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <heading>תקופת ההסכם</heading>
+        <content>
+          <p>הסכם זה הוא לתקופה שעד יום <date date="2017-12-31">31.12.2017</date> (להלן: "<def refersTo="#term_bee4af21">תקופת ההסכם</def>").</p>
+        </content>
+      </article>
+      <article eId="art_3" repo:prose="same-source">
+        <num>3</num>
+        <heading>תחולת ההסכם</heading>
+        <paragraph eId="art_3__para_a">
+          <num>(א)</num>
+          <content>
+            <p>הסכם זה יחול על כל עובד בשירות המעסיקים החתומים על הסכם זה, אשר משכורתו מחושבת לפי הסכמים קיבוציים החלים לגבי הדירוגים המיוצגים על-ידי ההסתדרות אשר מפורטים <ref href="#att_1">בנספח א'</ref> (בהסכם זה - "עובד"), והכל בהתאם למפורט בהסכם זה ולהסכמים שייחתמו בהתאם לאמור בסעיף <ref href="#art_11">11</ref>.</p>
+            <p>מובהר כי לעניין התשלומים שישולמו בהתאם להקצאת מסגרת עלות התוספות, כמפורט בהסכם זה וכפי שיפורט בהסכמים שייחתמו בהתאם לאמור בסעיף <ref href="#art_11">11</ref>, הרי שתשלומים אלו יחולו על עובד אשר יועסק בשירות המעסיקים בחודשים בהם ישולמו התשלומים.</p>
+            <p>לגבי סעיף 19 (גמלאים בפנסיה תקציבית) יחול האמור בו.</p>
+            <p>כמו-כן, הוראות סעיף <ref href="#art_18">18</ref> (קיצור יום עבודה/מתן חופשה להורים בסוף חודש אוגוסט) יחולו גם על מי ששכרו צמוד לשכר נושא משרה שיפוטית והמדורג בדירוג המשפטנים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_3__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>מוסכם ומובהר כי הקצאת מסגרת עלות התוספות מכוח הסכם זה, לגבי עובד המדורג באחד מהדירוגים המפורטים להלן נעשית בהסכמים קיבוציים נפרדים הנחתמים במקביל לחתימת הסכם זה, בהתאם למפורט באותם ההסכמים. לפיכך, למניעת כפל, לא יחולו לגביהם הסעיפים הבאים מהסכם זה: 4, 5.1, 6 עד 8, 10 עד 15, 19 עד 21, אלא אם נקבע בהסכמים האמורים אחרת, וכפי הקבוע באותם ההסכמים.</p>
+            <p>הדירוגים לעניין סעיף קטן (ב) זה הם: (1) סטודנטים; (2) פיזיותרפיסטים; (3) מרפאים בעיסוק; (4) פארא-רפואיים; (5) רנטגנאים; (6) עובדי מעברות, כימאים ומיקרוביולוגים; (7) רוקחים; (8) עובד המדורג בדירוג עובדים סוציאליים ואשר מועסק במשרד הבריאות או <organization eId="org_36" refersTo="#clalit">בשירותי בריאות כללית</organization> או <organization eId="org_37" refersTo="#hadassah">בהסתדרות מדיצינית הדסה</organization> או בבית חולים ממשלתי-עירוני בעיריית תל-אביב יפו או בעיריית חיפה (איכילוב או בני ציון); (9) עובד המדורג בדירוג המח"ר או בדירוג הפסיכולוגים, ואשר מתקיים בו אחד מאלה: (א) מועסק כפסיכולוג באחד מהתחומים שבסעיף 2 להסכם הקיבוצי מיום <date date="2001-03-25">25.3.2001</date> בעניין הפסיכולוגים, או פסיכולוג כאמור המועסק באחד מהתחומים הבאים: פסיכולוג חינוכי או פסיכולוג חברתי/תעסוקתי או פסיכולוג רפואי; (ב) מועסק כמתמחה כהגדרתו בסעיף 2.4 להסכם הקיבוצי האמור או מתמחה כאמור שהתמחותו היא באחד התחומים שפורטו לעיל (להלן: "<def refersTo="#term_d4df7f3c">פסיכולוג</def>").</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_3__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>הסכם זה יחול גם על עובד, אשר משכורתו מחושבת לפי הסכמים קיבוציים החלים לגבי עובדים המיוצגים על-ידי ההסתדרות, אשר מועסק בשירות מעסיק אחר (שאינו חתום על הסכם זה), אשר יחתום על כתב ההצטרפות להסכם זה בנוסח שבנספח ב' להסכם זה ובכפוף לאמור בו. מובהר כי הצטרפות להסכם קיבוצי זה בהתאמות או בשינויים שלא בהתאם לכתב ההצטרפות המצורף, מצריכה אישור יו"ר האגף לאיגוד מקצועי; ולגבי "גוף מתוקצב" או "גוף נתמך", לפי חוק יסודות התקציב, התשמ"ה-1985, היא מצריכה גם אישור <role eId="rol_38" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_39" refersTo="#mof">במשרד האוצר</organization>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_4" repo:prose="same-source">
+        <num>4</num>
+        <content>
+          <p>מסגרת עלות התוספות עבור התקופה מיום <date date="2013-01-01">1.1.2013</date> עד יום <date date="2017-12-31">31.12.2017</date>
+          </p>
+          <p>בשירות המדינה וביתר המעסיקים</p>
+          <p>מוסכם בין הצדדים כי מסגרת עלות תוספות השכר וההטבות הכספיות (בהסכם זה - "מסגרת עלות התוספות") על-פי הסכם זה, עליה הוסכם בעד התקופה מיום <date date="2013-01-01">1.1.2013</date> עד יום <date date="2017-12-31">31.12.2017</date>, בשירות המדינה ובקרב יתר המעסיקים החתומים על הסכם זה, היא <quantity eId="qty_1" refersTo="#percentage" normalized="7.5">7.5%</quantity> (שבעה וחצי אחוזים) בהתאם למפורט כדלקמן:</p>
+          <p><quantity eId="qty_2" refersTo="#percentage" normalized="1.5">1.5%</quantity> (אחוז וחצי) בעד כל אחת מחמש השנים הבאות: 2013, 2014, 2015, 2016 ו-2017.</p>
+          <p>מובהר כי מסגרת העלות הקבועה לעיל, תוקצה בהתאם למועדים ולפריסה המפורטים בסעיף <ref href="#art_5">5</ref>.</p>
+        </content>
+      </article>
+      <article eId="art_5" repo:prose="same-source">
+        <num>5</num>
+        <heading>מועדי הקצאת מסגרת עלות התוספות ופריסתה</heading>
+        <paragraph eId="art_5__para_5-1">
+          <num>5.1</num>
+          <intro>
+            <p>מסגרת עלות התוספות, בעד התקופה מיום <date date="2013-01-01">1.1.2013</date> עד יום <date date="2017-12-31">31.12.2017</date> כאמור, תוקצה במועדי פריסה כדלקמן:</p>
+          </intro>
+          <subparagraph eId="art_5__para_5-1__subpara_5-1-1">
+            <num>5.1.1</num>
+            <content>
+              <p>החל מיום <date date="2016-07-01">1.7.2016</date> - <quantity eId="qty_3" refersTo="#percentage" normalized="1">1%</quantity> על בסיס השכר המפורט בסעיף <ref href="#art_6__para_6-1">6.1</ref> להלן.</p>
+              <p>אופן הקצאת העלות יהיה כמפורט בסעיף <ref href="#art_10">10</ref>.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_5-1__subpara_5-1-2">
+            <num>5.1.2</num>
+            <content>
+              <p>החל מיום <date date="2017-03-01">1.3.2017</date> - השלמה ל-<quantity eId="qty_4" refersTo="#percentage" normalized="2.75">2.75%</quantity>, על בסיס השכר המפורט בסעיף <ref href="#art_6__para_6-1">6.1</ref> להלן.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_5-1__subpara_5-1-3">
+            <num>5.1.3</num>
+            <content>
+              <p>החל מיום <date date="2018-01-01">1.1.2018</date> - השלמה ל-<quantity eId="qty_5" refersTo="#percentage" normalized="4.25">4.25%</quantity>, על בסיס השכר המפורט בסעיף <ref href="#art_6__para_6-1">6.1</ref> להלן.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_5-1__subpara_5-1-4">
+            <num>5.1.4</num>
+            <content>
+              <p>החל מיום <date date="2018-06-01">1.6.2018</date> - השלמה ל-<quantity eId="qty_6" refersTo="#percentage" normalized="6">6%</quantity>, על בסיס השכר המפורט בסעיף <ref href="#art_6__para_6-1">6.1</ref> להלן.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_5-1__subpara_5-1-5">
+            <num>5.1.5</num>
+            <content>
+              <p>החל מיום <date date="2018-12-01">1.12.2018</date> - השלמה ל-<quantity eId="qty_7" refersTo="#percentage" normalized="7.5">7.5%</quantity>, על בסיס השכר המפורט בסעיף <ref href="#art_6__para_6-1">6.1</ref> להלן.</p>
+              <p>והכל על-פי בסיס החישוב שייקבע לפי סעיף <ref href="#art_6">6</ref> להלן.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_5__para_5-2">
+          <num>5.2</num>
+          <intro>
+            <p>מענק חד פעמי (בסכום כולל של <quantity eId="qty_8" refersTo="#ILS" normalized="2000">2,000 ש"ח</quantity> שישולם בשני חלקים של <quantity eId="qty_9" refersTo="#ILS" normalized="1000">1,000 ש"ח</quantity>)</p>
+            <p>בנוסף על האמור, מוסכם על תשלום של מענק חד פעמי שישולם בשני מועדים, כדלקמן:</p>
+          </intro>
+          <subparagraph eId="art_5__para_5-2__subpara_5-2-1">
+            <num>5.2.1</num>
+            <content>
+              <p>החלק הראשון של המענק החד פעמי, שולם בהתאם לאמור בחוזר <role eId="rol_40" refersTo="#role-memuneh-sachar">הממונה על השכר</role> <organization eId="org_41" refersTo="#mof">במשרד האוצר</organization> הע 2016-1-3 – כללי הסכם מיום <date date="2016-01-14">14.1.2016</date> (להלן: "<def refersTo="#term_2d50e06d">חוזר המענק</def>") וחוזר הע – כללי הוראות 2016-1-12 מיום <date date="2016-02-11">11.2.2016</date> המצ"ב בקובץ כנספח ג' (להלן: "<def refersTo="#term_8379e986">חוזרי המענק</def>").</p>
+              <p>יתר המעסיקים החתומים על הסכם זה מודיעים כי החילו או יחילו, לפי העניין, את האמור בחוזרי המענק, בהתאם למפורט באישור שניתן על ידי <role eId="rol_42" refersTo="#role-memuneh-sachar">הממונה על השכר</role> בחוזר המענק. מעסיקים כאמור אשר טרם שילמו את המענק, ישלמוהו במשכורת החודש שלאחר החודש שבו חתמו על הסכם זה ולכל המאוחר במשכורת החודש שלאחר מכן.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_5-2__subpara_5-2-2">
+            <num>5.2.2</num>
+            <content>
+              <p>החלק השני של המענק ישולם במשכורת חודש ינואר 2017 (המשולמת בחודש פברואר 2017) ולא יאוחר ממשכורת חודש פברואר 2017 (המשולמת בחודש מרץ 2017), לעובדים אשר היו זכאים לחלק הראשון של המענק לפי חוזרי המענק.</p>
+              <p>סכום החלק השני של המענק שישולם לכל עובד כאמור, יהיה בסכום השווה לחלק הראשון של המענק ששולם לעובד לפי חוזרי המענק.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_5__para_5-2__subpara_5-2-3">
+            <num>5.2.3</num>
+            <intro>
+              <p>תיקון סעיף קטן 1(ו)(9) לחוזר המענק:</p>
+            </intro>
+            <clause eId="art_5__para_5-2__subpara_5-2-3__cls_5-2-3-1">
+              <num>5.2.3.1</num>
+              <content>
+                <p>בסעיף קטן (1) במקום "<date date="2017-01-31">31.1.2017</date>" יבוא "<date date="2016-12-29">29.12.2016</date>";</p>
+              </content>
+            </clause>
+            <clause eId="art_5__para_5-2__subpara_5-2-3__cls_5-2-3-2">
+              <num>5.2.3.2</num>
+              <intro>
+                <p>במקום סעיף קטן (3) יבוא "המענק ישולם לעובד כאמור במשכורת חודש ינואר 2017 (המשתלמת בחודש פברואר 2017) ולא יאוחר ממשכורת חודש פברואר 2017 (המשתלמת בחודש מרץ 2017)".</p>
+                <p>מועדי תשלום מיוחדים</p>
+              </intro>
+              <point eId="art_5__para_5-2__subpara_5-2-3__cls_5-2-3-2__pnt_a">
+                <num>(א)</num>
+                <content>
+                  <p>מובהר כי לגבי עובד כאמור בסעיף קטן 1(ו)(9)(3) לחוזר המענק, אשר לפי חוזר המענק ישולם לו החלק הראשון של המענק במשכורת חודש ינואר 2017 ולא יאוחר ממשכורת חודש פברואר 2017, ישולם לו באותו המועד גם החלק השני של המענק, כך ששני החלקים של המענק ישולמו יחד. למען הסר ספק מובהר כי סכום החלק השני של המענק יהיה זהה לסכום החלק הראשון של המענק אשר יחושב לפי הוראות חוזר המענק.</p>
+                </content>
+              </point>
+              <point eId="art_5__para_5-2__subpara_5-2-3__cls_5-2-3-2__pnt_b">
+                <num>(ב)</num>
+                <intro>
+                  <p>מובהר כי תשלום החלק השני של המענק לעובד אשר במועד תשלום המענק מתקיימות לגביו הנסיבות המפורטות בסעיפים (1) עד (3) להלן, יבוצע במשכורת החודש הראשונה שתשולם עם החזרה לעבודה במשכורת, ולכל המאוחר במשכורת החודש שאחריה:</p>
+                </intro>
+                <point eId="art_5__para_5-2__subpara_5-2-3__cls_5-2-3-2__pnt_b__pnt_a">
+                  <num>א.</num>
+                  <content>
+                    <p>בחופשת מחלה ללא משכורת;</p>
+                  </content>
+                </point>
+                <point eId="art_5__para_5-2__subpara_5-2-3__cls_5-2-3-2__pnt_b__pnt_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>בחופשת לידה;</p>
+                  </content>
+                </point>
+                <point eId="art_5__para_5-2__subpara_5-2-3__cls_5-2-3-2__pnt_b__pnt_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>נעדר מעבודתו בשל פגיעה בעבודה שאינה נזקפת לחשבון חופשת המחלה שלו, כאמור בפרק משנה 33.6 לתקשי"ר;</p>
+                  </content>
+                </point>
+              </point>
+              <point eId="art_5__para_5-2__subpara_5-2-3__cls_5-2-3-2__pnt_c">
+                <num>(ג)</num>
+                <content>
+                  <p>לעובד אשר זכאי לחלק השני של המענק אך יחסי העבודה עמו יסתיימו טרם מועד תשלום החלק השני של המענק כאמור לעיל, יוקדם מועד תשלום החלק השני של המענק וישולם במשכורת החודש האחרונה שתשולם לו.</p>
+                </content>
+              </point>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_5__para_5-2__subpara_5-2-4">
+            <num>5.2.4</num>
+            <content>
+              <p>מובהר כי המדינה תהא רשאית, על פי שיקול דעתה, להקדים את תשלום החלק השני של המענק כך שזה ישולם לפני המועד הקבוע בסעיף 5.2.2 לעיל, כפי שתחליט המדינה; אין בהקדמת תשלום על ידי המדינה כדי להשפיע על יתר המעסיקים החתומים על ההסכם לשלם במועד.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_6" repo:prose="same-source">
+        <num>6</num>
+        <heading>הבסיס לחישוב מסגרת עלות התוספות</heading>
+        <paragraph eId="art_6__para_6-1">
+          <num>6.1</num>
+          <intro>
+            <p>בסיס השכר לשם חישוב מסגרת עלות התוספות, לצורך סעיף <ref href="#art_5__para_5-1">5.1</ref>, הוא הממוצע החודשי ל-<quantity eId="qty_10" refersTo="#month" normalized="12">12 החודשים</quantity> שמחודש ינואר 2015 עד חודש דצמבר 2015 של הרכיבים הבאים:</p>
+            <p>שכר משולב, תוספת ותק וכל תוספת יוקר ששולמה עד יום <date date="2015-12-31">31.12.2015</date> כולל, וכן תוספות שכר ותוספות לשכר (שקליות ואחוזיות), להלן - "התוספות", למעט:</p>
+          </intro>
+          <subparagraph eId="art_6__para_6-1__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>תוספות שאינן משולמות על בסיס חודשי, שבועי, יומי;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_6__para_6-1__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>תוספות שאינן מתעדכנות על בסיס הסכמי תוספות היוקר ושיש להן מנגנון עדכון אחר;</p>
+              <p>לעניין פסקה זו מובהר כי תוספות שנקבע לגביהן כי הן יתעדכנו בשיעורים של מסגרת עלות התוספות שיקבעו בהסכמי המסגרת אינן נחשבות לעניין הסכם זה כתוספות שיש להן מנגנון עדכון אחר. תוספות כאמור יבואו בחשבון בחישוב בסיס השכר לשם חישוב מסגרת עלות התוספות כאמור, ויראו בהבאתם בחשבון כאמור כיישום העדכון על פי ההסכם שקבע אותן, ולא יהיה כפל.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_6__para_6-2">
+          <num>6.2</num>
+          <intro>
+            <p>למען הסר ספק מובהר כי הרכיבים המפורטים להלן ייכללו בבסיס לצורך חישוב מסגרת עלות התוספות כאמור:</p>
+          </intro>
+          <subparagraph eId="art_6__para_6-2__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>תמורה בגין עבודה נוספת לרבות משמרות, תורנויות, כוננויות, קריאות פתע ושכר עידוד (פרמיה).</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_6__para_6-2__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>תוספות שכר לרבות תוספות שנתיות ומענקים שנתיים הנגזרים מהשכר שמהווה בסיס לחישוב ערך שעה, או מהשכר המשולב או מהשכר הקובע לפנסיה תקציבית.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_6__para_6-2__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>השלמת שכר לשכר מינימום.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_6__para_6-3">
+          <num>6.3</num>
+          <content>
+            <p>כמו-כן, מובהר כי החזרי הוצאות לא ייכללו בבסיס לצורך חישוב מסגרת עלות התוספת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_6__para_6-4">
+          <num>6.4</num>
+          <content>
+            <p>עוד מובהר כי רק הרכיבים ששולמו במהלך החודשים ינואר 2015 עד חודש דצמבר 2015, או חלקם, יכללו בחישוב לצורך חישוב מסגרת עלות התוספות. רכיבי שכר חדשים אשר החלו לשלמם לאחר חודש דצמבר 2015 לא יכללו בבסיס לצורך חישוב מסגרת עלות התוספות, אלא אם יוסכם אחרת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_6__para_6-5">
+          <num>6.5</num>
+          <content>
+            <p>אם תועלה טענה על-ידי ההסתדרות בנוגע להכללתה של תוספת הנופלת בגדר סעיפים קטנים (1) או (2) לסעיף <ref href="#art_6__para_6-1">6.1</ref>, בבסיס השכר המפורט בסעיף <ref href="#art_6__para_6-1">6.1</ref>, יידון העניין בוועדת המעקב לפי סעיף <ref href="#art_27">27</ref>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_7" repo:prose="same-source">
+        <num>7</num>
+        <heading>חישוב מסגרת עלות התוספות</heading>
+        <intro>
+          <p>חישוב מסגרת עלות התוספות לצורך האמור בסעיף <ref href="#art_5__para_5-1">5.1</ref> יבוצע בהתאם לאמור להלן:</p>
+        </intro>
+        <paragraph eId="art_7__para_7-1">
+          <num>7.1</num>
+          <content>
+            <p>החישוב יבוצע בנפרד לגבי כל דירוג ודירוג. כמו-כן, לגבי כל דירוג כאמור, החישוב יבוצע במאוחד בקרב כלל המעסיקים החתומים על הסכם זה שבהם קיים הדירוג, למעט <organization eId="org_43" refersTo="#israel-post">חברת דואר ישראל</organization> בע"מ ולמעט <organization eId="org_44" refersTo="#jewish-agency">הסוכנות היהודית</organization>.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_7-2">
+          <num>7.2</num>
+          <intro>
+            <p>על אף האמור בסעיף <ref href="#art_7__para_7-1">7.1</ref> לעיל:</p>
+          </intro>
+          <subparagraph eId="art_7__para_7-2__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>לגבי דירוג הכבאים והדירוג האחיד ברשות הארצית לכבאות והצלה במדינה, החישוב יעשה במאוחד.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>לגבי עובדים המדורגים בדירוג המנהלי והמועסקים במדינה או במוסד לביטוח לאומי או <organization eId="org_45" refersTo="#employment-service">בשירות התעסוקה</organization> - החישוב יעשה במאוחד עם העובדים המדורגים בדירוג האחיד והמועסקים בעיריית תל-אביב יפו או בעיריית חיפה - בבתי החולים ממשלתיים-עירוניים, או המועסקים בהסתדרות המדיצינית הדסה. מובהר כי לגבי עובדים כאמור, החישוב יבוצע במאוחד לגבי כל המעסיקים הנזכרים בסעיף זה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>לגבי הדירוגים הבאים במדינה: דירוג רשות מקרקעי ישראל, דירוג מעברי הגבול, דירוג קלדניות שופטים ודירוג יהלום (להלן: "<def refersTo="#term_29185c06">דירוגים ייחודיים בשירות המדינה</def>") - החישוב יעשה במאוחד, והקצאת מסגרת עלות התוספות לגביהם תעשה לפי נספח ד' להסכם זה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_d">
+            <num>(ד)</num>
+            <content>
+              <p>לגבי דירוג המהנדסים: החישוב יעשה בהתאם לאמור בפסקאות (1) עד (5) ל<ref href="#art_7__para_7-2__subpara_h">סעיף קטן (ח)</ref> (דירוג המח"ר) להלן, בהתייחס למעסיקים שבהם דירוג זה קיים. מוסכם כי החישוב לגבי דירוג זה יעשה בנפרד מכל דירוג אחר.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_e">
+            <num>(ה)</num>
+            <content>
+              <p>לגבי דירוג הטכנאים וההנדסאים: החישוב יעשה בהתאם לאמור בפסקאות (1) עד (5) ל<ref href="#art_7__para_7-2__subpara_h">סעיף קטן (ח)</ref> (דירוג המח"ר) להלן, בהתייחס למעסיקים שבהם דירוג זה קיים. מוסכם כי החישוב לגבי דירוג זה יעשה בנפרד מכל דירוג אחר.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_f">
+            <num>(ו)</num>
+            <intro>
+              <p>לגבי דירוג המקצ"ט:</p>
+            </intro>
+            <clause eId="art_7__para_7-2__subpara_f__cls_1">
+              <num>(1)</num>
+              <content>
+                <p>החישוב יעשה במאוחד לגבי כל המוסדות להשכלה גבוהה החתומים על הסכם זה.</p>
+              </content>
+            </clause>
+            <clause eId="art_7__para_7-2__subpara_f__cls_2">
+              <num>(2)</num>
+              <content>
+                <p>החישוב יעשה בנפרד לגבי המדינה.</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_g">
+            <num>(ז)</num>
+            <intro>
+              <p>לגבי הדירוג האחיד:</p>
+            </intro>
+            <clause eId="art_7__para_7-2__subpara_g__cls_1">
+              <num>(1)</num>
+              <content>
+                <p>החישוב יעשה במאוחד לגבי כל המוסדות להשכלה גבוהה החתומים על הסכם זה;</p>
+              </content>
+            </clause>
+            <clause eId="art_7__para_7-2__subpara_g__cls_2">
+              <num>(2)</num>
+              <content>
+                <p>החישוב יעשה במאוחד לגבי כל הרשויות המקומיות (לרבות המועצות האזוריות <organization eId="org_46" refersTo="#three-cities">ושלוש הערים הגדולות</organization>);</p>
+              </content>
+            </clause>
+            <clause eId="art_7__para_7-2__subpara_g__cls_3">
+              <num>(3)</num>
+              <content>
+                <p>החישוב יעשה במאוחד לגבי כל המועצות הדתיות.</p>
+              </content>
+            </clause>
+            <clause eId="art_7__para_7-2__subpara_g__cls_4">
+              <num>(4)</num>
+              <content>
+                <p>החישוב יעשה בנפרד <organization eId="org_47" refersTo="#clalit">בשירותי בריאות כללית</organization>.</p>
+                <p>על אף האמור, לגבי עובדים בדירוג האחיד הנזכרים ב<ref href="#art_7__para_7-2__subpara_a">סעיף קטן (א)</ref> או (ב) לעיל, יחול האמור בהם ולא האמור בסעיף קטן זה.</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_h">
+            <num>(ח)</num>
+            <intro>
+              <p>לגבי דירוג המח"ר (לרבות עובדי ביקורת) ודירוג העיתונאים - החישוב יעשה במאוחד, אך החישוב האמור לא יכלול את הפסיכולוגים (מכיוון שנחתם לגביהם הסכם נפרד). כמו כן:</p>
+            </intro>
+            <clause eId="art_7__para_7-2__subpara_h__cls_1">
+              <num>(1)</num>
+              <content>
+                <p>החישוב יעשה במאוחד לגבי כל המעסיקים הבאים: המדינה, <organization eId="org_48" refersTo="#nii">המוסד לביטוח לאומי</organization> <organization eId="org_49" refersTo="#employment-service">ושירות התעסוקה</organization>, ההסתדרות המדיצינית הדסה, עיריית תל-אביב יפו או עיריית חיפה - לגבי עובדים המועסקים בבתי חולים ממשלתיים-עירוניים;</p>
+              </content>
+            </clause>
+            <clause eId="art_7__para_7-2__subpara_h__cls_2">
+              <num>(2)</num>
+              <content>
+                <p>החישוב יעשה במאוחד לגבי כל המוסדות להשכלה גבוהה החתומים על הסכם זה;</p>
+              </content>
+            </clause>
+            <clause eId="art_7__para_7-2__subpara_h__cls_3">
+              <num>(3)</num>
+              <content>
+                <p>החישוב יעשה במאוחד לגבי כל הרשויות המקומיות (לרבות המועצות האזוריות <organization eId="org_50" refersTo="#three-cities">ושלוש הערים הגדולות</organization>) אך למעט עובדים בדירוג המח"ר המועסקים בעיריית תל אביב יפו או בעיריית חיפה בבתי חולים ממשלתיים-עירוניים;</p>
+              </content>
+            </clause>
+            <clause eId="art_7__para_7-2__subpara_h__cls_4">
+              <num>(4)</num>
+              <content>
+                <p>החישוב יעשה במאוחד לגבי כל המועצות הדתיות, כאשר במועצות הדתיות יבוצע החישוב במאוחד גם עם דירוג רבני שכונות והתיישבות;</p>
+              </content>
+            </clause>
+            <clause eId="art_7__para_7-2__subpara_h__cls_5">
+              <num>(5)</num>
+              <content>
+                <p>החישוב יעשה בנפרד לגבי <organization eId="org_51" refersTo="#clalit">שירותי בריאות כללית</organization>.</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_i">
+            <num>(ט)</num>
+            <content>
+              <p>על אף האמור בסעיפים קטנים <ref href="#art_7__para_7-2__subpara_g">(ז)</ref> ו-(ח) לעיל, לגבי "עובדים באחיד ובמח"ר", כהגדרתם בסעיף <ref href="#art_20__para_20-1">20.1</ref> להלן, יחול האמור בסעיף <ref href="#art_20">20</ref> להלן לגבי העלות שבסעיף 5.1.1 לעיל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_7__para_7-2__subpara_j">
+            <num>(י)</num>
+            <content>
+              <p>לגבי דירוג רבני שכונות והתיישבות: לגבי רבני שכונות והתיישבות המועסקים במועצות הדתיות החישוב יעשה במאוחד עם דירוג המח"ר כאמור ב<ref href="#art_7__para_7-2__subpara_h">סעיף קטן (ח)</ref>(4) לעיל. לגבי רבני שכונות והתיישבות המועסקים בשלטון המקומי, החישוב יעשה במאוחד בכל הרשויות המקומיות (לרבות המועצות האזוריות <organization eId="org_52" refersTo="#three-cities">ושלוש הערים הגדולות</organization>).</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_7__para_7-3">
+          <num>7.3</num>
+          <content>
+            <p>לגבי <organization eId="org_53" refersTo="#israel-post">חברת דואר ישראל</organization> בע"מ, החישוב יעשה במאוחד לכל הדירוגים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_7-4">
+          <num>7.4</num>
+          <content>
+            <p>לגבי <organization eId="org_54" refersTo="#jewish-agency">הסוכנות היהודית</organization> לארץ ישראל, <organization eId="org_55" refersTo="#wzo">ההסתדרות הציונית העולמית</organization>, <organization eId="org_56" refersTo="#kkl">הקרן הקיימת לישראל</organization> <organization eId="org_57" refersTo="#keren-hayesod">וקרן היסוד</organization> - החישוב ייעשה בנפרד לגבי כל דירוג ודירוג וכן בנפרד לגבי כל אחת מהן.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_7-5">
+          <num>7.5</num>
+          <content>
+            <p>מוסכם כי לגבי סעיף זה - "המדינה" היא לרבות המפעלים הביטחוניים בכל הנוגע לעובדים המדורגים באותו דירוג והמיוצגים על ידי ההסתדרות.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_7-6">
+          <num>7.6</num>
+          <content>
+            <p>השילוב שבין הדירוג/ים ובין המעסיק/ים, שלגביהם יבוצע החישוב, בהתאם לאמור לעיל, יהווה את הקבוצה הרלוונטית לחישוב העלות לפי הסכם זה (להלן: "<def refersTo="#term_2a1a2303">קבוצת החישוב</def>").</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_7-7">
+          <num>7.7</num>
+          <content>
+            <p>מוסכם כי ההסתדרות תהא רשאית להודיע למעסיקים עד ליום <date date="2016-04-30">30.4.2016</date>, על שינוי בקבוצת החישוב (שינוי בנוגע לדירוג/ים בקבוצת החישוב או למעסיק/ים בקבוצת החישוב). הודעה כאמור תינתן בכתב לכל המעסיקים הרלוונטיים ולממונה על השכר. סעיף <ref href="#art_7__para_7-7">7.7</ref> זה לא יחול על דירוגים ייחודיים בשירות המדינה ולגביהם יחול האמור בסעיף <ref href="#art_11__para_11-5">11.5</ref> להלן.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_8" repo:prose="same-source">
+        <num>8</num>
+        <heading>שכר מינימום</heading>
+        <content>
+          <p>התוספות שעליהן יוסכם במסגרת עלות התוספות, לא תובאנה בחשבון לעניין חישוב השלמה לשכר מינימום, לפי חוק שכר מינימום, התשמ"ז-1987. למען הסר ספק מובהר כי התוספות יהיו "תוספת מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה-2015.</p>
+          <p>היה ויוחלט על הגדלת תוספת קיימת, אשר מובאת בחשבון לעניין חישוב השלמה לשכר מינימום, האמור לעיל לא יחול לגביה. ואולם, מובהר כי אין בסייג זה כדי לגרוע ממסגרת עלות התוספות ומהחובה להקצות את העלות שנחסכה כתוצאה מכך שהגדילו תוספת קיימת המובאת בחשבון כאמור.</p>
+        </content>
+      </article>
+      <article eId="art_9" repo:prose="same-source">
+        <num>9</num>
+        <heading>הגדלת תוספות מיוחדות</heading>
+        <paragraph eId="art_9__para_9-1">
+          <num>9.1</num>
+          <intro>
+            <p>תוספות השכר שמתקיימים בהן האמור בפסקאות (1) עד (3) להלן במצטבר, יעודכנו כפי שיפורט בסעיף <ref href="#art_9__para_9-2">9.2</ref> להלן (להלן: "<def refersTo="#term_655cd1fd">תוספות מיוחדות</def>"):</p>
+          </intro>
+          <subparagraph eId="art_9__para_9-1__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>אינן מובאות בחשבון לעניין חישוב ערך שעה;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_9__para_9-1__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>אינן מנויות בפסקאות (1) עד (3) של סעיף <ref href="#art_12__para_12-1">12.1</ref>(ב) להלן;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_9__para_9-1__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>אינן מושפעות מערך השעה ואינן מתעדכנות עקב עדכון המשכורת הקובעת לפנסיה.</p>
+              <p>מובהר כי הוראה זו אינה חלה לגבי רכיבי החזרי הוצאות מכל סוג שהוא.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_9__para_9-2">
+          <num>9.2</num>
+          <intro>
+            <p>כל אחת מהתוספות המיוחדות יעודכנו במועדים ובשיעורים כדלקמן:</p>
+          </intro>
+          <subparagraph eId="art_9__para_9-2__subpara_9-2-1">
+            <num>9.2.1</num>
+            <content>
+              <p>החל מיום <date date="2016-07-01">1.7.2016</date> - בשיעור של <quantity eId="qty_11" refersTo="#percentage" normalized="1">1%</quantity> (במילים: אחוז אחד) מסכום הבסיס.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_9__para_9-2__subpara_9-2-2">
+            <num>9.2.2</num>
+            <content>
+              <p>החל מיום <date date="2017-03-01">1.3.2017</date> - השלמה ל- <quantity eId="qty_12" refersTo="#percentage" normalized="2.75">2.75%</quantity> (במילים: שני אחוזים ושבעים וחמש עשיריות האחוז) מסכום הבסיס.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_9__para_9-2__subpara_9-2-3">
+            <num>9.2.3</num>
+            <content>
+              <p>החל מיום <date date="2018-01-01">1.1.2018</date> - השלמה ל- <quantity eId="qty_13" refersTo="#percentage" normalized="4.25">4.25%</quantity> (במילים: ארבעה אחוזים ועשרים וחמש עשיריות האחוז) מסכום הבסיס.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_9__para_9-2__subpara_9-2-4">
+            <num>9.2.4</num>
+            <content>
+              <p>החל מיום <date date="2018-06-01">1.6.2018</date> - השלמה ל- <quantity eId="qty_14" refersTo="#percentage" normalized="6">6%</quantity> (במילים: ששה אחוזים) מסכום הבסיס.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_9__para_9-2__subpara_9-2-5">
+            <num>9.2.5</num>
+            <content>
+              <p>החל מיום <date date="2018-12-01">1.12.2018</date> - השלמה ל- <quantity eId="qty_15" refersTo="#percentage" normalized="7.5">7.5%</quantity> (במילים: שבעה וחצי אחוזים) מסכום הבסיס.</p>
+              <p>לעניין סעיף זה:</p>
+              <p>"<def refersTo="#term_9612a29c">סכום הבסיס</def>" - סכום התוספת המשולם ערב חתימת הסכם זה על פי חוזרי <role eId="rol_58" refersTo="#role-memuneh-sachar">הממונה על השכר</role>.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_10" repo:prose="same-source">
+        <num>10</num>
+        <heading>מתן תוספת שקלית אחידה החל מיום <date date="2016-07-01">1.7.2016</date>
+        </heading>
+        <paragraph eId="art_10__para_10-1">
+          <num>10.1</num>
+          <content>
+            <p>החל מיום <date date="2016-07-01">1.7.2016</date> יהיו העובדים זכאים לתוספת שכר חודשית שקלית חדשה בסכום אחיד לגבי כלל העובדים בקבוצת החישוב המועסקים במשרה מלאה (להלן: "<def refersTo="#term_ca0a1e3c">תוספת שקלית 2016</def>").</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-2">
+          <num>10.2</num>
+          <content>
+            <p>סכום תוספת שקלית 2016 ייקבע כך שתתקיים הנוסחה הבאה:</p>
+            <p repo:role="running-head">A + B = C</p>
+            <p>למען הסר ספק מובהר כי קיים רק סכום שקלי אחד אשר מקיים את הנוסחה, והוא יהיה גובה התוספת השקלית לעובד המועסק במשרה מלאה.</p>
+            <p>לעניין סעיף זה:</p>
+            <p>A - הסכום המצרפי של תוספת שקלית 2016, אילו היתה התוספת האמורה משולמת בשנת 2015 לכלל העובדים בקבוצת החישוב, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים 10.3 עד 10.9 שלהלן.</p>
+            <p>B - הסכום המצרפי שבו היו גדלים בשנת 2015 כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) בסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל, אשר שולמו בפועל בשנת 2015, אילו תוספת שקלית 2016 היתה משולמת לכלל העובדים בקבוצת החישוב, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים 10.3 עד 10.9 שלהלן.</p>
+            <p>C - סכום השווה ל-<quantity eId="qty_16" refersTo="#percentage" normalized="1">1%</quantity> מבסיס השכר כפי שחושב כאמור בסעיף <ref href="#art_6">6</ref> לעיל, לגבי קבוצת החישוב, למעט התוספות המיוחדות כהגדרתם בסעיף <ref href="#art_9">9</ref> לעיל של העובדים בקבוצת החישוב האמורה (אשר יעודכנו כאמור בסעיף <ref href="#art_9">9</ref> לעיל).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-3">
+          <num>10.3</num>
+          <content>
+            <p>עובד במשרה חלקית יהיה זכאי לתוספת שקלית 2016 בסכום שיחושב באופן יחסי לחלקיות משרתו בהשוואה לעובד במשרה מלאה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-4">
+          <num>10.4</num>
+          <content>
+            <p>סכום התוספת השקלית לגבי כל קבוצת חישוב טעון אישור מפורש ובכתב של <role eId="rol_59" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, בין היתר על מנת לוודא כי אין חריגה מ- C. האמור יחול גם לגבי כל הגדלה של סכום התוספת לפי הסכם זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-5">
+          <num>10.5</num>
+          <content>
+            <p>החל מחודש ינואר 2017 יעודכן, בחודש ינואר, אחת לשנה, סכום התוספת השקלית שייקבע כאמור לעיל, לפי שיעור עליית מדד החדש לעומת המדד הקודם.</p>
+            <p>לעניין סעיף זה:</p>
+            <p>"<def refersTo="#term_e702a626">מדד</def>" - מדד המחירים לצרכן המתפרסם על ידי <organization eId="org_60" refersTo="#cbs">הלשכה המרכזית לסטטיסטיקה</organization>.</p>
+            <p>"<def refersTo="#term_79dfe769">המדד החדש</def>" - מדד חודש דצמבר של השנה שקדמה לחודש העדכון.</p>
+            <p>"<def refersTo="#term_9cca023e">המדד הקודם</def>" - מדד חודש דצמבר של השנה שקדמה לחודש העדכון הקודם, ולעניין העדכון הראשון - מדד חודש דצמבר 2015 (שהתפרסם בחודש ינואר 2016).</p>
+            <p>מובהר כי אם בשנה מסוימת שיעור השינוי במדד יהיה שלילי, לא יבוצע בשל כך עדכון של סכום התוספת השקלית, והעדכון ידחה למועד בו ניתן יהיה לבצע עדכון חיובי תוך קיזוז מלוא השיעור השלילי, על פי חישוב לפי שיעור עליית המדד החדש לעומת המדד הקודם האחרון ששימש לעדכון התוספת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-6">
+          <num>10.6</num>
+          <content>
+            <p>מוסכם כי תוספת שקלית 2016 לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז-1987. למען הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה-2015.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-7">
+          <num>10.7</num>
+          <content>
+            <p>תוספת שקלית 2016 תהווה שכר לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה, לצורך תשלום גמול לעבודה נוספת, לרבות כוננויות, תורנויות, משמרות, קריאות פתע ושכר עידוד, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין גמלאות, הפרשות לקופת גמל לקצבה, הפרשות לקרן השתלמות וכל הפרשה אחרת הנוהגת לגבי השכר המשולב.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-8">
+          <num>10.8</num>
+          <content>
+            <p>מוסכם כי תוספת שקלית 2016 לא תיכלל בבסיס לחישוב כל תוספת שכר וכל תוספת לשכר הקיימת ערב חתימת הסכם זה. לגבי תוספות שכר ותוספת לשכר שיסוכמו בעתיד יחולו הכללים שייקבעו לגביהן.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-9">
+          <num>10.9</num>
+          <content>
+            <p>הממשלה מבהירה כי לאור הוראות סעיף 8 לחוק שירות המדינה (גמלאות)[נוסח משולב], התש"ל-1970, תוספת שקלית 2016 תובא בחישוב המשכורת הקובעת, כהגדרה בסעיף האמור.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-10">
+          <num>10.10</num>
+          <content>
+            <p>מוסכם כי הוראות סעיף <ref href="#art_11__para_11-3">11.3</ref> יחולו גם לגבי העברת נתוני השכר הקיימים ברשות כל מעסיק, אשר רלוונטיים לחישוב סכום תוספת שקלית 2016 ואשר יתבקשו על ידי ההסתדרות עד ליום <date date="2016-04-30">30.4.2016</date>.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-11">
+          <num>10.11</num>
+          <content>
+            <p>מוסכם כי אם יתברר לצדדים כי נעשתה טעות בחישוב סכום התוספת השקלית לפי האמור בסעיף זה (בסכום גבוה או נמוך), תתוקן הטעות במשכורת החודש המשולמת לאחר היוודע הטעות, וזאת למפרע למועד שבו חלה להשתלם.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-12">
+          <num>10.12</num>
+          <content>
+            <p>מוסכם כי מחלוקות בין הצדדים בדבר גובה סכום תוספת שקלית 2016 שייקבע לפי האמור בסעיף זה, ידונו רק במסגרת ועדת המעקב לפי הסכם זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-13">
+          <num>10.13</num>
+          <content>
+            <p>התשלומים הנובעים מסעיף זה ישולמו החל במשכורת המשולמת בעד חודש יולי 2016 ולא יאוחר מהמשכורת המשתלמת בעד חודש אוגוסט 2016. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש אוגוסט 2016, ישולמו במסגרתה גם ההפרשים בעד התקופה שמיום <date date="2016-07-01">1.7.2016</date> עד יום <date date="2016-07-31">31.7.2016</date>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_11" repo:prose="same-source">
+        <num>11</num>
+        <heading>משא ומתן נוסף ודירוגים ייחודיים</heading>
+        <paragraph eId="art_11__para_11-1">
+          <num>11.1</num>
+          <content>
+            <p>הקצאת מסגרת עלות התוספות כאמור בסעיפים 5.1.2 עד 5.1.5 לעיל, בהפחתת העלות הנובעת מסעיף <ref href="#art_9">9</ref> לעיל, תעשה בהתאם להוראות ברירת המחדל להקצאת מסגרת העלות כאמור בסעיפים <ref href="#art_12">12</ref> עד <ref href="#art_15">15</ref> להלן (להלן: "<def refersTo="#term_926006b0">ברירת המחדל</def>"), או על פי חלוקה אחרת אשר תיקבע בהסכם בין הצדדים לפי האמור בסעיף זה ובלבד שהסכמה כאמור תביא במכלול לצמצום פערים בקבוצת החישוב ותקבל את אישור <role eId="rol_61" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מראש, במפורש ובכתב.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-2">
+          <num>11.2</num>
+          <content>
+            <p>מוסכם כי סמוך לאחר חתימת הסכם זה ינהלו המעסיקים, עם כל איגוד מקצועי, משא ומתן לחתימת הסכם קיבוצי לגבי כל קבוצת חישוב שהוא מייצג, ליישום האמור בסעיפים <ref href="#art_5">5</ref> עד <ref href="#art_8">8</ref> לעיל, אך למעט בנוגע לעלות שהוקצתה לפי סעיף 5.1.1 לעיל (ומשולמת לפי סעיף 10 כתוספת שקלית 2016) ולפי סעיף <ref href="#art_9">9</ref> לעיל.</p>
+            <p>למען הסר ספק, לגבי מעסיקים הכפופים להוראות סעיף 29 חוק יסודות התקציב, התשמ"ה-1985, האמור בסעיף זה הוא בכפוף להוראות סעיף 29.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-3">
+          <num>11.3</num>
+          <content>
+            <p>כל מעסיק יעביר להסתדרות מידע באשר לנתוני שכר הקיימים ברשותו, אשר רלוונטיים לצורך המשא המתן האמור ואשר יתבקש על-ידה. העברת המידע תיעשה בכפוף להוראת כל דין, לרבות הוראות חוק הגנת הפרטיות, התשמ"א-1981 (ללא פרטים מזהים).</p>
+            <p>מובהר כי המידע יועבר להסתדרות כפי שהוא מצוי בידי המעסיק (ללא עיבוד).</p>
+            <p>היה ותוגש בקשה הכרוכה בעיבוד מידע, אשר לדעת המעסיק ניתן לעשותו בהקצאת משאבים סבירה, תיבחן בקשה זו על-ידו בחיוב. הסכים המעסיק להיעתר לבקשה יודיע להסתדרות מהם הסכומים המשוערים של העלות הכרוכה בהפקת המידע. ההסתדרות תודיע בתגובה האם היא מסכימה לשאת בעלות כאמור. הודיעה ההסתדרות כי היא מסכימה לשאת בעלות – המידע יופק ויימסר על-ידי המעסיק, כנגד תשלום העלות הכרוכה בכך. לא הודיעה ההסתדרות כי היא מסכימה לשאת בעלות - לא יימשך הטיפול בבקשתה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-4">
+          <num>11.4</num>
+          <content>
+            <p>מוסכם למניעת ספק כי אין באמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל כדי לגרוע מהוראות השקט התעשייתי לפי סעיף <ref href="#art_25">25</ref> להלן. מובהר כי בהיעדר הסכמה אחרת בנוגע לאופן הקצאת העלות, תוקצה העלות לפי ברירת המחדל להקצאת העלות כאמור בסעיפים <ref href="#art_12">12</ref> עד <ref href="#art_15">15</ref> להלן. בכל מקרה מוסכם כי לא יוכרז סכסוך עבודה ולא ינקטו אמצעים ארגוניים בשל היעדר הסכמה המאושרת כאמור לגבי אופן הקצאת העלות.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-5">
+          <num>11.5</num>
+          <content>
+            <p>דירוגים ייחודיים בשירות המדינה (דירוג מעברי הגבול בשירות המדינה, דירוג קלדניות שופטים, דירוג יהלום ודירוג רשות מקרקעי ישראל):</p>
+            <p>בהמשך לאמור בסעיף <ref href="#art_7__para_7-2">7.2</ref>(ג) לעיל, מוסכם כי חלוקת מלוא עלות תוספות השכר לפי הסכם זה לדירוגים האמורים, תעשה לפי האמור בנספח ד' להסכם זה. מובהר כי לא תשולם להם תוספת אחוזית 2016 ולא יחול לגביהם האמור לעיל בסעיפים קטנים 11.1 ו-11.2 לעיל וכן סעיפים <ref href="#art_12">12</ref> עד <ref href="#art_15">15</ref> להסכם זה. כמו-כן, מובהר כי לגבי דירוג קלדניות שופטים, דירוג יהלום ודירוג רשות מקרקעי ישראל, תשולם תוספת שקלית 2016 כפי הקבוע בנספח האמור (לגבי דירוג מעברי הגבול, בעדכון טבלת שכר היסוד גלומה הקצאת מלוא מסגרת עלות התוספות מכוח הסכם זה לדירוג האמור).</p>
+            <p>מוסכם כי האמור בסעיף <ref href="#art_11__para_11-5">11.5</ref> זה יחול אלא אם כן יגיעו הצדדים להסכמה אחרת לגבי הקצאת עלות תוספות השכר לדירוגים אלו.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_12" repo:prose="same-source">
+        <num>12</num>
+        <heading>ברירת מחדל להקצאת <quantity eId="qty_17" refersTo="#percentage" normalized="1.75">1.75%</quantity> החל מיום <date date="2017-03-01">1.3.2017</date>
+        </heading>
+        <intro>
+          <p>היה ועד ליום <date date="2016-12-31">31.12.2016</date>, לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף 5.1.2 לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2017-03-01">1.3.2017</date> תוקצה העלות בשיעור <quantity eId="qty_18" refersTo="#percentage" normalized="1.75">1.75%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה קבוצת החישוב, לטובת מתן תוספת שכר אחוזית בשיעור של <quantity eId="qty_19" refersTo="#percentage" normalized="1.375">1.375%</quantity> כאמור בסעיף <ref href="#art_12__para_12-1">12.1</ref> להלן, והיתרה תוקצה להגדלת תוספת שקלית 2016, כאמור בסעיף <ref href="#art_12__para_12-2">12.2</ref> להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה.</p>
+        </intro>
+        <paragraph eId="art_12__para_12-1">
+          <num>12.1</num>
+          <intro>
+            <p>תוספת אחוזית 2016</p>
+          </intro>
+          <subparagraph eId="art_12__para_12-1__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>החל מיום <date date="2017-03-01">1.3.2017</date> יהיו העובדים זכאים לתוספת שכר חדשה, בשיעור של <quantity eId="qty_20" refersTo="#percentage" normalized="1.375">1.375%</quantity> (במלים: אחוז אחד ושלוש מאות שבעים וחמש מאיות האחוז) (להלן: "<def refersTo="#term_24bd47e9">תוספת אחוזית 2016</def>"). התוספת תשולם בשיעור אחיד לכל עובד בכל דרגה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-1__subpara_b">
+            <num>(ב)</num>
+            <intro>
+              <p>בסיס השכר לחישוב תוספת אחוזית 2016 הוא: שכר משולב, תוספת ותק וכל תוספת יוקר המשולמת עד מועד תשלום תוספת אחוזית 2016 כמפורט בהסכם זה, כל תוספות שכר ותוספות לשכר (אחוזיות ושקליות) שהיו הקיימות ביום <date date="2015-12-31">31.12.2015</date> והמובאות בחשבון לעניין חישוב ערך שעה, ולמעט:</p>
+            </intro>
+            <clause eId="art_12__para_12-1__subpara_b__cls_1">
+              <num>(1)</num>
+              <content>
+                <p>תוספות שאינן משולמות על בסיס חודשי, שבועי או יומי;</p>
+              </content>
+            </clause>
+            <clause eId="art_12__para_12-1__subpara_b__cls_2">
+              <num>(2)</num>
+              <content>
+                <p>תוספות שאינן מתעדכנות על-פי הסכמי תוספת יוקר ויש להן מנגנון עדכון אחר;</p>
+              </content>
+            </clause>
+            <clause eId="art_12__para_12-1__subpara_b__cls_3">
+              <num>(3)</num>
+              <content>
+                <p>השלמת שכר עד לשכר מינימום בהתאם לחוק שכר מינימום, התשמ"ז-1987;</p>
+              </content>
+            </clause>
+            <clause eId="art_12__para_12-1__subpara_b__cls_4">
+              <num>(4)</num>
+              <content>
+                <p>תוספת שקלית 2016 או כל תוספת אחרת שתשולם מכוח עלות הסכם זה.</p>
+                <p>מובהר כי אין באמור בהוראות סעיף זה כדי לגרוע מהוראות סעיף <ref href="#art_6__para_6-5">6.5</ref> להסכם זה.</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-1__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>למען הסר ספק, מובהר כי לאור הבסיס לחישוב תוספת אחוזית 2016, התוספת האמורה לא תהווה בסיס לתוספת שכר ותוספות לשכר שהיו קיימות ביום <date date="2015-12-31">31.12.2015</date> (שכן הן בבסיסה).</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-1__subpara_d">
+            <num>(ד)</num>
+            <content>
+              <p>תוספת אחוזית 2016 לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז-1987. למען הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה-2015.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-1__subpara_e">
+            <num>(ה)</num>
+            <content>
+              <p>תוספת אחוזית 2016 תהווה שכר לכל דבר ועניין ותובא בחשבון לעניין חישוב ערך שעה, לצורך תשלום גמול לעבודה נוספת, לרבות כוננויות, תורנויות, משמרות, קריאות פתע ושכר עידוד, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין גמלאות, הפרשות לקופת גמל לקצבה, הפרשות לקרן השתלמות וכל הפרשה אחרת הנוהגת לגבי השכר המשולב.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-1__subpara_f">
+            <num>(ו)</num>
+            <content>
+              <p>תוספת אחוזית 2016 תובא בחשבון לעניין חישוב תוספות שנתיות ומענקים שנתיים המחושבים על בסיס השכר המובא בחשבון לצורך חישוב ערך שעה לעבודה נוספת או על בסיס המשכורת הקובעת בפנסיה תקציבית.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-1__subpara_g">
+            <num>(ז)</num>
+            <content>
+              <p>הממשלה מבהירה כי לאור הוראות סעיף 8 לחוק שירות המדינה (גמלאות) [נוסח משולב], התש"ל-1970, תוספת אחוזית 2016 תובא בחישוב המשכורת הקובעת, כהגדרתה בסעיף האמור.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-1__subpara_h">
+            <num>(ח)</num>
+            <content>
+              <p>התשלומים הנובעים מסעיף זה ישולמו החל במשכורת המשולמת בעד חודש מרץ 2017 ולא יאוחר מהמשכורת המשתלמת בעד חודש אפריל 2017. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש אפריל 2017, ישולמו במסגרתה גם ההפרשים בעד התקופה שמיום <date date="2017-03-01">1.3.2017</date> עד יום <date date="2017-03-31">31.3.2017</date>.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_12__para_12-2">
+          <num>12.2</num>
+          <intro>
+            <p>הגדלת תוספת שקלית 2016</p>
+          </intro>
+          <subparagraph eId="art_12__para_12-2__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>יתרת העלות לחלוקה (כלומר C, כהגדרתו להלן) תוקצה להגדלת סכום התוספת השקלית 2016, החל מיום <date date="2017-03-01">1.3.2017</date>, בהתאם למפורט בסעיף זה וללא שינוי ביתר הכללים החלים לגבי התוספת.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-2__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>הסכום שבו תגדל תוספת שקלית 2016 ייקבע כך שתתקיים הנוסחה הבאה:</p>
+              <p repo:role="running-head">A + B = C</p>
+              <p>למען הסר ספק מובהר כי קיים רק סכום שקלי אחד אשר מקיים את הנוסחה, והוא יהיה גובה הגדלת תוספת שקלית לעובד המועסק במשרה מלאה.</p>
+              <p>לעניין סעיף זה:</p>
+              <p>"A" - הסכום המצרפי הנובע מתשלום הגדלת תוספת שקלית 2016 אילו היו הייתה ההגדלה האמורה משולמת בשנת 2015 לכלל העובדים בקבוצת החישוב, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים 10.3 עד 10.9 שלעיל.</p>
+              <p>"B" - הסכום המצרפי שבו היו גדלים בשנת 2015 כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) בסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל, אשר שולמו בפועל בשנת 2015, אילו הייתה משולמת הגדלת תוספת שקלית 2016 לכלל העובדים בקבוצת החישוב, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים 10.3 עד 10.9 שלעיל.</p>
+              <p>"C" - הסכום המתקבל כתוצאת ההפרש שבין D ל- E.</p>
+              <p>"D" - <quantity eId="qty_21" refersTo="#percentage" normalized="1.75">1.75%</quantity> מבסיס השכר כפי שחושב כאמור בסעיף <ref href="#art_6">6</ref> לעיל, לגבי קבוצת החישוב. ואולם, לעניין זה בסיס השכר לא יכלול את סכום התוספות המיוחדות כהגדרתם בסעיף <ref href="#art_9">9</ref> לעיל של העובדים בקבוצת החישוב האמורה ואת העלות הנובעת מהשפעתן על רכיבי השכר המפורטים בפסקאות (1) ו-(2) שבסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל.</p>
+              <p>"E" - העלות שהוקצתה לתוספת השכר האחוזית לפי סעיף <ref href="#art_12__para_12-1">12.1</ref> לעיל, לגבי אותה קבוצת חישוב, בצירוף העלות הנובעת מהשפעתה של התוספת על כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) שבסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל לגבי אותה קבוצה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-2__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>יובהר כי חישוב יתרת העלות לחלוקה (כלומר C) לצורך הגדלת סכום תוספת שקלית 2016, יביא בחשבון שהבסיס לחישוב תוספת אחוזית 2016 קטן יותר מבסיס השכר לפי סעיף <ref href="#art_6">6</ref> לעיל ואינו כולל את ההשלמה לשכר מינימום.</p>
+              <p>לפיכך, העלות שלא הוקצתה לטובת התוספת האחוזית נלקחת בחשבון להגדלת התוספת השקלית, כך שתחולק כלל העלות שבסעיף 5.1.2.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_12__para_12-2__subpara_d">
+            <num>(ד)</num>
+            <content>
+              <p>התשלומים הנובעים מסעיף זה ישולמו החל במשכורת המשולמת בעד חודש מרץ 2017 ולא יאוחר מהמשכורת המשתלמת בעד חודש אפריל 2017. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש אפריל 2017, ישולמו במסגרתה גם ההפרשים בעד התקופה שמיום <date date="2017-03-01">1.3.2017</date> עד יום <date date="2017-03-31">31.3.2017</date>.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_13" repo:prose="same-source">
+        <num>13</num>
+        <heading>ברירת מחדל להקצאת <quantity eId="qty_22" refersTo="#percentage" normalized="1.5">1.5%</quantity> החל מיום <date date="2018-01-01">1.1.2018</date>
+        </heading>
+        <intro>
+          <p>היה ועד ליום <date date="2017-10-31">31.10.2017</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף 5.1.3 לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-01-01">1.1.2018</date> תוקצה העלות בשיעור <quantity eId="qty_23" refersTo="#percentage" normalized="1.5">1.5%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה קבוצת החישוב, לטובת הגדלת תוספת אחוזית 2016 ולטובת הגדלת תוספת שקלית 2016, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
+        </intro>
+        <paragraph eId="art_13__para_a">
+          <num>(א)</num>
+          <content>
+            <p>הגדלת תוספת אחוזית 2016</p>
+            <p>שיעור תוספת אחוזית 2016 יעלה בשיעור של <quantity eId="qty_24" refersTo="#percentage" normalized="0.75">0.75%</quantity> (בפעולת חיבור) כך ששיעורה של התוספת יגדל מ-<quantity eId="qty_25" refersTo="#percentage" normalized="1.375">1.375%</quantity> ל-<quantity eId="qty_26" refersTo="#percentage" normalized="2.125">2.125%</quantity> (במילים: שני אחוזים ומאה עשרים וחמש עשיריות האחוז) ללא שינוי ביתר הכללים החלים לגבי התוספת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_13__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>הגדלת תוספת שקלית 2016</p>
+            <p>יתרת העלות לפי סעיף זה (כלומר C, כהגדרתו להלן), תוקצה להגדלת תוספת שקלית 2016, בהתאם למפורט בסעיף זה וללא שינוי לגבי יתר הכללים החלים לגבי התוספת.</p>
+            <p>הסכום שבו תגדל תוספת שקלית 2016 ייקבע כך שתתקיים הנוסחה הבאה:</p>
+            <p repo:role="running-head">A + B = C</p>
+            <p>למען הסר ספק מובהר כי קיים רק סכום שקלי אחד אשר מקיים את הנוסחה, והוא יהיה גובה הגדלת תוספת שקלית לעובד המועסק במשרה מלאה.</p>
+            <p>לעניין סעיף זה, המונחים "A", "B", ו-"C", הם כהגדרתם בסעיף <ref href="#art_12__para_12-2">12.2</ref>(ב) לעיל.</p>
+            <p>כמו-כן, המונחים "D" ו-"E" (הכלולים בסעיף <ref href="#art_12__para_12-2">12.2</ref>(ב) לעיל בהגדרה של המונח "C"), יקראו בשינויים הבאים:</p>
+            <p>במונח "D" - במקום "<quantity eId="qty_27" refersTo="#percentage" normalized="1.75">1.75%</quantity>" יבוא "<quantity eId="qty_28" refersTo="#percentage" normalized="1.5">1.5%</quantity>".</p>
+            <p>במונח "E" - במקום ההגדרה יבוא "העלות שהוקצתה להגדלת תוספת השכר האחוזית לפי סעיף קטן 13(א) לעיל, לגבי אותה קבוצת חישוב, בצירוף העלות הנובעת מהשפעתה של הגדלת התוספת על כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) שבסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל לגבי אותה קבוצה."</p>
+            <p>כמו כן, בסעיף קטן 12.2(ג) במקום "5.1.2" יבוא "5.1.3".</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_13__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>התשלומים הנובעים מסעיף זה ישולמו החל במשכורת המשולמת בעד חודש ינואר 2018 ולא יאוחר מהמשכורת המשתלמת בעד חודש פברואר 2018. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש פברואר 2018, ישולמו במסגרתה גם ההפרשים בעד התקופה שמיום <date date="2018-01-01">1.1.2018</date> עד יום <date date="2018-01-31">31.1.2018</date>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_14" repo:prose="same-source">
+        <num>14</num>
+        <heading>ברירת מחדל להקצאת <quantity eId="qty_29" refersTo="#percentage" normalized="1.75">1.75%</quantity> החל מיום <date date="2018-06-01">1.6.2018</date>
+        </heading>
+        <intro>
+          <p>היה ועד ליום <date date="2018-03-31">31.3.2018</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף 5.1.4 לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-06-01">1.6.2018</date> תוקצה העלות בשיעור <quantity eId="qty_30" refersTo="#percentage" normalized="1.75">1.75%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה קבוצת החישוב, לטובת הגדלת תוספת אחוזית 2016 ולטובת הגדלת תוספת שקלית 2016, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
+        </intro>
+        <paragraph eId="art_14__para_a">
+          <num>(א)</num>
+          <content>
+            <p>הגדלת תוספת אחוזית 2016</p>
+            <p>שיעור תוספת אחוזית 2016 יעלה בשיעור של <quantity eId="qty_31" refersTo="#percentage" normalized="0.875">0.875%</quantity> (בפעולת חיבור) כך ששיעורה של התוספת יגדל מ-<quantity eId="qty_32" refersTo="#percentage" normalized="2.125">2.125%</quantity> ל-<quantity eId="qty_33" refersTo="#percentage" normalized="3">3%</quantity> (במילים: שלושה אחוזים) ללא שינוי ביתר הכללים החלים לגבי התוספת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_14__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>הגדלת תוספת שקלית 2016</p>
+            <p>יתרת העלות לפי סעיף זה, תוקצה להגדלת תוספת שקלית 2016, בהתאם למפורט בסעיף זה וללא שינוי לגבי יתר הכללים החלים לגבי התוספת.</p>
+            <p>הסכום שבו תגדל תוספת שקלית 2016 ייקבע כך שתתקיים הנוסחה הבאה:</p>
+            <p repo:role="running-head">A + B = C</p>
+            <p>למען הסר ספק מובהר כי קיים רק סכום שקלי אחד אשר מקיים את הנוסחה, והוא יהיה גובה הגדלת תוספת שקלית לעובד המועסק במשרה מלאה.</p>
+            <p>לעניין סעיף זה, המונחים "A", "B", ו-"C", הם כהגדרתם בסעיף <ref href="#art_12__para_12-2">12.2</ref>(ב) לעיל.</p>
+            <p>כמו-כן, המונח "D" (הכלול בסעיף <ref href="#art_12__para_12-2">12.2</ref>(ב) לעיל בהגדרה של המונח "C"), הוא כהגדרתו שם, ובמקום ההגדרה של המונח "E" (הכלול בסעיף <ref href="#art_12__para_12-2">12.2</ref>(ב) לעיל בהגדרה של המונח "C"), יבוא "העלות שהוקצתה להגדלת תוספת השכר האחוזית לפי סעיף קטן 14(א) לעיל, לגבי אותה קבוצת חישוב, בצירוף העלות הנובעת מהשפעתה של הגדלת התוספת על כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) שבסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל לגבי אותה קבוצה."</p>
+            <p>כמו כן, בסעיף קטן 12.2(ג) במקום "5.1.2" יבוא "5.1.4".</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_14__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>התשלומים הנובעים מסעיף זה ישולמו החל במשכורת המשולמת בעד חודש יוני 2018 ולא יאוחר מהמשכורת המשתלמת בעד חודש יולי 2018. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש יולי 2018, ישולמו במסגרתה גם ההפרשים בעד התקופה שמיום <date date="2018-06-01">1.6.2018</date> עד יום <date date="2018-06-30">30.6.2018</date>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_15" repo:prose="same-source">
+        <num>15</num>
+        <heading>ברירת מחדל להקצאת <quantity eId="qty_34" refersTo="#percentage" normalized="1.5">1.5%</quantity> החל מיום <date date="2018-12-01">1.12.2018</date>
+        </heading>
+        <intro>
+          <p>היה ועד ליום <date date="2018-09-30">30.9.2018</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף 5.1.5 לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-12-01">1.12.2018</date> תוקצה העלות בשיעור <quantity eId="qty_35" refersTo="#percentage" normalized="1.5">1.5%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה קבוצת החישוב, לטובת הגדלת תוספת אחוזית 2016 ולטובת הגדלת תוספת שקלית 2016, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
+        </intro>
+        <paragraph eId="art_15__para_a">
+          <num>(א)</num>
+          <content>
+            <p>הגדלת תוספת אחוזית 2016</p>
+            <p>שיעור תוספת אחוזית 2016 יעלה בשיעור של <quantity eId="qty_36" refersTo="#percentage" normalized="0.75">0.75%</quantity> (בפעולת חיבור) כך ששיעורה של התוספת יגדל מ-<quantity eId="qty_37" refersTo="#percentage" normalized="3">3%</quantity> ל-<quantity eId="qty_38" refersTo="#percentage" normalized="3.75">3.75%</quantity> (במילים: שלושה אחוזים ושבעים וחמישה עשיריות האחוז), ללא שינוי ביתר הכללים החלים לגבי התוספת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_15__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>הגדלת תוספת שקלית 2016</p>
+            <p>יתרת העלות לפי סעיף זה, תוקצה להגדלת תוספת שקלית 2016, בהתאם למפורט בסעיף זה וללא שינוי לגבי יתר הכללים החלים לגבי התוספת.</p>
+            <p>הסכום שבו תגדל תוספת שקלית 2016 ייקבע כך שתתקיים הנוסחה הבאה:</p>
+            <p repo:role="running-head">A + B = C</p>
+            <p>למען הסר ספק מובהר כי קיים רק סכום שקלי אחד אשר מקיים את הנוסחה, והוא יהיה גובה הגדלת תוספת שקלית לעובד המועסק במשרה מלאה.</p>
+            <p>לעניין סעיף זה, המונחים "A", "B", ו-"C", הם כהגדרתם בסעיף <ref href="#art_12__para_12-2">12.2</ref>(ב) לעיל.</p>
+            <p>כמו-כן, המונחים "D" ו-"E" (הכלולים בסעיף <ref href="#art_12__para_12-2">12.2</ref>(ב) לעיל בהגדרה של המונח "C"), יקראו בשינויים הבאים:</p>
+            <p>במונח "D" - במקום "<quantity eId="qty_39" refersTo="#percentage" normalized="1.75">1.75%</quantity>" יבוא "<quantity eId="qty_40" refersTo="#percentage" normalized="1.5">1.5%</quantity>".</p>
+            <p>במונח "E" - במקום ההגדרה יבוא "העלות שהוקצתה להגדלת תוספת השכר האחוזית לפי סעיף קטן 15(א) לעיל, לגבי אותה קבוצת חישוב, בצירוף העלות הנובעת מהשפעתה של הגדלת התוספת על כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) שבסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל לגבי אותה קבוצה."</p>
+            <p>כמו כן, בסעיף קטן 12.2(ג) במקום "5.1.2" יבוא "5.1.5".</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_15__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>התשלומים הנובעים מסעיף זה ישולמו החל במשכורת המשולמת בעד חודש דצמבר 2018 ולא יאוחר מהמשכורת המשתלמת בעד חודש ינואר 2019. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש ינואר 2019, ישולמו במסגרתה גם ההפרשים בעד התקופה שמיום <date date="2018-12-01">1.12.2018</date> עד יום <date date="2018-12-31">31.12.2018</date>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_16" repo:prose="same-source">
+        <num>16</num>
+        <intro>
+          <p>הקדמת הגדלת תוספות שכר צמודות מדד אשר אמורות להתעדכן במועדי תוספת יוקר</p>
+        </intro>
+        <paragraph eId="art_16__para_16-1">
+          <num>16.1</num>
+          <content>
+            <p>בשים לב לכך שלמעלה מעשור לא הוסכם על תוספות יוקר חדשות, מוסכם על הצדדים כי ככל שקיימות תוספות שכר שנקבע לגביהן כי הן יעודכנו בשיעור השינוי במדד במועדים אשר בהם תשולם תוספת יוקר, תוספות אלו יעודכנו במועדים ובשיעורים כדלקמן:</p>
+            <p>החל מיום <date date="2016-07-01">1.7.2016</date> - בשיעור של <quantity eId="qty_41" refersTo="#percentage" normalized="1">1%</quantity> מבסיס התוספת.</p>
+            <p>החל מיום <date date="2017-03-01">1.3.2017</date> - השלמה ל-<quantity eId="qty_42" refersTo="#percentage" normalized="2.75">2.75%</quantity> מבסיס התוספת.</p>
+            <p>החל מיום <date date="2018-01-01">1.1.2018</date> - השלמה ל-<quantity eId="qty_43" refersTo="#percentage" normalized="4.25">4.25%</quantity> מבסיס התוספת.</p>
+            <p>החל מיום <date date="2018-06-01">1.6.2018</date> - השלמה ל-<quantity eId="qty_44" refersTo="#percentage" normalized="6">6%</quantity> מבסיס התוספת.</p>
+            <p>החל מיום <date date="2018-12-01">1.12.2018</date> - השלמה ל-<quantity eId="qty_45" refersTo="#percentage" normalized="7.5">7.5%</quantity> מבסיס התוספת.</p>
+            <p>לעניין סעיף זה- "בסיס התוספת" - סכום התוספת כפי שהוא ערב חתימת הסכם זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_16__para_16-2">
+          <num>16.2</num>
+          <content>
+            <p>מוסכם כי הגדלת תוספת השכר על פי סעיף זה מהווה הקדמה של העדכון המתחייב לפי ההסכם שקבע אותן וכי הגדלה זו תובא בחשבון במועדי העדכונים הבאים כאמור (מועדי תשלום תוספת יוקר), כך שהתוספות האמורות לא יעודכנו בכפל.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_17" repo:prose="same-source">
+        <num>17</num>
+        <heading>טכנולוגיות חדשות</heading>
+        <content>
+          <p>ההסתדרות מצהירה כי היא בעד הכנסת טכנולוגיות חדשות ותשתף פעולה בהכנסת טכנולוגיות חדשות. אין באמור כדי לגרוע מזכויות ההסתדרות והעובדים במקרה של השלכות על העובדים במקרה כאמור כל צר [כך במקור] שומר על הצעדים העומדים לרשותו. מובהר כי הכרזה על סכסוך עבודה בנושא מצריכה אישור הועדה לתיאום וביצוע בהסתדרות. יו"ר האגף לאיגוד מקצועי ילווה, לפי הצורך, את פתרון הסכסוך.</p>
+        </content>
+      </article>
+      <article eId="art_18" repo:prose="same-source">
+        <num>18</num>
+        <heading>קיצור יום עבודה/מתן חופשה להורים בסוף חודש אוגוסט</heading>
+        <paragraph eId="art_18__para_18-1">
+          <num>18.1</num>
+          <intro>
+            <p>לעניין סעיף זה, "הורה עובד" הוא עובד אשר מתקיימים לגביו כל אלה במצטבר:</p>
+          </intro>
+          <subparagraph eId="art_18__para_18-1__subpara_18-1-1">
+            <num>18.1.1</num>
+            <content>
+              <p>זכאי לקיצור יום העבודה לפי פסקאות 31.152 או 31.153 לתקשי"ר ועובד בשעות עבודה מקוצרות בהתאם;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_18__para_18-1__subpara_18-1-2">
+            <num>18.1.2</num>
+            <intro>
+              <p>סך ימי החופשה שלהם הוא זכאי ממעסיקו לכל שנת עבודה אינו עולה על:</p>
+            </intro>
+            <clause eId="art_18__para_18-1__subpara_18-1-2__cls_a">
+              <num>א.</num>
+              <content>
+                <p><quantity eId="qty_46" refersTo="#day" normalized="22">22 ימים</quantity> בשנה לגבי עובד המועסק במשרד שבו נהוג שבוע עבודה בן <quantity eId="qty_47" refersTo="#day" normalized="5">חמישה ימים</quantity>;</p>
+              </content>
+            </clause>
+            <clause eId="art_18__para_18-1__subpara_18-1-2__cls_b">
+              <num>ב.</num>
+              <content>
+                <p><quantity eId="qty_48" refersTo="#day" normalized="26">26 ימים</quantity> בשנה לגבי עובד המועסק במשרד שבו נהוג שבוע עבודה בן <quantity eId="qty_49" refersTo="#day" normalized="6">שישה ימים</quantity>.</p>
+                <p>לעניין זה יובא בחשבון כל סוג של חופשה שנתית יהא שמה אשר יהא, כגון חופשה מיוחדת, חופשה ארעית וכיוצא באלה, אך למעט ימי בחירה. למען הסר ספק, חופשת מחלה, ימי השתלמות, ימי חופשה בגין אירועים אישיים (כגון, חופשה לרגל אבל) וכיוצא באלה אינם נחשבים כימי חופשה נוספים לעניין זה.</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_18__para_18-1__subpara_18-1-3">
+            <num>18.1.3</num>
+            <content>
+              <p>אינו זכאי ממעסיקו להטבה אחרת בקשר לחופשה במהלך התקופה מיום 1 ביולי עד יום 31 באוגוסט, כולה או חלקה, כגון חופשה מרוכזת שבה העובד מחויב בפחות ימי חופשה מימי היעדרותו בפועל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_18__para_18-1__subpara_18-1-4">
+            <num>18.1.4</num>
+            <intro>
+              <p>מתקיים לגביו אחד מאלה:</p>
+            </intro>
+            <clause eId="art_18__para_18-1__subpara_18-1-4__cls_1">
+              <num>1.</num>
+              <content>
+                <p>בן או בת הזוג שלו עובדים כשכירים או עצמאים, בין אם במקום עבודתם נהוגה הטבה זהה ובין אם לאו, ובלבד שאם נהוגה הטבה זהה במקום עבודתם היא לא נוצלה על ידם;</p>
+                <p>עובד יצהיר בפני המעסיק כי האמור בסעיף קטן זה מתקיים לגביו כתנאי לשימוש בזכות.</p>
+              </content>
+            </clause>
+            <clause eId="art_18__para_18-1__subpara_18-1-4__cls_2">
+              <num>2.</num>
+              <content>
+                <p>הילד נמצא בחזקתו הבלעדית.</p>
+              </content>
+            </clause>
+            <clause eId="art_18__para_18-1__subpara_18-1-4__cls_3">
+              <num>3.</num>
+              <content>
+                <p>הילד נמצא בטיפולו הבלעדי של העובד מחמת נכות או מחלה של בן או בת הזוג ורופא אישר בכתב כי בשל הנכות או המחלה כאמור בן או בת הזוג אינם מסוגלים לטפל בילד.</p>
+                <p>קיצור יום עבודה בשעה בסוף חודש אוגוסט</p>
+              </content>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_18__para_18-2">
+          <num>18.2</num>
+          <content>
+            <p>עובד אשר מתקיימים לגביו כל התנאים לגבי הורה עובד כאמור בסעיף <ref href="#art_18__para_18-1">18.1</ref> לעיל (לרבות עובד הזכאי לקיצור יום העבודה לפי פסקה 31.152 לתקשי"ר), יהיה זכאי לקיצור יום העבודה בשעה אחת, בכל אחד מעשרת ימי העבודה האחרונים שחלים בימים א' עד ה' של חודש אוגוסט בכל שנה קלנדרית, וסך הכל <quantity eId="qty_50" refersTo="#hour" normalized="10">עשר שעות</quantity> במצטבר (להלן: "<def refersTo="#term_ff00e072">שעות החופשה המיוחדות להורים</def>").</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_18-3">
+          <num>18.3</num>
+          <content>
+            <p>בהסכמת המעסיק ובתיאום מראש, יהיה זכאי הורה עובד כאמור לנצל את שעות החופשה המיוחדות להורים, שלא כמתואר בסעיף <ref href="#art_18__para_18-2">18.2</ref> לעיל, אלא ביום אחד או על פני מספר ימים, במהלך התקופה שמיום 1 באוגוסט עד יום 30 בספטמבר, באותה שנה</p>
+            <p>(להלן: "<def refersTo="#term_9df0c765">תקופת השימוש</def>"). האמור יחול גם על עובד אשר צרכי העבודה לא אפשרו את שימושו בשעות החופשה המיוחדות להורים כמתואר בסעיף <ref href="#art_18__para_18-2">18.2</ref> לעיל.</p>
+            <p>יום חופשה מיוחד חלף קיצור יום עבודה בשעה</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_18-4">
+          <num>18.4</num>
+          <intro>
+            <p>עובד אשר מתקיימים לגביו התנאים שבסעיפים 18.4.1 ו- 18.4.2 להלן, יהיה זכאי במקום שעות החופשה המיוחדות להורים, ליום חופשה אחד (1) על חשבון המעסיק בכפוף לאמור בסעיף זה (להלן: "<def refersTo="#term_487e93dc">יום חופשה להורים</def>"):</p>
+          </intro>
+          <subparagraph eId="art_18__para_18-4__subpara_18-4-1">
+            <num>18.4.1</num>
+            <content>
+              <p>הוא הורה כאמור באחד המקרים המפורטים בפסקאות (1) עד (3) בנסמן (א) בפסקה 31.153 לתקשי"ר;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_18__para_18-4__subpara_18-4-2">
+            <num>18.4.2</num>
+            <content>
+              <p>מתקיימים לגביו כל התנאים לגבי הורה עובד כאמור בסעיף <ref href="#art_18__para_18-1">18.1</ref> לעיל, למעט 18.1.1 לעיל (כלומר לא זכאי לקיצור יום העבודה לפי התקשי"ר או לא ביקש לממש זכאותו לעבוד בשעות עבודה מקוצרות בהתאם).</p>
+              <p>ואולם, לגבי עובד כאמור המועסק במשמרות או המועסק במשרה חלקית, יחול האמור בסעיף זה, בהתאמות הקבועות בסעיף <ref href="#art_18__para_18-5">18.5</ref> או 18.6 להלן, לפי העניין.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_18__para_18-5">
+          <num>18.5</num>
+          <content>
+            <p>עובד המועסק במשרה מלאה</p>
+            <p>עובד כאמור בסעיף <ref href="#art_18__para_18-4">18.4</ref> לעיל המועסק במשמרות במשרה מלאה, יהיה זכאי ליום חופשה להורים בהתאם לאורך יום העבודה הרגיל שלו, אך לא יותר מ-<quantity eId="qty_51" refersTo="#hour" normalized="8">8 שעות</quantity>.</p>
+            <p>עובד כאמור, אשר יום העבודה שלו ארוך מ-<quantity eId="qty_52" refersTo="#hour" normalized="8">8 שעות</quantity>, יצרף ל-<quantity eId="qty_53" refersTo="#hour" normalized="8">8 השעות</quantity> כאמור שעות חופשה מתוך מכסת החופשה השנתית הצבורה שלו עד להשלמה של יום חופשה באורך יום העבודה שלו על מנת לנצל את ההטבה האמורה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_18-6">
+          <num>18.6</num>
+          <intro>
+            <p>עובד המועסק במשרה חלקית</p>
+            <p>עובד כאמור בסעיף <ref href="#art_18__para_18-4">18.4</ref> לעיל המועסק במשמרות במשרה חלקית, וכן עובד כאמור בסעיף <ref href="#art_18__para_18-2">18.2</ref> לעיל המועסק במשרה חלקית (למעט עובד הזכאי לקיצור יום העבודה לפי פסקה 31.152 לתקשי"ר), יהיה זכאי במקום שעות החופשה המיוחדות להורים, לאחד משני אלה לפי העניין:</p>
+          </intro>
+          <subparagraph eId="art_18__para_18-6__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>אם הוא מועסק בפועל (לפי תקן משרתו) חמישה ימי עבודה בשבוע במשרד שבו נהוג שבוע עבודה של <quantity eId="qty_54" refersTo="#day" normalized="5">חמישה ימים</quantity> או אם הוא מועסק בפועל (לפי תקן משרתו) שישה ימי עבודה בשבוע במשרד שבו נהוג שבוע עבודה של <quantity eId="qty_55" refersTo="#day" normalized="6">שישה ימים</quantity> - יום חופשה אחד.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_18__para_18-6__subpara_b">
+            <num>(ב)</num>
+            <intro>
+              <p>אם הוא מועסק בפועל (לפי תקן משרתו) פחות מחמישה ימי עבורה בשבוע במשרד שבו נהוג שבוע עבודה של <quantity eId="qty_56" refersTo="#day" normalized="5">חמישה ימים</quantity> או אם הוא מועסק בפועל (לפי תקן משרתו) פחות משישה ימי עבודה בשבוע במשרד שבו נהוג שבוע עבודה של <quantity eId="qty_57" refersTo="#day" normalized="6">שישה ימים</quantity> - חלק מיום חופשה אחד, המחושב כדלקמן -</p>
+            </intro>
+            <clause eId="art_18__para_18-6__subpara_b__cls_1">
+              <num>(1)</num>
+              <content>
+                <p>במשרד שבו נהוג שבוע עבודה של <quantity eId="qty_58" refersTo="#day" normalized="5">חמישה ימים</quantity> - המנה המתקבלת מחלוקה של מספר ימי עבודתו בפועל בשבוע (לפי תקן משרתו) במספר חמש (5);</p>
+              </content>
+            </clause>
+            <clause eId="art_18__para_18-6__subpara_b__cls_2">
+              <num>(2)</num>
+              <content>
+                <p>במשרד שבו נהוג שבוע עבודה של <quantity eId="qty_59" refersTo="#day" normalized="6">שישה ימים</quantity> - המנה המתקבלת מחלוקה של מספר ימי עבודתו בפועל בשבוע (לפי תקן משרתו) במספר שש (6);</p>
+                <p>הוראות כלליות לעניין סעיף <ref href="#art_18">18</ref>
+                </p>
+              </content>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_18__para_18-7">
+          <num>18.7</num>
+          <content>
+            <p>חופשה לפי סעיף זה תנוצל בתקופת השימוש בלבד, לפי בחירת העובד, בתיאום מראש עם המעסיק. כמו כן, חופשה כאמור אינה ניתנת לצבירה או לפידיון, אף אם לא נוצלה מכל סיבה שהיא.</p>
+            <p>מובהר כי אין בדרישה לתיאום מראש ובקבלת הסכמת המעסיק, כדי לגרוע מכך שעל המעסיק לאפשר לעובד הזכאי והמעוניין בכך, לעשות שימוש בתקופת השימוש בחופשה לפי סעיף זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_18-8">
+          <num>18.8</num>
+          <content>
+            <p>מוסכם כי לא יראו בקיצור יום עבודה לפי סעיף זה כקיצור השולל קיצור יום עבודה לפי פסקה 31.153 לתקשי"ר.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_19" repo:prose="same-source">
+        <num>19</num>
+        <heading>גמלאים בפנסיה תקציבית</heading>
+        <paragraph eId="art_19__para_19-1">
+          <num>19.1</num>
+          <intro>
+            <p><organization eId="org_62" refersTo="#mof">משרד האוצר</organization> מודיע כי בכוונתו להפיץ תזכיר חוק לתיקון חוק שירות המדינה (גמלאות) [נוסח משולב], התש"ל-1970 (להלן: "<def refersTo="#term_8b90bde1">חוק הגמלאות</def>"), לפי העקרונות הבאים:</p>
+          </intro>
+          <subparagraph eId="art_19__para_19-1__subpara_19-1-1">
+            <num>19.1.1</num>
+            <content>
+              <p>התיקון יחול לגבי מי שפרש מהשירות, לפי חוק הגמלאות, בתקופה שמיום <date date="2013-01-01">1 בינואר 2013</date> עד יום <date date="2018-11-30">30 בנובמבר 2018</date>, וערב פרישתו דורג באחד מהדירוגים המפורטים בנספח ה' להסכם זה (להלן: "<def refersTo="#term_6a257662">פורש זכאי</def>").</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_19-1__subpara_19-1-2">
+            <num>19.1.2</num>
+            <intro>
+              <p>מכוח התיקון, תוגדל המשכורת הקובעת לתשלום קצבה (להלן: "<def refersTo="#term_3a01aaf8">המשכורת הקובעת</def>") לפורש זכאי או לשאיריו, לפי העניין, בסכום Y שיחושב לפי הנוסחה שלהלן:</p>
+              <p>X * A + X * B * C = Y</p>
+              <p>X - המקדם הרלוונטי לגמלאי, בהתאם לחודש פרישתו, הקבוע בטבלה המצורפת כנספח ו' להסכם זה.</p>
+              <p>A - הסכום המלא של התוספת השקלית, המשתלמת לפי הסכם זה או לפי הסכם קיבוצי אשר נחתם לפי סעיף 11 להסכם זה, לעובד שדרגתו כדרגה שהיתה לפורש הזכאי ערב פרישתו, כמשמעות מונח זה בסעיף 8 לחוק הגמלאות.</p>
+              <p>לגבי פורש זכאי שפרש בדירוג מעברי הגבול - הסכום השקלי הכולל בו הוגדל, לפי הסכם זה, שכר היסוד של עובד שדרגתו כדרגה שהיתה לפורש הזכאי ערב פרישתו, כמשמעות מונח זה בסעיף 8 לחוק הגמלאות (מובהר כי בסכום השקלי הכולל כאמור גלומה הקצאת מלוא עלות תוספות השכר מכוח הסכם זה לדרוג זה האמור).</p>
+              <p>B - השיעור המלא של התוספת האחוזית, המשתלמת לפי הסכם זה או לפי הסכם קיבוצי אשר נחתם לפי סעיף 11 להסכם זה, לעובד שדרגתו כדרגה שהיתה לפורש הזכאי ערב פרישתו, כמשמעות מונח זה בסעיף 8 לחוק הגמלאות.</p>
+              <p>C - המשכורת הקובעת של הפורש הזכאי, כהגדרתה בחוק הגמלאות, למעט התוספות הבאות:</p>
+            </intro>
+            <clause eId="art_19__para_19-1__subpara_19-1-2__cls_a">
+              <num>(א)</num>
+              <content>
+                <p>קצובת הבראה וקצובת ביגוד;</p>
+              </content>
+            </clause>
+            <clause eId="art_19__para_19-1__subpara_19-1-2__cls_b">
+              <num>(ב)</num>
+              <content>
+                <p>תוספות שאינן מתעדכנות על בסיס הסכמי תוספות היוקר ושיש להן מנגנון עדכון אחר.</p>
+              </content>
+            </clause>
+            <clause eId="art_19__para_19-1__subpara_19-1-2__cls_c">
+              <num>(ג)</num>
+              <content>
+                <p>השלמת השכר עד לשכר המינימום;</p>
+              </content>
+            </clause>
+            <clause eId="art_19__para_19-1__subpara_19-1-2__cls_d">
+              <num>(ד)</num>
+              <content>
+                <p>תוספות אשר החלו להשתלם לאחר יום <date date="2015-12-31">31.12.2015</date>, לרבות תוספת המשולמת לפי הסכם זה או לפי הסכם קיבוצי אשר נחתם לפי סעיף 11 להסכם זה.</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_19__para_19-1__subpara_19-1-3">
+            <num>19.1.3</num>
+            <content>
+              <p>מובהר כי ככל שלגבי הפורש הזכאי יהיו רלוונטיות מספר תוספות שקליות (A) או מספר תוספות אחוזיות (B) המשתלמות לפי הסכם זה או המשתלמות לפי הסכם זה ולפי הסכם אחר כאמור לעיל, יובאו כל התוספות האמורות בחשבון לצורך חישוב הסכום Y בהתאם</p>
+              <p>לנוסחה שלעיל. (הנוסחה תופעל לגבי כל תוספת בנפרד ו- Y יהיה שווה לסך הסכומים המתקבלים).</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_19-1__subpara_19-1-4">
+            <num>19.1.4</num>
+            <content>
+              <p>כן מובהר, כי ככל שלגבי העובדים הפעילים תוגדל תוספת שקלית קיימת, לפי הסכם זה או לפי הסכם קיבוצי אשר נחתם לפי סעיף 11 להסכם זה, יהיה A הסכום המלא בו הוגדלה התוספת הקיימת האמורה, לפי הסכם כאמור, לעובד שדרגתו כדרגה שהיתה לפורש הזכאי ערב פרישתו, כמשמעות מונח זה בסעיף 8 לחוק הגמלאות. ככל שלגבי העובדים הפעילים תוגדל תוספת אחוזית קיימת, לפי הסכם זה או לפי הסכם קיבוצי אשר נחתם לפי סעיף 11 להסכם זה, יהיה B השיעור המלא בו הוגדלה התוספת הקיימת האמורה, לפי הסכם כאמור, לעובד שדרגתו כדרגה שהיתה לפורש הזכאי ערב פרישתו, כמשמעות מונח זה בסעיף 8 לחוק הגמלאות.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_19-1__subpara_19-1-5">
+            <num>19.1.5</num>
+            <content>
+              <p>הגדלת המשכורת הקובעת כאמור לעיל תיעשה בהדרגה בהתאם למועדים הקבועים בטבלה המצורפת כנספח ו' להסכם זה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_19-1__subpara_19-1-6">
+            <num>19.1.6</num>
+            <content>
+              <p>בנוסף על האמור, יחול התיקון לגבי מי שפרש מהשירות, לפי חוק הגמלאות, בתקופה שמיום <date date="2013-03-01">1 במרץ 2013</date> עד יום <date date="2018-11-30">30 בנובמבר 2018</date>, וערב פרישתו דורג בדירוג רשות מקרקעי ישראל (להלן: "<def refersTo="#term_3974f0d0">פורש זכאי בדירוג רשות מקרקעי ישראל</def>") ואולם, לגבי פורש זכאי בדירוג רשות מקרקעי ישראל, במקום האמור בסעיפים קטנים 19.1.2 עד 19.1.5 יחול האמור להלן:</p>
+              <p>מכוח התיקון, עבור פורש זכאי בדירוג רשות מקרקעי ישראל או שאירו, לפי העניין, אשר לגביו, אלמלא הוראות פרק ג'2 לחוק הגמלאות, היתה "המשכורת ערב הפרישה", גבוהה מ"תקרת המשכורת", כהגדרת מונחים אלו בסעיפים 63יד ו-63יג לחוק הגמלאות, בהתאמה, יבוצע חישוב מחדש של הקצבה, בתחולה למועדים הקבועים בטבלה המצורפת כנספח ו' להסכם זה, כאילו תקרת המשכורת היתה גדולה משהיתה ערב פרישתו, בסכום Y שיחושב לפי הנוסחה שלהלן:</p>
+              <p>X * 3.75 * A + X * B = Y</p>
+              <p>X - המקדם הרלוונטי לגמלאי, בהתאם לחודש פרישתו, הקבוע בטבלה המצורפת כנספח ו' להסכם זה.</p>
+              <p>A - המשכורת היסודית לה היה זכאי הפורש הזכאי בדירוג רשות מקרקעי ישראל, בעד חודש פרישתו או בעד חודש יוני 2016, לפי המוקדם מביניהם, בתוספת התוספות הנוספות להן היה זכאי בעד אותו חודש, מבין התוספות הבאות: גמול השתלמות א', גמול השתלמות ב', גמול מינהל.</p>
+              <p>B - הסכום המלא של תוספת שקלית 2016, המשתלמת לפי הסכם זה, לעובד שדרגתו כדרגה שהיתה לפורש הזכאי בדירוג רשות מקרקעי ישראל ערב פרישתו, כמשמעות מונח זה בסעיף 8 לחוק הגמלאות.</p>
+              <p>הסכום Y יחושב באופן מדורג, בהתאם לגידול במקדם X ולמועדים הקבועים בטבלה המצורפת כנספח ו' להסכם זה.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_19__para_19-2">
+          <num>19.2</num>
+          <intro>
+            <p>ההסתדרות מודיעה כדלקמן:</p>
+          </intro>
+          <subparagraph eId="art_19__para_19-2__subpara_19-2-1">
+            <num>19.2.1</num>
+            <content>
+              <p>עקרונות תיקון חקיקה הנזכר בסעיף <ref href="#art_19__para_19-1">19.1</ref> לעיל, מקובלים על ההסתדרות והיא תתמוך בהליכי החקיקה, ככל שהדבר יידרש.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_19-2__subpara_19-2-2">
+            <num>19.2.2</num>
+            <content>
+              <p>לאחר שתיקון החקיקה הנזכר בסעיף <ref href="#art_19__para_19-1">19.1</ref> לעיל יתקבל בכנסת, לא תהא להסתדרות כל דרישה להגדלת המשכורת הקובעת, או לתשלום תוספת או הטבה אחרת, בשל העליות או הטבות עליהן הוסכם בהסכם זה, או שיוסכם עליהם מכוח סעיף <ref href="#art_11">11</ref> להסכם זה, או</p>
+              <p>שהוסכם עליהם בהסכמים שנחתמו במקביל להסכם זה או שיוסכם עליהם מכוח הסכמים שנחתמו במקביל להסכם זה, או בגין התקופה שעד יום <date date="2017-12-31">31.12.2017</date>.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_19__para_19-3">
+          <num>19.3</num>
+          <content>
+            <p>מובהר ומוסכם בין ההסתדרות לבין כל אחד מהמעסיקים / ארגוני המעסיקים אשר חוק הגמלאות הוחל בקרבם מכוח הוראות חוק, הסכם או הסדר, לפי העניין, כי תיקון החקיקה הנזכר בסעיף <ref href="#art_19__para_19-1">19.1</ref> לעיל יחול גם על גופים אלו, לפי אותם כללים, לרבות בעניין מועדי התשלום. בשל העובדה כי חוק הגמלאות הוחל בקרבם מכוח הוראות חוק, הסכם או הסדר, לפי העניין. התיקון יחול בהתאמה לדירוגים הקיימים בקרב מעסיקים אלו, ואשר כלולים בנספח ה' להסכם זה. כמו כן, יוחל התיקון בהתאמה לגבי דירוג רבני שכונות והתיישבות ולגבי דירוג חינוך נוער חברה וקהילה ברשויות המקומיות וכן לגבי דירוגים נוספים הקיימים בקרב המעסיקים האמורים אשר הוחלו לגביהם הוראות חוק הגמלאות כאמור ואשר אינם קיימים בשירות המדינה ובלבד שניתן לכך אישור <role eId="rol_63" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_64" refersTo="#mof">במשרד האוצר</organization>. מובהר כי לעניין המעסיקים החתומים על הסכם זה, סעיף זה מתייחס למעסיקים הבאים: <organization eId="org_65" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_66" refersTo="#three-cities">שלוש הערים הגדולות</organization>, <organization eId="org_67" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>, <organization eId="org_68" refersTo="#religious-councils">חבר המועצות הדתיות</organization>, <organization eId="org_69" refersTo="#nii">המוסד לביטוח לאומי</organization>, <organization eId="org_70" refersTo="#employment-service">שירות התעסוקה</organization> <organization eId="org_71" refersTo="#israel-post">וחברת דואר ישראל</organization> בע"מ.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_19__para_19-4">
+          <num>19.4</num>
+          <content>
+            <p>מוסכם, ללא כל התניות או דרישות נוספות, כי לגבי מעסיקים אשר לגביהם לא חל סעיף <ref href="#art_19__para_19-3">19.3</ref> לעיל, אך קיים אצלם הסדר פנסיה תקציבית אשר מעוגן בהסכם או הסדר, ייושמו הוראות תיקון החקיקה שיתקבל כאמור לעיל, באופן שלגבי מי שפרש משירות אצל אחד המעסיקים בתנאים המפורטים בסעיף 19.1.1 לעיל, תוגדל המשכורת הקובעת לתשלום קצבה, בהתאם להוראות אשר ייקבעו בתיקון החקיקה האמור, בהתאמות הנדרשות. יישום כאמור יהיה טעון אישור של <role eId="rol_72" refersTo="#role-memuneh-sachar">הממונה על השכר</role>. מובהר כי לעניין המעסיקים החתומים על הסכם זה, סעיף זה מתייחס לאוניברסיטה העברית ולטכניון.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_19__para_19-5">
+          <num>19.5</num>
+          <content>
+            <p>כתוצאה מתיקון חוק הגמלאות הנזכר בסעיף <ref href="#art_19__para_19-1">19.1</ref> לעיל, מובהר ומוסכם כי לגבי פורש זכאי אשר זכאי לתשלום מענק יובל, או לשאיריו, לפי העניין, יוגדל, בהדרגה באופן שבו תוגדל המשכורת הקובעת ובמועדי הגדלת המשכורת הקובעת, כאמור בסעיף 19.1.5 לעיל, סכום המשכורת המהווה בסיס לחישוב רכיב מענק יובל, וזאת בסכום Y, ובלבד שהתוספות המרכיבות את הסכום Y הן תוספות המובאות בחשבון לחישוב ערך שעה.</p>
+            <p>לגבי פורש זכאי בדירוג רשות מקרקעי ישראל אשר זכאי לתשלום מענק יובל, או לשאיריו, לפי העניין, ואשר לגביו מבוצע חישוב מחדש של הקצבה כאמור בסעיף 19.1.6 לעיל, יבוצע גם חישוב מחדש של מענק היובל בתחולה למועדים הקבועים בטבלה המצורפת כנספח ו' להסכם זה, כאילו תקרת המשכורת היתה גדולה משהיתה ערב פרישתו, בסכום Y המחושב כאמור בסעיף 19.1.6 לעיל.</p>
+            <p>לעניין זה, "<def refersTo="#term_db42967d">מענק יובל</def>" - כמשמעותו בפרק 25.5 לתקשי"ר ובהסדרים המקבילים אצל יתר המעסיקים.</p>
+            <p>מובהר כי אין באמור בסעיף זה כדי לשנות את מועד תשלום רכיב "מענק יובל".</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_19__para_19-6">
+          <num>19.6</num>
+          <content>
+            <p>מובהר כי האמור בסעיף זה אינו רלוונטי לגבי מעסיקים אחרים אשר לא נהוגה בהם פנסיה תקציבית. מוסכם כי לא תינתן למעסיקים אחרים אשר בהם לא נהוגה פנסיה תקציבית כאמור, או לעובדיהם, הטבה אחרת, במישרין או בעקיפין, בשל האמור בסעיף זה או עלותו, וכי לא תהיה כל טענה או דרישה בקשר לכך.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_19__para_19-7">
+          <num>19.7</num>
+          <content>
+            <p>למען הסר ספק, אין באמור בסעיף זה כדי להוות אישור למתן הטבות בניגוד להוראות סעיף 29 לחוק יסודות התקציב, התשמ"ה-1985, לרבות בעניין אופן החישוב של המשכורת הקובעת או של הקצבה, או של מענק יובל למי שיצא לקצבה או לשאיריו.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_20" repo:prose="same-source">
+        <num>20</num>
+        <heading>הוראות מיוחדות בעניין הרשויות המקומיות</heading>
+        <paragraph eId="art_20__para_20-1">
+          <num>20.1</num>
+          <content>
+            <p>הוסכם בין <organization eId="org_73" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_74" refersTo="#three-cities">שלוש הערים הגדולות</organization> וחבר המועצות האזוריות לבין ההסתדרות, כדלקמן:</p>
+            <p>הקצאת מסגרת עלות התוספות כאמור בסעיפים 5.1.1 ו-5.1.2, לגבי המעסיקים האמורים, בהתייחס לדירוג עובדי מינהל ושירותים (דירוג אחיד), ולדירוג המח"ר, למעט פסיכולוגים, ולמעט עובדים בדירוגים האחיד והמח"ר המועסקים בבתי חולים ממשלתיים-עירוניים (להלן בסעיף זה: "<def refersTo="#term_e68d64db">העובדים באחיד ובמח</def>"ר"), תעשה באופן שיקבעו הצדדים בהסכם קיבוצי שייחתם לעניין זה עד יום <date date="2016-06-30">30.6.16</date>, כך שתביא במכלול לצמצום פערים בקבוצת החישוב, ותקבל את אישור <role eId="rol_75" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מראש, במפורש ובכתב.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_20__para_20-2">
+          <num>20.2</num>
+          <content>
+            <p>מובהר כי בהתאם לאמור בסעיף ט.9 להסכם הקיבוצי מיום <date date="2012-05-17">17.5.2012</date>, בין <organization eId="org_76" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_77" refersTo="#three-cities">שלוש הערים הגדולות</organization> <organization eId="org_78" refersTo="#regional-councils-centre">ומרכז המועצות האיזוריות</organization> ובין ההסתדרות, בעניין הקצאת מסגרת העלות אצל מעסיקים אלו, לתקופת השנים 2009 - 2012 (להלן: "<def refersTo="#term_8c944c96">הסכם המעו</def>"ף"), תופחת עלות מסגרת התוספות לגבי העובדים באחיד ובמח"ר ב-<quantity eId="qty_60" refersTo="#percentage" normalized="0.075">0.075%</quantity>, ולפיכך הקצאת עלות מסגרת התוספות לגבי עובדים אלו תעמוד על שיעור של <quantity eId="qty_61" refersTo="#percentage" normalized="7.425">7.425%</quantity>. מוסכם כי ההפחתה כאמור תעשה מתוך הקצאת העלות שבסעיף 5.1.1 כך שהעלות לחלוקה לפי סעיף זה לעובדים האמורים תעמוד <quantity eId="qty_62" refersTo="#percentage" normalized="0.925">0.925%</quantity> במקום <quantity eId="qty_63" refersTo="#percentage" normalized="1">1%</quantity>.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_20__para_20-3">
+          <num>20.3</num>
+          <intro>
+            <p>לאור האמור בסעיף <ref href="#art_20__para_20-1">20.1</ref> ו-20.2 ולאור ההסכמות שגובשו, יחולו לגבי העובדים באחיד ובמח"ר שינויים כדלקמן:</p>
+          </intro>
+          <subparagraph eId="art_20__para_20-3__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>בסעיף <ref href="#art_7">7</ref> לעיל: לעניין חישוב מסגרת עלות התוספות כאמור בסעיף 5.1.1 לעיל, החישוב יבוצע במאוחד; ולעניין יתרת מסגרת עלות התוספות (העלות שבסעיפים 5.1.2 עד 5.1.5) החישוב יבוצע כאמור בסעיף <ref href="#art_7">7</ref> לעיל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_20__para_20-3__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>ביום <date date="2017-07-01">1.7.2017</date> לא יחולו הוראות סעיף <ref href="#art_10">10</ref> לעיל (תוספת שקלית 2016);</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_20__para_20-3__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>לעניין סעיף <ref href="#art_11">11</ref> לעיל, המשא ומתן ינוהל לגבי כל מסגרת עלות התוספות לפי הסכם זה, בהפחתת העלות הנובעת מסעיף <ref href="#art_9">9</ref> לעיל ולא רק על העלות שבסעיפים 5.1.2 עד 5.1.5 לעיל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_20__para_20-3__subpara_d">
+            <num>(ד)</num>
+            <content>
+              <p>לעניין סעיף <ref href="#art_12">12</ref> לעיל: אם עד ליום <date date="2016-12-31">31.12.2016</date> לא יגיעו הצדדים להסכמה כאמור בסעיף <ref href="#art_20__para_20-1">20.1</ref> וב<ref href="#art_20__para_20-3__subpara_c">סעיף קטן (ג)</ref> לעיל, אשר תקבל את אישור <role eId="rol_79" refersTo="#role-memuneh-sachar">הממונה על השכר</role> כאמור בסעיף <ref href="#art_20__para_20-1">20.1</ref> לעיל, אזי החל מיום <date date="2017-03-01">1.3.2017</date>, תוקצה העלות שבסעיף 5.1.1 בשיעורה המופחת כאמור בסעיף <ref href="#art_20__para_20-2">20.2</ref> לעיל, לפי הוראות סעיף <ref href="#art_10">10</ref> לעיל, למפרע ליום <date date="2016-07-01">1.7.2016</date>; והעלות שבסעיף 5.1.2 לעיל תוקצה כאמור בסעיף <ref href="#art_12">12</ref> לעיל.</p>
+              <p>ברירות המחדל הקבועות בסעיפים <ref href="#art_13">13</ref> עד <ref href="#art_15">15</ref> לעיל, יוותרו כברירות המחדל ככל שלא יוסכם על אופן החלוקה עד המועדים הקבועים בהם.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_20__para_20-4">
+          <num>20.4</num>
+          <intro>
+            <p>דירוג חינוך נוער חברה וקהילה</p>
+          </intro>
+          <subparagraph eId="art_20__para_20-4__subpara_20-4-1">
+            <num>20.4.1</num>
+            <content>
+              <p>מובהר למען הסר ספק כי העובדים המדורגים בדירוג חינוך, נוער חברה וקהילה, אשר מקבלים שכר לפי שכר עובדי הוראה, כאמור בהסכם הקיבוצי מיום <date date="1987-09-14">14.9.1987</date>, לא יהיו זכאים לכפל עלות בגין אותה תקופה, הן מכוח הסכם זה או מכוח הסכם שנחתם במקביל להסכם זה, והן מכוח ההצמדה לשכר עובדי ההוראה האמורה בהסכם הקיבוצי מיום <date date="1987-09-14">14.9.1987</date>. לפיכך, ככל שעובדים אלו יהיו זכאים להגדלת שכרם בעקבות הגדלה של שכר עובדי ההוראה, בגין התקופה לגביה חל הסכם זה או חלקה, תופחת עלות הגדלה זו מתוספות השכר להן יהיו זכאים עובדים אלו מכוח הסכם זה או מכוח הסכם קיבוצי שנחתם במקביל להסכם זה, באופן שיוסכם בין הצדדים.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_20__para_20-4__subpara_20-4-2">
+            <num>20.4.2</num>
+            <content>
+              <p>עוד מוסכם כי האמור בסעיף <ref href="#art_20__para_20-1">20.1</ref> לעיל, יחול לגבי דירוג חינוך נוער וקהילה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_20__para_20-4__subpara_20-4-3">
+            <num>20.4.3</num>
+            <content>
+              <p>העובדים בדירוג האמור יחושבו כקבוצת חישוב נפרדת כעולה מסעיף <ref href="#art_7">7</ref> לעיל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_20__para_20-4__subpara_20-4-4">
+            <num>20.4.4</num>
+            <content>
+              <p>סעיפים 20.3(ב) עד (ה) לעיל יחולו לגבי הדירוג האמור.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_21" repo:prose="same-source">
+        <num>21</num>
+        <heading>מימון הסכם קיבוצי מיום <date date="2015-02-09">9.2.2015</date>
+        </heading>
+        <content>
+          <p>מובהר כי בהתאם לאמור בסעיף 13 להסכם הקיבוצי המיוחד מיום <date date="2015-02-09">9.2.2015</date> בעניין גמול מומחיות לעובדים סוציאליים (להלן: "<def refersTo="#term_affea8fd">הסכם גמול מומחיות</def>"), תופחת עלות מסגרת התוספות לגבי העובדים בדירוג העובדים הסוציאליים ב-<quantity eId="qty_64" refersTo="#percentage" normalized="0.21">0.21%</quantity>, לפיכך הקצאת עלות מסגרת התוספות לגבי עובדים אלו תעמוד על שיעור של <quantity eId="qty_65" refersTo="#percentage" normalized="7.29">7.29%</quantity>. מוסכם כי ההפחתה כאמור תעשה מתוך הקצאת העלות שבסעיף 5.1.1 כך שהעלות לחלוקה לפי סעיף זה לעובדים האמורים תעמוד על <quantity eId="qty_66" refersTo="#percentage" normalized="0.79">0.79%</quantity> במקום <quantity eId="qty_67" refersTo="#percentage" normalized="1">1%</quantity> ולפיכך, בהגדרה C שבסעיף <ref href="#art_10">10</ref> לעיל במקום <quantity eId="qty_68" refersTo="#percentage" normalized="1">1%</quantity> יבוא <quantity eId="qty_69" refersTo="#percentage" normalized="0.79">0.79%</quantity> לגבי העובדים האמורים.</p>
+        </content>
+      </article>
+      <article eId="art_22" repo:prose="same-source">
+        <num>22</num>
+        <heading>מבנה העסקה ושיפור רמת השירות</heading>
+        <paragraph eId="art_22__para_22-1">
+          <num>22.1</num>
+          <content>
+            <p>יימשכו הדיונים בנושא מבנה העסקה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_22__para_22-2">
+          <num>22.2</num>
+          <content>
+            <p>הצדדים מכירים בחשיבות הגלומה בשיפור רמת השירות הניתן על ידי העובדים לציבור ומודעים בזאת על נכונותם לשתף פעולה במאמץ לשיפור רמת השירות.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_22__para_22-3">
+          <num>22.3</num>
+          <content>
+            <p>למען הסר ספק, לא יראו בנושאים כמפורט בסעיף זה כנושאים שהוסדרו בהסכם זה והצדדים יהיו רשאים לפעול בהתאם לאמצעים העומדים לרשותם, כאשר כל צד שומר על טענותיו בעניין זה וההסכמות דלעיל לא תחשבנה כויתור על טענה כלשהי על-ידי מי מהצדדים.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_23" repo:prose="same-source">
+        <num>23</num>
+        <heading>ביטול סכסוכי עבודה</heading>
+        <paragraph eId="art_23__para_23-1">
+          <num>23.1</num>
+          <content>
+            <p>בשירות המדינה, במוסד לביטוח לאומי <organization eId="org_80" refersTo="#employment-service">ובשירות התעסוקה</organization>:</p>
+            <p>סכסוכי העבודה הנותרים תלויים ועומדים הם כמפורט בנספח ז', מבלי לגרוע מטענות הצדדים בעניינם. טענה כי נשמט סכסוך עבודה מהנספחת תועלה לוועדת המעקב לפי סעיף <ref href="#art_27">27</ref> לעיל.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_23__para_23-2">
+          <num>23.2</num>
+          <content>
+            <p>לגבי יתר המעסיקים:</p>
+            <p>כל סכסוכי העבודה הקיבוציים ברמה הארצית וברמה המקומית שהוכרזו או הודעו הנוגעים לנושאים שהוסדרו בהסכם זה, בטלים עם החתימה על הסכם זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_23__para_23-3">
+          <num>23.3</num>
+          <content>
+            <p>למען ספק מובהר, כי בכלל האמור בסעיפים-קטנים 23.1 ו-23.2 לעיל, בטל עם חתימת הסכם זה גם סכסוך העבודה מיום <date date="2015-11-25">25.11.2015</date>, שהעניינים שבו הם דרישת ההסתדרות לעדכון השכר במגזר הציבורי ומבוי סתום במשא ומתן לחתימה על הסכם שכר חדש.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_24" repo:prose="same-source">
+        <num>24</num>
+        <heading>מיצוי תביעות</heading>
+        <paragraph eId="art_24__para_24-1">
+          <num>24.1</num>
+          <content>
+            <p>הסכם זה, יחד עם ההסכמים הקיבוציים שנחתמו במקביל, מהווים מיצוי מלא ומוחלט של כל תביעות הצדדים ברמה הארצית וברמה המקומית, הכרוכות בהגדלת "מסגרת עלות התוספות" כפי שנקבע בהסכם זה או למתן הטבות נוספות כלשהן, והכל בגין התקופה שעד יום <date date="2017-12-31">31.12.2017</date> (שלושים ואחד בדצמבר 2017).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_24__para_24-2">
+          <num>24.2</num>
+          <content>
+            <p>הוראת המיצוי כאמור בסעיף <ref href="#art_24__para_24-1">24.1</ref> אינה חלה על תביעות תלויות ועומדות במוסד לבוררות מוסכמת. כמו-כן, אין היא חלה לגבי תביעות בערכאות משפטיות.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_24__para_24-3">
+          <num>24.3</num>
+          <content>
+            <p>בכפוף לאמור לעיל ובסעיף <ref href="#art_11">11</ref> להסכם זה, לא יתנהל כל משא ומתן נוסף על הסכמי שכר ו/או הטבות כלשהן, לא ברמה הארצית ולא בכל רמה אחרת, בגין בתקופה שעד יום <date date="2017-12-31">31.12.2017</date>, וזאת לגבי העובדים עליהם חל הסכם זה.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_25" repo:prose="same-source">
+        <num>25</num>
+        <heading>שקט תעשייתי</heading>
+        <content>
+          <p>ההסתדרות מתחייבת כי במשך תקופת ההסכם לא תנקוט נגד מי מהמעסיקים או יחידה מיחידותיהם באמצעי שביתה, מלאה או חלקית, או כל פגיעה מאורגנת אחרת בהליכי העבודה ובסדריה, לגבי העניינים שהוסדרו בהסכם זה, הן ברמה הארצית והן ברמה המקומית.</p>
+        </content>
+      </article>
+      <article eId="art_26" repo:prose="same-source">
+        <num>26</num>
+        <heading>הסכמים קודמים</heading>
+        <content>
+          <p>תנאים ותניות שנקבעו בעבר בין הצדדים בהסכמים קיבוציים או בהסדרים קיבוציים או בהתחייבויות בכתב, ימשיכו להיות תקפים בתקופת תוקפו של הסכם זה, אלא אם תוקנו או בוטלו במפורש או במשתמע על-ידי הוראה מהוראות הסכם זה.</p>
+        </content>
+      </article>
+      <article eId="art_27" repo:prose="same-source">
+        <num>27</num>
+        <heading>הכרעה בחילוקי דעות</heading>
+        <content>
+          <p>ועדת מעקב בהשתתפות <role eId="rol_81" refersTo="#role-memuneh-sachar">הממונה על השכר</role> ויו"ר האגף לאיגוד מקצועי בהסתדרות תמשיך לעקוב ולסייע בביצוע של הסכם זה ולהכריע בחילוקי הדעות הנוגעים לו.</p>
+          <p>החלטותיה של ועדת המעקב תהיינה סופיות ותחייבנה את הצדדים.</p>
+        </content>
+      </article>
+      <article eId="art_28" repo:prose="same-source">
+        <num>28</num>
+        <heading>הארכת הסכם המוסד לבוררות מוסכמת</heading>
+        <content>
+          <p>מוסכם בין הצדדים להאריך את תוקפו של הסכם המוסד לבוררות מוסכמת בשירותים הציבוריים עד לחתימת הסכם השכר הבא ברמה הארצית.</p>
+          <p>מובהר כי הוראה זו חלה על המעסיקים שהם צד להסכם המוסד לבוררות מוסכמת בשירותים הציבוריים או אשר הצטרפו להסכם זה.</p>
+        </content>
+      </article>
+    </body>
+    <conclusions>
+      <p>ולראיה באו הצדדים על החתום:</p>
+      <p repo:role="running-head">[חתימות]</p>
+      <p><organization eId="org_82" refersTo="#state-israel">מדינת ישראל</organization> | הסתדרות העובדים הכללית החדשה</p>
+      <p><organization eId="org_83" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p><organization eId="org_84" refersTo="#three-cities">שלוש הערים הגדולות</organization>
+      </p>
+      <p><organization eId="org_85" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>
+      </p>
+      <p><organization eId="org_86" refersTo="#religious-councils">חבר המועצות הדתיות</organization>
+      </p>
+      <p><organization eId="org_87" refersTo="#nii">המוסד לביטוח לאומי</organization>
+      </p>
+      <p><organization eId="org_88" refersTo="#employment-service">שירות התעסוקה</organization>
+      </p>
+      <p><organization eId="org_89" refersTo="#huji">האוניברסיטה העברית</organization>
+      </p>
+      <p><organization eId="org_90" refersTo="#biu">אוניברסיטת בר-אילן</organization>
+      </p>
+      <p>אוניברסיטת באר-שבע</p>
+      <p><organization eId="org_91" refersTo="#haifa-university">אוניברסיטת חיפה</organization>
+      </p>
+      <p><organization eId="org_92" refersTo="#tau">אוניברסיטת תל-אביב</organization>
+      </p>
+      <p repo:role="running-head">[חתימות]</p>
+      <p><organization eId="org_93" refersTo="#technion">הטכניון</organization>
+      </p>
+      <p><organization eId="org_94" refersTo="#weizmann">מכון ויצמן</organization>
+      </p>
+      <p><organization eId="org_95" refersTo="#hadassah">הסתדרות מדיצינית הדסה</organization>
+      </p>
+      <p><organization eId="org_96" refersTo="#clalit">שירותי בריאות כללית</organization>
+      </p>
+      <p><organization eId="org_97" refersTo="#israel-post">חברת דואר ישראל</organization> בע"מ</p>
+      <p repo:role="running-head">[חתימות]</p>
+    </conclusions>
+    <attachments>
+      <attachment eId="att_1">
+        <heading>נספח א' להסכם הקיבוצי (מסגרת) מיום <date date="2016-04-18">18 באפריל 2016</date>
+        </heading>
+        <doc name="annex">
+          <meta>
+            <identification source="#repo-generator">
+              <FRBRWork>
+                <FRBRthis value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/!annex_1" />
+                <FRBRuri value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector" />
+                <FRBRdate date="2016-04-18" name="issued" />
+                <FRBRauthor href="#repo-generator" as="#author" />
+                <FRBRcountry value="il" />
+                <FRBRsubtype value="annex" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/heb@/!annex_1" />
+                <FRBRuri value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/heb@" />
+                <FRBRdate date="2016-04-18" name="issued" />
+                <FRBRauthor href="#repo-generator" as="#author" />
+                <FRBRlanguage language="heb" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/heb@/!annex_1.xml" />
+                <FRBRuri value="/akn/il/act/collectiveAgreement/2016-04-18/2016-04-18-framework-agreement-public-sector/heb@/!annex_1.xml" />
+                <FRBRdate date="2026-08-27" name="generation" />
+                <FRBRauthor href="#repo-generator" as="#editor" />
+                <FRBRformat value="xml" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <hcontainer eId="att_1__hc_1" name="text" repo:structure="enumerated">
+              <intro>
+                <p>להלן רשימת הדירוגים:</p>
+              </intro>
+              <paragraph eId="att_1__hc_1__para_1">
+                <num>1.</num>
+                <content>
+                  <p>מינהלי;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_2">
+                <num>2.</num>
+                <content>
+                  <p>אחיד;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_3">
+                <num>3.</num>
+                <content>
+                  <p>טכנאי רנטגן;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_4">
+                <num>4.</num>
+                <content>
+                  <p>מח"ר, לרבות פסיכולוגים ולרבות עובדי ביקורת;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_5">
+                <num>5.</num>
+                <content>
+                  <p>מהנדסים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_6">
+                <num>6.</num>
+                <content>
+                  <p>טכנאים והנדסאים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_7">
+                <num>7.</num>
+                <content>
+                  <p>פיזיוטרפיסטים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_8">
+                <num>8.</num>
+                <content>
+                  <p>משפטנים (מובהר כי האמור לא יחול לגבי מי ששכרו צמוד לשכר נושא משרה שיפוטית);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_9">
+                <num>9.</num>
+                <content>
+                  <p>סנגורים ציבוריים (מובהר כי האמור לא יחול לגבי מי ששכרו צמוד לשכר נושא משרה שיפוטית);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_10">
+                <num>10.</num>
+                <content>
+                  <p>עיתונאים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_11">
+                <num>11.</num>
+                <content>
+                  <p>עובדי מעבדה, ביוכימאים ומיקרוביולוגים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_12">
+                <num>12.</num>
+                <content>
+                  <p>רוקחים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_13">
+                <num>13.</num>
+                <content>
+                  <p>סטודנטים לרפואה ולסיעוד;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_14">
+                <num>14.</num>
+                <content>
+                  <p>אחים ואחיות (לרבות אחים ואחיות בריאות הציבור);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_15">
+                <num>15.</num>
+                <content>
+                  <p>פארה רפואיים (לרבות קלינאי תקשורת וטכנולוגים רפואיים);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_16">
+                <num>16.</num>
+                <content>
+                  <p>מרפאים בעיסוק;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_17">
+                <num>17.</num>
+                <content>
+                  <p>מפקחים ימיים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_18">
+                <num>18.</num>
+                <content>
+                  <p>מקצ"ט;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_19">
+                <num>19.</num>
+                <content>
+                  <p>סטודנטים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_20">
+                <num>20.</num>
+                <content>
+                  <p>מתמחים במשפטים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_21">
+                <num>21.</num>
+                <content>
+                  <p>נערים עובדים וחניכים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_22">
+                <num>22.</num>
+                <content>
+                  <p>קלדניות שופטים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_23">
+                <num>23.</num>
+                <content>
+                  <p>מעברי הגבול;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_24">
+                <num>24.</num>
+                <content>
+                  <p>רשות מקרקעי ישראל;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_25">
+                <num>25.</num>
+                <content>
+                  <p>כבאים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_26">
+                <num>26.</num>
+                <content>
+                  <p>עובדים סוציאליים;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_27">
+                <num>27.</num>
+                <content>
+                  <p>שירות החוץ;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_28">
+                <num>28.</num>
+                <content>
+                  <p>פרקליטים (מובחר כי האמור לא יחול לגבי מי ששכרו צמוד לשכר נושא משרה שיפוטית);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_29">
+                <num>29.</num>
+                <content>
+                  <p>יהלום;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_30">
+                <num>30.</num>
+                <content>
+                  <p>רבני שכונות והתיישבות;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_31">
+                <num>31.</num>
+                <content>
+                  <p>חינוך נוער חברה וקהילה.</p>
+                  <p repo:role="running-head">[חתימות]</p>
+                </content>
+              </paragraph>
+            </hcontainer>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </act>
+</akomaNtoso>

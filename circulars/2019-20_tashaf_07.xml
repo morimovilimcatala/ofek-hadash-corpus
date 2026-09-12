@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2020-04-02/2019-20-tashaf-07/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2020-04-02/2019-20-tashaf-07" />
+          <FRBRdate date="2020-04-02" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2020-04-02/2019-20-tashaf-07/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2020-04-02/2019-20-tashaf-07/heb@" />
+          <FRBRdate date="2020-04-02" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2020-04-02/2019-20-tashaf-07/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2020-04-02/2019-20-tashaf-07/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2020-04-02" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCTerm eId="term_286a93d1" href="/ontology/term/il/286a93d1" showAs="עובדי ההוראה" />
+        <TLCTerm eId="term_28aa8c58" href="/ontology/term/il/28aa8c58" showAs=", בהתאמה" />
+        <TLCTerm eId="term_6032f9f1" href="/ontology/term/il/6032f9f1" showAs="תקופת התחולה" />
+        <TLCTerm eId="term_aaaf4381" href="/ontology/term/il/aaaf4381" showAs="חוזר המנכ" />
+        <TLCTerm eId="term_afe898bb" href="/ontology/term/il/afe898bb" showAs="ההסכם" />
+        <TLCTerm eId="term_e7466133" href="/ontology/term/il/e7466133" showAs="תקנות היציאה לחופשה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCLocation eId="loc_9a8a8bcc" href="/ontology/location/il/9a8a8bcc" showAs="רח' כנפי נשרים 15" />
+        <TLCOrganization eId="unit_545210c4" href="/ontology/organization/il/unit/545210c4" showAs="לשכת חשב" />
+        <TLCOrganization eId="unit_5f9eb779" href="/ontology/organization/il/unit/5f9eb779" showAs="תחום בכיר משכורות לעובדי הוראה" />
+        <TLCOrganization eId="unit_8e31efd0" href="/ontology/organization/il/unit/8e31efd0" showAs="אגף בכיר כח-אדם בהוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_021a1da6" href="/ontology/role/il/021a1da6" showAs="מנהלי תחומי כח-אדם בהוראה במחוזות" />
+        <TLCRole eId="office_1900ecbc" href="/ontology/role/il/1900ecbc" showAs="סמנכ&quot;לית ומנהלת" />
+        <TLCRole eId="office_5730deb6" href="/ontology/role/il/5730deb6" showAs="מנהלי ומנהלות המחוזות" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCRole eId="office_c5b90a5e" href="/ontology/role/il/c5b90a5e" showAs="מנהלת תחום בכיר" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_4572337a" href="/ontology/person/il/4572337a" showAs="אבי קמינסקי" />
+        <TLCPerson eId="p_d5c64ec3" href="/ontology/person/il/d5c64ec3" showAs="איה ח'יראדין" />
+        <TLCPerson eId="p_19c967f8" href="/ontology/person/il/19c967f8" showAs="אילת מלקמן" />
+        <TLCPerson eId="p_4f19a187" href="/ontology/person/il/4f19a187" showAs="איריס שלו-טל" />
+        <TLCPerson eId="p_69b3f2ff" href="/ontology/person/il/69b3f2ff" showAs="אסף שירמן" />
+        <TLCPerson eId="p_0e3ca62d" href="/ontology/person/il/0e3ca62d" showAs="אפרת קמחי" />
+        <TLCPerson eId="p_7859466e" href="/ontology/person/il/7859466e" showAs="אתי סאסי" />
+        <TLCPerson eId="p_6711acd7" href="/ontology/person/il/6711acd7" showAs="גור רוזנבלט" />
+        <TLCPerson eId="p_e03b783f" href="/ontology/person/il/e03b783f" showAs="דסי בארי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_e496d0db" href="/ontology/person/il/e496d0db" showAs="טל ביבס" />
+        <TLCPerson eId="p_24c98f9d" href="/ontology/person/il/24c98f9d" showAs="יפה בן דויד" />
+        <TLCPerson eId="p_0df1a3e9" href="/ontology/person/il/0df1a3e9" showAs="מירי שליסל" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_6be0991c" href="/ontology/person/il/6be0991c" showAs="סיגל אלה" />
+        <TLCPerson eId="p_985b6d8b" href="/ontology/person/il/985b6d8b" showAs="עבדאללה חטיב" />
+        <TLCPerson eId="p_d9ec064a" href="/ontology/person/il/d9ec064a" showAs="עמוס שקדי" />
+        <TLCPerson eId="p_854ea17d" href="/ontology/person/il/854ea17d" showAs="עמית ענבר" />
+        <TLCPerson eId="p_ebe873db" href="/ontology/person/il/ebe873db" showAs="פארס טויל" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_174fed9d" href="/ontology/person/il/174fed9d" showAs="רחלי אברמזון" />
+        <TLCPerson eId="p_d555efc3" href="/ontology/person/il/d555efc3" showAs="שוש נחום" />
+        <TLCPerson eId="p_553ff555" href="/ontology/person/il/553ff555" showAs="שי חג'ג'" />
+        <TLCPerson eId="p_4b203808" href="/ontology/person/il/4b203808" showAs="שמואל אבואב" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="transcribed" passes="1">The content is a transcription made by READING the document's pages (reference/transcriptions/), not extracted and not OCR. A single reader made it; no second pass yet (@passes=1). It is not 'verified': that word is reserved for a person checking against the source.</repo:prose>
+          <repo:date precision="printed">the date the document PRINTS in its own letterhead, read from the page (a transcription where there is one, otherwise the PDF's text layer). The filename carries only the school year, whose 1 September start is what this replaces.</repo:date>
+          <repo:source path="law/circulars/2019-20_tashaf_07.pdf" sha256="ba90e0eb397af4b5372304d1eefb773e82e673e5c99881e87cdbaf6ea559084f" transcription="reference/transcriptions/2019-20_tashaf_07.txt" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תש"פ/7</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <mainBody>
+      <hcontainer eId="hc_1" name="text" repo:structure="flat">
+        <intro>
+          <p>חוזר לבעלויות <docNumber>תש"פ/7</docNumber>
+          </p>
+          <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+          </p>
+          <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+          </p>
+          <p><organization eId="org_3" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>
+          </p>
+          <p><organization eId="org_4" refersTo="#unit_545210c4">לשכת חשב</organization>
+          </p>
+          <p><organization eId="org_5" refersTo="#unit_5f9eb779">תחום בכיר משכורות לעובדי הוראה</organization>
+          </p>
+          <p><location eId="locref_1" refersTo="#loc_9a8a8bcc">רח' כנפי נשרים 15</location>, גבעת שאול, ירושלים; 9546427 טל' 073-3935108 פקס 073-3935180 | mail: <a href="mailto:ptzibur_ka@education.gov.il">ptzibur_ka@education.gov.il</a>
+          </p>
+          <p>شارع كنفي نشريم 15, چفعات شاؤول, اورشليم-القدس, 9546427 هاتف 073-3935108 فاكس 073-3935180</p>
+          <p><a href="https://www.edu.gov.il">www.edu.gov.il</a>
+          </p>
+          <p><location eId="locref_2" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2020-04-02">ח' בניסן תש"פ</date>
+          </p>
+          <p><date date="2020-04-02">02 באפריל 2020</date>
+          </p>
+          <p>סימוכין: <docNumber>2000-1028-2020-0127413</docNumber>
+          </p>
+          <p>לכבוד</p>
+          <p>הבעלויות על גני הילדים</p>
+          <p>הבעלויות על בתי הספר היסודיים וחטיבות הביניים</p>
+          <p>הבעלויות על בתי הספר לחינוך מיוחד המוכרים שאינם רשמיים</p>
+          <p>שלום רב,</p>
+          <p>הנדון: <docTitle eId="doctitle_1">הסכם קיבוצי מיוחד מיום <date date="2020-04-01">1.4.2020</date> - עובדי הוראה בתקופת חירום (נגיף הקורונה)</docTitle>
+          </p>
+          <p>על מנת להתמודד עם התפשטות נגיף הקורונה <organization eId="org_6" refersTo="#state-israel">במדינת ישראל</organization> נדרשו הוראות מיוחדות בעלות השפעה על כלל המשק ובכלל זה על עובדי ההוראה. במסגרת צו בריאות העם (נגיף הקורונה החדש) (הגבלת פעילות מוסדות חינוך) (הוראת שעה), התש"ף 2020 - נקבע ,כי לא תתקיים כל פעילות לימודית או אחרת בתוך כתלי מבנה מוסד החינוך או מחוצה לו , הכרוכה בהתכנסות פיזית של עובדי הוראה או תלמידים, עד ליום <date date="2020-04-18">18.4.2020</date>. זאת, לצורך צמצום ההדבקה והתפשטות הנגיף. לפיכך, לא ניתן לקיים את עבודתם של עובדי הוראה במתכונתה הרגילה.</p>
+          <p>כמו כן, תוקנו תקנות שעת חירום (הרחבת הסכם יציאה לחופשה על המגזר הציבורי הרחב, בשל נגיף קורונה החדש), התש"פ-2020, לפיהן, "הסכם יציאה לחופשה" כהגדרתו שם, לא יחול לגבי עובד רגיל ומעסיקו הציבורי, כהגדרתם שם, שחל עליהם הסכם קיבוצי אחר, שנחתם ערב תחילתן של התקנות או במהלך תוקפן, ושאושר בידי <role eId="rol_7" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, ובלבד שהסכם זה לא יגרע מזכויות עובד הקבועות בחוק, מעבר לנובע מהסכם היציאה לחופשה (להלן : "<def refersTo="#term_e7466133">תקנות היציאה לחופשה</def>").</p>
+          <p>בתאריך <date date="2020-04-01">01.04.2020</date> נחתם הסכם קיבוצי מיוחד בין <organization eId="org_8" refersTo="#state-israel">מדינת ישראל</organization>, לבין <organization eId="org_9" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>, בישראל, בנוגע לתנאי עבודתם של עובדי ההוראה המדורגים בדירוג עובדי הוראה המועסקים בשירות המדינה, שימי הלימודים והחופשה שלהם נקבעים עפ"י חוזרי מנכ"ל מיום <date date="2019-04-02">2.4.2019</date> (הודעות מספר 143, 144, 145) (להלן : "<def refersTo="#term_afe898bb">ההסכם</def>" ו-"<def refersTo="#term_aaaf4381">חוזר המנכ</def>"ל"<def refersTo="#term_28aa8c58">, בהתאמה</def>).</p>
+          <p>הסכם זה מהווה "הסכם אחר" כהגדרתו בתקנות היציאה לחופשה לגבי עובדי ההוראה עליהם הוא חל.</p>
+          <p>מטרת חוזר זה הינה להסדיר את קיום הלימודים ותנאי העסקתם של עובדי ההוראה בתקופת החירום, ויישום תקנות היציאה לחופשה לגביהם, החל מיום <date date="2020-03-15">15.3.2020</date> ועד יום <date date="2020-04-18">18.4.2020</date> (כולל) (להלן : "<def refersTo="#term_6032f9f1">תקופת התחולה</def>").</p>
+        </intro>
+        <paragraph eId="hc_1__para_a">
+          <num>א.</num>
+          <content>
+            <p>תחולת החוזר</p>
+            <p>חוזר זה יחול על כל העובדים המדורגים בדירוג עובדי הוראה בבעלויות בשלבי חינוך הבאים: גני ילדים, יסודי וחטיבות ביניים, וכן מוסדות חינוך מיוחד אשר ימי הלימודים והחופשה שלהם נקבעים עפ"י חוזר המנכ"ל (להלן : "<def refersTo="#term_286a93d1">עובדי ההוראה</def>").</p>
+          </content>
+        </paragraph>
+        <paragraph eId="hc_1__para_b">
+          <num>ב.</num>
+          <intro>
+            <p>קיום הלימודים בתקופת החירום הנוכחית</p>
+            <p>על אף לוח החופשות לשנת הלימודים תש"פ המפורסם בחוזרי המנכ"ל, עובדי הוראה שחוזר זה חל עליהם, יקיימו לימודים לפי תכנית הלימודים ובהתאם להנחיות <organization eId="org_10" refersTo="#moe">משרד החינוך</organization>, גם במועדי החופשה הבאים שנקבעו בחוזר המנכ"ל:</p>
+          </intro>
+          <subparagraph eId="hc_1__para_b__subpara_a">
+            <num>א.</num>
+            <content>
+              <p>במגזר היהודי- מיום <date date="2020-03-31">31.3.2020</date> ועד ליום <date date="2020-04-03">3.4.2020</date> (כולל).</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_b__subpara_b">
+            <num>ב.</num>
+            <content>
+              <p>במגזר הערבי- מיום <date date="2020-04-06">6.4.2020</date> ועד ליום <date date="2020-04-09">9.4.2020</date> (כולל).</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_b__subpara_c">
+            <num>ג.</num>
+            <content>
+              <p>במוסדות החינוך המעורבים- בימים <date date="2020-04-06">6.4.2020</date>, <date date="2020-04-08">8.4.2020</date>, <date date="2020-04-15">15.4.2020</date> וכן יום נוסף, לא יאוחר מיום <date date="2020-04-16">16.4.2020</date>, שיתואם ברמה המוסדית לפי סוג האוכלוסייה והעדות שיש בה, בתיאום עם הפיקוח הכולל והמחוז.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_b__subpara_d">
+            <num>ד.</num>
+            <content>
+              <p>במגזר הדרוזי- מיום <date date="2020-03-28">28.3.2020</date> ועד יום <date date="2020-03-31">31.3.2020</date> (כולל) למוסדות החינוך המלמדים בשבת ומיום <date date="2020-03-29">29.3.2020</date> ועד ליום <date date="2020-04-01">1.4.2020</date> (כולל) למוסדות החינוך אשר אינם מלמדים בשבת.</p>
+              <p>למען הסר ספק מובהר כי עובדי הוראה יקיימו לימודים כאמור לעיל, גם בימי הלימוד כפי שנקבעו בחוזר המנכ"ל שחלים בתקופת התחולה.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="hc_1__para_c">
+          <num>ג.</num>
+          <content>
+            <p>הודעת המדינה לגבי הארכת שנת הלימודים</p>
+            <p>הודעה על המועד המעודכן לסיום שנת הלימודים תמסר בהמשך.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="hc_1__para_d">
+          <num>ד.</num>
+          <content>
+            <p>תשלום שכר</p>
+            <p>בהתקיים האמור בפרקים ב' ו-ג' לעיל, לא יחול שינוי בשכר עובדי ההוראה עד לתום תקופת התחולה. למען הסר ספק מובהר כי לגבי רכיבים התלויים בדיווח (כדוגמת קצובת נסיעה), ימשיכו לחול הכללים המאושרים כדין לעניין רכיבים אלו.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="hc_1__para_e">
+          <num>ה.</num>
+          <intro>
+            <p>עובדי הוראה בחל"ת ומילוי מקום</p>
+            <p>עובדי הוראה, אשר שהו בתקופת התחולה (מיום <date date="2020-03-15">15.3.2020</date> ועד יום <date date="2020-04-18">18.4.2020</date>) בחופשה ללא תשלום (לרבות תקופת לידה והורות כמשמעותה בחוק עבודת נשים התשי"ד-1954), לא ידרשו לעבוד בתקופה בה תוארך שנת הלימודים.</p>
+            <p>עובדי הוראה אשר שהו בחלק מתקופה זו בחופשה ללא תשלום, יעבדו בתקופה בה תוארך שנת הלימודים, כאמור באופן יחסי לתקופה זו.</p>
+            <p>עובדי הוראה אשר הועסקו במסגרת של מילוי מקום לתקופה קצובה בתקופת התחולה (אשר חוזי העסקה שלהם לא קוימו בהתאם למתכונת הרגילה לאור ההגבלות שהוטלו על ידי משרד הבריאות), יידרשו להשלים ימי עבודה, בהתאם לצרכי המערכת וכמפורט להלן :</p>
+          </intro>
+          <subparagraph eId="hc_1__para_e__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>מספר ימי העבודה שיושלמו כאמור, יהא כמספר הימים שבהם תוארך שנת הלימודים תש"פ ובאופן יחסי לתקופת ההעסקה שלהם במילוי מקום מתוך סך תקופת התחולה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_e__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>ההשלמה כאמור תעשה רק לאחר שיתחדשו הלימודים במוסדות החינוך כפי שהיו ערב פרסום צו בריאות העם (נגיף הקורונה החדש) (הגבלת פעילות מוסדות חינוך) (הוראת שעה), התש"פ 2020- (מיום, <date date="2020-03-15">15.3.2020</date>) ובהתאם למפורט בסעיף קטן (ג) להלן.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_e__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>ההשלמה כאמור תעשה בתקופה שהחל ממועד סיום התקופה שנקצבה להם בהודעת השיבוץ, ועד למועד הסיום שייקבע לשנת הלימודים תש"פ.</p>
+              <p>מאחלים לכם, לעו"ה, לתלמידים ולכל צוות המוסד בריאות טובה ואיתנה.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </hcontainer>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p>[חתימות]</p>
+      <p><signature eId="signature_1">
+          <person eId="pers_1" refersTo="#p_88bb0a53">תמר כהן</person> <role eId="rol_22" refersTo="#office_c5b90a5e">מנהלת תחום בכיר</role>
+        </signature>
+      </p>
+      <p>משכורות לעובדי הוראה</p>
+      <p>סוניה פרץ</p>
+      <p><role eId="rol_23" refersTo="#office_1900ecbc">סמנכ"לית ומנהלת</role>
+      </p>
+      <p><organization eId="org_11" refersTo="#unit_8e31efd0">אגף בכיר כח-אדם בהוראה</organization>
+      </p>
+      <p>העתקים:</p>
+      <p>מר <person eId="pers_2" refersTo="#p_4b203808">שמואל אבואב</person>, <role eId="rol_12" refersTo="#role-mankal">המנהל הכללי</role>
+      </p>
+      <p>מר <person eId="pers_3" refersTo="#p_adcb72bb">קובי בר נתן</person>, <role eId="rol_13" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_14" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_d9ec064a">עמוס שקדי</person>, <role eId="rol_15" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>ד"ר <person eId="pers_5" refersTo="#p_d555efc3">שוש נחום</person>, סמנכ"לית בכירה ומנהלת המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_6" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>ד"ר <person eId="pers_7" refersTo="#p_0df1a3e9">מירי שליסל</person>, יו"ר המזכירות הפדגוגית</p>
+      <p>עו"ד <person eId="pers_8" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_16" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p><role eId="rol_24" refersTo="#office_5730deb6">מנהלי ומנהלות המחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_9" refersTo="#p_24c98f9d">יפה בן דויד</person>, מזכ"לית <organization eId="org_17" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      </p>
+      <p>מר <person eId="pers_10" refersTo="#p_6711acd7">גור רוזנבלט</person>, מנהל מינהל (רישוי, בקרה ואכיפה)</p>
+      <p>מר <person eId="pers_11" refersTo="#p_985b6d8b">עבדאללה חטיב</person>, מנהל אגף בכיר(חינוך במגזר הערבי) ויועץ למנכ"ל בתחום החינוך בחברה הערבי [כך במקור]</p>
+      <p>עו"ד <person eId="pers_12" refersTo="#p_4f19a187">איריס שלו-טל</person>, הלשכה המשפטית</p>
+      <p>מר <person eId="pers_13" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף בכיר, ארגון מוסדות חינוך, המינהל הפדגוגי</p>
+      <p>גב' <person eId="pers_14" refersTo="#p_e03b783f">דסי בארי</person>, מנהלת אגף א' חינוך על-יסודי</p>
+      <p>גב' <person eId="pers_15" refersTo="#p_7859466e">אתי סאסי</person>, מנהלת אגף א' חינוך יסודי</p>
+      <p>מר <person eId="pers_16" refersTo="#p_ebe873db">פארס טויל</person>, מנהל אגף א' (רישוי מוסדות חינוך)</p>
+      <p>גב' <person eId="pers_17" refersTo="#p_174fed9d">רחלי אברמזון</person>, מנהלת אגף א' (חינוך מיוחד)</p>
+      <p>גב' <person eId="pers_18" refersTo="#p_d5c64ec3">איה ח'יראדין</person>, מנהלת אגף (חינוך במגזר הדרוזי)</p>
+      <p>גב' <person eId="pers_19" refersTo="#p_0e3ca62d">אפרת קמחי</person>, מנהל/ת תחום בכיר (תקציב על-יסודי)</p>
+      <p>גב' <person eId="pers_20" refersTo="#p_6be0991c">סיגל אלה</person>, מנהלת תחום בכיר (תקציב עו"ה ומוכש"ר)</p>
+      <p>מר <person eId="pers_21" refersTo="#p_e496d0db">טל ביבס</person>, מנהל תחום תשלומים <organization eId="org_18" refersTo="#local-government">למרכז השלטון המקומי</organization>, חשבות המשרד</p>
+      <p>מר <person eId="pers_22" refersTo="#p_69b3f2ff">אסף שירמן</person>, מנהל תחום, שכר והסכמי עבודה, <organization eId="org_19" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_23" refersTo="#p_854ea17d">עמית ענבר</person>, תחום שכר והסכמי עבודה, <organization eId="org_20" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_24" refersTo="#p_f71cee61">רחל טייטלבום</person>, מנהלת תחום תנאי שירות עובדי הוראה</p>
+      <p>גב' <person eId="pers_25" refersTo="#p_bca8a4ab">חגית מגן</person>, ראש מנהלי שכר והסכמי עבודה, מרכז שלטון מקומי</p>
+      <p>מר <person eId="pers_26" refersTo="#p_4572337a">אבי קמינסקי</person>, יו"ר איגוד מנהלי מח' חינוך</p>
+      <p>מר <person eId="pers_27" refersTo="#p_553ff555">שי חג'ג'</person>, יו"ר <organization eId="org_21" refersTo="#regional-councils-centre">מרכז המועצות האיזוריות</organization>
+      </p>
+      <p><role eId="rol_25" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_26" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

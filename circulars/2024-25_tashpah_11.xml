@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2025-06-22/2024-25-tashpah-11/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2025-06-22/2024-25-tashpah-11" />
+          <FRBRdate date="2025-06-22" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2025-06-22/2024-25-tashpah-11/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2025-06-22/2024-25-tashpah-11/heb@" />
+          <FRBRdate date="2025-06-22" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2025-06-22/2024-25-tashpah-11/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2025-06-22/2024-25-tashpah-11/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2025-06-22" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="day" href="/ontology/concept/quantity/day" showAs="יום" />
+        <TLCConcept eId="hour" href="/ontology/concept/quantity/hour" showAs="שעה" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="year" href="/ontology/concept/quantity/year" showAs="שנה" />
+        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
+        <TLCConcept eId="reform_oz" href="/ontology/concept/il/reform/oz-latmura" showAs="עוז לתמורה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_8e31efd0" href="/ontology/organization/il/unit/8e31efd0" showAs="אגף בכיר כח-אדם בהוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_021a1da6" href="/ontology/role/il/021a1da6" showAs="מנהלי תחומי כח-אדם בהוראה במחוזות" />
+        <TLCRole eId="office_5730deb6" href="/ontology/role/il/5730deb6" showAs="מנהלי ומנהלות המחוזות" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCPerson eId="p_794520a0" href="/ontology/person/il/794520a0" showAs="אינה זלצמן" />
+        <TLCPerson eId="p_2e900d7f" href="/ontology/person/il/2e900d7f" showAs="אפי מלכין" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_e496d0db" href="/ontology/person/il/e496d0db" showAs="טל ביבס" />
+        <TLCPerson eId="p_d1bfb07f" href="/ontology/person/il/d1bfb07f" showAs="יפה בן-דויד" />
+        <TLCPerson eId="p_4a7c0e08" href="/ontology/person/il/4a7c0e08" showAs="מאיר שמעוני" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_8f816d76" href="/ontology/person/il/8f816d76" showAs="מקסים אנדרונוב" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_1e57b451" href="/ontology/person/il/1e57b451" showAs="סוניה פרץ" />
+        <TLCPerson eId="p_75c4c432" href="/ontology/person/il/75c4c432" showAs="עמית עינבר בן זאב" />
+        <TLCPerson eId="p_1de853f6" href="/ontology/person/il/1de853f6" showAs="ענבל וילנר" />
+        <TLCPerson eId="p_9dca1676" href="/ontology/person/il/9dca1676" showAs="רונן לוי" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_19cae32e" href="/ontology/person/il/19cae32e" showAs="רכאן שנאן" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_6f9e1f28" href="/ontology/person/il/6f9e1f28" showAs="שי חג'אג'" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2024-25_tashpah_11.pdf" sha256="6ec91ab323caea4dbb2ee912f1850d14bdd73d6d4c733ad4b1ade903f292e1de" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשפ"ה/11</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  אגף בכיר</p>
+      <p>תאום משכורות עובדי הוראה</p>
+      <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2025-06-22">כ"ו בסיוון תשפ"ה</date>
+      </p>
+      <p><date date="2025-06-22">22 ביוני 2025</date>
+      </p>
+      <p>סימוכין <docNumber>2000-1028-2025-0018551</docNumber> :</p>
+      <p>חוזר לבעלויות <docNumber>תשפ"ה11/</docNumber>
+      </p>
+      <p>לכבוד</p>
+      <p>הבעלויות על מוסדות חינוך</p>
+      <p>שלום רב,</p>
+      <p>הנדון: <docTitle eId="doctitle_1">תשלום דמי הבראה ומענק יובל לשנת הלימודים תשפ"ה</docTitle>
+      </p>
+    </preamble>
+    <mainBody>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <heading>קצובת דמי הבראה:</heading>
+        <paragraph eId="art_1__para_a">
+          <num>א.</num>
+          <content>
+            <p>ביום  <date date="2025-03-27">27.3.2025</date> פורסם חוק ""חוק הקפאה והפחתה של דמי הבראה בשנת 2025</p>
+            <p>התשפ"ה( "2025-להלן": חוק הפחתת דמי הבראה"). בהתאם לכך, מובאות בפניכם הנחיות בעניין תשלום קצובת הבראה לעובדי ההוראה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_b">
+          <num>ב.</num>
+          <content>
+            <p>בהתאם לחוק הפחתת דמי הבראה, לעובד חודשי שהועסק במשרה מלאה בכל שנת</p>
+            <p>הלימודים תשפ"ה יופחת יום הבראה במועד תשלום קצובת ההבראה במשכורת חודש יוני .2025</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_c">
+          <num>ג.</num>
+          <content>
+            <p>בנוסף, בהתאם לחוק הפחתת דמי הבראה, ערך יום הבראה הינו ללא שינוי משנה"ל תשפ"ד.  <quantity eId="qty_1" refersTo="#ILS" normalized="471.4">₪ 471.4</quantity> -</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_d">
+          <num>ד.</num>
+          <content>
+            <p>לעובד שהועסק במשרה חלקית או בחלק מהשנה, ההפחתה תהיה באופן חלקי ביחס לתקופת העסקתו ו /או משרתו.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_e">
+          <num>ה.</num>
+          <content>
+            <p>לתשומת לב ככלל הנחיות הנוגעות למעסיקים, המפורטות בחוק הפחתת דמי הבראה, לרבות סעיף  )3( 4ו.)4(-</p>
+            <p>מצ"ב קישור <a href="https://fs.knesset.gov.il/25/law/25_lsr_6133485.pdf">לחוק הקפאה והפחתה דמי הבראה</a> .2025-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_f">
+          <num>ו.</num>
+          <content>
+            <p>בנוסף, נזכיר כי בהתאם לחוק "להשתתפותם של העובדים ובעלי תפקיד בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים  2025ו( 2026-הוראת שעה), תשפ"ה "2025-על קצובת הבראה לא תחול ההפחתה האחוזית הקבועה בו (רכיב מוחרג לפי סעיף ( )1( 1ב)).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_g">
+          <num>ז.</num>
+          <content>
+            <p>להלן טבלת ימי הבראה לפי ותק עובד ההוראה:</p>
+            <p>ימי הבראה לאחר                 ימי הבראה                 ותק בהוראה</p>
+            <p>הפחתה</p>
+            <p><quantity eId="qty_2" refersTo="#day" normalized="6">6ימים</quantity>                      <quantity eId="qty_3" refersTo="#day" normalized="7">7ימים</quantity>                 <quantity eId="qty_4" refersTo="#year" normalized="3">3שנים</quantity> ראשונות</p>
+            <p><quantity eId="qty_5" refersTo="#day" normalized="8">8ימים</quantity>                      <quantity eId="qty_6" refersTo="#day" normalized="9">9ימים</quantity>                    4-<quantity eId="qty_7" refersTo="#year" normalized="10">10שנים</quantity>
+            </p>
+            <p><quantity eId="qty_8" refersTo="#day" normalized="9">9ימים</quantity>                     <quantity eId="qty_9" refersTo="#day" normalized="10">10ימים</quantity>                   11-<quantity eId="qty_10" refersTo="#year" normalized="15">15שנים</quantity>
+            </p>
+            <p><quantity eId="qty_11" refersTo="#day" normalized="10">10ימים</quantity>                    <quantity eId="qty_12" refersTo="#day" normalized="11">11ימים</quantity>                   16-<quantity eId="qty_13" refersTo="#year" normalized="19">19שנים</quantity>
+            </p>
+            <p><quantity eId="qty_14" refersTo="#day" normalized="11">11ימים</quantity>                    <quantity eId="qty_15" refersTo="#day" normalized="12">12ימים</quantity>                   20-<quantity eId="qty_16" refersTo="#year" normalized="24">24שנים</quantity>
+            </p>
+            <p><quantity eId="qty_17" refersTo="#day" normalized="12">12ימים</quantity>                    <quantity eId="qty_18" refersTo="#day" normalized="13">13ימים</quantity>                    25ומעלה</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_h">
+          <num>ח.</num>
+          <content>
+            <p>עובד הוראה במשרה חלקית זכאי לקצובת הבראה בשיעור יחסי לחלקיות משרתו באותה שנה ( 1/10 לכל חודש עבודה(.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_i">
+          <num>ט.</num>
+          <content>
+            <p>עובד הוראה המועסק ביותר ממשרה שלמה אצל אותו מעסיק זכאי לקצובת הבראה הניתנת למועסק במשרה שלמה אחת בלבד.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_j">
+          <num>י.</num>
+          <content>
+            <p>עובד הוראה המועסק אצל יותר ממעסיק אחד, והיקף משרתו הכוללת אצל שני</p>
+            <p>המעסיקים הינו מעבר ל <quantity eId="qty_19" refersTo="#percentage" normalized="100">100%</quantity>-משרה, זכאי לקבל אצל כל מעסיק בנפרד את הקצובה היחסית להיקף משרתו אצל כל מעסיק בנפרד.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_ja">
+          <num>יא.</num>
+          <content>
+            <p>יובהר, כי חלה הגבלה על מורה המועסק שלא עפ"י תנאי הרפורמה לעבוד בהיקף שעולה על  <quantity eId="qty_20" refersTo="#percentage" normalized="140">140%</quantity>משרה אצל כלל מעסיקיו, וכן חלה הגבלה על מנהל המועסק שלא עפ"י תנאי הרפורמה לעבוד בהיקף שעולה על  <quantity eId="qty_21" refersTo="#percentage" normalized="150">150%</quantity>משרה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_jb">
+          <num>יב.</num>
+          <content>
+            <p>כמו-כן, העסקתו של מורה המועסק עפ"י תנאי רפורמת <concept eId="con_4" refersTo="#reform_oz">עוז לתמורה</concept>, ביישום מלא, מוגבלת ל <quantity eId="qty_22" refersTo="#percentage" normalized="131.5">131.5%</quantity> -משרה, אצל כלל מעסיקיו, <concept eId="con_5" refersTo="#reform_ofek">ובאופק חדש</concept> מוגבלת ל <quantity eId="qty_23" refersTo="#percentage" normalized="117">117%</quantity> -אצל כלל מעסיקיו.</p>
+            <p>זאת, בכפוף לנוהל העסקה חריגה לשנת הלימודים תשפ"ה:</p>
+            <p><a href="https://meyda.education.gov.il/files/CoachAdam/hrigot.pdf">hrigot.pdf</a>
+            </p>
+            <p>אין לראות באמור לעיל משום היתר להעסקה מעבר להיקפי משרה אלו (<quantity eId="qty_24" refersTo="#percentage" normalized="140">140%</quantity>
+            </p>
+            <p>משרה -ללא רפורמה <quantity eId="qty_25" refersTo="#percentage" normalized="131.5">131.5%</quantity>, משרה ביישום מלא של <concept eId="con_6" refersTo="#reform_oz">עוז לתמורה</concept> ו <quantity eId="qty_26" refersTo="#percentage" normalized="117">117%</quantity> -<concept eId="con_7" refersTo="#reform_ofek">באופק חדש</concept>, ולא יותר מ <quantity eId="qty_27" refersTo="#hour" normalized="42">42-שעות</quantity>).</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <heading>תשלום מענק יובל:</heading>
+        <paragraph eId="art_2__para_a">
+          <num>א.</num>
+          <content>
+            <p>מענק יובל ישולם לזכאים למענק במשכורת חודש יוני .2025</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_b">
+          <num>ב.</num>
+          <content>
+            <p>מענק יובל ישולם לעובד הוראה בעל ותק מצטבר בהוראה של  25 או  <quantity eId="qty_28" refersTo="#year" normalized="30">30 שנה</quantity> ומעלה כולל ותק שירות צבאי, אצל המעסיקים וה"בעלויות" וכן במוסדות החינוך הפורמאלי. לעניין ההבחנה לזכאות בותק של  <quantity eId="qty_29" refersTo="#year" normalized="25">25 שנה</quantity> או  <quantity eId="qty_30" refersTo="#year" normalized="30">30 שנה</quantity>, ראה בפירוט בסעיף ה.3.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_c">
+          <num>ג.</num>
+          <content>
+            <p>מענק יובל יהיה בשיעור  <quantity eId="qty_31" refersTo="#percentage" normalized="60">60%</quantity>מהמשכורת הקובעת לפנסיה ולפיצויי פיטורין, להוציא תשלומים חד-שנתיים, כגון ביגוד והבראה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_d">
+          <num>ד.</num>
+          <content>
+            <p>מענק יובל ניתן עפ"י הוותק שנקבע לעובד ההוראה בספטמבר בשנה שלפני תשלום מענק יובל.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_e">
+          <num>ה.</num>
+          <content>
+            <p>בהתאם לחוק "להשתתפותם של העובדים ובעלי תפקיד בשירות הציבורי, בצעדים</p>
+            <p>לייצוב המצב הפיסקלי במדינה במהלך השנים  2025ו( 2026-הוראת שעה), תשפ"ה-</p>
+            <p>"2025 על מענק יובל תחול ההפחתה האחוזית הקבועה בו.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_f">
+          <num>ו.</num>
+          <intro>
+            <p>הבהרות:</p>
+          </intro>
+          <subparagraph eId="art_2__para_f__subpara_1">
+            <num>1)</num>
+            <content>
+              <p>שנת חופשה ללא תשלום אשר נרכשו בעדה זכויות לגמלה מאוצר המדינה או</p>
+              <p>מקופות הפנסיה השונות של עובדי הוראה תובא בחשבון בחישוב שנות הוותק המזכות במענק יובל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_2__para_f__subpara_2">
+            <num>2)</num>
+            <content>
+              <p>עובד הוראה שהשלים  25 או  <quantity eId="qty_32" refersTo="#year" normalized="30">30 שנות עבודה</quantity> בישראל על-פי האמור להלן, ב1 -</p>
+              <p>ביוני של אותה שנה נדונה (ובכלל זה ותק בגין שירות חובה בצה"ל) יזכה באותה שנה במענק יובל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_2__para_f__subpara_3">
+            <num>3)</num>
+            <content>
+              <p>לגבי חלקיות העסקה בחט"ב, בחט"ע, בחינוך מיוחד מוכר שאינו רשמי</p>
+              <p><concept eId="con_8" refersTo="#reform_ofek">באופק חדש</concept>, ובמכללות האקדמאיות להכשרת עו"ה -הוותק המזכה במענק</p>
+              <p>יובל הינו וותק מצטבר כהגדרתו לעיל, של  <quantity eId="qty_33" refersTo="#year" normalized="25">25 שנה</quantity>. לגבי חלקיות ההעסקה</p>
+              <p>אצל הבעלויות ביתר שלבי החינוך (גני ילדים, יסודי, מכללות להכשרת עו"ה) הוותק המזכה במענק יובל הינו וותק מצטבר, כהגדרתו לעיל, של  <quantity eId="qty_34" refersTo="#year" normalized="30">30 שנה</quantity>.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_2__para_f__subpara_4">
+            <num>4)</num>
+            <content>
+              <p>מענק יובל ישולם לעובד הוראה בהתאם לחלקיות משרתו באותה שנה עד למשרה אחת בלבד, ובהתאם לחלקיות תקופת העסקה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_2__para_f__subpara_5">
+            <num>5)</num>
+            <content>
+              <p>לגבי עובד הוראה המועסק אצל יותר ממעסיק אחד יחולו הכללים האמורים בסעיפים <ref href="#art_1__para_f">1ו'</ref> עד  <ref href="#art_1__para_h">1ח'</ref> לעיל, בשינויים המחויבים.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>לשאלות בנוגע לחוזר זה, ניתן לפנות לתחום תנאי שירות עובדי הוראה בטלפונים:</p>
+      <p>073-3935138/9/40/62</p>
+      <p>בברכה,</p>
+      <p><person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person>                                                     <person eId="pers_2" refersTo="#p_88bb0a53">תמר כהן</person>
+      </p>
+      <p>סמנכ"לית ומנהלת                                              מנהלת אגף בכיר</p>
+      <p><organization eId="org_9" refersTo="#unit_8e31efd0">אגף בכיר כח-אדם בהוראה</organization>                                  תאום משכורות לעובדי הוראה</p>
+      <p>העתקים:</p>
+      <p>מר <person eId="pers_3" refersTo="#p_4a7c0e08">מאיר שמעוני</person>, <role eId="rol_10" refersTo="#role-mankal">המנהל הכללי</role>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_2e900d7f">אפי מלכין</person>, <role eId="rol_11" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_12" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_5" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>מר <person eId="pers_6" refersTo="#p_9dca1676">רונן לוי</person>, <role eId="rol_13" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>גב' <person eId="pers_7" refersTo="#p_794520a0">אינה זלצמן</person>, סמנכ"לית בכירה ומנהלת המינהל הפדגוגי</p>
+      <p><role eId="rol_20" refersTo="#office_5730deb6">מנהלי ומנהלות המחוזות</role>
+      </p>
+      <p>מר <person eId="pers_8" refersTo="#p_e496d0db">טל ביבס</person>, סגן חשב <organization eId="org_14" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p>מר <person eId="pers_9" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף בכיר, ארגון מוסדות חינוך, המינהל הפדגוגי</p>
+      <p>עו"ד <person eId="pers_10" refersTo="#p_1de853f6">ענבל וילנר</person>, סגנית בכירה ליועצת המשפטית</p>
+      <p>מר <person eId="pers_11" refersTo="#p_8f816d76">מקסים אנדרונוב</person>, מנהל תחום בכיר הוצאות ותשלומים</p>
+      <p>מר <person eId="pers_12" refersTo="#p_75c4c432">עמית עינבר בן זאב</person>, רכז חינוך, אגף שכר והסכמי עבודה, <organization eId="org_15" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_13" refersTo="#p_19cae32e">רכאן שנאן</person>, מנהל תחום בכיר תקציב  -גיל הרך, מינהל כלכלה ותקציבים</p>
+      <p>גב' <person eId="pers_14" refersTo="#p_d1bfb07f">יפה בן-דויד</person>, מזכ"לית <organization eId="org_16" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      </p>
+      <p>מר <person eId="pers_15" refersTo="#p_4b7467e5">רן ארז</person>, יו"ר <organization eId="org_17" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>
+      </p>
+      <p>גב' <person eId="pers_16" refersTo="#p_f71cee61">רחל טייטלבום</person>, מנהלת תחום תנאי שירות עובדי הוראה</p>
+      <p>גב' <person eId="pers_17" refersTo="#p_bca8a4ab">חגית מגן</person>, ראש מינהל שכר והסכמי עבודה, <organization eId="org_18" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_18" refersTo="#p_6f9e1f28">שי חג'אג'</person>, יו"ר <organization eId="org_19" refersTo="#regional-councils-centre">מרכז המועצות האיזוריות</organization>
+      </p>
+      <p><role eId="rol_21" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_22" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

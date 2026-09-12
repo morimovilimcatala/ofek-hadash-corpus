@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2018-03-26/2017-18-tashach-03/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2018-03-26/2017-18-tashach-03" />
+          <FRBRdate date="2018-03-26" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2018-03-26/2017-18-tashach-03/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2018-03-26/2017-18-tashach-03/heb@" />
+          <FRBRdate date="2018-03-26" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2018-03-26/2017-18-tashach-03/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2018-03-26/2017-18-tashach-03/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2018-03-26" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="day" href="/ontology/concept/quantity/day" showAs="יום" />
+        <TLCConcept eId="gmul-unit" href="/ontology/concept/quantity/gmul-unit" showAs="יחידת גמול" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="seniority" href="/ontology/concept/quantity/seniority" showAs="ותק" />
+        <TLCConcept eId="reform_oz" href="/ontology/concept/il/reform/oz-latmura" showAs="עוז לתמורה" />
+        <TLCTerm eId="term_2d454172" href="/ontology/term/il/2d454172" showAs="מנהלים" />
+        <TLCTerm eId="term_952a90fd" href="/ontology/term/il/952a90fd" showAs="מנהלים ברפורמה" />
+        <TLCTerm eId="term_a2dd78b6" href="/ontology/term/il/a2dd78b6" showAs="מורים ברפורמה" />
+        <TLCTerm eId="term_bbe59d42" href="/ontology/term/il/bbe59d42" showAs="מנהלים שאינם ברפורמה" />
+        <TLCTerm eId="term_f2aec556" href="/ontology/term/il/f2aec556" showAs="מורים שאינם ברפורמה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_545210c4" href="/ontology/organization/il/unit/545210c4" showAs="לשכת חשב" />
+        <TLCOrganization eId="unit_8e31efd0" href="/ontology/organization/il/unit/8e31efd0" showAs="אגף בכיר כח-אדם בהוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCRole eId="office_989834aa" href="/ontology/role/il/989834aa" showAs="מנהלי מחוזות" />
+        <TLCRole eId="office_d49f75b4" href="/ontology/role/il/d49f75b4" showAs="מנהלי תחומי כח אדם במחוזות במחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
+        <TLCRole eId="role-mankal-chinuch-m" href="/ontology/role/il/mankal-chinuch-m" showAs="מנכ&quot;ל משרד החינוך" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_73257817" href="/ontology/person/il/73257817" showAs="אבי פרידמן" />
+        <TLCPerson eId="p_4572337a" href="/ontology/person/il/4572337a" showAs="אבי קמינסקי" />
+        <TLCPerson eId="p_19c967f8" href="/ontology/person/il/19c967f8" showAs="אילת מלקמן" />
+        <TLCPerson eId="p_4f19a187" href="/ontology/person/il/4f19a187" showAs="איריס שלו-טל" />
+        <TLCPerson eId="p_69b3f2ff" href="/ontology/person/il/69b3f2ff" showAs="אסף שירמן" />
+        <TLCPerson eId="p_be4337f4" href="/ontology/person/il/be4337f4" showAs="גילה נגר" />
+        <TLCPerson eId="p_e03b783f" href="/ontology/person/il/e03b783f" showAs="דסי בארי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_5c443ad9" href="/ontology/person/il/5c443ad9" showAs="יוסי שטראוס" />
+        <TLCPerson eId="p_141537ad" href="/ontology/person/il/141537ad" showAs="מירי כהן" />
+        <TLCPerson eId="p_2b906c4d" href="/ontology/person/il/2b906c4d" showAs="מירי נבון" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_1e57b451" href="/ontology/person/il/1e57b451" showAs="סוניה פרץ" />
+        <TLCPerson eId="p_bfdd3a7b" href="/ontology/person/il/bfdd3a7b" showAs="עידית ורונין" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_0f0c2ec6" href="/ontology/person/il/0f0c2ec6" showAs="שי באב&quot;ד" />
+        <TLCPerson eId="p_4b203808" href="/ontology/person/il/4b203808" showAs="שמואל אבואב" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2017-18_tashach_03.pdf" sha256="8ac97b4772def14ef7206bfd8d50b62542a068f202f567e74439fa5c0bc60874" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ח/3</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                                    <organization eId="org_4" refersTo="#unit_545210c4">לשכת חשב</organization>
+      </p>
+      <p>תאום משכורות לעובדי הוראה</p>
+      <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2018-03-26">י' בניסן תשע"ח</date>
+      </p>
+      <p><date date="2018-03-26">26 במרץ 2018</date>
+      </p>
+      <p>סימוכין <docNumber>2000-1028-2018-0108516</docNumber> :</p>
+      <p>חוזר לבעלויות <docNumber>תשע"ח3/</docNumber>
+      </p>
+      <p>לכבוד</p>
+      <p>הבעלויות על מוסדות החינוך בחטיבות העליונות</p>
+      <p>שלום רב,</p>
+      <p>הנדון: הסכם שכר קיבוצי עם <organization eId="org_5" refersTo="#irgun-hamorim">ארגון המורים</organization> בחטיבות העליונות</p>
+      <p>בתאריך  <date date="2018-03-14">14.3.2018</date> נחתם הסכם שכר בין <organization eId="org_6" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_7" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization> ושלוש הערים</p>
+      <p>הגדולות, לבין <organization eId="org_8" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>, בתיאום מול <role eId="rol_9" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_10" refersTo="#mof">במשרד האוצר</organization>
+      </p>
+      <p>)להלן': ההסכם'(.</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <content>
+          <p>הסכם זה מסדיר את תנאי העבודה והשכר של עובדי ההוראה המפורטים להלן מיום  <date date="2017-09-01">1.9.2017</date> ועד ליום</p>
+          <p><date date="2022-02-28">28.2.2022</date> וכן מעדכן את הסכם מיזוג רכיבים, אשר נחתם בין הצדדים ביום ) <date date="2017-09-05">5.9.2017</date> המפורט בחוזר</p>
+          <p>לבעלויות תשע"ח.(1/</p>
+        </content>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <heading>תחולה</heading>
+        <content>
+          <p>הסכם זה יחול על עובדי הוראה עליהם חל <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">ההסכם הקיבוצי מיום  14.8.2011</ref> ליישום רפורמת עוז</p>
+          <p>לתמורה )להלן": הסכם <concept eId="con_11" refersTo="#reform_oz">עוז לתמורה</concept>"(, בין אם הם מועסקים על פי תנאי הרפורמה ובין אם מועסקים</p>
+          <p>שלא לפי תנאי הרפורמה )להלן": עובדי ההוראה"(.</p>
+        </content>
+      </article>
+      <article eId="art_3" repo:prose="same-source">
+        <num>3</num>
+        <heading>הגדרות</heading>
+        <content>
+          <p>"<def refersTo="#term_a2dd78b6">מורים ברפורמה</def>" -מורים המועסקים לפי תנאי רפורמת <concept eId="con_12" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+          <p>"<def refersTo="#term_f2aec556">מורים שאינם ברפורמה</def>" -מורים המועסקים שלא לפי תנאי רפורמת עוז</p>
+          <p>לתמורה.</p>
+          <p>"<def refersTo="#term_2d454172">מנהלים</def>" -מנהלים ברפורמה ומנהלים שאינם ברפורמה.</p>
+          <p>"<def refersTo="#term_952a90fd">מנהלים ברפורמה</def>" – מנהלי בתי ספר המועסקים לפי תנאי רפורמת <concept eId="con_13" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+          <p>"<def refersTo="#term_bbe59d42">מנהלים שאינם ברפורמה</def>"  -ומנהלי בתי ספר המועסקים שלא לפי תנאי רפורמת <concept eId="con_14" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+        </content>
+      </article>
+      <article eId="art_4" repo:prose="same-source">
+        <num>4</num>
+        <heading>תוספת שכר לעובדי ההוראה</heading>
+        <paragraph eId="art_4__para_4-1">
+          <num>4.1</num>
+          <content>
+            <p><mod eId="art_4__para_4-1__mod_1">לגבי מורים ברפורמה, במקום האמור בסעיף קטן )3א( להסכם מיזוג רכיבים יבוא:<quotedStructure eId="art_4__para_4-1__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                  <p>)א() (1 החל מיום, <date date="2017-09-01">1.9.2017</date> טבלאות השכר המשולב, לגבי מורים ברפורמה, יעודכנו בשיעור של <quantity eId="qty_3" refersTo="#percentage" normalized="18.212">18.212%</quantity>
+                  </p>
+                  <p>כמפורט בנספח א' להסכם זה )להלן": טבלאות השכר המשולב למורים ברפורמה"(</p>
+                </quotedStructure>.</mod>
+            </p>
+            <p>) (2 החל מיום, <date date="2018-09-01">1.9.2018</date> טבלאות השכר המשולב למורים ברפורמה, יעודכנו לגבי מורים ברפורמה</p>
+            <p><quantity eId="qty_1" refersTo="#seniority" normalized="1">בוותק  1</quantity> עד, 7 כמפורט בנספח ב' להסכם זה.</p>
+            <p>) (3 החל מיום  <date date="2018-12-01">1.12.2018</date> טבלאות השכר המשולב למורים ברפורמה, יעודכנו בשיעור נוסף של, <quantity eId="qty_2" refersTo="#percentage" normalized="1.2">1.2%</quantity>
+            </p>
+            <p>כמפורט כנספח ג' להסכם זה".</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_4__para_4-2">
+          <num>4.2</num>
+          <content>
+            <p>נספחים א', ב' ו-ג' המצוינים בסעיף  <ref href="#art_4__para_4-1">4.1</ref> לעיל, מצורפים בזאת כנספחים א' ב' ג' להסכם זה..</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_4__para_4-3">
+          <num>4.3</num>
+          <content>
+            <p><mod eId="art_4__para_4-3__mod_1">לגבי מורים שאינם ברפורמה ומנהלים, במקום האמור בסעיף קטן )3א( להסכם מיזוג רכיבים יבוא:<quotedStructure eId="art_4__para_4-3__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                  <p>)א( החל מיום, <date date="2018-09-01">1.9.2018</date> טבלאות השכר המשולב יעודכנו לגבי מורים שאינם ברפורמה ומנהלים, בוותק</p>
+                  <p>1 עד, 7 כמפורט בנספח ד' להסכם זה</p>
+                </quotedStructure>.</mod>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_4__para_4-4">
+          <num>4.4</num>
+          <content>
+            <p>נספח ד' המצוין בסעיף  <ref href="#art_4__para_4-3">4.3</ref> לעיל, מצורף בזאת כנספח ד' להסכם זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_4__para_4-5">
+          <num>4.5</num>
+          <content>
+            <p>מוסכם כי עדכון טבלאות השכר המשולב שבוצע לגבי מורים שאינם ברפורמה ומנהלים מכוח סעיף</p>
+            <p>)3א( להסכם מיזוג רכיבים )כנוסחו לפני התיקון לעיל(, יבוטל למפרע מיום .<date date="2017-09-01">1.9.2017</date>
+            </p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_5" repo:prose="same-source">
+        <num>5</num>
+        <intro>
+          <p>תיקון סעיף  4 להסכם מיזוג רכיבים והגדלת תוספת שקלית  2016 לעובדי הוראה</p>
+        </intro>
+        <paragraph eId="art_5__para_a">
+          <num>(א)</num>
+          <content>
+            <p><mod eId="art_5__para_a__mod_1">לגבי מורים ברפורמה, במקום האמור בסעיף  4 להסכם מיזוג רכיבים, יבוא:<quotedStructure eId="art_5__para_a__mod_1__qstr_1" startQuote="&quot;">
+                  <p>)א( החל מיום  <date date="2017-09-01">1.9.2017</date> יעודכן סכום התוספת השקלית המשולמת לעובד הוראה במשרה מלאה מכוח</p>
+                  <p>סעיף  4 להסכם הקיבוצי מיום ) <date date="2017-03-23">23.3.2017</date> להלן": התוספת השקלית המעודכנת, ("2016 כך שבמקום</p>
+                  <p>הסכומים והמועדים המפורטים בסעיפים קטנים ) 4ב() (4), (3ו (5)-להסכם מיום  <date date="2017-03-23">23.3.2017</date> יהיו</p>
+                  <p>הסכומים והמועדים כדלקמן:</p>
+                </quotedStructure>
+              </mod>
+            </p>
+            <p>) (1 החל ביום  <date date="2017-09-01">1.9.2017</date> ועד יום  601 - <date date="2017-12-31">31.12.2017</date>ש"ח )במילים: שש מאות ואחד שקלים חדשים(.</p>
+            <p>) (2 החל ביום  <date date="2018-01-01">1.1.2018</date> ועד יום  832.62 - <date date="2018-05-31">31.5.2018</date>ש"ח )במילים: שמונה מאות שלושים ושניים שקלים חדשים ושישים ושתיים אגורות(.</p>
+            <p>) (3 החל ביום  <date date="2018-06-01">1.6.2018</date> ועד יום  963.11 - <date date="2018-11-30">30.11.2018</date>ש"ח )במילים: תשע מאות שישים ושלושה שקלים חדשים ואחת עשרה אגורות(.</p>
+            <p>) (4 החל ביום  <date date="2018-12-01">1.12.2018</date> ועד יום  1022.40 - <date date="2018-12-31">31.12.2018</date>ש"ח )במילים: אלף עשרים ושניים שקלים חדשים וארבעים אגורות(.</p>
+            <p>) (5 החל ביום  <date date="2019-01-01">1.1.2019</date> ועד יום  1,122.40 - <date date="2019-08-31">31.8.2019</date>ש"ח )במילים: אלף מאה עשרים ושניים שקלים חדשים וארבעים אגורות(.</p>
+            <p>) (6 החל ביום  <date date="2019-09-01">1.9.2019</date> ועד יום  1,142.40 - <date date="2019-12-31">31.12.2019</date>ש"ח )במילים: אלף מאה ארבעים ושניים שקלים חדשים וארבעים אגורות(.</p>
+            <p>) (7 החל ביום  <date date="2020-01-01">1.1.2020</date> ועד יום  1,222.40 - <date date="2020-08-31">31.8.2020</date>ש"ח )במילים: אלף מאתיים עשרים ושניים שקלים חדשים וארבעים אגורות(.</p>
+            <p>) (8 החל ביום  <date date="2020-09-01">1.9.2020</date> ועד יום  1,262.40 - <date date="2020-12-31">31.12.2020</date>ש"ח )במילים: אלף מאתיים שישים ושניים שקלים חדשים וארבעים אגורות(.</p>
+            <p>) (9 החל ביום  <date date="2021-01-01">1.1.2021</date> ועד יום  1,342.40 - <date date="2021-08-31">31.8.2021</date>ש"ח )במילים: אלף שלוש מאות ארבעים ושניים שקלים חדשים וארבעים אגורות(.</p>
+            <p>) (10 החל ביום  <date date="2021-09-01">1.9.2021</date> ואילך  1,382.40 -ש"ח )במילים: אלף שלוש מאות שמונים ושניים שקלים חדשים וארבעים אגורות(.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_5__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>מובהר כי לא יחול שינוי לגבי שאר הכללים החלים לגבי התוספת ובכלל זה הוראות סעיפים )4ג( עד</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_5__para_h">
+          <num>(ח)</num>
+          <intro>
+            <p>להסכם הקיבוצי מיום  <date date="2017-03-23">23.3.2017</date> אשר יחולו על התוספת השקלית המעודכנת ".2016</p>
+          </intro>
+          <subparagraph eId="art_5__para_h__subpara_b">
+            <num>(ב)</num>
+            <intro>
+              <p>לגבי מורים שאינם ברפורמה ומנהלים, במקום האמור בסעיף  4 להסכם מיזוג רכיבים, יבוא:</p>
+              <p>מכוח        ")א( החל מיום  <date date="2017-09-01">1.9.2017</date> יעודכן סכום התוספת השקלית המשולמת לעובד הוראה במשרה מלאה</p>
+              <p>סעיף  4 להסכם הקיבוצי מיום ) <date date="2017-03-23">23.3.2017</date> להלן": התוספת השקלית המעודכנת, ("2016 כך שבמקום</p>
+              <p>הסכומים והמועדים המפורטים בסעיפים קטנים ) 4ב() (4), (3ו (5)-להסכם מיום  <date date="2017-03-23">23.3.2017</date> יהיו הסכומים והמועדים כדלקמן:</p>
+              <p>) (1 החל ביום  <date date="2017-09-01">1.9.2017</date> ועד יום  387.57 - <date date="2017-12-31">31.12.2017</date>ש"ח )במילים: שלוש מאות שמונים ושבעה שקלים חדשים וחמישים ושבע אגורות(.</p>
+            </intro>
+            <clause eId="art_5__para_h__subpara_b__cls_2">
+              <num>(2)</num>
+              <content>
+                <p>החל ביום  <date date="2018-01-01">1.1.2018</date> ועד יום  619.19 - <date date="2018-05-31">31.5.2018</date>ש"ח )במילים: שש מאות ותשעה עשר שקלים חדשים ותשע עשרה אגורות(.</p>
+              </content>
+            </clause>
+            <clause eId="art_5__para_h__subpara_b__cls_3">
+              <num>(3)</num>
+              <content>
+                <p>החל ביום  <date date="2018-06-01">1.6.2018</date> ועד יום  749.68 - <date date="2018-11-30">30.11.2018</date>ש"ח )במילים: שבע מאות ארבעים ותשעה שקלים חדשים ושישים ושמונה אגורות(.</p>
+                <p>) (4 החל ביום  <date date="2018-12-01">1.12.2018</date> ועד יום  808.97 - <date date="2018-12-31">31.12.2018</date>ש"ח )במילים: שמונה מאות ושמונה שקלים חדשים ותשעים ושבע אגורות(.</p>
+              </content>
+            </clause>
+            <clause eId="art_5__para_h__subpara_b__cls_5">
+              <num>(5)</num>
+              <content>
+                <p>החל ביום  <date date="2019-01-01">1.1.2019</date> ועד יום  908.97 - <date date="2019-08-31">31.8.2019</date>ש"ח )במילים: תשע מאות ושמונה שקלים חדשים ותשעים ושבע אגורות(.</p>
+              </content>
+            </clause>
+            <clause eId="art_5__para_h__subpara_b__cls_6">
+              <num>(6)</num>
+              <content>
+                <p>החל ביום  <date date="2019-09-01">1.9.2019</date> ועד יום  928.97 - <date date="2019-12-31">31.12.2019</date>ש"ח )במילים: תשע מאות עשרים ושמונה שקלים חדשים ותשעים ושבע אגורות(.</p>
+              </content>
+            </clause>
+            <clause eId="art_5__para_h__subpara_b__cls_7">
+              <num>(7)</num>
+              <intro>
+                <p>החל ביום  <date date="2020-01-01">1.1.2020</date> ועד יום  1,008.97 - <date date="2020-08-31">31.8.2020</date>ש"ח )במילים: אלף ושמונה שקלים חדשים ותשעים ושבע אגורות( ) (8 החל ביום  <date date="2020-09-01">1.9.2020</date> ועד יום  1,048.97 - <date date="2020-12-31">31.12.2020</date>ש"ח )במילים: אלף ארבעים ושמונה שקלים חדשים ותשעים ושבע אגורות(.</p>
+                <p>) (9 החל ביום  <date date="2021-01-01">1.1.2021</date> ועד יום  1,128.97 - <date date="2021-08-31">31.8.2021</date>ש"ח )במילים: אלף מאה עשרים ושמונה שקלים חדשים ותשעים ושבע אגורות(.</p>
+                <p>) (10 החל ביום  <date date="2021-09-01">1.9.2021</date> ואילך  1,168.97 -ש"ח )במילים: אלף מאה שישים ושמונה שקלים חדשים ותשעים ושבע אגורות(.</p>
+              </intro>
+              <point eId="art_5__para_h__subpara_b__cls_7__pnt_b">
+                <num>(ב)</num>
+                <content>
+                  <p>מובהר כי לא יחול שינוי לגבי שאר הכללים החלים לגבי התוספת ובכלל זה הוראות סעיפים )4ג( עד )ח( להסכם הקיבוצי מיום  <date date="2017-03-23">23.3.2017</date> אשר יחולו על התוספת השקלית המעודכנת ".2016</p>
+                </content>
+              </point>
+              <point eId="art_5__para_h__subpara_b__cls_7__pnt_c">
+                <num>(ג)</num>
+                <content>
+                  <p>מוסכם כי תשלום התוספת השקלית שבוצע לגבי מורים שאינם ברפורמה ומנהלים מכוח סעיף  4 להסכם מיזוג רכיבים )כנוסחו לפני התיקון לעיל(, יבוטל למפרע מיום .<date date="2017-09-01">1.9.2017</date>
+                  </p>
+                </content>
+              </point>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_6" repo:prose="same-source">
+        <num>6</num>
+        <heading>הוספת סעיף  5א להסכם מיזוג רכיבים</heading>
+        <content>
+          <p><mod eId="art_6__mod_1">בהסכם מיזוג רכיבים, אחרי סעיף  5 יבוא:<quotedStructure eId="art_6__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                <p>5א  -תוספת מיזוג רכיבים</p>
+                <paragraph eId="art_6__mod_1__qstr_1__para_a">
+                  <num>(א)</num>
+                  <content>
+                    <p>החל מיום, <date date="2017-09-01">1.9.2017</date> מורים שאינם ברפורמה ומנהלים יהיו זכאים לתוספת שכר אחוזית חדשה בשיעור</p>
+                    <p>של ) <quantity eId="qty_4" refersTo="#percentage" normalized="18.951">18.951%</quantity>להלן ולעיל": תוספת מיזוג רכיבים"(.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="art_6__mod_1__qstr_1__para_b">
+                  <num>(ב)</num>
+                  <content>
+                    <p>תוספת מיזוג רכיבים תשולם בשיעור אחיד לכל המורים שאינם ברפורמה והמנהלים.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="art_6__mod_1__qstr_1__para_c">
+                  <num>(ג)</num>
+                  <content>
+                    <p>תוספת מיזוג רכיבים תחושב על בסיס השכר המשולב בלבד )לפי סעיף  4.3ו 4.5-לעיל(.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="art_6__mod_1__qstr_1__para_d">
+                  <num>(ד)</num>
+                  <content>
+                    <p>תוספת מיזוג רכיבים תובא בחשבון לחישוב תוספות אחוזיות המחושבות מהשכר המשולב, וכן לעניין</p>
+                    <p>חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" )בין אם במקום שעה תומכת</p>
+                    <p>הוראה ובין אם לאו(, לעניין הפחתת שכר בשל היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצוי</p>
+                    <p>פיטורים, התשכ"ג, 1963-לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף  46 להסכם <concept eId="con_15" refersTo="#reform_oz">עוז לתמורה</concept>, לקרן</p>
+                    <p>השתלמות ולקרן דפנה )או לקופה אחרת שבאה במקומה(.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="art_6__mod_1__qstr_1__para_e">
+                  <num>(ה)</num>
+                  <content>
+                    <p>תוספת מיזוג רכיבים לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו</p>
+                    <p>בחוק שכר מינימום, התשמ"ז .1987-למען הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין</p>
+                    <p>הוראות חוק שכר מינימום )העלאת סכומי שכר מינימום – הוראה שעה(, התשע"ה.2015-</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="art_6__mod_1__qstr_1__para_f">
+                  <num>(ו)</num>
+                  <content>
+                    <p>החל מיום  <date date="2018-12-01">1.12.2018</date> יוגדל שיעור תוספת מיזוג רכיבים בשיעור של  <quantity eId="qty_5" refersTo="#percentage" normalized="1.2">1.2%</quantity>לשיעור כולל של, <quantity eId="qty_6" refersTo="#percentage" normalized="20.378">20.378%</quantity>
+                    </p>
+                    <p>ללא שינוי ביתר הכללים החלים לגבי התוספת</p>
+                  </content>
+                </paragraph>
+              </quotedStructure>.</mod>
+          </p>
+        </content>
+      </article>
+      <article eId="art_7" repo:prose="same-source">
+        <num>7</num>
+        <intro>
+          <p>שינוי סעיף  6 להסכם מיזוג רכיבים וביטול תוספות שכר הנכללות במיזוג רכיבי השכר, למורים שאינם</p>
+          <p>ברפורמה ולמנהלים</p>
+          <p><mod eId="art_7__mod_1">לגבי מורים שאינם ברפורמה ומנהלים, במקום האמור בסעיף  6 להסכם מיזוג רכיבים, יבוא:<quotedStructure eId="art_7__mod_1__qstr_1" startQuote="&quot;">
+                <p>)א( לאור האמור בסעיף ) 3 עדכון טבלאות השכר המשולב למורים שאינם ברפורמה ומנהלים(, בסעיף <ref href="#art_4">4</ref>
+                </p>
+              </quotedStructure>
+            </mod>
+          </p>
+          <p>)הגדלת תוספת שקלית  2016 למורים שאינם ברפורמה ומנהלים( ובסעיף 5א )תוספת מיזוג רכיבים( לעיל,</p>
+          <p>החל מיום, <date date="2017-09-01">1.9.2017</date> ועל אף האמור בכל הסכם, הסדר או נוהג הקיים ערב חתימת הסכם זה, יבוטל</p>
+          <p>תשלומן של תוספות השכר הבאות אשר שולמו למורים שאינם ברפורמה ולמנהלים ערב חתימת הסכם</p>
+          <p>מיזוג רכיבים, והם לא יהיו זכאים להן עוד, לרבות לכל זכות אשר נבעה מתשלומן:</p>
+        </intro>
+        <paragraph eId="art_7__para_1">
+          <num>(1)</num>
+          <content>
+            <p>"תוספת  - "'87 מכוח סעיף  3 להסכם הקיבוצי בין הצדדים שמיום, <date date="1988-01-24">24.1.1988</date> וכפי שעודכנה מעת לעת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_2">
+          <num>(2)</num>
+          <content>
+            <p>"תוספת  - "2001 מכוח סעיף  5 להסכם הקיבוצי בין הצדדים שמיום, <date date="2001-12-18">18.12.2001</date> וכפי שעודכנה מעת לעת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_3">
+          <num>(3)</num>
+          <content>
+            <p>"תוספת  - "2008 מכוח סעיף  4 להסכם הקיבוצי בין הצדדים שמיום, <date date="2008-01-24">24.1.2008</date> וכפי שעודכנה מעת לעת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_4">
+          <num>(4)</num>
+          <content>
+            <p>"תוספת  - "2011 מכוח סעיף  38 להסכם <concept eId="con_16" refersTo="#reform_oz">עוז לתמורה</concept>, וכפי שעודכנה מעת לעת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_5">
+          <num>(5)</num>
+          <content>
+            <p>"תוספת שחיקה  - "2011 מכוח סעיף  39 להסכם <concept eId="con_17" refersTo="#reform_oz">עוז לתמורה</concept>, וכפי שעודכנה מעת לעת.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_6">
+          <num>(6)</num>
+          <intro>
+            <p>"תוספת אחוזית  - "2016 מכוח סעיף  5 להסכם הקיבוצי בין הצדדים שמיום .<date date="2017-03-23">23.3.2017</date>
+            </p>
+            <p>)תוספות השכר יכונו להלן ובמאוחד – "התוספות המאוחדות"(</p>
+          </intro>
+          <subparagraph eId="art_7__para_6__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>כל הסעיפים הנזכרים בסעיף קטן )א( לעיל, מבוטלים לגבי מורים שאינם ברפורמה ומנהלים החל מיום  <date date="2017-09-01">1.9.2017</date> ולא ינהגו עוד על פיהם. למען הסר ספק מובהר כי</p>
+              <p>מבוטל גם כל מקור אחר, ככל שקיים, אשר קובע כי התוספות המאוחדות ישולמו למורים שאינם ברפורמה ולמנהלים כאמור.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_7__para_6__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>התוספות המאוחדות שיבוטלו כאמור בסעיף זה לא יהוו עוד בסיס לתוספות אחרות</p>
+              <p>המשולמות למורים שאינם ברפורמה ולמנהלים על אף האמור בכל הסכם, הסדר או נוהג הקיים ערב חתימת הסכם זה.".</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_8" repo:prose="same-source">
+        <num>8</num>
+        <heading>מנהלים ברפורמה</heading>
+        <paragraph eId="art_8__para_8-1">
+          <num>8.1</num>
+          <content>
+            <p>על אף האמור בכל הסכם", תוספת מעבר לרפורמה" כמשמעה בסעיף  24 להסכם <concept eId="con_18" refersTo="#reform_oz">עוז לתמורה</concept>
+            </p>
+            <p>)כנוסחו לפי החלטת ועדת ההיגוי מיום, (<date date="2013-05-28">28.5.2013</date> תחושב למנהלים ברפורמה, החל מיום</p>
+            <p><date date="2017-09-01">1.9.2017</date> על בסיס השכר המשולב )לפי סעיף  <ref href="#art_3">3</ref> לעיל(", תוספת ") "'94 תוספת תגבור הוראה" -</p>
+            <p>מכוח סעיף  6 להסכם הקיבוצי בין הצדדים מיום  (<date date="1994-08-31">31.8.1994</date> ותוספת מיזוג רכיבים )לפי סעיף 6</p>
+            <p>לעיל( )ללא התוספות הבאות": תוספת ", "2001 תוספת ", "2008 תוספת  "2011ו"-תוספת שחיקה</p>
+            <p>.("2011</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_8-2">
+          <num>8.2</num>
+          <content>
+            <p>על אף האמור בכל הסכם, לגבי "תוספת  - '87 מעבר לרפורמה" )המשולמת לפי תנאי רפורמת עוז</p>
+            <p>לתמורה, למנהלים קיימים בהתאם לסעיף )24ג (1 להסכם <concept eId="con_19" refersTo="#reform_oz">עוז לתמורה</concept> כנוסחו לפי סעיף 11</p>
+            <p>להחלטת ועדת ההיגוי מיום ) <date date="2013-05-28">28.5.2013</date> להלן": החלטת וועדת ההיגוי"(, ולמנהלים חדשים</p>
+            <p>בהתאם לסעיף  <ref href="#art_12">12</ref> להחלטת וועדת ההיגוי(, ינהגו החל מיום, <date date="2017-09-01">1.9.2017</date> כדלקמן:</p>
+            <p>הסכום השקלי של תוספת  - '87 מעבר לרפורמה, נכון למועד חתימת הסכם זה, עומד על 88.52</p>
+            <p>ש"ח )במילים": שמונים ושמונה שקלים וחמישים ושתיים אגורות"(. תוספת  - '87 מעבר לרפורמה</p>
+            <p>תעודכן בהתאם למנגנון העדכון הקבוע בסעיף קטן )4ד( להסכם מיום  <date date="2017-03-23">23.3.17</date> בלבד.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_9" repo:prose="same-source">
+        <num>9</num>
+        <intro>
+          <p>מובהר כי לגבי מורים ברפורמה ולגבי מורים שאינם ברפורמה, יבוטלו ההוראות הבאות בסעיף  6 להסכם</p>
+          <p>מיזוג רכיבים:</p>
+        </intro>
+        <paragraph eId="art_9__para_a">
+          <num>(א)</num>
+          <content>
+            <p>הסיפא בסעיף קטן 6)ג( להסכם מיזוג רכיבים, שתחילתה במילים "כך למשל";</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_9__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>סעיף קטן )ד(.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_10" repo:prose="same-source">
+        <num>10</num>
+        <heading>תוספת  '94 למורים שאינם ברפורמה ומנהלים</heading>
+        <paragraph eId="art_10__para_10-1">
+          <num>10.1</num>
+          <content>
+            <p>מוסכם כי ביטול תוספת  '94 שבוצע לגבי מורים שאינם ברפורמה ומנהלים מכוח סעיף  6 להסכם</p>
+            <p>מיזוג רכיבים )כנוסחו לפני התיקון בסעיף  <ref href="#art_7">7</ref> לעיל(, יבוטל למפרע מיום .<date date="2017-09-01">1.9.2017</date>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-2">
+          <num>10.2</num>
+          <content>
+            <p>החל מיום, <date date="2017-09-01">1.9.2017</date> תוספת  '94 המשולמת למורים שאינם ברפורמה ולמנהלים, תוגדל ותעמוד על</p>
+            <p>סכום של  <quantity eId="qty_7" refersTo="#ILS" normalized="162.56">162.56ש"ח</quantity> )במילים: מאה שישים ושניים שקלים וחמשים ושש אגורות(.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_10-3">
+          <num>10.3</num>
+          <content>
+            <p>החל מיום, <date date="2018-12-01">1.12.2018</date> תוספת  '94 המשולמת למורים שאינם ברפורמה ולמנהלים, תוגדל ותעמוד על</p>
+            <p>סכום של  <quantity eId="qty_8" refersTo="#ILS" normalized="164.51">164.51ש"ח</quantity> )במילים: מאה שישים וארבעה שקלים וחמישים ואחת אגורות(.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_11" repo:prose="same-source">
+        <num>11</num>
+        <intro>
+          <p>ביצוע למפרע של הוראות הקשורות למיזוג רכיבים לגבי מורים שאינם ברפורמה ומנהלים</p>
+        </intro>
+        <paragraph eId="art_11__para_11-1">
+          <num>11.1</num>
+          <content>
+            <p>מובהר כי ביצוע סעיפים  4.3ו) 4.5-טבלאות השכר המשולב למורים שאינם ברפורמה ומנהלים( 5.2, ו-</p>
+            <p>) 5.3 הגדלת תוספת שקלית  2016 למורים שאינם ברפורמה ומנהלים() 6, תוספת מיזוג רכיבים( 7</p>
+            <p>)ביטול תוספות שכר הנכללות באיחוד רכיבים למורים שאינם ברפורמה ומנהלים(  10.1ו – 10.2</p>
+            <p>)תוספת  ('94 לעיל, יחל במקביל ובאותו מועד. למען הסר ספק מובהר כי לא ייושם אחד הסעיפים</p>
+            <p>האמורים מבלי שייושמו במקביל כל הסעיפים האחרים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-2">
+          <num>11.2</num>
+          <content>
+            <p>מובהר כי הוראות סעיפים  10.1 7, 6, 5.3, 5.2, 4.5, 4.3ו –  10.2 להסכם זה מהוות הסדר מאוחד ושלם</p>
+            <p>וממצה לגבי העניינים המוסדרים בהם. הוראות הסעיפים האמורים שלובות זו בזו ולא ניתן להחיל</p>
+            <p>את חלקן ללא הפעלתן של הוראות אחרות.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-3">
+          <num>11.3</num>
+          <content>
+            <p>מוסכם כי מורים שאינם ברפורמה ומנהלים, אשר יישום הסכם איחוד רכיבים )כנוסחו לפני התיקון</p>
+            <p>שבהסכם זה(, הביא לכך שהמשכורת ברוטו לה היו זכאים, בגין התקופה שמיום  <date date="2017-09-01">1.9.2017</date> ועד יום</p>
+            <p>,<date date="2018-01-31">31.1.2018</date> בשל ההסכם האמור, גבוהה מהמשכורת ברוטו לה הם זכאים, בגין אותה תקופה בשל</p>
+            <p>חתימת הסכם זה )ההפרש בין השתיים ייקרא להלן": הסכום העודף"(, לא יידרשו להשיב את הסכום</p>
+            <p>העודף ששולם להם בגין התקופה האמורה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-4">
+          <num>11.4</num>
+          <content>
+            <p>האמור בהסכם זה יבוצע החל במשכורת המשולמת בעד חודש אפריל  2018 המשתלמת בחודש מאי</p>
+            <p>2018 ולא יאוחר מהמשכורת המשתלמת בעד חודש מאי  2018 המשתלמת בחודש יוני  .2018 במסגרת</p>
+            <p>משכורת החודש שבו יחל הביצוע, ישולמו גם ההפרשים שמיום .<date date="2017-09-01">1.9.2017</date>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-5">
+          <num>11.5</num>
+          <content>
+            <p>נוכח השינוי האמור בהסכם זה וההתאמות המורכבות הנדרשות למערכות השכר ביישומו, מוסכם בין</p>
+            <p>הצדדים כי עד לתשלום משכורת חודש אוגוסט  2018 המשולמת בחודש ספטמבר, 2018 ועד למועד זה</p>
+            <p>בלבד, תשלומי יתר שישולמו לעובדי הוראה כתוצאה מטעות ביישום ההסכם, ככל שישולמו, ייחשבו</p>
+            <p>כמקדמות על חשבון שכר עבודה לעניין הוראות סעיף )25א() (7 לחוק הגנת השכר, התשי"ח.1958-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-6">
+          <num>11.6</num>
+          <content>
+            <p>לעובד הוראה אשר שולם לו תשלום יתר כאמור בסעיף קטן  11.5 לעיל, תישלח הודעה בכתב <quantity eId="qty_9" refersTo="#day" normalized="30">30, יום</quantity>
+            </p>
+            <p>לפני תחילת ביצוע הניכוי ממשכורתו, בדבר פרטי הטעות שארעה בתשלום משכורתו, ותינתן לו</p>
+            <p>אפשרות פרטנית להתייחס לניכוי לפני ביצועו. תשלומי היתר האמורים בסעיף קטן  11.5 לעיל, ינוכו</p>
+            <p>בחלקים שווים משתים עשרה משכורות חודשיות של עובד ההוראה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_11-7">
+          <num>11.7</num>
+          <content>
+            <p><organization eId="org_20" refersTo="#irgun-hamorim">ארגון המורים</organization> מודיע כי אין באמור בסעיף זה כדי להוות הודאה בקיומה של</p>
+            <p>טעות בשכר ששולם לעובד הוראה כלשהו.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_12" repo:prose="same-source">
+        <num>12</num>
+        <heading>ביצוע לגבי מורים ברפורמה</heading>
+        <content>
+          <p>מובהר כי לגבי מורים ברפורמה, השינויים לפי הסכם זה להסכם מיזוג רכיבים, אינם יוצרים חבות</p>
+          <p>בתשלום למפרע. למען הסר ספק מובהר כי תשלומים שכבר בוצעו )בהתאם להסכם מיזוג רכיבים( לא</p>
+          <p>יבוצעו בשנית ולא יהיה כפל תשלומים.</p>
+        </content>
+      </article>
+      <article eId="art_13" repo:prose="same-source">
+        <num>13</num>
+        <heading>הגדלת גמול יועץ חינוכי</heading>
+        <paragraph eId="art_13__para_13-1">
+          <num>13.1</num>
+          <content>
+            <p>גמול יועץ חינוכי יהיה בשיעורים המפורטים בטבלה שלהלן:</p>
+            <table>
+              <tr>
+                <td>
+                  <p />
+                </td>
+                <td>
+                  <p>הגמול נכון</p>
+                </td>
+                <td>
+                  <p>שיעור הגמול שיעור</p>
+                </td>
+                <td>
+                  <p>שיעור הגמול</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>שנות וותק</p>
+                </td>
+                <td>
+                  <p>למועד חתימת מספר</p>
+                </td>
+                <td>
+                  <p>החל מיום</p>
+                </td>
+                <td>
+                  <p>החל מיום</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>בייעוץ</p>
+                </td>
+                <td>
+                  <p>הסכם זה</p>
+                </td>
+                <td>
+                  <p><date date="2020-01-01">1.1.2020</date>
+                  </p>
+                </td>
+                <td>
+                  <p><date date="2021-01-01">1.1.2021</date>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>1</p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_10" refersTo="#percentage" normalized="5">5%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_11" refersTo="#percentage" normalized="6">6%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_12" refersTo="#percentage" normalized="6.5">6.5%</quantity>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>2</p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_13" refersTo="#percentage" normalized="6">6%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_14" refersTo="#percentage" normalized="7">7%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_15" refersTo="#percentage" normalized="8">8%</quantity>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>3</p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_16" refersTo="#percentage" normalized="7">7%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_17" refersTo="#percentage" normalized="8.5">8.5%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_18" refersTo="#percentage" normalized="9.5">9.5%</quantity>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>4</p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_19" refersTo="#percentage" normalized="8">8%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_20" refersTo="#percentage" normalized="10">10%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_21" refersTo="#percentage" normalized="10.5">10.5%</quantity>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>5ומעלה</p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_22" refersTo="#percentage" normalized="9">9%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_23" refersTo="#percentage" normalized="11">11%</quantity>
+                  </p>
+                </td>
+                <td>
+                  <p><quantity eId="qty_24" refersTo="#percentage" normalized="12">12%</quantity>
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </content>
+        </paragraph>
+        <paragraph eId="art_13__para_13-2">
+          <num>13.2</num>
+          <content>
+            <p>לא יחול כל שינוי ביתר הכללים החלים לעניין תשלום גמול יועץ חינוכי כאמור בסעיף )17א( להסכם</p>
+            <p><concept eId="con_21" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_14" repo:prose="same-source">
+        <num>14</num>
+        <heading>גמולי תפקיד חדשים</heading>
+        <paragraph eId="art_14__para_14-1">
+          <num>14.1</num>
+          <content>
+            <p>החל מיום, <date date="2019-09-01">1.9.2019</date> לרשימת התפקידים המזכים מורים ברפורמה בגמול תפקיד, כמפורט בסעיף</p>
+            <p>)17א( להסכם <concept eId="con_22" refersTo="#reform_oz">עוז לתמורה</concept>, יתווספו התפקידים המפורטים בסעיף קטן  14.2 להלן. מורה ברפורמה</p>
+            <p>הממלא אחד מהתפקידים המפורטים בסעיף קטן  14.2 להלן, יהיה זכאי לגמול תפקיד בשיעור של</p>
+            <p><quantity eId="qty_25" refersTo="#percentage" normalized="6">6%</quantity>המחושב על בסיס השכר המשולב ותוספת <concept eId="con_23" refersTo="#reform_oz">עוז לתמורה</concept>;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_14__para_14-2">
+          <num>14.2</num>
+          <intro>
+            <p>להלן פירוט התפקידים בהתאם לאמור בסעיף  <ref href="#art_14__para_14-1">14.1</ref> לעיל:</p>
+            <p>)" (1 רכז טיולים";</p>
+            <p>)" (2 רכז פדגוגי";</p>
+            <p>)" (3 רכז השתלבות ואוכלוסיות מיוחדות";</p>
+          </intro>
+          <subparagraph eId="art_14__para_14-2__subpara_4">
+            <num>(4)</num>
+            <content>
+              <p>"רכז תקשוב";</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_14__para_14-2__subpara_5">
+            <num>(5)</num>
+            <content>
+              <p>"רכז בגרות";</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_14__para_14-2__subpara_6">
+            <num>(6)</num>
+            <intro>
+              <p>"רכז משמעת ואקלים חינוכי".</p>
+              <p>הערת <organization eId="org_24" refersTo="#moe">משרד החינוך</organization>:</p>
+            </intro>
+            <clause eId="art_14__para_14-2__subpara_6__cls_1">
+              <num>1.</num>
+              <content>
+                <p>החל משנה"ל תש"פ ) (<date date="2019-09-01">1.9.2019</date> יוכל המנהל לבחור בעל תפקיד אחד מרשימת בעלי התפקידים בסעיף  <ref href="#art_14__para_14-2">14.2</ref> לעיל, נוסף על התפקידים הקיימים כיום בחטיבה העליונה.</p>
+              </content>
+            </clause>
+            <clause eId="art_14__para_14-2__subpara_6__cls_2">
+              <num>2.</num>
+              <content>
+                <p>בנוסף לאמור בסעיף, 1 החל משנה"ל תשפ"א ) (<date date="2020-09-01">1.9.2020</date> יוכל המנהל לבחור בעל תפקיד אחד</p>
+                <p>נוסף מרשימת בעלי התפקידים בסעיף  <ref href="#art_14__para_14-2">14.2</ref> לעיל ), סה"כ שני בעלי תפקידים לבחירה מרשימת בעלי התפקידים בסעיף  <ref href="#art_14__para_14-2">14.2</ref> לעיל, נוסף על התפקידים הקיימים כיום בחטיבה העליונה(.</p>
+                <p>.3 בנוסף לאמור בסעיפים  <ref href="#art_1">1</ref>ו <ref href="#art_2">2</ref> -לעיל, החל משנה"ל תשפ"ב ) (<date date="2021-09-01">1.9.2021</date> יוכל המנהל לבחור בעל תפקיד אחד נוסף מרשימת בעלי התפקידים בסעיף  <ref href="#art_14__para_14-2">14.2</ref> לעיל ), סה"כ שלושה בעלי תפקידים לבחירה מרשימת בעלי התפקידים בסעיף  <ref href="#art_14__para_14-2">14.2</ref> לעיל, נוסף על התפקידים הקיימים כיום בחטיבה העליונה(.</p>
+              </content>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_14__para_14-3">
+          <num>14.3</num>
+          <content>
+            <p>כללי החישוב והתשלום החלים לגבי גמולי התפקיד המשולמים לפי סעיף זה, יהיו זהים לכללי החישוב והתשלום החלים לגבי גמול התפקיד המשולם לרכז מקצוע )הקבוע בסעיף )17א( להסכם <concept eId="con_25" refersTo="#reform_oz">עוז לתמורה</concept>(.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_15" repo:prose="same-source">
+        <num>15</num>
+        <heading>גמול מורה חונך</heading>
+        <intro>
+          <p>החל מיום, <date date="2018-09-01">1.9.2018</date> מורה הממלא תפקיד של "מורה חונך" יהיה זכאי, עבור כל מתמחה), ולא יותר מ-                               .15.1</p>
+          <p>3 מתמחים לחונך( לגמול תפקיד בשיעור של  <quantity eId="qty_26" refersTo="#percentage" normalized="2.4">2.4%</quantity>המחושב על בסיס כמפורט להלן:</p>
+        </intro>
+        <paragraph eId="art_15__para_1">
+          <num>(1)</num>
+          <content>
+            <p>לגבי מורה ברפורמה  -השכר המשולב ותוספת <concept eId="con_26" refersTo="#reform_oz">עוז לתמורה</concept>;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_15__para_2">
+          <num>(2)</num>
+          <content>
+            <p>לגבי מורה שאינו ברפורמה )למען הסר ספק –אינו מנהל(  -השכר המשולב, תוספת  '94 ותוספת מיזוג רכיבים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_15__para_15-2">
+          <num>15.2</num>
+          <content>
+            <p>כללי החישוב והתשלום החלים לגבי גמול התפקיד המשולם לפי סעיף זה, יהיו זהים לכללי החישוב</p>
+            <p>והתשלום החלים לגבי גמול התפקיד המשולם לרכז מקצוע )הקבוע בסעיף )17א( להסכם <concept eId="con_27" refersTo="#reform_oz">עוז לתמורה</concept>(.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_16" repo:prose="same-source">
+        <num>16</num>
+        <heading>גמול השתלמות</heading>
+        <content>
+          <p><mod eId="art_16__mod_1">האמור בסעיף  18 להסכם <concept eId="con_28" refersTo="#reform_oz">עוז לתמורה</concept> יסומן ), (1 ולאחריו יבוא:<quotedStructure eId="art_16__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                <p>)) (2א( החל משנת הלימודים תש"פ ) (<date date="2019-09-01">1.9.2019</date> התקרה של יחידות גמול השתלמות, המוכרות לצורך תשלום</p>
+                <p>גמול השתלמות, לגבי מורה כאמור בסעיף-קטן ), (1 תהיה  <quantity eId="qty_27" refersTo="#gmul-unit" normalized="19">19 יחידות גמול</quantity> )בנוסף ליחידות הגמול</p>
+                <p>המוכרות לעניין כפל תואר(.</p>
+                <p>לצורך הכרה ביחידת גמול ההשתלמות ה, 19-יוכרו קורסים אשר בהם השתתף המורה ואשר מועד                                      (ב)</p>
+                <p>תחילתם הוא לא לפני תחילת שנת הלימודים תשע"ט, או תחילת שנת הלימודים בה החל להיות</p>
+                <p>מועסק בתנאי הרפורמה, לפי המאוחר מביניהן.</p>
+                <p>הכללים המפורטים בסעיפים קטנים )(1)18ד()(1)18, ה()(1)18, ו()(1)18, ז( ו)(1)18-ח(, יחולו גם לגבי                        (ג)</p>
+                <p>האמור בסעיפים קטנים )א( ו)-ב(</p>
+              </quotedStructure>.</mod>
+          </p>
+        </content>
+      </article>
+      <article eId="art_17" repo:prose="same-source">
+        <num>17</num>
+        <heading>מענק חד פעמי</heading>
+        <paragraph eId="art_17__para_a">
+          <num>(א)</num>
+          <content>
+            <p>עובד הוראה אשר היה מועסק במשרה מלאה בכל התקופה שמיום  <date date="2017-09-01">1.9.2017</date> עד יום <date date="2017-11-30">30.11.2017</date>
+            </p>
+            <p>)להלן": התקופה למענק"(, יהיה זכאי למענק חד פעמי בסכום של  <quantity eId="qty_28" refersTo="#ILS" normalized="1000">1,000ש"ח</quantity> בלבד )להלן:</p>
+            <p>"המענק"(.</p>
+            <p>המענק ישולם במשכורת חודש מרץ ) 2018 המשולמת בחודש אפריל  (2018 ולא יאוחר ממשכורת חודש אפריל ) 2018 המשולמת בחודש מאי. (2018</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>עובד הוראה אשר הועסק במשרה מלאה בחלק מהתקופה למענק יהיה זכאי לחלק יחסי של המענק המשולם, ביחס לתקופת העבודה של עובד ההוראה בתקופה למענק.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>עובד הוראה אשר הועסק במשרה חלקית בכל )מלוא( התקופה למענק יהיה זכאי לחלקו היחסי של</p>
+            <p>המענק, ביחס לחלקיות משרתו )המשוקללת( בתקופה למענק. בכל מקרה, בחישוב חלקיות משרתו</p>
+            <p>של עובד הוראה בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל-</p>
+            <p>.<quantity eId="qty_29" refersTo="#percentage" normalized="100">100%</quantity>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>עובד הוראה אשר הועסק במשרה חלקית בחלק מהתקופה למענק יהיה זכאי לחלק יחסי של</p>
+            <p>המענק, ביחס לחלקיות משרתו ולתקופת העבודה של עובד ההוראה בתקופה למענק. בכל מקרה,</p>
+            <p>בחישוב חלקיות משרתו של עובד הוראה בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל.<quantity eId="qty_30" refersTo="#percentage" normalized="100">100%</quantity>-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_e">
+          <num>(ה)</num>
+          <content>
+            <p>מוסכם כי בחישוב תקופת העבודה במסגרת התקופה למענק, לא יילקחו בחשבון תקופות בהן</p>
+            <p>שהה עובד ההוראה, מכל סיבה שהיא, בחופשה ללא תשלום לרבות שבתון או בחופשה שדינה כדין</p>
+            <p>חופשה ללא תשלום. מוסכם כי יובאו בחשבון תקופות בהן שהה עובד ההוראה בשירות מילואים</p>
+            <p>או בתקופת לידה והורות, לפי חוק עבודת נשים, התשי"ד 1954-או בחופשה ללא משכורת לרגל מחלה.</p>
+            <p>למען הסר ספק, היעדרות שדינה כדין חופשה ללא תשלום, שהיא לאחר תום תקופת הלידה</p>
+            <p>וההורות כמשמעותה בחוק עבודת נשים, לא תילקח בחשבון בחישוב תקופת העבודה במסגרת התקופה למענק.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_f">
+          <num>(ו)</num>
+          <content>
+            <p>בתקופת לידה והורות או שירות מילואים או חופשה ללא משכורת לרגל מחלה אשר חלה במהלך</p>
+            <p>התקופה למענק )כולה או חלקה( תחושב חלקיות המשרה )בעבור כל חודש היעדרות מלא(, לפי</p>
+            <p>חלקיות העסקה שהייתה לעובד ההוראה ערב יציאתו לתקופת הלידה וההורות או לשירות המילואים או לחופשה ללא משכורת לרגל מחלה.</p>
+            <p>בכל מקרה, בחישוב חלקיות משרתו של עובד הוראה בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל.<quantity eId="qty_31" refersTo="#percentage" normalized="100">100%</quantity>-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_g">
+          <num>(ז)</num>
+          <content>
+            <p>מובהר כי האמור בסעיפים )ה( ו)-ו( לעיל, חל בהתאמה גם לגבי עובד הוראה אשר יצא לתקופת לידה והורות בהתאם להוראות חוק עבודת נשים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_h">
+          <num>(ח)</num>
+          <content>
+            <p>המענק אינו מהווה שכר לכל דבר ועניין, לא יובא בחשבון לעניין חישוב ערך שעה לעניין חישוב</p>
+            <p>התמורה עבור ביצוע שעות מילוי מקום )בין אם במקום שעה תומכת הוראה ובין אם לאו(, לעניין</p>
+            <p>הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים,</p>
+            <p>התשכ"ג, 1963-ולא יבוצעו בגינו הפרשות כלשהן לקופת גמל )לרבות לקרן השתלמות, קרן פנסיה או ביטוח מנהלים(.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_i">
+          <num>(ט)</num>
+          <content>
+            <p>למען הסר ספק, המענק לא יובא בחשבון לצורך חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז.1987-</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_17__para_j">
+          <num>(י)</num>
+          <content>
+            <p>אין בתשלום המענק כדי לשנות את בסיס השכר על פי טבלאות השכר המשולב.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_18" repo:prose="same-source">
+        <num>18</num>
+        <heading>הקצאת עלות להמשך משא ומתן לגבי הגדלת שכר המנהלים</heading>
+        <paragraph eId="art_18__para_a">
+          <num>(א)</num>
+          <content>
+            <p>הצדדים הסכימו להמשיך ולנהל משא ומתן על אופן הקצאת התקציב שהוסכם ומיועד להגדלת שכר המנהלים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_18__para_b">
+          <num>(ב)</num>
+          <intro>
+            <p>היה ומכל סיבה שהיא, עד ליום, <date date="2018-04-01">1.4.2018</date> לא ייחתם הסכם קיבוצי כאמור בסעיף קטן )א( לעיל,</p>
+            <p>אשר בו ייקבע אופן הקצאת העלות לפי האמור בסעיפים קטנים )א() (1ו)-א() (2 לעיל, כי אז ביום <date date="2018-09-01">1.9.2018</date> תוקצה העלות לפי סעיף קטן )א() (1 לעיל, והחל מיום  <date date="2019-09-01">1.9.2019</date> תוקצה העלות לפי סעיף</p>
+            <p>קטן )א() (2 לעיל, לטובת הגדלת תוספת  - '87 מעבר לרפורמה, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
+          </intro>
+          <subparagraph eId="art_18__para_b__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>החל מיום, <date date="2018-09-01">1.9.2018</date> יגדל סכומה של תוספת  - '87 מעבר לרפורמה בסכום של  <quantity eId="qty_32" refersTo="#ILS" normalized="460">460ש"ח</quantity>, לסכום</p>
+              <p>כולל של  <quantity eId="qty_33" refersTo="#ILS" normalized="548.52">548.52ש"ח</quantity> )במילים: חמש מאות ארבעים ושמונה שקלים חדשים וחמישים ושתיים אגורות(, ללא שינוי ביתר הכללים החלים לגבי התוספת.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_18__para_b__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>החל מיום, <date date="2019-09-01">1.9.2019</date> יגדל סכומה של תוספת  - '87 מעבר לרפורמה בסכום של  <quantity eId="qty_34" refersTo="#ILS" normalized="460">460ש"ח</quantity>, לסכום</p>
+              <p>כולל של  <quantity eId="qty_35" refersTo="#ILS" normalized="1008.52">1,008.52ש"ח</quantity> )במילים: אלף ושמונה שקלים חדשים וחמישים ושתיים אגורות(, ללא שינוי ביתר הכללים החלים לגבי התוספת.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_18__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>בעניין זה יפורסם חוזר נוסף, ככל הנדרש, בהתאם לאמור בסעיף )א( לעיל.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_19" repo:prose="same-source">
+        <num>19</num>
+        <heading>החזר ימי לימודים ושעות לימודים בחטיבה העליונה בשל שביתה</heading>
+        <paragraph eId="art_19__para_1">
+          <num>1.</num>
+          <intro>
+            <p>בהתאם להודעת <role eId="rol_29" refersTo="#role-mankal-chinuch-m">מנכ"ל משרד החינוך</role> מיום  <date date="2018-03-14">14.3.2018</date> ובשים לב לשביתה שהתקיימה בכלל</p>
+            <p>החטיבות העליונות בימים  <date date="2017-11-12">12.11.2017</date>ו) <date date="2017-11-21">21.11.2017</date>-להלן": ימי השביתה הכללית"(, ובנוסף לכך</p>
+            <p>לשביתה שהתקיימה לאחר ימי השביתה הכללית, בחטיבות עליונות מסוימות במשך יום לימודים</p>
+            <p>מלא אחד לפחות, במהלך החודשים נובמבר או דצמבר ) 2017 להלן": ימי השביתה המקומית"(,</p>
+            <p>ולאחר היוועצות עם המעסיקים <organization eId="org_30" refersTo="#irgun-hamorim">וארגון המורים</organization>, <organization eId="org_31" refersTo="#moe">משרד החינוך</organization> מורה לקיים ימי לימודים בחטיבות העליונות כמפורט להלן:</p>
+          </intro>
+          <subparagraph eId="art_19__para_1__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>קיום יום לימודים נוסף באיסרו חג שבועות -שנה"ל תשע"ח</p>
+              <p>) (<quantity eId="qty_36" refersTo="#day" normalized="1">1 יום</quantity> לימודים יתקיים ביום ) <date date="2018-05-21">21.5.2018</date> אסרו חג שבועות(, באותן חטיבות העליונות אשר</p>
+              <p>התקיימה בהן שביתה באחד או יותר מימי השביתה הכללית )להלן": יום הלימודים אסרו חג שבועות"(.</p>
+              <p>) (2 מערכת השעות ביום הלימודים אסרו חג שבועות, תהא מערכת השעות אשר הייתה קבועה ביום</p>
+              <p>א' ) (<date date="2017-11-12">12.11.2017</date> או ביום ג' ), (<date date="2017-11-21">21.11.2017</date> לפי החלטת מנהל בית הספר ובהתאם לצרכי בית הספר )להלן": יום הלימודים שנבחר להשלמה בשבועות"(.</p>
+              <p>) (3 למערכת השעות ביום הלימודים אסרו חג שבועות, ישובצו רק עובדי הוראה אשר נעדרו</p>
+              <p>מעבודתם ביום הלימודים שנבחר להשלמה בשבועות, בשל השביתה הכללית. למען הסר ספק</p>
+              <p>מובהר כי מספר השיעורים בהם ישובץ כל עובד הוראה כאמור ביום הלימודים אסרו חג שבועות,</p>
+              <p>יהא זהה למספר השיעורים אליהם היה משובץ ביום הלימודים שנבחר להשלמה בשבועות )יום</p>
+              <p>א' או יום ג' המפורטים בסעיף א' לעיל(. יובהר שעובד הוראה מחויב להחזיר לכל היותר את</p>
+              <p>מספר השעות שהחסיר ביום הלימודים שנבחר להשלמה בשבועות ולא יותר.</p>
+              <p>) (4 התמורה לעובדי ההוראה אשר יועסקו ביום הלימודים אסרו חג שבועות תהיה באופן הבא -כנגד</p>
+              <p>כל שיעור שיבוצע ביום הלימודים אסרו חג שבועות, יהיה זכאי עובד ההוראה לשכר אשר לא</p>
+              <p>שולם לו בגין שעת שביתה אחת ביום הלימודים שנבחר להשלמה באסרו חג שבועות. התמורה</p>
+              <p>כאמור תשולם לעובד ההוראה במשכורת חודש מאי ) 2018 המשתלמת בחודש יוני. (2018</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_1__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>יום לימודים נוסף בל"ג בעומר -שנה"ל תשע"ח</p>
+              <p>) (<quantity eId="qty_37" refersTo="#day" normalized="1">1 יום</quantity> לימודים ביום ) <date date="2018-05-03">3.5.2018</date>ל"ג בעומר( באותן החטיבות העליונות אשר התקיימה בהן שביתה</p>
+              <p>באחד או יותר מימי השביתה המקומית, בנוסף לשביתה שהתקיימה בימי השביתה הכללית )להלן": יום לימודים ל"ג בעומר"(.</p>
+              <p>) (<quantity eId="qty_38" refersTo="#day" normalized="2">2 יום</quantity> הלימודים ל"ג בעומר יכלול עד  8 שיעורים, בהתאם לצרכי בית הספר.</p>
+              <p>) (3 מערכת השעות ביום הלימודים ל"ג בעומר תקבע לפי החלטת מנהל בית הספר בהתאם לצרכי</p>
+              <p>בית הספר ותכלול שיעורים פרונטאליים בלבד.</p>
+              <p>) (4 למערכת השעות ביום הלימודים ל"ג בעומר ישובצו רק עובדי הוראה אשר נעדרו מעבודתם בימי</p>
+              <p>השביתה המקומית, בשל השביתה המקומית. מספר השיעורים בהם ישובץ כל עובד הוראה</p>
+              <p>כאמור ביום הלימודים ל"ג בעומר, לא יעלה על מספר השיעורים מהם נעדר בימי השביתה</p>
+              <p>המקומית, ובכל מקרה לא יעלה על  8 שיעורים.</p>
+              <p>) (5 התמורה לעובדי ההוראה אשר יועסקו ביום הלימודים ל"ג בעומר תהיה באופן הבא -כנגד כל</p>
+              <p>שיעור שיבוצע ביום הלימודים ל"ג בעומר, יהיה זכאי עובד ההוראה לשכר אשר לא שולם לו בגין</p>
+              <p>שעת שביתה אחת בימי השביתה המקומית. התמורה כאמור תשולם לעובד ההוראה במשכורת</p>
+              <p>חודש מאי ) 2018 המשתלמת בחודש יוני. (2018</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_1__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>יום לימודים נוסף באיסרו חג סוכות -שנה"ל תשע"ט</p>
+              <p>) (<quantity eId="qty_39" refersTo="#day" normalized="1">1 יום</quantity> לימודים ביום ) <date date="2018-10-02">2.10.2018</date> אסרו חג סוכות(, באותן חטיבות העליונות אשר התקיימה בהן</p>
+              <p>שביתה באחד או יותר מימי השביתה הכללית או אחד או יותר מימי השביתה המקומית )להלן:</p>
+              <p>"יום הלימודים אסרו חג סוכות"(.</p>
+              <p>) (2 למערכת השעות ביום הלימודים אסרו חג סוכות, ישובצו רק עובדי הוראה אשר נעדרו מעבודתם</p>
+              <p>בימי השביתה הכללית או בימי השביתה המקומית ואשר סך השיעורים מהם נעדרו בימי</p>
+              <p>השביתה הכללית ובימי השביתה המקומית גבוה ממספר השיעורים אשר השלימו ביום</p>
+              <p>הלימודים באסרו חג שבועות וביום הלימודים בל"ג בעומר.</p>
+              <p>) (3 מובהר כי מספר השיעורים בהם ישובץ כל עובד הוראה כאמור ביום הלימודים איסרו חג סוכות,</p>
+              <p>לא יעלה על סך השיעורים מהם נעדר בימי השביתה הכללית ובימי השביתה המקומית בהפחתה</p>
+              <p>של מספר השיעורים אשר השלים עובד ההוראה כאמור ביום הלימודים באסרו חג שבועות וביום הלימודים בל"ג בעומר.</p>
+              <p>) (<quantity eId="qty_40" refersTo="#day" normalized="4">4 יום</quantity> הלימודים אסרו חג סוכות יכלול עד  8 שיעורים, בהתאם לצרכי בית הספר. מערכת השעות</p>
+              <p>ביום הלימודים אסרו חג סוכות תקבע לפי החלטת מנהל בית הספר בהתאם לצרכי בית הספר</p>
+              <p>ותכלול שיעורים פרונטאליים בלבד. יובהר שעובד הוראה מחויב להחזיר לכל היותר את מספר</p>
+              <p>השעות שהם ההפרש שבין סך השיעורים מהם נעדר בימי השביתה הכללית ובימי השביתה</p>
+              <p>המקומית ובין מספר השיעורים אשר השלים ביום הלימודים באסרו חג שבועות וביום הלימודים בל"ג בעומר, ולא יותר.</p>
+              <p>) (5 התמורה לעובדי ההוראה אשר יועסקו ביום הלימודים אסרו חג סוכות  -כנגד כל שיעור שיבוצע</p>
+              <p>ביום הלימודים אסרו חג סוכות, יהיה זכאי עובד ההוראה לשכר שווה ערך לשכר אשר לא שולם</p>
+              <p>לו בגין שעת שביתה אחת בימי השביתה הכללית, ואם השלים את כל שעות היעדרותו מימי</p>
+              <p>השביתה הכללית ביום הלימודים באסרו חג שבועות  -בגין שעת שביתה אחת בימי השביתה</p>
+              <p>המקומית. התמורה כאמור תשולם לעובד ההוראה במשכורת חודש אוקטובר ) 2018 המשתלמת בחודש נובמבר. (2018</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_1__subpara_d">
+            <num>(ד)</num>
+            <content>
+              <p>השלמת שעות לעובדי הוראה ששבתו ביותר מיום אחד מימי השביתה המקומית</p>
+              <p>) (1 עובדי הוראה כאמור בסעיף זה, יוכלו להשלים שעות פרונטאליות ופרטניות, לפי החלטת מנהל בית הספר ובהתאם לצרכי בית הספר, במהלך שנת הלמודים תשע"ח.</p>
+              <p>) (2 התמורה לעובדי ההוראה אשר ישלימו שעות כאמור בסעיף זה  -כנגד כל שיעור שיבוצע, יהיה</p>
+              <p>זכאי עובד ההוראה לשכר אשר לא שולם לו בגין שעת שביתה אחת בימי השביתה המקומית.</p>
+              <p>"עובדי הוראה" לעניין סעיף זה בלבד  -עובד הוראה אשר מתקיימים לגביו כל אלה במצטבר:</p>
+              <p>הועסק בחטיבה עליונה שהתקיימה בה יותר מיום שביתה אחד מימי השביתה המקומית,                                (א)</p>
+              <p>בנוסף לשביתה שהתקיימה בימי השביתה הכללית.</p>
+              <p>השלים שיעורים ביום הלימודים בל"ג בעומר.                  (ב)</p>
+              <p>סך השיעורים מהם נעדר בימי השביתה המקומית גבוה ממספר השיעורים אשר השלים                                  (ג)</p>
+              <p>עובד ההוראה ביום הלימודים בל"ג בעומר.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_19__para_2">
+          <num>2.</num>
+          <intro>
+            <p>מקדמות</p>
+            <p>בשים לב לאמור לעיל, ולכך שעובדי הוראה ששבתו בימי השביתה הכללית ובימי השביתה</p>
+            <p>המקומית ישלימו ימי לימודים כאמור לעיל, עובדי הוראה כאמור יקבלו במועד תשלום משכורת</p>
+            <p>חודש אפריל ) 2018 המשתלמת בחודש מאי  (2018 מקדמה כמפורט להלן:</p>
+          </intro>
+          <subparagraph eId="art_19__para_2__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>עובדי הוראה אשר שבתו בשני ימי השביתה הכללית או באחד מהם, יהיו זכאים למקדמה בגובה הניכוי שבוצע בשכרם בגין השביתה הכללית.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_2__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>עובד הוראה אשר שבת לפחות יום אחד מימי השביתה המקומית, יהיה זכאי בנוסף לאמור</p>
+              <p>בסעיף )א( לעיל, למקדמה בגובה הניכוי שבוצע בשכרו בגין יום השביתה המקומית הראשון מבין ימי השביתה המקומית.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_2__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>המקדמות האמורות ינוכו בשני מועדים, ובהתאם לחוק הגנת השכר, התשי"ח- 1958-</p>
+              <p>במשכורת חודש מאי ) 2018 המשתלמת בחודש יוני, (2018 בגובה התמורה לה זכאי עובד</p>
+              <p>ההוראה שהועסק ביום הלימודים אסרו חג שבועות וביום הלימודים ל"ג בעומר, והיתרה</p>
+              <p>תנוכה במשכורת חודש אוקטובר ) 2018 המשתלמת בחודש נובמבר. (2018 לגבי עובד אשר</p>
+              <p>בשנת הלימודים תשע"ט יהא בחל"ת או בשבתון, תנוכה המקדמה במשכורת חודש מאי 2018</p>
+              <p>)המשתלמת בחודש יוני  (2018 ובמשכורת חודש אוגוסט ) 2018 המשתלמת בחודש ספטמבר .(2018 מובהר כי ככל שיחסי עובד מעסיק יסתיימו בטרם נוכתה מלוא המקדמה, זו תנוכה</p>
+              <p>במשכורת החודש האחרון שלפני סיום יחסי העבודה, וכנגד כל תשלום אשר לו זכאי עובד ההוראה מהמעסיק.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_19__para_3">
+          <num>3.</num>
+          <intro>
+            <p><organization eId="org_32" refersTo="#moe">משרד החינוך</organization> יוצא הנחיות למנהלי בתי הספר באשר לאופן יישום האמור בסעיף זה.</p>
+            <p>לשאלות בנוגע לחוזר זה ניתן לפנות ליחידה לתנאי שירות עובדי הוראה בטלפונים 02-5604828, 02-5604757 :</p>
+            <p>מצ"ב:</p>
+          </intro>
+          <subparagraph eId="art_19__para_3__subpara_1">
+            <num>1.</num>
+            <content>
+              <p>נספח א' -טבלאות השכר המשולב למורים ברפורמה, החל מיום <date date="2017-09-01">1.9.2017</date>
+              </p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_3__subpara_2">
+            <num>2.</num>
+            <content>
+              <p>נספח ב' -טבלאות השכר המשולב למורים ברפורמה, החל מיום <date date="2018-09-01">1.9.2018</date>
+              </p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_3__subpara_3">
+            <num>3.</num>
+            <content>
+              <p>נספח ג' -טבלאות השכר המשולב למורים ברפורמה, החל מיום <date date="2018-12-01">1.12.2018</date>
+              </p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_3__subpara_4">
+            <num>4.</num>
+            <content>
+              <p>נספח ד' -טבלאות השכר המשולב למורים שאינם ברפורמה ומנהלים, החל מיום <date date="2018-09-01">1.9.2018</date>
+              </p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_3__subpara_5">
+            <num>5.</num>
+            <content>
+              <p>נספח ה' -הודעת המנכ"ל מיום  <date date="2018-03-14">14.3.2018</date> בנושא החזר ימי לימודים ושעות לימודים בחטיבה העליונה בשל שביתה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_19__para_3__subpara_6">
+            <num>6.</num>
+            <content>
+              <p>נוסח ההסכם הקיבוצי.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person>                                                                      <person eId="pers_2" refersTo="#p_88bb0a53">תמר כהן</person>
+      </p>
+      <p>סמנכ"לית ומנהלת                                                              מנהלת תחום בכיר</p>
+      <p><organization eId="org_33" refersTo="#unit_8e31efd0">אגף בכיר כח-אדם בהוראה</organization>                                                         משכורות לעובדי הוראה</p>
+      <p>העתקים:</p>
+      <p>מר <person eId="pers_3" refersTo="#p_4b203808">שמואל אבואב</person>, <role eId="rol_34" refersTo="#role-mankal">המנהל הכללי</role>, <organization eId="org_35" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_0f0c2ec6">שי באב"ד</person>, <role eId="rol_36" refersTo="#role-mankal">המנהל הכללי</role>, <organization eId="org_37" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_5" refersTo="#p_be4337f4">גילה נגר</person>, משנה למנהל הכללי</p>
+      <p>מר <person eId="pers_6" refersTo="#p_adcb72bb">קובי בר נתן</person>, סגן בכיר לממונה על השכר, <organization eId="org_38" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_7" refersTo="#p_5c443ad9">יוסי שטראוס</person>, <role eId="rol_39" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>מר <person eId="pers_8" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_9" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_40" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>מר <person eId="pers_10" refersTo="#p_4b7467e5">רן ארז</person>, יו"ר <organization eId="org_41" refersTo="#irgun-hamorim">ארגון המורים</organization> בבתי הספר העל-יסודיים</p>
+      <p><role eId="rol_46" refersTo="#office_989834aa">מנהלי מחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_11" refersTo="#p_2b906c4d">מירי נבון</person>, מ"מ מנהלת המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_12" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף א' אמח"י</p>
+      <p>גב' <person eId="pers_13" refersTo="#p_e03b783f">דסי בארי</person>, מנהלת אגף א' חינוך על-יסודי</p>
+      <p>גב' <person eId="pers_14" refersTo="#p_141537ad">מירי כהן</person>, מינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_15" refersTo="#p_4f19a187">איריס שלו-טל</person>, סגנית בכירה ליועצת המשפטית</p>
+      <p>מר <person eId="pers_16" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך והשכלה גבוהה, <organization eId="org_42" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_17" refersTo="#p_69b3f2ff">אסף שירמן</person>, מנהל תחום, <organization eId="org_43" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_18" refersTo="#p_f71cee61">רחל טייטלבום</person>, מנהלת תחום תנאי שירות עובדי הוראה</p>
+      <p>גב' <person eId="pers_19" refersTo="#p_bca8a4ab">חגית מגן</person>, ראש מנהל שכר והסכמי עבודה, <organization eId="org_44" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_20" refersTo="#p_4572337a">אבי קמינסקי</person>, יו"ר איגוד מנהלי אגפי החינוך ברשויות המקומיות</p>
+      <p>עו"ד <person eId="pers_21" refersTo="#p_bfdd3a7b">עידית ורונין</person>, ממונה על תנאי שירות, <organization eId="org_45" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p><role eId="rol_47" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+      <p><role eId="rol_48" refersTo="#office_d49f75b4">מנהלי תחומי כח אדם במחוזות במחוזות</role>
+      </p>
+      <p>הנהלת אגף בכיר כוח-אדם בהוראה</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

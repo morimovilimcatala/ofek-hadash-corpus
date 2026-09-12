@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-11/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-11" />
+          <FRBRdate date="2012-09-01" name="schoolYearStart" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-11/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-11/heb@" />
+          <FRBRdate date="2012-09-01" name="schoolYearStart" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-11/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-11/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2012-09-01" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="grade" href="/ontology/concept/quantity/grade" showAs="דרגה" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="topic_320" href="/ontology/concept/il/payroll-topic/320" showAs="נושא 320 במערכת התשלומים" />
+        <TLCConcept eId="reform_oz" href="/ontology/concept/il/reform/oz-latmura" showAs="עוז לתמורה" />
+        <TLCTerm eId="term_2db30064" href="/ontology/term/il/2db30064" showAs="עובדי הוראה" />
+        <TLCTerm eId="term_a35df041" href="/ontology/term/il/a35df041" showAs="ההסכם'" />
+        <TLCOrganization eId="unit_a1943f15" href="/ontology/organization/il/unit/a1943f15" showAs="מינהל עובדי הוראה" />
+        <TLCOrganization eId="unit_dd93a4aa" href="/ontology/organization/il/unit/dd93a4aa" showAs="לשכת סמנכ&quot;לית" />
+        <TLCRole eId="office_4978bf1c" href="/ontology/role/il/4978bf1c" showAs="סמנכ&quot;לית ומנהלת המינהל" />
+        <TLCRole eId="office_abee0065" href="/ontology/role/il/abee0065" showAs="מנהלות ומנהלי המחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="regional-councils" href="/ontology/organization/il/regional-councils" showAs="ארגון המועצות האיזוריות" />
+        <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
+        <TLCRole eId="role-mankal-chinuch" href="/ontology/role/il/mankal-chinuch" showAs="מנכ&quot;לית משרד החינוך" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_73257817" href="/ontology/person/il/73257817" showAs="אבי פרידמן" />
+        <TLCPerson eId="p_a1c0ea3a" href="/ontology/person/il/a1c0ea3a" showAs="אריאלה טוקר" />
+        <TLCPerson eId="p_037a3044" href="/ontology/person/il/037a3044" showAs="אריאלה ישראלי" />
+        <TLCPerson eId="p_ff5ed563" href="/ontology/person/il/ff5ed563" showAs="בני בנימין" />
+        <TLCPerson eId="p_764ccce1" href="/ontology/person/il/764ccce1" showAs="דורית מורג" />
+        <TLCPerson eId="p_0167e941" href="/ontology/person/il/0167e941" showAs="דלית שטאובר" />
+        <TLCPerson eId="p_faea6aa0" href="/ontology/person/il/faea6aa0" showAs="דן בן חיים" />
+        <TLCPerson eId="p_e03b783f" href="/ontology/person/il/e03b783f" showAs="דסי בארי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_69b78748" href="/ontology/person/il/69b78748" showAs="טליה קורן" />
+        <TLCPerson eId="p_9317fe46" href="/ontology/person/il/9317fe46" showAs="יוסי וסרמן" />
+        <TLCPerson eId="p_6bb70ed1" href="/ontology/person/il/6bb70ed1" showAs="מיכל כהן" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_5b10e7d8" href="/ontology/person/il/5b10e7d8" showAs="משה בכר" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_94827b85" href="/ontology/person/il/94827b85" showAs="ננולי טרוני" />
+        <TLCPerson eId="p_63e4cd7a" href="/ontology/person/il/63e4cd7a" showAs="סופיה מינץ" />
+        <TLCPerson eId="p_39fdaf3d" href="/ontology/person/il/39fdaf3d" showAs="קובי אמסלם" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_4e42a829" href="/ontology/person/il/4e42a829" showAs="שייע יצחק ישועה" />
+        <TLCPerson eId="p_7e00cea6" href="/ontology/person/il/7e00cea6" showAs="תמי יהושע" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="school-year">SCHOOL YEAR from the filename, dated to its 1 September start. This is NOT the document's own date, which is not encoded in the filename.</repo:date>
+          <repo:source path="law/circulars/2012-13_tashag_11.pdf" sha256="e271dc32d8ffb501fbb0a832bde7b917a5d00f3dcd85e45aad80cd740e4dc21c" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ג/11</docNumber> - תגמול עובדי הוראה בגין הישגי בית הספר</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_a1943f15">מינהל עובדי הוראה</organization>
+      </p>
+      <p><organization eId="org_4" refersTo="#unit_dd93a4aa">לשכת סמנכ"לית</organization>
+      </p>
+      <p><date date="2013-09-03">כ"ח באלול תשע"ג</date>
+      </p>
+      <p>30 בספטמבר 3300</p>
+      <p>סימוכין: ג03000 -</p>
+      <p>חוזר לבעלויות תשע"ג99/</p>
+      <p>לכבוד: הבעלויות על מוסדות חינוך</p>
+      <p>שלום רב,</p>
+      <p>הנדון: <docTitle eId="doctitle_1">תגמול עובדי הוראה בגין הישגי בית הספר</docTitle>
+      </p>
+      <p>בתאריך  01.2.3300 נחתם הסכם קיבוצי כללי בין <organization eId="org_5" refersTo="#local-government">מרכז השלטון המקומי</organization> <organization eId="org_6" refersTo="#three-cities">ושלוש הערים הגדולות</organization>, לבין <organization eId="org_7" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>, אשר קיבל את אישור <role eId="rol_8" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_9" refersTo="#mof">במשרד האוצר</organization> (להלן': <def refersTo="#term_a35df041">ההסכם'</def>).</p>
+      <p>ההסכם כולל הוראות בנושא יישום רפורמת <concept eId="con_10" refersTo="#reform_oz">עוז לתמורה</concept> בחטיבות העליונות וכן הוראות הנוגעות לכלל עובדי ההוראה בחטיבות העליונות.</p>
+      <p>מטרת חוזר זה לפרסם הוראות בדבר תגמול לעובדי הוראה בגין הישגי בית הספר בשנת הלימודים תשע"ג, לעובדי הוראה אשר הועסקו בשנת הלימודים תשע"ג בבעלויות על החינוך העל יסודי, בחטיבות העליונות ( בהתאם להוראות סעיף  03 להסכם).</p>
+      <p>תחולה      .0</p>
+      <p>הוראות חוזר זה יחולו על כל העובדים המדורגים בדירוג עובדי הוראה בחטיבה העליונה, המועסקים על-ידי הבעלויות על החינוך העל יסודי המפוקחות על-ידי <organization eId="org_11" refersTo="#moe">משרד החינוך</organization> (להלן": <def refersTo="#term_2db30064">עובדי הוראה</def>"), בהתאם לחלקיות העסקתם בחטיבה העליונה, בין אם הינם מועסקים על-פי רפורמת <concept eId="con_12" refersTo="#reform_oz">עוז לתמורה</concept> ובין אם טרם הצטרפו לרפורמת <concept eId="con_13" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+      <p>.2 תגמול עובדי הוראה בגין הישגי בית הספר</p>
+      <p>(א) ה תכנית לתגמול של מורים בגין ההישגים (לימודיים, חברתיים וערכיים) בחטיבות העליונות ( כיתות ט' – י"ב  /י"ד (בבית ספר ארבע שנתי) או י' – י"ב / י"ד (בבית ספר תלת שנתי או שש שנתי)), מיושמת החל משנה"ל תשע"ג, בהתאם למתכונת ולכללים אשר פורטו במכתבה של מנהלת המינהל הפדגוגי, גב' <person eId="pers_1" refersTo="#p_6bb70ed1">מיכל כהן</person>, מתאריך .30.03.3303</p>
+      <p>(ב) המורים המועסקים בחטיבות העליונות אשר <organization eId="org_14" refersTo="#moe">משרד החינוך</organization> בדק ומצא כי הישגיהן נמצאו כגבוהים ביותר, זכאים למענק חד-פעמי בהתאם למפורט להלן:</p>
+      <p>סכום המענק למורה המועסק             דירוג בית הספר</p>
+      <p>בהיקף של  <quantity eId="qty_1" refersTo="#percentage" normalized="033">033%</quantity>משרה,</p>
+      <p>מעודכן לחודש אוגוסט *3300</p>
+      <p><quantity eId="qty_2" refersTo="#ILS" normalized="2331.30">₪ 2,331.30</quantity>                  <quantity eId="qty_3" refersTo="#percentage" normalized="03">03%</quantity>הגבוהים ביותר</p>
+      <p>(<quantity eId="qty_4" refersTo="#grade" normalized="0">דרגה 0</quantity>)</p>
+      <p><quantity eId="qty_5" refersTo="#ILS" normalized="3030.16">₪ 3,030.16</quantity>               <quantity eId="qty_6" refersTo="#percentage" normalized="03">03%</quantity>הבאים לאחר מכן</p>
+      <p>(<quantity eId="qty_7" refersTo="#grade" normalized="3">דרגה 3</quantity>)</p>
+      <p><quantity eId="qty_8" refersTo="#ILS" normalized="1033.03">₪ 1,033.03</quantity>               <quantity eId="qty_9" refersTo="#percentage" normalized="03">03%</quantity>הבאים לאחר מכן</p>
+      <p>(<quantity eId="qty_10" refersTo="#grade" normalized="0">דרגה 0</quantity>)</p>
+      <p><quantity eId="qty_11" refersTo="#ILS" normalized="0363.61">₪ 0,363.61</quantity>               <quantity eId="qty_12" refersTo="#percentage" normalized="03">03%</quantity>הבאים לאחר מכן</p>
+      <p>(<quantity eId="qty_13" refersTo="#grade" normalized="1">דרגה 1</quantity>)</p>
+      <p>*סכומי המענקים עודכנו על פי מדד המחירים לצרכן (מאי 3300)ביחס</p>
+      <p>למדד מאי 3300</p>
+      <p>(ג) מורה המועסק במשרה חלקית ו/או בחלק משנת לימודים (לרבות מורה השוהה בחל"ת או בשבתון בחלק משנת הלימודים ולמעט מורה בחופשת לידה, לעניין תקופת חופשת הלידה על-פי חוק עבודת נשים, תשי"ד ( 0531 -לא כולל חופשה ללא תשלום או היעדרות שדינה כדין חופשה ללא תשלום, שהיא לאחר תום חופשת הלידה כמשמעותה בחוק האמור)) יהיה זכאי לחלק היחסי של הסכומים המפורטים לעיל, בהתאם לחלקיות משרתו בחטיבה העליונה ו/או לחלק היחסי של התקופה בה הועסק מתוך שנת הלימודים תשע"ג במוסד המצטיין.</p>
+      <p>(ד) למען הסר ספק, לצורך תשלום המענק לא תובא בחשבון העסקה מעבר ל –</p>
+      <p><quantity eId="qty_14" refersTo="#percentage" normalized="033">033%</quantity>משרה.</p>
+      <p>(ה) המענקים ישולמו במשכורת חודש אוגוסט . 3300</p>
+      <p>(ו) המענקים האמורים בסעיף זה לא ייכללו בבסיס לחישוב ערך שעה, פיצויי פיטורים או תוספות אחוזיות ולא יבוצעו בגינן הפרשות לקרן השתלמות.</p>
+      <p>(ז) בגין המענקים האמורים בסעיף זה יבוצעו הפרשות לקופת גמל לקצבה בשיעורים של  - <quantity eId="qty_15" refersTo="#percentage" normalized="3">3%</quantity>הפרשת מעסיק לתגמולים ו –  - <quantity eId="qty_16" refersTo="#percentage" normalized="3">3%</quantity>ניכוי ממשכורת המורה לתגמולים.</p>
+      <p>.0 מצ"ב קישורית מאתר אוח -<concept eId="con_15" refersTo="#reform_oz">עוז לתמורה</concept>, ובו פירוט תוכנית התגמול ורשימת בתי הספר הזוכים:</p>
+      <p><a href="http://cms.education.gov.il/EducationCMS/Units/Owl/Hebrew/AlSederHayom/Michtav">http://cms.education.gov.il/EducationCMS/Units/Owl/Hebrew/AlSederHayom/Michtav</a> Menahalim_RD.htm</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <content>
+          <p>שיפוי לבעלויות יינתן במערכת תשלומים <concept eId="con_16" refersTo="#topic_320">בנושא  320</concept> בתשלומי חודש אוגוסט ,3300 המועברים לבעלויות בתחילת חודש .5/3300</p>
+          <p>לשאלות בנוגע לחוזר זה, ניתן לפנות ליחידה לתנאי שירות עובדי הוראה בטלפונים.22-4825626/545 :</p>
+        </content>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><role eId="rol_30" refersTo="#office_4978bf1c">סמנכ"לית ומנהלת המינהל</role>
+      </p>
+      <p>העתק:</p>
+      <p>גב' <person eId="pers_2" refersTo="#p_0167e941">דלית שטאובר</person> -<role eId="rol_17" refersTo="#role-mankal-chinuch">מנכ"לית משרד החינוך</role>
+      </p>
+      <p>מר <person eId="pers_3" refersTo="#p_39fdaf3d">קובי אמסלם</person> -<role eId="rol_18" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_19" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_adcb72bb">קובי בר נתן</person>, סגן בכיר לממונה על השכר, <organization eId="org_20" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_5" refersTo="#p_a1c0ea3a">אריאלה טוקר</person> -חשבת המשרד</p>
+      <p>גב' <person eId="pers_6" refersTo="#p_6bb70ed1">מיכל כהן</person>, סמנכ"לית ומנהלת המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_7" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_8" refersTo="#p_764ccce1">דורית מורג</person> -<role eId="rol_21" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>מר <person eId="pers_9" refersTo="#p_4b7467e5">רן ארז</person> -יו"ר <organization eId="org_22" refersTo="#irgun-hamorim">ארגון המורים</organization> בבתי הספר העל-יסודיים</p>
+      <p>מר <person eId="pers_10" refersTo="#p_9317fe46">יוסי וסרמן</person> -מזכ"ל <organization eId="org_23" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      </p>
+      <p>גב' <person eId="pers_11" refersTo="#p_7e00cea6">תמי יהושע</person>, מ"מ מנהל אגף בכיר לכא"ב</p>
+      <p><role eId="rol_31" refersTo="#office_abee0065">מנהלות ומנהלי המחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_12" refersTo="#p_63e4cd7a">סופיה מינץ</person> -מנהלת מינהל תקשוב ומערכות מידע</p>
+      <p>גב' <person eId="pers_13" refersTo="#p_69b78748">טליה קורן</person> -סגן מנהל המינהל הפדגוגי ומנהל אגף א' -ארגון הלימודים גב' <person eId="pers_14" refersTo="#p_e03b783f">דסי בארי</person> -מנהלת האגף לחינוך על-יסודי גב' <person eId="pers_15" refersTo="#p_037a3044">אריאלה ישראלי</person>, ממונה על יישום <concept eId="con_24" refersTo="#reform_oz">עוז לתמורה</concept>, המינהל הפדגוגי מר <person eId="pers_16" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מינהל כלכלה ותקציבים גב' <person eId="pers_17" refersTo="#p_88bb0a53">תמר כהן</person>, מנהלת תיאום משכורות מורים, חשבות המשרד מר <person eId="pers_18" refersTo="#p_ff5ed563">בני בנימין</person> -מנהל תחום בכיר משכורות, חשבות המשרד גב' <person eId="pers_19" refersTo="#p_94827b85">ננולי טרוני</person> -מנהלת תחום, חשבות המשרד מר <person eId="pers_20" refersTo="#p_5b10e7d8">משה בכר</person>  -רכז חינוך והשכלה גבוהה, <organization eId="org_25" refersTo="#mof">משרד האוצר</organization> מר <person eId="pers_21" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך <organization eId="org_26" refersTo="#mof">משרד האוצר</organization> גב' <person eId="pers_22" refersTo="#p_f71cee61">רחל טייטלבום</person>  -ממונה על תנאי שירות עובדי הוראה עו"ד <person eId="pers_23" refersTo="#p_faea6aa0">דן בן חיים</person>-מנהל המחלקה ליחסי עבודה ושכר, <organization eId="org_27" refersTo="#local-government">מרכז השלטון המקומי</organization> גב' <person eId="pers_24" refersTo="#p_bca8a4ab">חגית מגן</person> -ממונה על תנאי שירות, <organization eId="org_28" refersTo="#local-government">מרכז השלטון המקומי</organization> מר <person eId="pers_25" refersTo="#p_4e42a829">שייע יצחק ישועה</person> -מנכ"ל <organization eId="org_29" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization> גזברי המחוזות</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

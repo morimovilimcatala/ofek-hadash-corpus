@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2013-08-20/2012-13-tashag-09/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2013-08-20/2012-13-tashag-09" />
+          <FRBRdate date="2013-08-20" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2013-08-20/2012-13-tashag-09/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2013-08-20/2012-13-tashag-09/heb@" />
+          <FRBRdate date="2013-08-20" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2013-08-20/2012-13-tashag-09/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2013-08-20/2012-13-tashag-09/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2013-08-20" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
+        <TLCTerm eId="term_9c553b17" href="/ontology/term/il/9c553b17" showAs="עובד הוראה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_a1943f15" href="/ontology/organization/il/unit/a1943f15" showAs="מינהל עובדי הוראה" />
+        <TLCOrganization eId="unit_dd93a4aa" href="/ontology/organization/il/unit/dd93a4aa" showAs="לשכת סמנכ&quot;לית" />
+        <TLCRole eId="office_4978bf1c" href="/ontology/role/il/4978bf1c" showAs="סמנכ&quot;לית ומנהלת המינהל" />
+        <TLCRole eId="office_abee0065" href="/ontology/role/il/abee0065" showAs="מנהלות ומנהלי המחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="regional-councils" href="/ontology/organization/il/regional-councils" showAs="ארגון המועצות האיזוריות" />
+        <TLCRole eId="role-mankal-chinuch" href="/ontology/role/il/mankal-chinuch" showAs="מנכ&quot;לית משרד החינוך" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_73257817" href="/ontology/person/il/73257817" showAs="אבי פרידמן" />
+        <TLCPerson eId="p_a1c0ea3a" href="/ontology/person/il/a1c0ea3a" showAs="אריאלה טוקר" />
+        <TLCPerson eId="p_ff5ed563" href="/ontology/person/il/ff5ed563" showAs="בני בנימין" />
+        <TLCPerson eId="p_764ccce1" href="/ontology/person/il/764ccce1" showAs="דורית מורג" />
+        <TLCPerson eId="p_0167e941" href="/ontology/person/il/0167e941" showAs="דלית שטאובר" />
+        <TLCPerson eId="p_faea6aa0" href="/ontology/person/il/faea6aa0" showAs="דן בן חיים" />
+        <TLCPerson eId="p_e03b783f" href="/ontology/person/il/e03b783f" showAs="דסי בארי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_69b78748" href="/ontology/person/il/69b78748" showAs="טליה קורן" />
+        <TLCPerson eId="p_9317fe46" href="/ontology/person/il/9317fe46" showAs="יוסי וסרמן" />
+        <TLCPerson eId="p_6bb70ed1" href="/ontology/person/il/6bb70ed1" showAs="מיכל כהן" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_5b10e7d8" href="/ontology/person/il/5b10e7d8" showAs="משה בכר" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_94827b85" href="/ontology/person/il/94827b85" showAs="ננולי טרוני" />
+        <TLCPerson eId="p_63e4cd7a" href="/ontology/person/il/63e4cd7a" showAs="סופיה מינץ" />
+        <TLCPerson eId="p_39fdaf3d" href="/ontology/person/il/39fdaf3d" showAs="קובי אמסלם" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_4e42a829" href="/ontology/person/il/4e42a829" showAs="שייע יצחק ישועה" />
+        <TLCPerson eId="p_7e00cea6" href="/ontology/person/il/7e00cea6" showAs="תמי יהושע" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2012-13_tashag_09.pdf" sha256="ee3b0a752d19973a4e0f78b814936b47e1603efcf4343b5341c119082119ecf7" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ג /9</docNumber> - <ref href="/akn/il/act/collectiveAgreement/2013-07-22/2013-07-22-ofek-hadash-last-phase-deferral">הסכם קיבוצי מיום 22.7.2013</ref> בנושא השתתפות העובדים במגזר הציבורי לשנים 2013-2014</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_a1943f15">מינהל עובדי הוראה</organization>
+      </p>
+      <p><organization eId="org_4" refersTo="#unit_dd93a4aa">לשכת סמנכ"לית</organization>
+      </p>
+      <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2013-08-20">י"ד אלול תשע"ג</date>
+      </p>
+      <p>02 אוגוסט 0202</p>
+      <p>ג02001 -</p>
+      <p>חוזר לבעלויות <ref href="/akn/il/doc/circular/2012-09-11/2012-13-tashag-01">תשע"ג 1/</ref>
+      </p>
+      <p>לכבוד: הבעלויות על מוסדות חינוך</p>
+      <p>שלום רב,</p>
+      <p>הנדון: <docTitle eId="doctitle_1">הסכם קיבוצי מיום  22.2.2293 בנושא השתתפות העובדים במגזר הציבורי לשנים 2293-2295</docTitle>
+      </p>
+      <p>א. עדכון ודחיית הפעימה האחרונה של עלות הסכם המסגרת (תוספת 2299) לעו"ה המועסקים בשלבי החינוך: גני ילדים, יסודי, חט"ב, מכללות להכשרת עו"ה</p>
+      <p>ב. עדכון והפחתה של קצובת ביגוד לעו"ה המועסקים בשלבי החינוך: גני ילדים, יסודי, חט"ב, מכללות להכשרת עו"ה</p>
+      <p>ביום  02020202 נכנס לתוקפו החוק להשתתפותם של העובדים, נושאי המשרה ובעלי תפקיד אחרים בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים 0202ו (0202-הוראת שעה), התשע"ג 20202-בסעיף  2 לחוק זה נקבעה דחיית מועד הזכאות של עובד להעלאה במשכורתו או הפחתה במשכורתו, בהתאם להוראות ההסכם הקיבוצי החל על העובד 2 ביום  0020202 נחתם הסכם עם <organization eId="org_5" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> בנושא עדכון ודחיית הפעימה האחרונה של עלות הסכם המסגרת, ועדכון והפחתה של קצובת הביגוד לעובדי הוראה 2</p>
+      <p>מטרת חוזר זה לפרסם הוראות בדבר יישום הוראות ההסכם האמור 2</p>
+      <p>תחולה</p>
+      <p>הוראות חוזר זה יחולו על כל עובד המדורג בדירוג עובדי הוראה, המועסק על-ידי הבעלויות על מוסדות החינוך המפוקחים על ידי <organization eId="org_6" refersTo="#moe">משרד החינוך</organization> (להלן": <def refersTo="#term_9c553b17">עובד הוראה</def>") ואשר מועסק בשלבי החינוך הבאים: גני ילדים, יסודי, חט"ב, ומכללות להכשרת עו"ה, בכפוף להוראות תחולה ספציפיות להלן.</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_a" repo:prose="same-source">
+        <num>א.</num>
+        <heading>עדכון ודחיית המועד להקצאת הפעימה האחרונה של עלות הסכם המסגרת</heading>
+        <content>
+          <p>(תוספת 2299)</p>
+          <p>הגדלת שיעורה של תוספת  ( 0200מ <quantity eId="qty_1" refersTo="#percentage" normalized="5205">5205%</quantity>-ל, )<quantity eId="qty_2" refersTo="#percentage" normalized="5225">5225%</quantity>-עדכון התוספות השקליות ועדכון טבלאות שכר על פי הסכם <concept eId="con_7" refersTo="#reform_ofek">אופק חדש</concept> ב, <quantity eId="qty_3" refersTo="#percentage" normalized="22550">22550%</quantity>-אשר עתידים היו להיות מבוצעים החל ביום, 02020202 בהתאם להוראות סעיף  ( 055 שעניינו יישום הסכמי המסגרת) להסכם הקיבוצי מיום  ( 0520020222 להלן: הסכם "<concept eId="con_8" refersTo="#reform_ofek">אופק חדש</concept>") ובהתאם לשיעור שנקבע לפי הוראת סעיף (10ג) להסכם הקיבוצי מיום 012020200 ("הסכם ההשלמה), ידחו ליום 202020205</p>
+          <p>עם זאת, התשלומים המפורטים להלן יהיו בסכומים שהיו מחושבים אלמלא האמור לעיל, דהיינו -כאילו בוצעו הגדלת שיעור התוספת ועדכון טבלאות השכר במועדם –וללא דחייה, בעד התקופה שמיום  02020202 ועד יום: 2020020202 20 סכום המשולם בעד עובד ההוראה לקופת גמל לקצבה, כהגדרתה בחוק הפיקוח על שירותים פיננסיים ( קופת גמל), התשס"ה20225-</p>
+          <p>20 תשלומי פנסיה תקציבית, המשולמת לפי דין או הסכם</p>
+          <p>2 2 תשלום חד פעמי שמשלמת המדינה לעובד הוראה עקב סיום עבודתו, על פי דין או הסכם 2 2 פנסיית גישור המשולמת מקופת מעסיק או באמצעות קרן פנסיה ו/או חברת ביטוח 2</p>
+          <p>למען הסר ספק, גובה התוספות השקליות לצורך חישוב התשלומים לעיל היה כדלהלן:</p>
+          <p>20 תוספת הסכם <docNumber>002220</docNumber> – 20</p>
+          <p>20 תוספת הסכם ( 12 תגבור הוראה) 055222 -</p>
+          <p>לגבי עובד הוראה המועסק במסגרת איחוד משכורות, תחול הוראת סעיף זה רק ביחס לחלק של משכורתו המשולמת בגין העסקתו בבעלות בחט"ב, בהתאם לחלק היחסי של היקף העסקה זו בהיקף המשרה הכולל 2</p>
+        </content>
+      </article>
+      <article eId="art_b" repo:prose="same-source">
+        <num>ב.</num>
+        <intro>
+          <p>קצובת ביגוד לעו"ה המועסקים בשלבי חינוך: גני ילדים, יסודי, חט"ב, מכללות להכשרת עו"ה בגין שנת הלימודים תשע"ג</p>
+          <p>0) קצובת ביגוד – כללי</p>
+          <p>א 2 יש לשלמה במשכורת חודש יולי 20202</p>
+          <p>ב 2 עובד בדירוג עובדי הוראה, זכאי לקצובת ביגוד כנהוג כלפי מקבלי קהל בשירות המדינה, לשנת הלימודים תשע"ג (2)22/02 -21/00 ג 2 התשלום לעובדי ההוראה אשר מועסקים בשלבי החינוך הבאים: גני ילדים, יסודי, חט"ב, מכללות להכשרת עו"ה, יופחת מהסכום שפורסם בחוזר <role eId="rol_9" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> ( הע-כללי, )2293-9-28 דהיינו יופחת מסך  <quantity eId="qty_4" refersTo="#ILS" normalized="2214">₪ 2214</quantity> לסך. <quantity eId="qty_5" refersTo="#ILS" normalized="9622">₪ 9,622</quantity>
+          </p>
+          <p>ד 2 עם זאת, התשלומים המפורטים להלן ( לחישוב הפנסיה) יהיו בסכומים שהיו מחושבים אלמלא האמור לעיל, דהיינו כאילו שולמה קצובת הביגוד על פי הקבוע בהסכמים הקיבוציים ערב חתימת ההסכם מיום 20020202</p>
+          <p>סכום המשולם בעד עובד ההוראה לקופת גמל לקצבה, כהגדרתה בחוק</p>
+          <p>הפיקוח על שירותים פיננסיים ( קופת גמל), התשס"ה (0225-קופ"ג "גל" או "רשף")2 תשלומי פנסיה תקציבית, המשולמת לפי דין או הסכם תשלום חד פעמי שמשלמת המדינה לעובד הוראה עקב סיום עבודתו, על פי דין או הסכם 2 פנסיית גישור המשולמת מקופת מעסיק או באמצעות קרן פנסיה ו/או חברת ביטוח 2</p>
+          <p>ה 2 קצובת הביגוד בסך המעודכן לעיל תשולם באופן יחסי להיקף המשרה של העובד ולא יותר ממשרה אחת מלאה (2)<quantity eId="qty_6" refersTo="#percentage" normalized="022">022%</quantity>
+          </p>
+          <p>ו 2 לגבי עובד הוראה המועסק במסגרת איחוד משכורות, תחול הוראת פרק זה רק ביחס לחלק של קצובת הביגוד המשולמת בגין העסקתו בבעלות בחט"ב, בהתאם לחלק היחסי של היקף העסקה זו בהיקף המשרה הכולל 2</p>
+          <p>ז 2 עובד הוראה המועסק אצל יותר ממעסיק אחד והיקף משרתו הכוללת אצל שני המעסיקים הינו מעבר ל <quantity eId="qty_7" refersTo="#percentage" normalized="022">022%</quantity>-משרה, זכאי לקבל אצל כל מעסיק בנפרד את הקצובה היחסית להיקף משרתו אצלו 2</p>
+          <p>ח 2 יובהר כי חלה הגבלה על עובד הוראה לעבוד בהיקף משרה העולה על <quantity eId="qty_8" refersTo="#percentage" normalized="022">022%</quantity>משרה אצל כלל מעסיקיו, ואין לראות באמור לעיל היתר להעסקה מעבר ל <quantity eId="qty_9" refersTo="#percentage" normalized="952">952%</quantity>-משרה.</p>
+        </intro>
+        <paragraph eId="art_b__para_2">
+          <num>2)</num>
+          <content>
+            <p>קצובת ביגוד נוספת למורה לחינוך גופני:</p>
+            <p>הסכומים האמורים בחוזרנו לבעלויות <ref href="/akn/il/doc/circular/2011-09-18/2011-12-tashab-02">תשע"ב, 2/</ref>יעודכנו בהתאם לטבלה להלן:</p>
+            <p>סכום נכון ל<date date="1992-01-09">9/1/92</date> -            שיעור העסקה</p>
+            <p>2                     עד  2.3 משרה</p>
+            <p>881               מ 2.3 -משרה עד  2.4 משרה</p>
+            <p>9335                  מ 2.4-משרה ומעלה</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_b__para_3">
+          <num>3)</num>
+          <content>
+            <p>קצובת ביגוד בחינוך הטכנולוגי:</p>
+            <p>יש לשלם לעובד הוראה בחינוך הטכנולוגי /מדריך מקצועי, קצובת ביגוד לשנת הלימודים תשע"ג, לפי רשימת המקצועות המפורטת להלן:</p>
+            <p>220</p>
+            <p>עובד הוראה בחינוך הטכנולוגי/מדריך מקצועי באחד      א2</p>
+            <p>המקצועות המפורטים להלן, יהיה זכאי לקבל מדי שנה זוג</p>
+            <p>נעליים ושני חלוקים:</p>
+            <p>22 מערכות הספק,               20 מערכות תעופה</p>
+            <p>פיקוד ובקרה</p>
+            <p>21 מערכות בקרת אקלים                  20 מכטרוניקה</p>
+            <p>202 אומנות הבישול               22 טרמודינמיקה</p>
+            <p>והאפיה המלונאית                    טכנית ימית</p>
+            <p>200 ימאות – ספינות      22 מערכות סיב"מ ותיב"מ</p>
+            <p>200 מערכות טלוויזיה     25 תחזוקת מערכות מכניות</p>
+            <p>וקולנוע</p>
+            <p>202 מערכות צילום        25 מערכות מכונאות רכב</p>
+            <p>20 מערכות ממוחשבות ברכב</p>
+            <p>ערך זוג נעליים ושני חלוקים <quantity eId="qty_10" refersTo="#ILS" normalized="2">2₪</quantity> 442 :</p>
+            <p>עובד הוראה בחינוך הטכנולוגי/מדריך מקצועי באחד              ב2</p>
+            <p>המקצועות המפורטים להלן יהיה זכאי לקבל שני חלוקים</p>
+            <p>לשנה:</p>
+            <p>22 חינוך לגיל הרך   20 מערכות אלקטרוניות</p>
+            <p>20 מערכות מחשוב ובקרה  21 עיצוב</p>
+            <p>202 אופנה ותלבושות        22 מערכות מחשבים</p>
+            <p>22 תכנון ותכנות מערכות  200 עיצוב שיער,</p>
+            <p>וטיפוח החן</p>
+            <p>25 מערכות ביוטכנולוגיה  200 סיעוד</p>
+            <p>202 אומנות שימושית           25 ניהול תיירותי</p>
+            <p>20 ניהול מלונאי</p>
+            <p>ערך שני חלוקים.<quantity eId="qty_11" refersTo="#ILS" normalized="359">₪ 359</quantity> :</p>
+            <p>220 קצובה זו היא בנוסף לקצובת הביגוד לכלל עובדי ההוראה 2</p>
+            <p>222 קצובת הביגוד משולמת יחסית להיקף המשרה ולא יותר ממשרה מלאה אחת (<quantity eId="qty_12" refersTo="#percentage" normalized="022">022%</quantity> משרה)2</p>
+            <p>לשאלות בנוגע לחוזר זה, ניתן לפנות ליחידה לתנאי שירות עובדי הוראה בטלפונים 222-4825626/242 :</p>
+          </content>
+        </paragraph>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><role eId="rol_22" refersTo="#office_4978bf1c">סמנכ"לית ומנהלת המינהל</role>
+      </p>
+      <p>העתק:</p>
+      <p>גב' <person eId="pers_1" refersTo="#p_0167e941">דלית שטאובר</person> -<role eId="rol_10" refersTo="#role-mankal-chinuch">מנכ"לית משרד החינוך</role>
+      </p>
+      <p>מר <person eId="pers_2" refersTo="#p_39fdaf3d">קובי אמסלם</person> -<role eId="rol_11" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_12" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_3" refersTo="#p_adcb72bb">קובי בר נתן</person>, סגן בכיר לממונה על השכר, <organization eId="org_13" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_4" refersTo="#p_a1c0ea3a">אריאלה טוקר</person> -חשבת המשרד</p>
+      <p>גב' <person eId="pers_5" refersTo="#p_6bb70ed1">מיכל כהן</person>, סמנכ"לית ומנהל המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_6" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_7" refersTo="#p_764ccce1">דורית מורג</person> -<role eId="rol_14" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>מר <person eId="pers_8" refersTo="#p_4b7467e5">רן ארז</person> -יו"ר <organization eId="org_15" refersTo="#irgun-hamorim">ארגון המורים</organization> בבתי הספר העל-יסודיים</p>
+      <p>מר <person eId="pers_9" refersTo="#p_9317fe46">יוסי וסרמן</person> -מזכ"ל <organization eId="org_16" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      </p>
+      <p>גב' <person eId="pers_10" refersTo="#p_7e00cea6">תמי יהושע</person>, מ"מ מנהל אגף בכיר לכא"ב</p>
+      <p><role eId="rol_23" refersTo="#office_abee0065">מנהלות ומנהלי המחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_11" refersTo="#p_63e4cd7a">סופיה מינץ</person> -מנהלת מינהל תקשוב ומערכות מידע</p>
+      <p>גב' <person eId="pers_12" refersTo="#p_69b78748">טליה קורן</person> -סגן מנהל המינהל הפדגוגי ומנהל אגף א' -ארגון הלימודים גב' <person eId="pers_13" refersTo="#p_e03b783f">דסי בארי</person> -מנהלת האגף לחינוך על-יסודי מר <person eId="pers_14" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מינהל כלכלה ותקציבים גב' <person eId="pers_15" refersTo="#p_88bb0a53">תמר כהן</person>, מנהלת תיאום משכורות מורים, חשבות המשרד מר <person eId="pers_16" refersTo="#p_ff5ed563">בני בנימין</person> -מנהל תחום בכיר משכורות, חשבות המשרד גב' <person eId="pers_17" refersTo="#p_94827b85">ננולי טרוני</person> -מנהלת תחום, חשבות המשרד מר <person eId="pers_18" refersTo="#p_5b10e7d8">משה בכר</person>  -רכז חינוך והשכלה גבוהה, <organization eId="org_17" refersTo="#mof">משרד האוצר</organization> מר <person eId="pers_19" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך <organization eId="org_18" refersTo="#mof">משרד האוצר</organization> גב' <person eId="pers_20" refersTo="#p_f71cee61">רחל טייטלבום</person>  -ממונה על תנאי שירות עובדי הוראה עו"ד <person eId="pers_21" refersTo="#p_faea6aa0">דן בן חיים</person>-מנהל המחלקה ליחסי עבודה ושכר, <organization eId="org_19" refersTo="#local-government">מרכז השלטון המקומי</organization> גב' <person eId="pers_22" refersTo="#p_bca8a4ab">חגית מגן</person> -ממונה על תנאי שירות, <organization eId="org_20" refersTo="#local-government">מרכז השלטון המקומי</organization> מר <person eId="pers_23" refersTo="#p_4e42a829">שייע יצחק ישועה</person> -מנכ"ל <organization eId="org_21" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization> גזברי המחוזות</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

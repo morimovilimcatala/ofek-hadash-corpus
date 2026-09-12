@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <act name="collectiveAgreement" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement" />
+          <FRBRdate date="2016-09-30" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="collectiveAgreement" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement/heb@/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement/heb@" />
+          <FRBRdate date="2016-09-30" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2016-09-30" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל, בשם מדינת ישראל" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="none" reason="ocr-noise">The PDF has no USABLE text layer and no transcription yet — either none at all, or one baked in by OCR that decodes to noise. Neither is written into the AKN: on these scans OCR returns text too corrupt to stand as the wording of an instrument. The document is metadata only.</repo:prose>
+          <repo:date precision="day">the document's own date, from the filename</repo:date>
+          <repo:source path="law/agreements/ofek-hadash/2016-09-30_ofek-hadash_september-2016-agreement.pdf" sha256="9ef3933fc1bd9a12ae8e89257d744691cf8685e57b794711a840b89b7df23e18" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>הסכם קיבוצי — הקצאת מסגרת עלות לתוספות שכר והטבות, קידום בדרגות וטבלאות שכר</p>
+      </longTitle>
+    </preface>
+    <body>
+      <hcontainer eId="hc_1" name="text" repo:structure="flat" repo:empty="true" />
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <act name="act" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/act/act/2025-03-27/2025-03-27-public-service-wage-reduction-law-5785/!main" />
+          <FRBRuri value="/akn/il/act/act/2025-03-27/2025-03-27-public-service-wage-reduction-law-5785" />
+          <FRBRdate date="2025-03-27" name="issued" />
+          <FRBRauthor href="#knesset" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="act" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/act/act/2025-03-27/2025-03-27-public-service-wage-reduction-law-5785/heb@/!main" />
+          <FRBRuri value="/akn/il/act/act/2025-03-27/2025-03-27-public-service-wage-reduction-law-5785/heb@" />
+          <FRBRdate date="2025-03-27" name="issued" />
+          <FRBRauthor href="#knesset" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/act/act/2025-03-27/2025-03-27-public-service-wage-reduction-law-5785/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/act/act/2025-03-27/2025-03-27-public-service-wage-reduction-law-5785/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2025-03-27" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="day" href="/ontology/concept/quantity/day" showAs="יום" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="year" href="/ontology/concept/quantity/year" showAs="שנה" />
+        <TLCTerm eId="term_0791583f" href="/ontology/term/il/0791583f" showAs="החלטות הממשלה" />
+        <TLCTerm eId="term_0911e829" href="/ontology/term/il/0911e829" showAs="נושא משרה" />
+        <TLCTerm eId="term_0b1844ff" href="/ontology/term/il/0b1844ff" showAs="הסכם קיבוצי מאושר" />
+        <TLCTerm eId="term_0b63f42f" href="/ontology/term/il/0b63f42f" showAs="מבטח" />
+        <TLCTerm eId="term_12a5f612" href="/ontology/term/il/12a5f612" showAs="חוק ההקפאה לנושאי המשרה" />
+        <TLCTerm eId="term_20b568ae" href="/ontology/term/il/20b568ae" showAs="החשב הכללי" />
+        <TLCTerm eId="term_2e131aef" href="/ontology/term/il/2e131aef" showAs="עובד" />
+        <TLCTerm eId="term_329b6c4b" href="/ontology/term/il/329b6c4b" showAs="חוק גמלאות לראש רשות" />
+        <TLCTerm eId="term_3689facd" href="/ontology/term/il/3689facd" showAs="הסכם קיבוצי" />
+        <TLCTerm eId="term_3a13d293" href="/ontology/term/il/3a13d293" showAs="מעסיק" />
+        <TLCTerm eId="term_4004ec88" href="/ontology/term/il/4004ec88" showAs="עובד שירותי הביטחון" />
+        <TLCTerm eId="term_4e3b0fc3" href="/ontology/term/il/4e3b0fc3" showAs="משכורת" />
+        <TLCTerm eId="term_52367ecf" href="/ontology/term/il/52367ecf" showAs="חוק הסכמים קיבוציים" />
+        <TLCTerm eId="term_6276f417" href="/ontology/term/il/6276f417" showAs="מידע" />
+        <TLCTerm eId="term_646fb7ab" href="/ontology/term/il/646fb7ab" showAs="התקופה הקובעת השנייה" />
+        <TLCTerm eId="term_693fa008" href="/ontology/term/il/693fa008" showAs="חוק שירות המדינה (גמלאות)" />
+        <TLCTerm eId="term_6fcf3230" href="/ontology/term/il/6fcf3230" showAs="חוק יסודות התקציב" />
+        <TLCTerm eId="term_790a6a79" href="/ontology/term/il/790a6a79" showAs="התקופה המקדימה" />
+        <TLCTerm eId="term_7a1716eb" href="/ontology/term/il/7a1716eb" showAs="קופת חולים" />
+        <TLCTerm eId="term_7bfb1c8a" href="/ontology/term/il/7bfb1c8a" showAs="יום התחילה" />
+        <TLCTerm eId="term_8047aea1" href="/ontology/term/il/8047aea1" showAs="הסכמה בין-משרדית מאושרת" />
+        <TLCTerm eId="term_944a78eb" href="/ontology/term/il/944a78eb" showAs="עובד שירות" />
+        <TLCTerm eId="term_9ca0cf3e" href="/ontology/term/il/9ca0cf3e" showAs="פנסיה תקציבית" />
+        <TLCTerm eId="term_b67e2b7b" href="/ontology/term/il/b67e2b7b" showAs="חוק הגנת הפרטיות" />
+        <TLCTerm eId="term_c2677195" href="/ontology/term/il/c2677195" showAs="חוק שירותי הדת היהודיים" />
+        <TLCTerm eId="term_c4b8e248" href="/ontology/term/il/c4b8e248" showAs="בעל תפקיד" />
+        <TLCTerm eId="term_c50fea4a" href="/ontology/term/il/c50fea4a" showAs="התקופה הקובעת הראשונה" />
+        <TLCTerm eId="term_c7d5b3e1" href="/ontology/term/il/c7d5b3e1" showAs="חוק שכר מינימום" />
+        <TLCTerm eId="term_c7f6f676" href="/ontology/term/il/c7f6f676" showAs="גוף נתמך" />
+        <TLCTerm eId="term_c94fec6f" href="/ontology/term/il/c94fec6f" showAs="הסכם" />
+        <TLCTerm eId="term_d0e50981" href="/ontology/term/il/d0e50981" showAs="תאגיד בריאות" />
+        <TLCTerm eId="term_d7d1b88e" href="/ontology/term/il/d7d1b88e" showAs="מוסד חינוך" />
+        <TLCTerm eId="term_e33607c6" href="/ontology/term/il/e33607c6" showAs="מוסד להשכלה גבוהה" />
+        <TLCTerm eId="term_e7d8ea2c" href="/ontology/term/il/e7d8ea2c" showAs="עובד חינוך" />
+        <TLCTerm eId="term_f4ac77cd" href="/ontology/term/il/f4ac77cd" showAs="הבסיס הקובע" />
+        <TLCTerm eId="term_f53f357c" href="/ontology/term/il/f53f357c" showAs="סכום החיסכון" />
+        <TLCOrganization eId="knesset" href="/ontology/organization/il/knesset" showAs="הכנסת" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="consolidated">CONSOLIDATED TEXT PUBLISHED BY A THIRD PARTY, not the instrument's own official publication. HTML is logical-order, so RTL is not reordered. This law was enacted as פרק ט' of the 2025 budget-targets act and printed inside a QUOTATION opened by that act's sec. 29 ("ואלה סעיפי החוק …"), at ספר החוקים 3384 pages 414-424 — see law/laws/2025-03-27_budget-targets-law_5785.pdf, PDF pages 30-40, which is the authoritative text. The consolidation numbers the law's own secs. 1-20, which is how the kernel and the act's own cross-references cite it, and which the gazette does not print. Its sec. 1 was compared against gazette page 415 and agrees verbatim. Used on the client's decision of 2026-09-10.</repo:prose>
+          <repo:date precision="day">the document's own date, from the filename</repo:date>
+          <repo:source path="law/laws/2025-03-27_public-service-wage-reduction-law_5785.html" sha256="3475980a3c32a87da93e5b642723eda2d5808178c93f9b39f2fa4a6c595b22bf" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוק להשתתפותם של העובדים ובעלי תפקיד בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים 2025 ו-2026 (הוראת שעה), תשפ"ה-2025</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>חוק להשתתפותם של העובדים ובעלי תפקיד בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים 2025 ו-2026 (הוראת שעה), תשפ"ה-2025</p>
+      <p>נוסח עדכני נכון ליום: 14-08-2025</p>
+      <p>חוק להשתתפותם של העובדים ובעלי תפקיד בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים 2025 ו-2026 (הוראת שעה), תשפ"ה-2025</p>
+    </preamble>
+    <body>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <heading>הגדרות</heading>
+        <intro>
+          <p>בחוק זה –</p>
+          <p>"<def refersTo="#term_f4ac77cd">הבסיס הקובע</def>" – כמפורט להלן, לפי העניין:</p>
+        </intro>
+        <paragraph eId="art_1__para_1">
+          <num>(1)</num>
+          <intro>
+            <p>לעניין עובד – משכורת, למעט כל אחד מאלה:</p>
+          </intro>
+          <subparagraph eId="art_1__para_1__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>תשלומים שאינם משולמים על בסיס חודשי, שבועי או יומי ואינם מחושבים על בסיס רכיבי שכר אחרים;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_1__para_1__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>דמי הבראה וקצובת ביגוד או תשלומים אחרים הדומים להם במהותם אף אם כינוים שונה;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_1__para_1__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>החזר הוצאות;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_1__para_1__subpara_d">
+            <num>(ד)</num>
+            <content>
+              <p>גילום חלק מהמס החל על העובד, אשר משולם בידי המעסיק;</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_1__para_2">
+          <num>(2)</num>
+          <intro>
+            <p>לעניין בעל תפקיד – תשלום המשולם בכסף לבעל התפקיד מקופת הגוף שבו הוא מכהן בתפקידו, בעבור מילוי תפקידו, למעט כל אחד מאלה:</p>
+          </intro>
+          <subparagraph eId="art_1__para_2__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>תשלומים שאינם משולמים על בסיס חודשי ואינם מחושבים על בסיס תשלום אחר הנכלל בתשלום המשולם לבעל התפקיד;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_1__para_2__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>דמי הבראה וקצובת ביגוד או תשלומים אחרים הדומים להם במהותם אף אם כינוים שונה;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_1__para_2__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>החזר הוצאות;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_1__para_2__subpara_d">
+            <num>(ד)</num>
+            <intro>
+              <p>גילום חלק מהמס החל על בעל התפקיד, אשר משולם בידי המעסיק;</p>
+              <p>"<def refersTo="#term_c4b8e248">בעל תפקיד</def>" – כל אחד מאלה:</p>
+            </intro>
+            <clause eId="art_1__para_2__subpara_d__cls_1">
+              <num>(1)</num>
+              <content>
+                <p>מי שממלא תפקיד בגוף מהגופים המנויים בהגדרה "מעסיק", ובכלל זה יושב ראש דירקטוריון, מועצה או הנהלה של גוף כאמור, אף אם תוארו שונה, אשר משולם לו בשל תפקידו כאמור תשלום חודשי מקופת המעסיק, ובלבד שאינו עובד אצל המעסיק;</p>
+              </content>
+            </clause>
+            <clause eId="art_1__para_2__subpara_d__cls_2">
+              <num>(2)</num>
+              <content>
+                <p>יושב ראש ועדה למילוי תפקידי ראש העירייה והמועצה וסגנו, כאמור בסעיף 145 לפקודת העיריות;</p>
+              </content>
+            </clause>
+            <clause eId="art_1__para_2__subpara_d__cls_3">
+              <num>(3)</num>
+              <content>
+                <p>יושב ראש ועדה למילוי תפקידי ראש המועצה המקומית והמועצה וסגנו, כאמור בסעיף 41 לפקודת המועצות המקומיות;</p>
+              </content>
+            </clause>
+            <clause eId="art_1__para_2__subpara_d__cls_4">
+              <num>(4)</num>
+              <intro>
+                <p>ממונה בעל סמכות הכרעה שמונה לפי סעיף 6(ב2) לחוק שירותי הדת היהודיים, וכן יושב ראש ועדה ממונה שמונה לפי סעיף 10ב(ג) לחוק האמור וראש מועצה דתית אשר חל עליו חוק גמלאות לראש רשות, לפי הוראת סעיף 14 לחוק שירותי הדת היהודיים;</p>
+                <p>"<def refersTo="#term_c7f6f676">גוף נתמך</def>" – כהגדרתו בסעיף 32 לחוק יסודות התקציב;</p>
+                <p>"<def refersTo="#term_c94fec6f">הסכם</def>" – הסכם קיבוצי, צו הרחבה כמשמעותו בחוק הסכמים קיבוציים, הסדר קיבוצי לרבות הסדר חד-צדדי, הוראת מינהל, או חוזה עבודה אישי לרבות חוזה מיוחד לפי סעיף 40 לחוק שירות המדינה (מינויים), התשי"ט-1959;</p>
+                <p>"<def refersTo="#term_3689facd">הסכם קיבוצי</def>" – הסכם קיבוצי כללי או הסכם קיבוצי מיוחד כמשמעותם בחוק הסכמים קיבוציים;</p>
+                <p>"<def refersTo="#term_329b6c4b">חוק גמלאות לראש רשות</def>" – חוק הרשויות המקומיות (גמלאות לראש רשות וסגניו), התשל"ז-1977;</p>
+                <p>"<def refersTo="#term_b67e2b7b">חוק הגנת הפרטיות</def>" – חוק הגנת הפרטיות, התשמ"א-1981;</p>
+                <p>"<def refersTo="#term_52367ecf">חוק הסכמים קיבוציים</def>" – חוק הסכמים קיבוציים, התשי"ז-1957;</p>
+                <p>"<def refersTo="#term_6fcf3230">חוק יסודות התקציב</def>" – חוק יסודות התקציב, התשמ"ה-1985;</p>
+                <p>"<def refersTo="#term_693fa008">חוק שירות המדינה (גמלאות)</def>" – חוק שירות המדינה (גמלאות) [נוסח משולב], התש"ל-1970;</p>
+                <p>"<def refersTo="#term_c2677195">חוק שירותי הדת היהודיים</def>" – חוק שירותי הדת היהודיים [נוסח משולב], התשל"א-1971;</p>
+                <p>"<def refersTo="#term_c7d5b3e1">חוק שכר מינימום</def>" – חוק שכר מינימום, התשמ"ז-1987;</p>
+                <p>"<def refersTo="#term_20b568ae">החשב הכללי</def>" – החשב הכללי <organization eId="org_1" refersTo="#mof">במשרד האוצר</organization>;</p>
+                <p>"<def refersTo="#term_0b63f42f">מבטח</def>" – כהגדרתו בחוק הפיקוח על שירותים פיננסיים (ביטוח), התשמ"א-1981;</p>
+                <p>"<def refersTo="#term_d7d1b88e">מוסד חינוך</def>" – כל אחד מאלה:</p>
+              </intro>
+              <point eId="art_1__para_2__subpara_d__cls_4__pnt_1">
+                <num>(1)</num>
+                <content>
+                  <p>מוסד חינוך כהגדרתו בחוק לימוד חובה, התש"ט-1949;</p>
+                </content>
+              </point>
+              <point eId="art_1__para_2__subpara_d__cls_4__pnt_2">
+                <num>(2)</num>
+                <content>
+                  <p>בית ספר שחלה עליו חובת רישוי לפי הוראות חוק פיקוח על בתי ספר, התשכ"ט-1969;</p>
+                </content>
+              </point>
+              <point eId="art_1__para_2__subpara_d__cls_4__pnt_3">
+                <num>(3)</num>
+                <intro>
+                  <p>מוסד להכשרת עובדי חינוך, בין שהוא מוסד להשכלה גבוהה ובין שאינו מוסד להשכלה גבוהה;</p>
+                  <p>"<def refersTo="#term_e33607c6">מוסד להשכלה גבוהה</def>" – מוסד מוכר כמשמעותו בסעיף 9 לחוק המועצה להשכלה גבוהה, התשי"ח-1958, או מוסד שהוא בעל היתר לפי סעיף 21א לחוק האמור;</p>
+                  <p>"<def refersTo="#term_3a13d293">מעסיק</def>" – כל אחד מאלה:</p>
+                </intro>
+                <point eId="art_1__para_2__subpara_d__cls_4__pnt_3__pnt_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>המדינה;</p>
+                  </content>
+                </point>
+                <point eId="art_1__para_2__subpara_d__cls_4__pnt_3__pnt_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>גוף מתוקצב כהגדרתו בסעיף 21 לחוק יסודות התקציב;</p>
+                  </content>
+                </point>
+                <point eId="art_1__para_2__subpara_d__cls_4__pnt_3__pnt_3">
+                  <num>(3)</num>
+                  <content>
+                    <p>גוף נתמך;</p>
+                  </content>
+                </point>
+                <point eId="art_1__para_2__subpara_d__cls_4__pnt_3__pnt_4">
+                  <num>(4)</num>
+                  <content>
+                    <p>תאגיד בריאות;</p>
+                  </content>
+                </point>
+                <point eId="art_1__para_2__subpara_d__cls_4__pnt_3__pnt_5">
+                  <num>(5)</num>
+                  <content>
+                    <p>מוסד חינוך שהממשלה משתתפת בתקציבו, במישרין או בעקיפין, וסכום השתתפות הממשלה בתקציבו, בשנת 2024, היה <quantity eId="qty_1" refersTo="#percentage" normalized="40">40%</quantity> לפחות מתקציבו;</p>
+                    <p>"<def refersTo="#term_4e3b0fc3">משכורת</def>" – הכנסת עבודה כמשמעותה בסעיף 2(2) לפקודת מס הכנסה, שניתנת בכסף;</p>
+                    <p>"<def refersTo="#term_0911e829">נושא משרה</def>" – כהגדרתו בחוק ההתייעלות הכלכלית (תיקוני חקיקה להשגת יעדי התקציב לשנת התקציב 2025) (הקפאת שכר נושאי משרה ברשויות השלטון וברשויות מקומיות בשנת 2025), התשפ"ה-2024 (להלן – <def refersTo="#term_12a5f612">חוק ההקפאה לנושאי המשרה</def>);</p>
+                    <p>"<def refersTo="#term_f53f357c">סכום החיסכון</def>" – סכום ההוצאה שהייתה משולמת בקשר למשכורת או לתשלום לבעל תפקיד אילולא הוראות חוק זה ותשלומה נחסך בשל ההוראות לפי חוק זה לרבות בתקופה המקדימה, ולרבות הוצאה שבה היה מחויב המעסיק בשל תשלום משכורת לעובד או בשל תשלום לבעל תפקיד, לפי העניין, אילולא הוראות חוק זה;</p>
+                    <p>"<def refersTo="#term_2e131aef">עובד</def>" – מי שמלאו לו <quantity eId="qty_2" refersTo="#year" normalized="18">18 שנים</quantity> המועסק אצל מעסיק, ולעניין מעסיק שהוא מוסד חינוך כאמור בפסקה (5) להגדרה "מעסיק" – עובד חינוך או עובד שירות;</p>
+                    <p>"<def refersTo="#term_e7d8ea2c">עובד חינוך</def>" – מי שמועסק במוסד חינוך ועיקר עיסוקו בו הוא בהוראה או בחינוך וכן מי שעוסק בפיקוח על הוראה או חינוך;</p>
+                    <p>"<def refersTo="#term_944a78eb">עובד שירות</def>" – מי שמועסק במוסד חינוך ואינו עובד חינוך;</p>
+                    <p>"<def refersTo="#term_9ca0cf3e">פנסיה תקציבית</def>" – תשלומים המשולמים מדי חודש, באופן רציף, לפי דין או הסכם, מאוצר המדינה או מקופת המעסיק למי שפרש מעבודתו או מכהונתו, לפי העניין, במשך כל ימי חייו, ולאחר מותו – לשאירו;</p>
+                    <p>"קופת גמל לקצבה" ו"קרן השתלמות" – כהגדרתן בחוק הפיקוח על שירותים פיננסיים (קופות גמל), התשס"ה-2005;</p>
+                    <p>"<def refersTo="#term_7a1716eb">קופת חולים</def>" – כמשמעותה בחוק ביטוח בריאות ממלכתי, התשנ"ד-1994;</p>
+                    <p>"<def refersTo="#term_d0e50981">תאגיד בריאות</def>" – כהגדרתו בסעיף 21 לחוק יסודות התקציב;</p>
+                    <p>"<def refersTo="#term_790a6a79">התקופה המקדימה</def>" – התקופה שמיום <date date="2024-12-01">ל' בחשוון התשפ"ה</date> (<date date="2024-12-01">1 בדצמבר 2024</date>) עד יום <date date="2025-03-31">ב' בניסן התשפ"ה</date> (<date date="2025-03-31">31 במרץ 2025</date>);</p>
+                    <p>"<def refersTo="#term_c50fea4a">התקופה הקובעת הראשונה</def>" – התקופה שמיום <date date="2025-04-01">ג' בניסן התשפ"ה</date> (<date date="2025-04-01">1 באפריל 2025</date>) עד יום <date date="2025-12-31">י"א בטבת התשפ"ו</date> (<date date="2025-12-31">31 בדצמבר 2025</date>);</p>
+                    <p>"<def refersTo="#term_646fb7ab">התקופה הקובעת השנייה</def>" – התקופה שמיום <date date="2026-01-01">י"ב בטבת התשפ"ו</date> (<date date="2026-01-01">1 בינואר 2026</date>) עד יום <date date="2026-12-31">כ"א בטבת התשפ"ז</date> (<date date="2026-12-31">31 בדצמבר 2026</date>).</p>
+                  </content>
+                </point>
+              </point>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <heading>הפחתת משכורת לעובד לפי הסכם קיבוצי מאושר</heading>
+        <content>
+          <p>בתקופה הקובעת הראשונה או בעדה, ובתקופה הקובעת השנייה או בעדה, תופחת משכורתו של עובד, בהתאם להוראות שנקבעו בהסכם הקיבוצי החל על העובד או בהסכם קיבוצי אשר משכורתו של העובד נקבעת לפיו, אשר נחתם עד ליום <date date="2025-06-30">ד' בתמוז התשפ"ה</date> (<date date="2025-06-30">30 ביוני 2025</date>) ואושר לעניין חוק זה בידי שר האוצר או בידי <role eId="rol_2" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_3" refersTo="#mof">במשרד האוצר</organization> (להלן – <def refersTo="#term_0b1844ff">הסכם קיבוצי מאושר</def>); בבחינת מתן אישור להסכם קיבוצי כאמור, ניתן להביא בחשבון גם הפחתת משכורת שנעשתה לפי הסכם כאמור בתקופה המקדימה; אושר הסכם קיבוצי כאמור, יראו הפחתה כאמור כהפחתה שנעשתה בשל הוראות חוק זה.</p>
+        </content>
+      </article>
+      <article eId="art_3" repo:prose="same-source">
+        <num>3</num>
+        <heading>הפחתת משכורת לעובד שלא חל עליו הסכם קיבוצי מאושר</heading>
+        <paragraph eId="art_3__para_a">
+          <num>(א)</num>
+          <intro>
+            <p>לא חל על עובד הסכם קיבוצי מאושר –</p>
+          </intro>
+          <subparagraph eId="art_3__para_a__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>תופחת משכורתו בתקופה הקובעת הראשונה או בעדה, בשיעור של <quantity eId="qty_3" refersTo="#percentage" normalized="3.307">3.307%</quantity> מן הבסיס הקובע, ובכלל זה יופחת בשיעור כאמור גם הבסיס לחישוב הסכומים המשולמים בעד העובד לקרן השתלמות, אם הוא זכאי לתשלום כאמור;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_3__para_a__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>תופחת משכורתו בתקופה הקובעת השנייה או בעדה, בשיעור של <quantity eId="qty_4" refersTo="#percentage" normalized="1.2">1.2%</quantity> מן הבסיס הקובע, ובכלל זה יופחת בשיעור כאמור גם הבסיס לחישוב הסכומים המשולמים בעד העובד לקרן השתלמות, אם הוא זכאי לתשלום כאמור.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_3__para_b">
+          <num>(ב)</num>
+          <intro>
+            <p>(1)</p>
+            <p>על אף האמור בסעיף קטן (א), עובד כאמור באותו סעיף קטן המועסק אצל מעסיק, למעט המדינה, ואין אצל המעסיק ארגון יציג של עובדים, כמשמעותו בחוק הסכמים קיבוציים, שמייצג את העובד, רשאי מעסיקו, לאחר שקיבל אישור כאמור בפסקה (2), להפחית ממשכורתו של העובד כאמור בסעיף קטן (א), בתקופה הקובעת הראשונה, כולה או חלקה, או בעדה, בהתאם להוראות שלהלן (בסעיף קטן זה – הסדר הפחתה):</p>
+          </intro>
+          <subparagraph eId="art_3__para_b__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>ההפחתה יכול שתהיה מרכיבי משכורת העובד המנויים בפסקה (1)(א) ו-(ב) להגדרה "הבסיס הקובע";</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_3__para_b__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>ההפחתה ממשכורתו של העובד בכל חודש בתקופה הקובעת הראשונה או בעדה יכול שתהיה בשיעור שונה מהאמור ב<ref href="#art_3__para_a">סעיף קטן (א)</ref>, ובלבד שסך כל ההפחתות בתקופה הקובעת הראשונה יהיה בהתאם לסך ההפחתות לכל אותה התקופה שהיה המעסיק מפחית לעובד לפי הוראות <ref href="#art_3__para_a">סעיף קטן (א)</ref>;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_3__para_b__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>עד יום <date date="2026-06-01">ט"ז בסיוון התשפ"ו</date> (<date date="2026-06-01">1 ביוני 2026</date>) יבצע המעסיק חישוב של ההפרש בין סך ההפחתות שבוצעו לעובד בתקופה הקובעת הראשונה או בעדה, לפי סעיף קטן זה, ובין סך ההפחתות שהיו מבוצעות באותה תקופה לפי <ref href="#art_3__para_a">סעיף קטן (א)</ref>(1), אילולא הסדר ההפחתה; מצא המעסיק כי הופחת לעובד ממשכורתו ביתר, ישיב לו את ההפרש; מצא כי הופחת ממשכורת העובד בחסר, ובלי לגרוע מההפחתה בעד התקופה הקובעת השנייה לפי <ref href="#art_3__para_a">סעיף קטן (א)</ref>(2), יפחית ממשכורת העובד את היתרה; השבה או הפחתה לפי פסקת משנה זו תבוצע במועד שבו יש לשלם משכורת של החודש העוקב;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_3__para_b__subpara_d">
+            <num>(ד)</num>
+            <content>
+              <p>לעובדים שזכאים לתנאי שכר והעסקה דומים אצל אותו מעסיק ייערך אותו הסדר הפחתה;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_3__para_b__subpara_e">
+            <num>(ה)</num>
+            <content>
+              <p>סך ההפחתה לפי סעיף קטן זה והניכויים לפי סעיף 25(א)(6) לחוק הגנת השכר, התשי"ח-1958, בחודש נתון, לא יעלו על רבע ממשכורת העובד באותו החודש; עלה הסכום על רבע מהמשכורת כאמור, ינכה המעסיק את יתרת החוב לפי סעיף 25(א)(6) האמור בחודש אחר;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_3__para_b__subpara_f">
+            <num>(ו)</num>
+            <intro>
+              <p>אושר הסדר הפחתה, יראו הפחתה לפיו כהפחתה שנעשתה בשל הוראות חוק זה לגבי התקופה הקובעת הראשונה;</p>
+            </intro>
+            <clause eId="art_3__para_b__subpara_f__cls_2">
+              <num>(2)</num>
+              <intro>
+                <p>הסדר ההפחתה יאושר עד המועד הקבוע בסעיף <ref href="#art_2">2</ref> בידי אחד מאלה, לפי העניין –</p>
+              </intro>
+              <point eId="art_3__para_b__subpara_f__cls_2__pnt_a">
+                <num>(א)</num>
+                <content>
+                  <p>לעניין הסדר אצל מעסיק כאמור בפסקאות (2) עד (4) להגדרה "מעסיק" – <role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_5" refersTo="#mof">במשרד האוצר</organization>;</p>
+                </content>
+              </point>
+              <point eId="art_3__para_b__subpara_f__cls_2__pnt_b">
+                <num>(ב)</num>
+                <content>
+                  <p>לעניין הסדר אצל מעסיק כאמור בפסקה (5) להגדרה "מעסיק" – החשב הכללי והממונה על התקציבים <organization eId="org_6" refersTo="#mof">במשרד האוצר</organization>;</p>
+                </content>
+              </point>
+            </clause>
+            <clause eId="art_3__para_b__subpara_f__cls_3">
+              <num>(3)</num>
+              <content>
+                <p>המעסיק יביא לידיעת עובדיו את תוכנו של הסדר הפחתה שאושר לגביהם מייד לאחר שקיבל את האישור כאמור בפסקה (2);</p>
+              </content>
+            </clause>
+            <clause eId="art_3__para_b__subpara_f__cls_4">
+              <num>(4)</num>
+              <content>
+                <p>הסדר הפחתה יפורסם באתר האינטרנט של <organization eId="org_7" refersTo="#mof">משרד האוצר</organization>.</p>
+              </content>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_4" repo:prose="same-source">
+        <num>4</num>
+        <heading>הפחתת משכורת לבעל תפקיד</heading>
+        <intro>
+          <p>בתקופה הקובעת הראשונה או בתקופה הקובעת השנייה, או בעדן, יופחת התשלום המשולם לבעל תפקיד מקופת המעסיק בשיעור כמפורט להלן:</p>
+        </intro>
+        <paragraph eId="art_4__para_1">
+          <num>(1)</num>
+          <content>
+            <p>בעד התקופה הקובעת הראשונה – בשיעור של <quantity eId="qty_5" refersTo="#percentage" normalized="3.307">3.307%</quantity> מן הבסיס הקובע, ובכלל זה יופחת בשיעור כאמור גם הבסיס לחישוב הסכומים המשולמים בעד בעל התפקיד לקרן השתלמות, אם הוא זכאי לתשלום כאמור;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_4__para_2">
+          <num>(2)</num>
+          <content>
+            <p>בעד התקופה הקובעת השנייה – שיעור של <quantity eId="qty_6" refersTo="#percentage" normalized="1.2">1.2%</quantity> מן הבסיס הקובע, ובכלל זה יופחת בשיעור כאמור גם הבסיס לחישוב הסכומים המשולמים בעד בעל התפקיד לקרן השתלמות, אם הוא זכאי לתשלום כאמור.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_5" repo:prose="same-source">
+        <num>5</num>
+        <heading>אי-הפחתת משכורת לעובד שמשכורתו נקבעת לפי משכורת של נושא משרה</heading>
+        <content>
+          <p>על אף האמור בסעיף 3, לגבי עובד שמשכורתו, כולה או חלקה, נקבעת לפי משכורת של נושא משרה, והקפאת השכר לפי חוק ההקפאה לנושאי משרה חלה לגבי משכורתו בעקיפין, לא תופחת משכורתו לפי חוק זה.</p>
+          <p>הפחתת משכורת לעובד או לבעל תפקיד שמשכורתו נקבעת לפי משכורת של בעל תפקיד או של עובד</p>
+        </content>
+      </article>
+      <article eId="art_6" repo:prose="same-source">
+        <num>6</num>
+        <content>
+          <p>לגבי עובד שמשכורתו, כולה או חלקה, נקבעת לפי משכורת של בעל תפקיד וכן בעל תפקיד שמשכורתו, כולה או חלקה, נקבעת לפי משכורת של בעל תפקיד אחר, או לגבי עובד שמשכורתו, כולה או חלקה, נקבעת לפי משכורת של עובד אחר שהופחתה משכורתו לפי חוק זה, לא תובא בחשבון, בחישוב המשכורת אשר תופחת בהתאם להוראות סעיפים <ref href="#art_3">3</ref> או 4, לפי העניין, הפחתת המשכורת לפי סעיפים <ref href="#art_2">2</ref>, <ref href="#art_3">3</ref> או 4, לפי העניין, של העובד או של בעל התפקיד שלפיו נקבעת משכורתם.</p>
+        </content>
+      </article>
+      <article eId="art_7" repo:prose="same-source">
+        <num>7</num>
+        <heading>דין חייל, שוטר, סוהר ועובד שירותי הביטחון</heading>
+        <paragraph eId="art_7__para_a">
+          <num>(א)</num>
+          <content>
+            <p>לעניין חוק זה, יראו גם חייל המשרת בצבא הגנה לישראל על פי התחייבות לשירות קבע (בסעיף זה – חייל) כעובד, אף שלא מתקיימים לגביו יחסי עבודה, ואולם הפחתת משכורתו של חייל, כאמור בסעיפים <ref href="#art_2">2</ref> או 3, תבוצע בהתאם להוראות החלטת הממשלה מס' 742 מיום <date date="2023-07-09">כ' בתמוז התשפ"ג</date> (<date date="2023-07-09">9 ביולי 2023</date>).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>על אף האמור בסעיפים <ref href="#art_2">2</ref> ו-<ref href="#art_3">3</ref>, הפחתת משכורתו של שוטר או סוהר כאמור באותם סעיפים תבוצע בהתאם להחלטות הממשלה; ואולם, לעניין שוטר או סוהר שלא נקבעה הפחתת משכורתו לפי החלטות הממשלה, יחולו הוראות פסקאות (1) ו-(2) של סעיף <ref href="#art_3__para_a">3(א)</ref>; בסעיף קטן זה –</p>
+            <p>"<def refersTo="#term_0791583f">החלטות הממשלה</def>" – החלטת הממשלה מס' 397 מיום <date date="1979-02-04">ז' בשבט התשל"ט</date> (<date date="1979-02-04">4 בפברואר 1979</date>) והחלטת הממשלה מס' 743 מיום <date date="2023-07-09">כ' בתמוז התשפ"ג</date> (<date date="2023-07-09">9 ביולי 2023</date>);</p>
+            <p>"שוטר" ו"סוהר" – כהגדרתם בחוק שירות המדינה (גמלאות).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_7__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>על אף האמור בסעיפים <ref href="#art_2">2</ref> ו-<ref href="#art_3">3</ref>, הפחתת משכורתו של עובד שירותי הביטחון, בתקופה הקובעת הראשונה או בעדה, ובתקופה הקובעת השנייה או בעדה, תבוצע בהתאם להסכמה בין-משרדית מאושרת; בבחינת מתן אישור להסכמה כאמור, ניתן להביא בחשבון גם הפחתת משכורת שנעשתה לפי הסכמה כאמור בתקופה המקדימה; אושרה הסכמה כאמור, יראו הפחתה כאמור כהפחתה שנעשתה בשל הוראות חוק זה; ואולם, לעניין עובד שירותי הביטחון שלא חלה לגביו הסכמה בין-משרדית מאושרת, יחולו הוראות פסקאות (1) ו-(2) של סעיף <ref href="#art_3__para_a">3(א)</ref>; בסעיף קטן זה –</p>
+            <p>"<def refersTo="#term_8047aea1">הסכמה בין-משרדית מאושרת</def>" – הוראות שהוסכם עליהן, בכתב, בין <organization eId="org_8" refersTo="#mof">משרד האוצר</organization> למשרד ראש הממשלה, ואשר אושרו לעניין חוק זה בידי שר האוצר או בידי <role eId="rol_9" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_10" refersTo="#mof">במשרד האוצר</organization>;</p>
+            <p>"<def refersTo="#term_4004ec88">עובד שירותי הביטחון</def>" – עובד המדינה בשירותי הביטחון, כהגדרתם בסעיף 63א לחוק שירות המדינה (גמלאות).</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_8" repo:prose="same-source">
+        <num>8</num>
+        <heading>סייג לעניין תשלומים שונים</heading>
+        <intro>
+          <p>לעניין חישוב של כל אחד מהמפורטים להלן לא תובא בחשבון הפחתת המשכורת של עובד או ההפחתה של התשלום המשולם לבעל תפקיד מקופת המעסיק, לפי סעיפים 2 עד 4, 6 ו-7, בתקופה הקובעת הראשונה או בעדה ובתקופה הקובעת השנייה או בעדה, ולעניין עובד שחל עליו הסכם קיבוצי מאושר – לא תובא בחשבון הפחתת משכורת כאמור גם בתקופה המקדימה, אם נקבעה כזו בהסכם הקיבוצי המאושר:</p>
+        </intro>
+        <paragraph eId="art_8__para_1">
+          <num>(1)</num>
+          <content>
+            <p>הסכום המשולם לקופת גמל לקצבה, בעד העובד או בעל התפקיד;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_2">
+          <num>(2)</num>
+          <content>
+            <p>המשכורת הקובעת לחישוב תשלומי עובדים בפנסיה תקציבית לפי סעיף 89 לחוק התוכנית להבראת כלכלת ישראל (תיקוני חקיקה להשגת יעדי התקציב והמדיניות הכלכלית לשנות הכספים 2003 ו-2004), התשס"ג-2003;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_3">
+          <num>(3)</num>
+          <content>
+            <p>ההכנסה לצורך חישוב תשלומים ששולמו לקופת גמל לקצבה, או החיוב במס או הפטור ממנו בשל תשלומים כאמור, לפי העניין, לפי הוראות סעיפים 3(ה3), 9(7א), 45א ו-47 לפקודת מס הכנסה, אולם הוראות פסקה זו לא יחולו לעניין תשלומים ששולמו בשל שנת המס 2024;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_4">
+          <num>(4)</num>
+          <content>
+            <p>תשלומי פנסיה תקציבית;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_5">
+          <num>(5)</num>
+          <content>
+            <p>תשלום חד-פעמי המשולם לעובד, לבעל התפקיד או לשאיריהם, לפי דין או הסכם, עקב סיום עבודה או תפקיד, לפי העניין;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_6">
+          <num>(6)</num>
+          <content>
+            <p>דמי ביטוח המשולמים לפי חוזה ביטוח נכות כאמור בפרק ג' לחוק חוזה הביטוח, התשמ"א-1981;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_7">
+          <num>(7)</num>
+          <content>
+            <p>לעניין עובד – תשלומי גישור, או סכום תוספת לקצבה הנרכש מקופת גמל לקצבה או ממבטח בעד העובד במימון מלא של המעסיק; לעניין זה, "תשלומי גישור" – תשלומים המשולמים מדי חודש, באופן רציף, לפי הסכם, מקופת המעסיק, מקופת גמל לקצבה או ממבטח, למי שפרש מעבודתו, בעד התקופה שממועד פרישתו מעבודה עד המועד שבו הוא זכאי לתשלומי קצבה מקופת גמל לקצבה;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_8">
+          <num>(8)</num>
+          <content>
+            <p>גמלה המשתלמת למבוטח או לתלוי בו, לפי סימנים ה' ו-ח' בפרק ה' לחוק הביטוח הלאומי [נוסח משולב], התשנ"ה-1995.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_9" repo:prose="same-source">
+        <num>9</num>
+        <heading>אי-תשלום הסכום שהופחת</heading>
+        <content>
+          <p>הסכום אשר לא שולם לעובד או לבעל תפקיד או בעדם, בשל הוראות חוק זה, לא ישולם להם אף לאחר תום התקופה שבה או בעדה הופחת.</p>
+        </content>
+      </article>
+      <article eId="art_10" repo:prose="same-source">
+        <num>10</num>
+        <heading>חישוב סכום החיסכון והעברתו</heading>
+        <paragraph eId="art_10__para_a">
+          <num>(א)</num>
+          <content>
+            <p>מעסיק יחשב את סכום החיסכון באופן שיקבע שר האוצר בתקנות, ויודיע על הסכום לחשב הכללי במועד ובאופן שייקבעו בתקנות כאמור.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_b">
+          <num>(ב)</num>
+          <intro>
+            <p>על אף האמור ב<ref href="#art_10__para_a">סעיף קטן (א)</ref>, על מעסיק שהוא רשות מקומית יחולו הוראות אלה:</p>
+          </intro>
+          <subparagraph eId="art_10__para_b__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>הרשות המקומית תודיע לחשב הכללי על סכום החיסכון שחושב בעבור השכר של עובדיה שאינם עובדים סוציאליים, עובדי חינוך, עובדי שירות ועובדי בית חולים עירוני;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_10__para_b__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>לעניין עובדי הרשות המקומית שהם עובדים סוציאליים שהמדינה משתתפת בעלויות השכר שלהם – תודיע הרשות המקומית לחשב הכללי על החלק היחסי מתוך סכום החיסכון לפי השיעור מתוך השכר שמשלמת הרשות המקומית בעצמה בעבורם, ושאינו משולם בידי המדינה.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_10__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>לא חישב מעסיק את סכום החיסכון בהתאם להוראות לפי <ref href="#art_10__para_a">סעיף קטן (א)</ref> או (ב), או לא הודיע לחשב הכללי על הסכום כאמור באותו סעיף קטן, לפי העניין, יקבע החשב הכללי או מי שהוא הסמיכו לכך את סכום החיסכון, לרבות בדרך של אומדן, ויודיע בכתב על קביעתו למעסיק.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>מעסיק יעביר את סכום החיסכון לאוצר המדינה, בתוך 1?<quantity eId="qty_7" refersTo="#day" normalized="4">4 ימים</quantity> מיום שהודיע לחשב הכללי על הסכום לפי <ref href="#art_10__para_a">סעיף קטן (א)</ref> או (ב), לפי העניין, או בתוך <quantity eId="qty_8" refersTo="#day" normalized="7">שבעה ימים</quantity> מיום שהודיע החשב הכללי למעסיק על קביעתו לפי <ref href="#art_10__para_c">סעיף קטן (ג)</ref>; מעסיק שהוא רשות מקומית יעביר את סכום החיסכון בעבור עובדים כאמור ב<ref href="#art_10__para_b">סעיף קטן (ב)</ref>.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_e">
+          <num>(ה)</num>
+          <intro>
+            <p>(1)</p>
+            <p>שר האוצר רשאי לקבוע תקנות לעניין חישוב סכום החיסכון לפי סעיף קטן (ג) ולעניין אופן משלוח ההודעה למעסיק על סכום החיסכון שעליו להעביר לפי אותו סעיף קטן;</p>
+          </intro>
+          <subparagraph eId="art_10__para_e__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>העברת סכום החיסכון לאוצר המדינה תיעשה בהתאם להוראות שיקבע שר האוצר.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_10__para_f">
+          <num>(ו)</num>
+          <content>
+            <p>הוראות סעיף זה לא יחולו על המדינה, תאגיד בריאות, בית חולים שהוא גוף נתמך, קופת חולים, מוסד להשכלה גבוהה ומוסד חינוך שהממשלה משתתפת במישרין במימון עלויות השכר של עובדי החינוך ועובדי השירות שלו.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_11" repo:prose="same-source">
+        <num>11</num>
+        <heading>העברת מידע</heading>
+        <paragraph eId="art_11__para_a">
+          <num>(א)</num>
+          <content>
+            <p>מעסיק, למעט המדינה, ימסור לחשב הכללי, לפי דרישתו, בדרך ובמועדים שהורה בדרישה, כל מידע הנדרש לשם ביצוע ההוראות לפי חוק זה, לרבות נתונים שיאפשרו ביקורת על דיווח המעסיק בדבר סכום החיסכון הצפוי לקופתו לפי סעיף <ref href="#art_10">10</ref> ובדבר סכום החיסכון שהיה עליו להעביר לאוצר המדינה בהתאם להוראות לפי אותו סעיף.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_11__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>מידע שנמסר לחשב הכללי לפי הוראות סעיף קטן (א), לגבי עובד, לא יכלול פרטים מזהים; נמסר מידע כאמור שהוא בגדר מידע אישי כהגדרתו בחוק הגנת הפרטיות, יחולו לגביו הוראות סעיף 33(ד) לחוק יסודות התקציב, בשינויים המחויבים.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_12" repo:prose="same-source">
+        <num>12</num>
+        <heading>החלת הוראות מחוק יסודות התקציב</heading>
+        <paragraph eId="art_12__para_a">
+          <num>(א)</num>
+          <content>
+            <p>הוראות סעיפים 29א, 29ב, 33א(ב1) ו-(ד) עד (ו), 34(א)(1) ו-(ב), 35, 35א, 36, 37(ד) עד (ו) ו-39 לחוק יסודות התקציב, לעניין שינויים בשכר או מתן הטבות כספיות אחרות הקשורות בעבודה, לרבות הסמכויות הנתונות בהן, יחולו, בשינויים המחויבים, לגבי תשלום משכורת או לגבי תשלום אחר מקופת המעסיק שנעשה בידי מעסיק בניגוד להוראות לפי חוק זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_12__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>הוראות סעיפים 33א(ב1) ו-(ד) עד (ו), 35, 35א, 36, 37(ד) עד (ו) ו-39 לחוק יסודות התקציב, לעניין שינויים בשכר או מתן הטבות כספיות אחרות הקשורות בעבודה, לרבות הסמכויות הנתונות בהן, יחולו, בשינויים המחויבים, לגבי אי-העברת סכום החיסכון לאוצר המדינה כאמור בסעיף 10.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_12__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>אי-העברת מידע כאמור בסעיף 11, יראו אותה כאי-העברת מידע בהתאם לדרישה כאמור בסעיף 33א(ב1) לחוק יסודות התקציב, ויחולו לעניין זה הוראות הסעיפים המפורטים בסעיף קטן (ב), לרבות הסמכויות הנתונות בהן, בשינויים המחויבים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_12__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>לעניין הוראות סעיף 43א לחוק יסודות התקציב, יראו סכום שחושב לפי סעיף 10(ג) כחיוב כספי קצוב שאינו חוב מס.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_13" repo:prose="same-source">
+        <num>13</num>
+        <heading>החלת הוראות חוק המרכז לגביית קנסות, אגרות והוצאות</heading>
+        <content>
+          <p>על גבייתו של סכום חיסכון שלא הועבר לאוצר המדינה, בניגוד להוראות שקבע שר האוצר לפי סעיף 10, יחולו הוראות חוק המרכז לגביית קנסות, אגרות והוצאות, התשנ"ה-1995; ואולם דרישת תשלום כאמור בסעיף 5 לחוק האמור תומצא לכתובת הדואר האלקטרוני שאליה נשלחה ההודעה למעסיק בדבר סכום החיסכון שעליו להעביר לפי סעיף 10(ג).</p>
+        </content>
+      </article>
+      <article eId="art_14" repo:prose="same-source">
+        <num>14</num>
+        <heading>עדיפות</heading>
+        <content>
+          <p>ההוראות לפי חוק זה יחולו על אף האמור בכל דין, הסכם או נוהג, לרבות חוק הסכמים קיבוציים וצווי הרחבה שניתנו לפיו.</p>
+        </content>
+      </article>
+      <article eId="art_15" repo:prose="same-source">
+        <num>15</num>
+        <heading>שמירת דינים</heading>
+        <intro>
+          <p>אין בהוראות חוק זה כדי לגרוע מאלה:</p>
+        </intro>
+        <paragraph eId="art_15__para_1">
+          <num>(1)</num>
+          <content>
+            <p>חוק שכר מינימום, אולם לשם הפחתת המשכורת לפי חוק זה יובא בחשבון רכיב שכר כאמור בסעיף 3(ב)(1) עד (3) או (ד) לחוק שכר מינימום, שאינו בא בחשבון שכר המינימום מכוח הסכם;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_15__para_2">
+          <num>(2)</num>
+          <content>
+            <p>חוק יסודות התקציב, לעניין אישור שר האוצר בדבר שינויים בשכר או מתן הטבות כספיות אחרות הקשורות בעבודה מעבר למה שהוסכם או הונהג לגבי כלל עובדי המדינה, או מהסמכויות הנתונות לשר האוצר לפי החוק האמור.</p>
+            <p>תקצוב הטבות לחיילי מילואים ולשיקום יישובי עוטף עזה והצפון בשנת 2025</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_16" repo:prose="same-source">
+        <num>16</num>
+        <content>
+          <p>בחוק התקציב לשנת הכספים 2025 ייקבע סכום העולה על סכום החיסכון המשוער של כלל המנויים בהגדרה "מעסיק", כחלק מהסכומים הנכללים בתקציב האמור לשם מתן הטבות לחיילי מילואים, ולשם שיקום יישובי עוטף עזה והצפון.</p>
+        </content>
+      </article>
+      <article eId="art_17" repo:prose="same-source">
+        <num>17</num>
+        <heading>ביצוע</heading>
+        <content>
+          <p>שר האוצר ממונה על ביצוע חוק זה.</p>
+        </content>
+      </article>
+      <article eId="art_18" repo:prose="same-source">
+        <num>18</num>
+        <heading>תיקון חוק בתי משפט לעניינים מינהליים – מס' 150</heading>
+        <content>
+          <p><mod eId="art_18__mod_1">בחוק בתי משפט לעניינים מינהליים, התש"ס-2000, בתוספת הראשונה, בסופה יבוא:<quotedStructure eId="art_18__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                <paragraph eId="art_18__mod_1__qstr_1__para_68">
+                  <num>68.</num>
+                  <content>
+                    <p>הפחתת שכר בשירות הציבורי – החלטה של רשות לפי סעיפים 10 עד 12 לחוק להשתתפותם של העובדים ובעלי תפקיד בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים 2025 ו-2026 (הוראת שעה), התשפ"ה-2025 (בפרט זה – חוק להפחתת שכר בשירות הציבורי), ובכלל זה החלטה כאמור לפי סעיפים מחוק יסודות התקציב, התשמ"ה-1985, כפי שהוחלו בסעיף 12 לחוק להפחתת שכר בשירות הציבורי, למעט סעיפים 29א ו-29ב לחוק יסודות התקציב, התשמ"ה-1985.</p>
+                  </content>
+                </paragraph>
+              </quotedStructure>.</mod>
+          </p>
+        </content>
+      </article>
+      <article eId="art_19" repo:prose="same-source">
+        <num>19</num>
+        <heading>תחילה</heading>
+        <paragraph eId="art_19__para_a">
+          <num>(א)</num>
+          <content>
+            <p>תחילתו של חוק זה ביום <date date="2025-04-01">ג' בניסן התשפ"ה</date> (<date date="2025-04-01">1 באפריל 2025</date>) (להלן – <def refersTo="#term_7bfb1c8a">יום התחילה</def>).</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_19__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>על אף האמור בסעיף קטן (א), תחילתו של סעיף 11?(ב) ביום תחילתו של חוק הגנת הפרטיות (תיקון מס' 13), התשפ"ד-2024, כאמור בסעיף 74(א) לאותו חוק.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_20" repo:prose="same-source">
+        <num>20</num>
+        <heading>הוראת שעה</heading>
+        <content>
+          <p><mod eId="art_20__mod_1">בתקופה שמיום התחילה עד המועד האמור בסעיף <ref href="#art_19__para_b">19(ב)</ref>, יקראו את סעיף <ref href="#art_11">11</ref> כך שבמקום סעיף קטן (ב) יבוא:<quotedStructure eId="art_20__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                <paragraph eId="art_20__mod_1__qstr_1__para_b">
+                  <num>(ב)</num>
+                  <content>
+                    <p>מידע שנמסר לחשב הכללי לפי הוראות סעיף קטן (א), לגבי עובד, לא יכלול פרטים מזהים; נמסר מידע כאמור שהוא בגדר מידע וידיעה על ענייניו הפרטיים של אדם כמשמעותם בחוק הגנת הפרטיות, יחולו לגביו הוראות סעיף 33(ד) לחוק יסודות התקציב, בשינויים המחויבים.</p>
+                  </content>
+                </paragraph>
+              </quotedStructure>.</mod>
+          </p>
+        </content>
+      </article>
+      <article eId="art_21" repo:prose="same-source">
+        <num>21</num>
+        <heading>תיקון פקודת מס הכנסה – מס' 282 – הוראת שעה</heading>
+        <paragraph eId="art_21__para_a">
+          <num>(א)</num>
+          <intro>
+            <p>בתקופה שמיום התחילה עד יום <date date="2027-06-30">כ"ה בסיוון התשפ"ז</date> (<date date="2027-06-30">30 ביוני 2027</date>), יקראו את פקודת מס הכנסה, כך שבסעיף 235 –</p>
+          </intro>
+          <subparagraph eId="art_21__para_a__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p><mod eId="art_21__para_a__subpara_1__mod_1">לפני סעיף קטן (ד) יבוא:<quotedStructure eId="art_21__para_a__subpara_1__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                    <p>(ג4) (1)</p>
+                    <p>על אף האמור בסעיף קטן (א), מותר להעביר לחשב הכללי <organization eId="org_11" refersTo="#mof">במשרד האוצר</organization> או למי שהוא הסמיך לפי סעיף 10(ג) לחוק להשתתפותם של העובדים ובעלי תפקיד בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים 2025 ו-2026 (הוראת שעה), התשפ"ה-2025 (בסעיף זה – חוק להפחתת שכר בשירות הציבורי), מידע שהתקבל או הופק מדוח של מעסיק שהוגש לפי סעיף 166, אשר נדרש לשם ביצוע אומדן כאמור בסעיף 10(ג) האמור, ובמידה שנדרש;</p>
+                    <paragraph eId="art_21__para_a__subpara_1__mod_1__qstr_1__para_2">
+                      <num>(2)</num>
+                      <content>
+                        <p>בסעיף קטן זה, "<def refersTo="#term_6276f417">מידע</def>" – למעט מידע אישי כהגדרתו בחוק הגנת הפרטיות, התשמ"א-1981.</p>
+                      </content>
+                    </paragraph>
+                  </quotedStructure>;</mod>
+              </p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_21__para_a__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p><mod eId="art_21__para_a__subpara_2__mod_1">בסעיף קטן (ד), אחרי פסקה (3) יבוא:<quotedStructure eId="art_21__para_a__subpara_2__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                    <paragraph eId="art_21__para_a__subpara_2__mod_1__qstr_1__para_4">
+                      <num>(4)</num>
+                      <content>
+                        <p>בביצוע חוק להפחתת שכר בשירות הציבורי.</p>
+                      </content>
+                    </paragraph>
+                  </quotedStructure>.</mod>
+              </p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_21__para_b">
+          <num>(ב)</num>
+          <content>
+            <p><mod eId="art_21__para_b__mod_1">על אף האמור ב<ref href="#art_21__para_a">סעיף קטן (א)</ref>, בתקופה שמיום התחילה עד המועד האמור בסעיף <ref href="#art_19__para_b">19(ב)</ref>, יקראו את סעיף 235(ג4) לפקודת מס הכנסה כך שבמקום פסקה (2) יבוא:<quotedStructure eId="art_21__para_b__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                  <paragraph eId="art_21__para_b__mod_1__qstr_1__para_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>בסעיף קטן זה, "<def refersTo="#term_6276f417">מידע</def>" – למעט מידע וידיעה על ענייניו הפרטיים של אדם כמשמעותם בחוק הגנת הפרטיות, התשמ"א-1981.</p>
+                    </content>
+                  </paragraph>
+                </quotedStructure>.</mod>
+            </p>
+          </content>
+        </paragraph>
+      </article>
+    </body>
+  </act>
+</akomaNtoso>

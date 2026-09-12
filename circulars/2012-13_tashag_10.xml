@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-10/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-10" />
+          <FRBRdate date="2012-09-01" name="schoolYearStart" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-10/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-10/heb@" />
+          <FRBRdate date="2012-09-01" name="schoolYearStart" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-10/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2012-09-01/2012-13-tashag-10/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2012-09-01" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="reform_oz" href="/ontology/concept/il/reform/oz-latmura" showAs="עוז לתמורה" />
+        <TLCTerm eId="term_45b523a8" href="/ontology/term/il/45b523a8" showAs="הבסיסהקובע" />
+        <TLCTerm eId="term_9c553b17" href="/ontology/term/il/9c553b17" showAs="עובד הוראה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_a1943f15" href="/ontology/organization/il/unit/a1943f15" showAs="מינהל עובדי הוראה" />
+        <TLCOrganization eId="unit_dd93a4aa" href="/ontology/organization/il/unit/dd93a4aa" showAs="לשכת סמנכ&quot;לית" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="school-year">SCHOOL YEAR from the filename, dated to its 1 September start. This is NOT the document's own date, which is not encoded in the filename.</repo:date>
+          <repo:source path="law/circulars/2012-13_tashag_10.pdf" sha256="0e7b014f5a91c75a4e20074eb09b068b4b8238d9240b95e6e5ccb823e56c07f8" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ג/10</docNumber> - עדכון הפעימה האחרונה של תוספת 2011 בחטיבה העליונה והחוק להשתתפותם של העובדים נושאי המשרה ובעלי תפקיד אחרים בשירות הציבורי</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_a1943f15">מינהל עובדי הוראה</organization>
+      </p>
+      <p><organization eId="org_4" refersTo="#unit_dd93a4aa">לשכת סמנכ"לית</organization>
+      </p>
+      <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>,י"גאלולתשע"ג</p>
+      <p>91 אוגוסט 3192</p>
+      <p>ג- 91301</p>
+      <p>חוזר לבעלויות תשע"ג92 /</p>
+      <p>לכבוד: הבעלויות על מוסדות חינוך</p>
+      <p>שלוםרב,</p>
+      <p>הנדון:</p>
+      <p>א. עדכון הפעימה האחרונה של תוספת  2299 בחטיבה העליונה</p>
+      <p>ב. החוק להשתתפותם של העובדים נושאי המשרה ובעלי תפקיד אחרים בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים  2293ו2295-</p>
+      <p>( הוראת שעה), התשע"ג2293-</p>
+      <p>תחולה</p>
+      <p>הוראותחוזרזהיחולועלכלעובדהמדורגבדירוגעובדי הוראה,המועסקעל-ידי הבעלויותעלמוסדותהחינוךהמפוקחיםעלידימשרדהחינוך(להלן:"<def refersTo="#term_9c553b17">עובד הוראה</def>") ואשרמועסקבשלבהחינוךבחטיבההעליונהובכיתותי"ג-י"ד.</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_a" repo:prose="same-source">
+        <num>א.</num>
+        <heading>עידכון הפעימה האחרונה של תוספת  2299 בחטיבה עליונה</heading>
+        <intro>
+          <p>בהתאםלהסכםהקיבוציליישוםרפורמת"עוזלתמורה"מיום,91.1.3199 בסעיף :21</p>
+        </intro>
+        <paragraph eId="art_a__para_9">
+          <num>9.</num>
+          <intro>
+            <p>החלמיום 9.0.3192 יוגדלשיעורהשלתוספת,3199 לשיעוראחידשל <quantity eId="qty_1" refersTo="#percentage" normalized="0.37">0.37%</quantity> (משיעורשל)<quantity eId="qty_2" refersTo="#percentage" normalized="5.37">5.37%</quantity>מבסיסהשכרשנקבעלתוספת.3199</p>
+          </intro>
+          <subparagraph eId="art_a__para_9__subpara_3">
+            <num>3.</num>
+            <content>
+              <p>תוספותהשכרהשקליות(תוספתהסכם'10 ותוספתהסכם)'11 יעודכנו, בהתאםלעדכוןתוספת 3199 .</p>
+              <p>למעןהסרספק,הסכומיםהמעודכניםשלתוספתהסכם'10 ותוספתהסכם '94 הינםכדלהלן :</p>
+              <p>לגביעובדיהוראהשאינםמועסקיםעל-פיתנאירפורמהוכןלגבימנהלים המועסקיםעלפיתנאירפורמת"עוזלתמורה",תוספתהסכםתגבורהוראה '11 תעמודעלסכוםשל <quantity eId="qty_3" refersTo="#ILS" normalized="971.32">971.32₪</quantity>ותוספתהסכם'10 תעמודעלסכוםשל 907.17.₪</p>
+              <p>לגביעובדיהוראהשאינםמנהלים,אשרמועסקיםביישוםחלקישלרפורמת "עוזלתמורה",תוספתהסכםתגבורהוראה'11 תעמודעלסכוםשל <quantity eId="qty_4" refersTo="#ILS" normalized="911.39">911.39₪</quantity>ותוספתהסכם'10 תעמודעלסכוםשל 391.19.₪ לגביעובדיהוראהשאינםמנהלים,המועסקיםביישוםמלאשלרפורמת'<concept eId="con_5" refersTo="#reform_oz">עוז לתמורה</concept>'',תוספתהסכםתגבורהוראה'11 תעמודעלסכוםשל 331.91-₪ ותוספתהסכם'10 תעמודעלסכוםשל 311.15. ₪</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_b" repo:prose="same-source">
+        <num>ב.</num>
+        <content>
+          <p>החוק להשתתפות של העובדים נושאי המשרה ובעלי תפקיד אחרים בשירות הציבורי, בצעדים לייצוב המצב הפיסקלי במדינה במהלך השנים  2293ו2295-</p>
+          <p>( הוראת שעה), התשע"ג2293-</p>
+          <p>ביום 9.0.3192 נכנסלתוקפוהחוקלהשתתפותםשלהעובדים,נושאיהמשרה ובעליתפקידאחריםבשירותהציבורי,בצעדיםלייצובהמצבהפיסקליבמדינה במהלךהשנים 3192ו3191-(הוראתשעה),התשע"ג.3192-בסעיף 1 לחוקזה נקבעההפחתהבמשכורתושלעובד,כאשרלאחלעליוהסכםקיבוצימאושר בעניין.</p>
+        </content>
+      </article>
+      <article eId="art_c" repo:prose="same-source">
+        <num>ג.</num>
+        <heading>הוראות ביצוע</heading>
+        <paragraph eId="art_c__para_9">
+          <num>9.</num>
+          <intro>
+            <p>הפחתת שכר</p>
+          </intro>
+          <subparagraph eId="art_c__para_9__subpara_a">
+            <num>א.</num>
+            <content>
+              <p>בתקופה שמיום  9.0.3192 ועד יום, 29.93.3191 או בעדה, תופחת משכורתו של עובד, בשיעור של  <quantity eId="qty_5" refersTo="#percentage" normalized="1.1231">1.1231%</quantity>מהבסיס הקובע (כמפורטבסעיףקטןב.להלן). בכללזה יופחת בשיעור זה הבסיס לחישוב הסכומים המשולמים בעד העובד לקרן השתלמות,אםהואזכאילתשלוםכאמור.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_c__para_9__subpara_b">
+            <num>ב.</num>
+            <intro>
+              <p>לענייןזה:"<def refersTo="#term_45b523a8">הבסיסהקובע</def>"–משכורת,למעטכלאחדמאלה :</p>
+              <p>תשלומים שאינם משולמים על בסיס חודשי, שבועי או יומי ואינםמחושביםעלבסיסרכיבישכראחרים;</p>
+              <p>(מובהר כי תשלומים כגון תגמול עבור שעות נוספות, אשר נגזריםמערךשעה–הינםחלקמהבסיסהקובעלהפחתה).</p>
+              <p>דמיהבראהוקצובתביגודאותשלומיםאחריםהדומיםלהם במהותםאףאםכינוייםשונה;</p>
+              <p>החזרהוצאות;     </p>
+              <p>גילוםחלקמהמסהחלעלהעובדאשרמשולםבידיהמעביד;</p>
+              <p>השלמת שכר עד לשכר מינימום כמשמעותו בחוק שכר מינימום,התשמ"ז-.9110 "משכורת"– הכנסתעבודהכמשמעותהבסעיף)3(3 לפקודת מסהכנסה,שניתנתבכסף .</p>
+            </intro>
+            <clause eId="art_c__para_9__subpara_b__cls_3">
+              <num>3.</num>
+              <intro>
+                <p>איןבאמורבהוראותסעיףזהכדילגרועמהוראותחוקשכרמינימום, התשמ"ז –  9110(דהיינו, ההוראות בדבר הפחתה אינן גורעות מזכאותעובדלשכרמינימוםכהגדרתובחוקהאמור).</p>
+              </intro>
+              <point eId="art_c__para_9__subpara_b__cls_3__pnt_2">
+                <num>2.</num>
+                <intro>
+                  <p>ההפחתהאשרנקבעהבסעיףגלעיללאתובאבחשבוןלצורךחישוב התשלומיםהבאים:</p>
+                </intro>
+                <point eId="art_c__para_9__subpara_b__cls_3__pnt_2__pnt_a">
+                  <num>א.</num>
+                  <content>
+                    <p>הסכום המשולם לקופת גמל לקצבה, בעד העובד או בעל התפקיד;</p>
+                  </content>
+                </point>
+                <point eId="art_c__para_9__subpara_b__cls_3__pnt_2__pnt_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>המשכורת הקובעת לצורך חישוב תשלומי עובדים בפנסיה תקציבית ( )<quantity eId="qty_6" refersTo="#percentage" normalized="3">3%</quantity>– רחל, אנא הפני לחוזר הרלוונטי שלכם או שלנו,מספרהחוזרשלנוהוא:1-9-3111 מיום.3.3.3111</p>
+                  </content>
+                </point>
+                <point eId="art_c__para_9__subpara_b__cls_3__pnt_2__pnt_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>תשלומי הפנסיה התקציבית לגמלאים שיפרשו בתקופה 9.0.3192–;29.93.3191</p>
+                  </content>
+                </point>
+              </point>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_d" repo:prose="same-source">
+        <num>ד.</num>
+        <heading>תשלום חד-פעמי המשולם לעובד, או לשאיריו, לפי דין או</heading>
+        <content>
+          <p>הסכם, עקב סיום עבודה או תפקיד, לפי העניין (כגון פיצויי פיטורים,פיצויבגיןימימחלהשלאנוצלו,פדיוןחופשה);</p>
+        </content>
+      </article>
+      <article eId="art_e" repo:prose="same-source">
+        <num>ה.</num>
+        <heading>דמי ביטוח המשולמים לפי חוזה ביטוח נכות כאמור בפרק ג'</heading>
+        <content>
+          <p>9119("ביטוח אובדן כושר</p>
+          <p>לחוק חוזה הביטוח, התשמ"א–</p>
+          <p>עבודה");</p>
+        </content>
+      </article>
+      <article eId="art_f" repo:prose="same-source">
+        <num>ו.</num>
+        <heading>תשלומי פנסיית גישור, או סכום תוספת לקצבה הנרכש</heading>
+        <content>
+          <p>מקופתגמללקצבה.</p>
+        </content>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה ,</p>
+      <p>סמנכ"ליתומנהלתהמינהל</p>
+      <p>העתק:</p>
+      <p>גב'דליתשטאובר-מנכ"ליתמשרדהחינוך</p>
+      <p>מרקוביאמסלם-הממונהעלהשכרוהסכמיעבודה,משרדהאוצר</p>
+      <p>מרקוביברנתן,סגןבכירלממונהעלהשכר,משרדהאוצר</p>
+      <p>גב'אריאלהטוקר-חשבתהמשרד</p>
+      <p>גב'מיכלכהן,סמנכ"ליתומנהלתהמינהלהפדגוגי</p>
+      <p>מרמשהשגיא,סמנכ"לבכירלמינהלכלכלהותקציבים</p>
+      <p>עו"דדוריתמורג-היועצתהמשפטית</p>
+      <p>מררןארז-יו"רארגוןהמוריםבבתיהספרהעל-יסודיים</p>
+      <p>מריוסיוסרמן-מזכ"להסתדרותהמורים</p>
+      <p>גב'תמייהושע,מ"ממנהלאגףבכירלכא"ב</p>
+      <p>מנהלותומנהליהמחוזות</p>
+      <p>גב'סופיהמינץ-מנהלתמינהלתקשובומערכותמידע</p>
+      <p>גב'טליהקורן-סגןמנהלהמינהלהפדגוגיומנהלאגףא'-ארגוןהלימודים גב'דסיבארי-מנהלתהאגףלחינוךעל-יסודי מרמנחםמזרחי,מינהלכלכלהותקציבים גב'תמרכהן,מנהלתתיאוםמשכורותמורים,חשבותהמשרד מרבניבנימין-מנהלתחוםבכירמשכורות,חשבותהמשרד גב'ננוליטרוני-מנהלתתחום,חשבותהמשרד מרמשהבכר-רכזחינוךוהשכלהגבוהה,משרדהאוצר מראביפרידמן,רכזחינוךמשרדהאוצר גב'רחלטייטלבום-ממונהעלתנאישירותעובדיהוראה עו"דדןבןחיים-מנהלהמחלקהליחסיעבודהושכר,מרכזהשלטוןהמקומי גב'חגיתמגן-ממונהעלתנאישירות,מרכזהשלטוןהמקומי מרשייעיצחקישועה-מנכ"לארגוןהמועצותהאיזוריות גזבריהמחוזות</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

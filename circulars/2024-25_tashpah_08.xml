@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2025-05-04/2024-25-tashpah-08/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2025-05-04/2024-25-tashpah-08" />
+          <FRBRdate date="2025-05-04" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2025-05-04/2024-25-tashpah-08/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2025-05-04/2024-25-tashpah-08/heb@" />
+          <FRBRdate date="2025-05-04" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2025-05-04/2024-25-tashpah-08/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2025-05-04/2024-25-tashpah-08/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2025-05-04" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="age" href="/ontology/concept/quantity/age" showAs="גיל" />
+        <TLCConcept eId="hour" href="/ontology/concept/quantity/hour" showAs="שעה" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="topic_1" href="/ontology/concept/il/payroll-topic/1" showAs="נושא 1 במערכת התשלומים" />
+        <TLCConcept eId="topic_40" href="/ontology/concept/il/payroll-topic/40" showAs="נושא 40 במערכת התשלומים" />
+        <TLCConcept eId="topic_558" href="/ontology/concept/il/payroll-topic/558" showAs="נושא 558 במערכת התשלומים" />
+        <TLCConcept eId="topic_559" href="/ontology/concept/il/payroll-topic/559" showAs="נושא 559 במערכת התשלומים" />
+        <TLCConcept eId="topic_575" href="/ontology/concept/il/payroll-topic/575" showAs="נושא 575 במערכת התשלומים" />
+        <TLCConcept eId="reform_oz" href="/ontology/concept/il/reform/oz-latmura" showAs="עוז לתמורה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_03d59943" href="/ontology/organization/il/unit/03d59943" showAs="מינהל פדגוגי" />
+        <TLCOrganization eId="unit_66b8d574" href="/ontology/organization/il/unit/66b8d574" showAs="אגף בכיר מוסדות חינוך" />
+        <TLCOrganization eId="unit_8e31efd0" href="/ontology/organization/il/unit/8e31efd0" showAs="אגף בכיר כח-אדם בהוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_021a1da6" href="/ontology/role/il/021a1da6" showAs="מנהלי תחומי כח-אדם בהוראה במחוזות" />
+        <TLCRole eId="office_5730deb6" href="/ontology/role/il/5730deb6" showAs="מנהלי ומנהלות המחוזות" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal-chinuch-m" href="/ontology/role/il/mankal-chinuch-m" showAs="מנכ&quot;ל משרד החינוך" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_172aa0ad" href="/ontology/person/il/172aa0ad" showAs="אוהד אלקבץ" />
+        <TLCPerson eId="p_19c967f8" href="/ontology/person/il/19c967f8" showAs="אילת מלקמן" />
+        <TLCPerson eId="p_794520a0" href="/ontology/person/il/794520a0" showAs="אינה זלצמן" />
+        <TLCPerson eId="p_ab9e7295" href="/ontology/person/il/ab9e7295" showAs="אלה מוזס" />
+        <TLCPerson eId="p_2e900d7f" href="/ontology/person/il/2e900d7f" showAs="אפי מלכין" />
+        <TLCPerson eId="p_0e3ca62d" href="/ontology/person/il/0e3ca62d" showAs="אפרת קמחי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_e496d0db" href="/ontology/person/il/e496d0db" showAs="טל ביבס" />
+        <TLCPerson eId="p_4a7c0e08" href="/ontology/person/il/4a7c0e08" showAs="מאיר שמעוני" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_8f816d76" href="/ontology/person/il/8f816d76" showAs="מקסים אנדרונוב" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_1e57b451" href="/ontology/person/il/1e57b451" showAs="סוניה פרץ" />
+        <TLCPerson eId="p_2dbccc15" href="/ontology/person/il/2dbccc15" showAs="עוז שמאי" />
+        <TLCPerson eId="p_bfdd3a7b" href="/ontology/person/il/bfdd3a7b" showAs="עידית ורונין" />
+        <TLCPerson eId="p_1de853f6" href="/ontology/person/il/1de853f6" showAs="ענבל וילנר" />
+        <TLCPerson eId="p_9dca1676" href="/ontology/person/il/9dca1676" showAs="רונן לוי" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_19cae32e" href="/ontology/person/il/19cae32e" showAs="רכאן שנאן" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_6f9e1f28" href="/ontology/person/il/6f9e1f28" showAs="שי חג'אג'" />
+        <TLCPerson eId="p_2c6f7186" href="/ontology/person/il/2c6f7186" showAs="שלמה חדד" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2024-25_tashpah_08.pdf" sha256="219737bcd1474dee29c19c18875e6b703f7cf8e6f303e33b065db72f2ecaf773" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות תשפ"ה/8</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                                         <organization eId="org_4" refersTo="#unit_03d59943">מינהל פדגוגי</organization>
+      </p>
+      <p><organization eId="org_5" refersTo="#unit_66b8d574">אגף בכיר מוסדות חינוך</organization>
+      </p>
+      <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2025-05-04">ו' באייר תשפ"ה</date>
+      </p>
+      <p><date date="2025-05-04">04 במאי 2025</date>
+      </p>
+      <p>סימוכין <docNumber>2000-1028-2025-0015162</docNumber> :</p>
+      <p>חוזר לבעלויות תשפ"ה8/</p>
+      <p>לכבוד</p>
+      <p>הבעלויות על החטיבות העליונות</p>
+      <p>שלום רב,</p>
+      <p>הנדון: הגשת בקשה לתקצוב שעות פרופסיונליות בשנה"ל תשפ"ה בשל השינוי במבנה שבוע העבודה</p>
+      <p>בחטיבות העליונות</p>
+      <p>בהמשך לחוזרנו לבעלויות מיום, <date date="2024-11-13">13.11.2024</date> <organization eId="org_6" refersTo="#moe">משרד החינוך</organization> יתקצב תוספת ש"ש פרופסיונליות לשנה"ל תשפ"ה</p>
+      <p>בלבד, לבעלויות על החטיבות העליונות המפוקחות ומתוקצבות על ידי <organization eId="org_7" refersTo="#moe">משרד החינוך</organization> והזכאיות לתקצוב שכ"ל,</p>
+      <p>על מנת לסייע בעלויות הנובעות מהצורך לשמור על היקפי המשרה שאושרו למורים המועסקים במסגרת רפורמת</p>
+      <p><concept eId="con_8" refersTo="#reform_oz">עוז לתמורה</concept> בשנה"ל תשפ"ה.</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_a" repo:prose="same-source">
+        <num>א.</num>
+        <intro>
+          <p>הבהרות ועדכונים לעניין עדכון היקף המשרה של עובדי הוראה ברפורמת <concept eId="con_9" refersTo="#reform_oz">עוז לתמורה</concept>, בהתאם לשבוע</p>
+          <p>העבודה החדש, בשנה"ל תשפ"ה</p>
+        </intro>
+        <paragraph eId="art_a__para_a">
+          <num>א.</num>
+          <content>
+            <p>בהתאם להנחיית <role eId="rol_10" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, יש לעדכן למורים (ולא למנהלים) בפועל בשכרם את בסיס המשרה</p>
+            <p>ואת מבנה שבוע העבודה החל מיום, <date date="2024-11-01">1.11.2024</date> בהתאם לטבלאות שבוע העבודה החדשות שנקבעו</p>
+            <p>בהסכם הקיבוצי מיום ( <date date="2024-09-23">23.9.2024</date> להלן -הסכם השכר). על מנת שלא להעמיס על בתי הספר, אין צורך</p>
+            <p>לעדכן שוב את מערכת עוש"ר ומבחינת דיווחי מערכת עוש"ר מבנה שבוע העבודה החדש יישאר, כפי שדווח על ידכם עד כה.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_b" repo:prose="same-source">
+        <num>ב.</num>
+        <content>
+          <p>מורה אשר היקף משרתו הצטמצם לאחר עדכון מבנה שבוע העבודה, ביחס להיקף המשרה שנקבע לו</p>
+          <p>לשנת הלימודים תשפ"ה טרום השינוי, ובהתקיים הכללים בסעיף ד' להלן, יש להוסיף לו ש"ש</p>
+          <p>פרונטאלית להוראה, על מנת לשמור על היקף משרתו בשנת הלימודים תשפ"ה.</p>
+          <p>יודגש כי לעיתים ניתן להוסיף <quantity eId="qty_1" refersTo="#hour" normalized="0.5">חצי ש"ש</quantity> או <quantity eId="qty_2" refersTo="#hour" normalized="0.25">רבע ש"ש</quantity> וכד', על מנת לעמוד בהיקף המשרה המתחייב.</p>
+        </content>
+      </article>
+      <article eId="art_c" repo:prose="same-source">
+        <num>ג.</num>
+        <content>
+          <p>למען הסר ספק, הוראות סעיף ב' לעיל לעניין השלמת היקף המשרה יחולו גם על עובד המועסק בפחות</p>
+          <p>משליש משרה, ככל שהיקף משרתו הצטמצם, ביחס להיקף המשרה שנקבע לו לשנת הלימודים תשפ"ה</p>
+          <p>טרום השינוי. יובהר, כי עפ"י טבלאות שבוע העבודה החדשות, היקף המשרה של מורה המועסק</p>
+          <p>בשעתיים, לדוגמה, גדל בשל המעבר לשבוע העבודה החדש (שכן נוספו לו שעות פרטניות שעות תומכות</p>
+          <p>הוראה שלא היו כלל במבנה שבוע העבודה שהיה קיים ערב ההסכם הקיבוצי).</p>
+        </content>
+      </article>
+      <article eId="art_d" repo:prose="same-source">
+        <num>ד.</num>
+        <heading>הכללים בעניין תוספת ש"ש לעובד הוראה-</heading>
+        <paragraph eId="art_d__para_1">
+          <num>1.</num>
+          <content>
+            <p>השעה הפרונטאלית שנוספה היא שעת הוראה בפועל בבית הספר, בה המורה ילמד בכתה והיא</p>
+            <p>תשובץ במערכת השעות של המורה ושל התלמידים. לדוגמה, תוספת של  <quantity eId="qty_3" refersTo="#hour" normalized="0.5">0.5ש"ש</quantity> ניתן ליישם באמצעות  <quantity eId="qty_4" refersTo="#hour" normalized="1">1ש"ש</quantity> לימוד פעם בשבועיים.</p>
+            <p>למען הסר ספק, ככל שתוספת ש"ש זו גוררת הגדלה של שעות פרטניות או שעות שהיה, בהתאם לטבלת מבנה שבוע העבודה, על העובד לבצע גם אותן בבית הספר, בהתאם לכללים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_d__para_2">
+          <num>2.</num>
+          <content>
+            <p>עפ"י סעיף ( 8ה) להסכם הקיבוצי מיום, <date date="2024-09-23">23.9.2024</date> המתייחס לעו"ה המועסק מעבר ל<quantity eId="qty_5" refersTo="#percentage" normalized="100">100%</quantity> -</p>
+            <p>משרה -שינויים בהיקף המשרה הנובעים ממעבר ממבנה שבוע העבודה שהיה קיים ערב ההסכם</p>
+            <p>הקיבוצי למבנה שבוע העבודה החדש אינם מהווים בסיס לטענה לפגיעה במחויבות להיקף משרה.</p>
+            <p>לעניין זה יש לבחון את היקף משרתו של העובד אצל אותה הבעלות (מעסיק).</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_e" repo:prose="same-source">
+        <num>ה.</num>
+        <content>
+          <p>עו"ה אשר בחר שלא להגדיל את מספר שעות עבודתו, על אף הירידה בהיקף משרתו -רשאי לעשות כן.</p>
+          <p>במקרה זה וכאשר מדובר בעובד הוראה קבוע, על הבעלות לאפשר למורה חל"ת לשנה"ל תשפ"ה על</p>
+          <p>היקף המשרה שפחת.</p>
+        </content>
+      </article>
+      <article eId="art_f" repo:prose="same-source">
+        <num>ו.</num>
+        <intro>
+          <p>תוספת אם -מספר השעות הפרונטאליות <concept eId="con_11" refersTo="#reform_oz">בעוז לתמורה</concept> המזכות בתוספת אם הוא ללא שינוי. מורה</p>
+          <p>מתחת <quantity eId="qty_6" refersTo="#age" normalized="50">לגיל  50</quantity> המלמדת  <quantity eId="qty_7" refersTo="#hour" normalized="19">19 שעות</quantity> ממשיכה להיות זכאית לתוספת אם, מורה <quantity eId="qty_8" refersTo="#age" normalized="50">בגיל  50</quantity>-55 המלמדת 18</p>
+          <p>שעות ממשיכה להיות זכאית לתוספת אם ומורה <quantity eId="qty_9" refersTo="#age" normalized="55">בגיל  55</quantity> ומעלה המלמדת  <quantity eId="qty_10" refersTo="#hour" normalized="16">16 שעות</quantity> ממשיכה להיות</p>
+          <p>זכאית לתוספת אם.</p>
+        </intro>
+        <paragraph eId="art_f__para_b">
+          <num>ב.</num>
+          <intro>
+            <p>תקצוב נורמטיבי לשעות פרופסיונליות</p>
+            <p>לאחר שהתקבלו פניות בעניין זה ונשקלו הדברים, הוחלט כי התקצוב ינתן עפ"י מפתח תקצוב נורמטיבי (אחיד),</p>
+            <p>ללא צורך בהגשת בקשה פרטנית וללא צורך בשליחת תלושי משכורת. עם זאת, הבעלות תדרש לחתום באופן</p>
+            <p>מקוון על התחייבות כי היא תשמור על היקפי המשרה של המורים, לשנה"ל תשפ"ה, בהתאם למבנה שבוע</p>
+            <p>העבודה בהסכם השכר והוראותיו וכי לא תהיינה לה דרישות נוספות בעניין זה <organization eId="org_12" refersTo="#moe">ממשרד החינוך</organization>.</p>
+          </intro>
+          <subparagraph eId="art_f__para_b__subpara_1">
+            <num>1.</num>
+            <intro>
+              <p>מפתח התקצוב הנורמטיבי לשעות פרופסיונליות</p>
+            </intro>
+            <clause eId="art_f__para_b__subpara_1__cls_a">
+              <num>א.</num>
+              <content>
+                <p>היקף הש"ש שיתוקצבו יחושב לפי מפתח של  <quantity eId="qty_11" refersTo="#percentage" normalized="1.75">1.75%</quantity>מסה"כ הש"ש הפרונטאליות בנושאים הבאים:</p>
+                <p>.<quantity eId="qty_12" refersTo="#hour" normalized="1">1ש"ש</quantity> בנושא שכ"ל (<concept eId="con_13" refersTo="#topic_1">נושא  1</concept> במת"מ) כפול אחוז משרות בעוז.</p>
+                <p>.<quantity eId="qty_13" refersTo="#hour" normalized="2">2ש"ש</quantity> תפקיד (<concept eId="con_14" refersTo="#topic_559">נושא  559</concept> במת"מ נגררת  =( <quantity eId="qty_14" refersTo="#hour" normalized="1">1 שעות</quantity>) בלבד).</p>
+                <p>.<quantity eId="qty_15" refersTo="#hour" normalized="3">3ש"ש</quantity> בנושא מוחזקות (נושאים  448, 447, 446 במת"מ), כפול אחוז המשרות בעוז.</p>
+                <p>.<quantity eId="qty_16" refersTo="#hour" normalized="4">4ש"ש</quantity> תפקיד לנושא המוחזקות (<concept eId="con_15" refersTo="#topic_575">נושא  575</concept> נגררת  =( <quantity eId="qty_17" refersTo="#hour" normalized="3">3 שעות</quantity> תפקיד) בלבד).</p>
+                <p>סה"כ זה יקטן, בהתאם לסה"כ השעות בנושאים הבאים (השעות שלהלן הן במינוס)-</p>
+                <p>.<quantity eId="qty_18" refersTo="#hour" normalized="5">5ש"ש</quantity> פרונטאליות עוז באיחוד משכורת (<concept eId="con_16" refersTo="#topic_40">נושא  40</concept> נגררת =( 3 פרונטאלי עוז מלא) בלבד).</p>
+                <p>.<quantity eId="qty_19" refersTo="#hour" normalized="6">6ש"ש</quantity> פרונטאליות מנהל (<concept eId="con_17" refersTo="#topic_558">נושא  558</concept> נגררת  =(1 הפחתת שעות מנהל) בלבד).</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_b__subpara_1__cls_b">
+              <num>ב.</num>
+              <content>
+                <p>בגין הש"ש הפרונטאלי שיחושבו בסעיף א' ינתנו גם ש"ש פרטניות וש"ש תומכות הוראה לפי המפתח הבא:</p>
+                <p>שעות פרטניות-</p>
+                <p>* 3 סה"כ שעות פרונטאליות לפי סעיף א ( שעות גיל – )25 שעות תומכות הוראה-</p>
+                <p>* 10 סה"כ שעות פרונטאליות לפי סעיף א ( שעות גיל – )25</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_b__subpara_1__cls_c">
+              <num>ג.</num>
+              <content>
+                <p>הש"ש יתוקצבו לחודשים .8/2025 -11/2024</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_f__para_b__subpara_2">
+            <num>2.</num>
+            <intro>
+              <p>תנאים נוספים לתקצוב הנורמטיבי</p>
+            </intro>
+            <clause eId="art_f__para_b__subpara_2__cls_1">
+              <num>1.</num>
+              <content>
+                <p>הבעלות רשאית לנייד שעות שהתקבלו למטרה זו בין החטיבות העליונות שבבעלותה, המפוקחות ע"י <organization eId="org_18" refersTo="#moe">משרד החינוך</organization>.</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_b__subpara_2__cls_2">
+              <num>2.</num>
+              <content>
+                <p>הבעלות מחוייבת לחתום באופן מקוון בפורטל, על כתב התחייבות המופיע בנספח א'. התחייבות</p>
+                <p>הבעלות תחול על כל מוסדות החטיבה העליונה שבבעלותה. לא ניתן לכלול בהתחייבות רק חלק מהמוסדות. קישור לפורטל יפורסם בימים הקרובים.</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_b__subpara_2__cls_3">
+              <num>3.</num>
+              <content>
+                <p>בעלות שלא תחתום על כתב התחייבות עד ליום  <date date="2025-05-25">25.5.2025</date> לא תהיה זכאית לתקצוב שעות פרופסיונליות ויקוזזו ממנה השעות הפרופסיונליות ששולמו לה עד לאותה העת, ככל ששולמו.</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_b__subpara_2__cls_4">
+              <num>4.</num>
+              <content>
+                <p>בעלות אשר לא תחתום על כתב התחייבות ואשר תבקש תקצוב ש"ש פרופסיונליות לפי בדיקה פרטנית-</p>
+                <p>הבקשה תוגש לגבי כל חטיבה עליונה בנפרד ע"י מנהל בית הספר, באופן מקוון. בהתאם לכללים המפורטים בסעיף ג' להלן.</p>
+                <p>הגשת הבקשות תתאפשר החל מיום  <date date="2025-06-03">3.6.2025</date> עד לתאריך  .<date date="2025-06-17">17.6.2025</date> הקישור לפורטל ישלח בהמשך.</p>
+              </content>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_f__para_c">
+          <num>ג.</num>
+          <intro>
+            <p>תקצוב חלופי לשעות פרופסיונליות עפ"י בקשה פרטנית</p>
+            <p>הגשת בקשה במסלול זה תתאפשר רק עבור חטיבות עליונות, אשר בחרו שלא לקבל תקצוב במסלול התקצוב</p>
+            <p>הנורמטיבי לשעות פרופסיונליות ולא חתמו על כתב ההתחייבות בנספח א'.</p>
+          </intro>
+          <subparagraph eId="art_f__para_c__subpara_1">
+            <num>1.</num>
+            <intro>
+              <p>התנאים לתקצוב שעות פרופסיונליות עפ"י בקשה פרטנית</p>
+              <p>יודגש כי בכל מקרה הבעלות מחוייבת להיקף משרתו של כל עובד ההוראה, בהתאם לכללים ולהסכמים.</p>
+              <p>התנאים לעיל ולהלן הם כללים לתקצוב בלבד.</p>
+              <p>התקצוב ינתן לאחר בדיקת נתוני המורים שעבורם יבקש המוסד תוספת בש"ש (למול היקף העסקתם המדווח) ובכפוף לתנאים והכללים הבאים:</p>
+            </intro>
+            <clause eId="art_f__para_c__subpara_1__cls_a">
+              <num>א.</num>
+              <content>
+                <p>מלוא הש"ש ( <quantity eId="qty_20" refersTo="#percentage" normalized="100">100%</quantity>מהשעות) שתוקצבו ע"י <organization eId="org_19" refersTo="#moe">משרד החינוך</organization> בכל נושאי התקצוב (שכ"ל, מוחזקות</p>
+                <p>וכד'), בוצעו ע"י המוסד, ודווחו במצבת המורים (יבדקו ש"ש מתוקצבות מול ש"ש המדווחות במצבת המורים).</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_c__subpara_1__cls_b">
+              <num>ב.</num>
+              <content>
+                <p>מס' הש"ש הפרונטאליות המדווחות למורה במצבת המורים לאחר עדכון שבוע העבודה, גדל בהיקף</p>
+                <p>של עד  <quantity eId="qty_21" refersTo="#hour" normalized="1">1ש"ש</quantity> ביחס למס' הש"ש הפרונטאליות שדווחו למורה עד ליום ( <date date="2024-11-14">14.11.2024</date> לפני עדכון מבנה שבוע העבודה) ולא יותר מכך.</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_c__subpara_1__cls_c">
+              <num>ג.</num>
+              <content>
+                <p>המורה שעבורו מבוקש תקצוב מועסק ברפורמת <concept eId="con_20" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_c__subpara_1__cls_d">
+              <num>ד.</num>
+              <content>
+                <p>עובד ההוראה שעבורו מבוקשת הבקשה אינו המנהל.</p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_c__subpara_1__cls_e">
+              <num>ה.</num>
+              <content>
+                <p>המורה שעבורו מבוקש תקצוב דווח במצבת המורים לשנה"ל תשפ"ה עד לתאריך .<date date="2024-11-14">14.11.2024</date>
+                </p>
+              </content>
+            </clause>
+            <clause eId="art_f__para_c__subpara_1__cls_f">
+              <num>ו.</num>
+              <content>
+                <p>המורה שעבורו מבוקש תקצוב מלמד בפועל בכיתה את הש"ש התוספתיות המבוקשות בבית הספר.</p>
+              </content>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_g" repo:prose="same-source">
+        <num>ז.</num>
+        <content>
+          <p>לא ינתן תקצוב עבור עו"ה המועסקים למעלה מ <quantity eId="qty_22" refersTo="#percentage" normalized="100">100%</quantity> -משרה אצל המעסיק או פחות משליש</p>
+          <p>משרה אצל המעסיק.</p>
+        </content>
+      </article>
+      <article eId="art_h" repo:prose="same-source">
+        <num>ח.</num>
+        <content>
+          <p>התקצוב בגין מורים המועסקים ב <quantity eId="qty_23" refersTo="#percentage" normalized="33">33%</quantity> -משרה ועד  <quantity eId="qty_24" refersTo="#percentage" normalized="75">75%</quantity>משרה לא יעלה על  <quantity eId="qty_25" refersTo="#hour" normalized="0.5">0.5ש"ש</quantity>. התקצוב בגין</p>
+          <p>מורים המועסקים  <quantity eId="qty_26" refersTo="#percentage" normalized="75">75%</quantity>משרה ועד  <quantity eId="qty_27" refersTo="#percentage" normalized="100">100%</quantity>משרה (כולל) לא יעלה על  <quantity eId="qty_28" refersTo="#hour" normalized="1">1ש"ש</quantity>.</p>
+        </content>
+      </article>
+      <article eId="art_i" repo:prose="same-source">
+        <num>ט.</num>
+        <content>
+          <p>בעלות שלאחר בדיקת בקשתה ימצא כי היא אינה זכאית לתקצוב שעות פרופסיונליות, או זכאית</p>
+          <p>לתקצוב של שעות פרופסיונליות בהיקף הנמוך מההיקף ששולם לה, יקוזזו ממנה השעות</p>
+          <p>הפרופסיונליות העודפות ששולמו לה עד לאותה העת, ככל ששולמו.</p>
+        </content>
+      </article>
+      <article eId="art_j" repo:prose="same-source">
+        <num>י.</num>
+        <intro>
+          <p>מנהל בית הספר והבעלות מתחייבים להעביר <organization eId="org_21" refersTo="#moe">למשרד החינוך</organization> את תלושי המשכורת של עובדי</p>
+          <p>ההוראה בבית הספר שעבורו מבוקש תקצוב. כמו כן, יתכן ובית הספר ידרש להעביר גם את תלושי</p>
+          <p>המשכורת של עובדי הוראה בבית הספר שעבורם לא ביקש תקצוב, לשם בקרה, ככל שידרש לכך ע"י</p>
+          <p><organization eId="org_22" refersTo="#moe">משרד החינוך</organization>.</p>
+        </intro>
+        <paragraph eId="art_j__para_ja">
+          <num>יא.</num>
+          <content>
+            <p>מנהל בית הספר והבעלות מתחייבים לשתף פעולה עם נציג מטעם <organization eId="org_23" refersTo="#moe">משרד החינוך</organization> או עם רו"ח מבקר</p>
+            <p>אשר ישלח מטעם <organization eId="org_24" refersTo="#moe">משרד החינוך</organization>, לשם בדיקת הבקשה ובדיקת ביצוע השעות ודיווח מצבת המורים,</p>
+            <p>בכלל זה מערכות השיעורים של המורים והתלמידים וכל מידע נוסף, ככל <organization eId="org_25" refersTo="#moe">שמשרד החינוך</organization> יחשוב</p>
+            <p>שיש לו רל בנטיות לעניין תקצוב שעות אלו ולענין פערים בדיווח. ככל שימצא, לאחר בדיקה, כי</p>
+            <p>הנתונים שדיווח בית הספר על מנת לקבל שעות פרופסיונליות, אינם תואמים את נתוני השכר</p>
+            <p>וההעסקה בפועל של המורים בבית הספר מלוא השעות הפרופסיונליות שקיבל המוסד בשנה"ל</p>
+            <p>תשפ"ה יקוזזו. בנוסף, המשרד ישקול האם המוסד יהיה מנוע מלבצע המרות במערכת גפ"ן בשנה"ל תשפ"ו.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_j__para_jb">
+          <num>יב.</num>
+          <intro>
+            <p>ככל שימצא, לאחר בדיקה, כי בית הספר לא השתמש במלוא השעות הפרופסיונליות שקיבל, או</p>
+            <p>בחלקן למטרה לשמה תוקצב בשעות אלו -מלוא השעות הפרופסיונליות שקיבל המוסד בשנה"ל</p>
+            <p>תשפ"ה יקוזזו. בנוסף, המשרד ישקול האם המוסד יהיה מנוע מלבצע המרות במערכת גפ"ן בשנה"ל תשפ"ו.</p>
+          </intro>
+          <subparagraph eId="art_j__para_jb__subpara_2">
+            <num>2.</num>
+            <intro>
+              <p>אופן הגשת הבקשה לתקצוב שעות פרופסיונליות עפ"י בקשה פרטנית</p>
+            </intro>
+            <clause eId="art_j__para_jb__subpara_2__cls_a">
+              <num>א.</num>
+              <content>
+                <p>הבקשה תוגש באופן מקוון ע"י מנהל בית הספר בפורטל בהתאם לקישור שישלח בהמשך.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jb__subpara_2__cls_b">
+              <num>ב.</num>
+              <content>
+                <p>במסך זה יוצגו כל עו"ה (תקינים ושגויים) אשר דווחו בחטיבה העליונה עד ליום  .<date date="2024-11-14">14.11.2024</date> לגבי כל עו"ה יוצג האם הדיווח שלו היה בסטטוס שגוי או תקין ביום זה.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jb__subpara_2__cls_c">
+              <num>ג.</num>
+              <content>
+                <p>לא יוצגו עו"ה מאחדי משכורת במדינה, אשר הבדיקה לגביהם ותוספת השעות (ככל שהיא נדרשת בהתאם לכללים) תבוצע בנפרד ולא תכלל בבקשה זו של בית הספר.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jb__subpara_2__cls_d">
+              <num>ד.</num>
+              <content>
+                <p>לגבי כל מורה-</p>
+                <p>על המנהל להשלים את מס' השעות המבוקש עבורו (בין  <quantity eId="qty_29" refersTo="#hour" normalized="0">0ש"ש</quantity> ל <quantity eId="qty_30" refersTo="#hour" normalized="1">1 -ש"ש</quantity> (כולל)).                    </p>
+                <p>על המנהל לציין האם המורה הסכים לבצע ש"ש פרונטאליות אלו וכן לבצע את הש"ש</p>
+                <p>הפרטניות והשהיה הנגזרות מהן.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jb__subpara_2__cls_e">
+              <num>ה.</num>
+              <content>
+                <p>המנהל יאשר בחתימתו כי משרות המורים בפועל בחטיבה העליונה הן כמדווח על ידו בבקשה וכן כי הדיווח של משרות אלו עודכן במערכת עוש"ר כנדרש.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jb__subpara_2__cls_f">
+              <num>ו.</num>
+              <content>
+                <p>המנהל יצרף, בהתאם להנחיות המופיעות בפורטל, התחייבות של הבעלות כי היא תשמור על</p>
+                <p>היקפי המשרה של המורים, לשנה"ל תשפ"ה, בהתאם למבנה שבוע העבודה בהסכם השכר והוראותיו.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jb__subpara_2__cls_g">
+              <num>ז.</num>
+              <content>
+                <p>תלושי המשכורת של המורים לחודשים ספטמבר  2024 עד ינואר  2025 יצורפו, בהתאם להוראות בפורטל.</p>
+              </content>
+            </clause>
+            <clause eId="art_j__para_jb__subpara_2__cls_h">
+              <num>ח.</num>
+              <content>
+                <p>תלושי המשכורת לחודשים פברואר  2025 עד אוגוסט, 2025 למורים אשר יאושרו להם שעות</p>
+                <p>פרופסיונליות, ישלחו ע"י בית הספר <organization eId="org_26" refersTo="#moe">למשרד החינוך</organization> עד למועדים אשר יקבעו בהמשך ע"י <organization eId="org_27" refersTo="#moe">משרד החינוך</organization>.</p>
+              </content>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person>                                                                <person eId="pers_2" refersTo="#p_1653fdf7">מנחם מזרחי</person>
+      </p>
+      <p>סמנכ"לית ומנהלת                                                              מנהל אגף בכיר</p>
+      <p><organization eId="org_28" refersTo="#unit_8e31efd0">אגף בכיר כח-אדם בהוראה</organization>                                                           מוסדות חינוך</p>
+      <p>העתקים:</p>
+      <p>מר <person eId="pers_3" refersTo="#p_4a7c0e08">מאיר שמעוני</person> <role eId="rol_29" refersTo="#role-mankal-chinuch-m">מנכ"ל משרד החינוך</role>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_2e900d7f">אפי מלכין</person>, <role eId="rol_30" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_31" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_5" refersTo="#p_172aa0ad">אוהד אלקבץ</person>, סגן בכיר למונה על השכר, <organization eId="org_32" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_6" refersTo="#p_9dca1676">רונן לוי</person>, <role eId="rol_33" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>מר <person eId="pers_7" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>גב' <person eId="pers_8" refersTo="#p_794520a0">אינה זלצמן</person>, סמנכ"לית בכירה ומנהלת המינהל הפדגוגי</p>
+      <p>עו"ד <person eId="pers_9" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_34" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p><role eId="rol_42" refersTo="#office_5730deb6">מנהלי ומנהלות המחוזות</role>
+      </p>
+      <p>מר <person eId="pers_10" refersTo="#p_e496d0db">טל ביבס</person>, סגן <role eId="rol_35" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>גב' <person eId="pers_11" refersTo="#p_88bb0a53">תמר כהן</person>, מנהלת תחום בכיר משכורות עובדי הוראה</p>
+      <p>עו"ד <person eId="pers_12" refersTo="#p_1de853f6">ענבל וילנר</person>, הלשכה המשפטית</p>
+      <p>מר <person eId="pers_13" refersTo="#p_4b7467e5">רן ארז</person>, יו"ר <organization eId="org_36" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>
+      </p>
+      <p>מר <person eId="pers_14" refersTo="#p_2c6f7186">שלמה חדד</person>, יו"ר המחלקה הפרופסיונאלית, <organization eId="org_37" refersTo="#irgun-hamorim">ארגון המורים העל יסודיים</organization>
+      </p>
+      <p>גב' <person eId="pers_15" refersTo="#p_ab9e7295">אלה מוזס</person>, מנהלת אגף א' חינוך על-יסודי</p>
+      <p>מר <person eId="pers_16" refersTo="#p_19cae32e">רכאן שנאן</person>, מנהל תחום, בכיר תקציב, מינהל כלכלה ותקציבים</p>
+      <p>מר <person eId="pers_17" refersTo="#p_8f816d76">מקסים אנדרונוב</person>, מנהל תחום בכיר תשלומים <organization eId="org_38" refersTo="#local-government">למרכז השלטון המקומי</organization>
+      </p>
+      <p>גב' <person eId="pers_18" refersTo="#p_f71cee61">רחל טייטלבום</person>, מנהלת תחום תנאי שירות עובדי הוראה</p>
+      <p>מר <person eId="pers_19" refersTo="#p_2dbccc15">עוז שמאי</person>, מנהל תחום ארגון ותהליכים</p>
+      <p>גב' <person eId="pers_20" refersTo="#p_0e3ca62d">אפרת קמחי</person>, מנהלת תחום בכיר תקציב על -יסודי</p>
+      <p>גב' <person eId="pers_21" refersTo="#p_bca8a4ab">חגית מגן</person>, ממונה על יחסי עבודה ושכר, <organization eId="org_39" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>עו"ד <person eId="pers_22" refersTo="#p_bfdd3a7b">עידית ורונין</person>, ממונה על תנאי שירות, <organization eId="org_40" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_23" refersTo="#p_6f9e1f28">שי חג'אג'</person>, יו"ר <organization eId="org_41" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>
+      </p>
+      <p><role eId="rol_43" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_44" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

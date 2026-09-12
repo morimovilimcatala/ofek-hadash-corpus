@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05" />
+          <FRBRdate date="2022-12-04" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/heb@" />
+          <FRBRdate date="2022-12-04" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2022-12-04" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
+        <TLCTerm eId="term_2db30064" href="/ontology/term/il/2db30064" showAs="עובדי הוראה" />
+        <TLCTerm eId="term_98100f05" href="/ontology/term/il/98100f05" showAs="תוספת שקלית 2022" />
+        <TLCTerm eId="term_aa7a696a" href="/ontology/term/il/aa7a696a" showAs="מקדמה א'" />
+        <TLCTerm eId="term_e10cda77" href="/ontology/term/il/e10cda77" showAs="מקדמה ב'" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCLocation eId="loc_9a8a8bcc" href="/ontology/location/il/9a8a8bcc" showAs="רח' כנפי נשרים 15" />
+        <TLCOrganization eId="unit_5887eb3f" href="/ontology/organization/il/unit/5887eb3f" showAs="תחום בכיר משכורות עובדי הוראה" />
+        <TLCOrganization eId="unit_8e31efd0" href="/ontology/organization/il/unit/8e31efd0" showAs="אגף בכיר כח-אדם בהוראה" />
+        <TLCOrganization eId="unit_f13f175e" href="/ontology/organization/il/unit/f13f175e" showAs="אגף בכיר הכספים" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_021a1da6" href="/ontology/role/il/021a1da6" showAs="מנהלי תחומי כח-אדם בהוראה במחוזות" />
+        <TLCRole eId="office_1900ecbc" href="/ontology/role/il/1900ecbc" showAs="סמנכ&quot;לית ומנהלת" />
+        <TLCRole eId="office_5730deb6" href="/ontology/role/il/5730deb6" showAs="מנהלי ומנהלות המחוזות" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCRole eId="office_c5b90a5e" href="/ontology/role/il/c5b90a5e" showAs="מנהלת תחום בכיר" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="regional-councils" href="/ontology/organization/il/regional-councils" showAs="ארגון המועצות האיזוריות" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהלת הכללית" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_66c94fb9" href="/ontology/person/il/66c94fb9" showAs="אביב מצא" />
+        <TLCPerson eId="p_19c967f8" href="/ontology/person/il/19c967f8" showAs="אילת מלקמן" />
+        <TLCPerson eId="p_794520a0" href="/ontology/person/il/794520a0" showAs="אינה זלצמן" />
+        <TLCPerson eId="p_4f19a187" href="/ontology/person/il/4f19a187" showAs="איריס שלו-טל" />
+        <TLCPerson eId="p_0167e941" href="/ontology/person/il/0167e941" showAs="דלית שטאובר" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_e496d0db" href="/ontology/person/il/e496d0db" showAs="טל ביבס" />
+        <TLCPerson eId="p_a21a15f1" href="/ontology/person/il/a21a15f1" showAs="יניב זוהר" />
+        <TLCPerson eId="p_97807776" href="/ontology/person/il/97807776" showAs="יפעת לוי" />
+        <TLCPerson eId="p_c9452c16" href="/ontology/person/il/c9452c16" showAs="לבנת גבריאלוב" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_2421ea1c" href="/ontology/person/il/2421ea1c" showAs="מקס אנדרונוב" />
+        <TLCPerson eId="p_5b10e7d8" href="/ontology/person/il/5b10e7d8" showAs="משה בכר" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_6be0991c" href="/ontology/person/il/6be0991c" showAs="סיגל אלה" />
+        <TLCPerson eId="p_2dbccc15" href="/ontology/person/il/2dbccc15" showAs="עוז שמאי" />
+        <TLCPerson eId="p_bfdd3a7b" href="/ontology/person/il/bfdd3a7b" showAs="עידית ורונין" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_6f9e1f28" href="/ontology/person/il/6f9e1f28" showAs="שי חג'אג'" />
+        <TLCPerson eId="p_4f819e0e" href="/ontology/person/il/4f819e0e" showAs="שמואל אפלבויים" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="transcribed" passes="1">The content is a transcription made by READING the document's pages (reference/transcriptions/), not extracted and not OCR. A single reader made it; no second pass yet (@passes=1). It is not 'verified': that word is reserved for a person checking against the source.</repo:prose>
+          <repo:date precision="printed">the date the document PRINTS in its own letterhead, read from the page (a transcription where there is one, otherwise the PDF's text layer). The filename carries only the school year, whose 1 September start is what this replaces.</repo:date>
+          <repo:source path="law/circulars/2022-23_tashpag_05.pdf" sha256="fb13eac7aae84f6b86619e6bcac056e4299dff7dff079c5279cfd2ab1873730d" transcription="reference/transcriptions/2022-23_tashpag_05.txt" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשפ"ג/5</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>חוזר לבעלויות <docNumber>תשפ"ג/5</docNumber>
+      </p>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_f13f175e">אגף בכיר הכספים</organization>
+      </p>
+      <p><organization eId="org_4" refersTo="#unit_5887eb3f">תחום בכיר משכורות עובדי הוראה</organization>
+      </p>
+      <p><organization eId="org_5" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>
+      </p>
+      <p><location eId="locref_1" refersTo="#loc_9a8a8bcc">רח' כנפי נשרים 15</location>, גבעת שאול, ירושלים; 9546427 טל' 073-3935108 פקס 073-3935180 | mail: <a href="mailto:ptzibur_ka@education.gov.il">ptzibur_ka@education.gov.il</a>
+      </p>
+      <p>شارع كنفي نشريم 15, جڤعات شاؤول, اورشليم-القدس, 9546427 هاتف 073-3935108 فاكس 073-3935180</p>
+      <p><a href="https://www.edu.gov.il">www.edu.gov.il</a>
+      </p>
+      <p>מסמך זה עלול להכיל מידע המוגן לפי חוק הגנת הפרטיות – מוסרו שלא כדין עובר עבירה</p>
+      <p><location eId="locref_2" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2022-12-04">י' בכסלו תשפ"ג</date>
+      </p>
+      <p><date date="2022-12-04">04 בדצמבר 2022</date>
+      </p>
+      <p>סימוכין : <docNumber>2000-1028-2022-0034204</docNumber>
+      </p>
+      <p>לכבוד</p>
+      <p>הבעלויות על גני ילדים מוכש"ר בחינוך הרגיל</p>
+      <p>הבעלויות על גני ילדים מוכש"ר בחינוך המיוחד שטרם הצטרפו לרפורמת <concept eId="con_6" refersTo="#reform_ofek">אופק חדש</concept>
+      </p>
+      <p>הבעלויות על בתי ספר מוכש"ר בחינוך הרגיל (יסודי וחט"ב)</p>
+      <p>הבעלויות על בתי ספר מוכש"ר בחינוך המיוחד שטרם הצטרפו לאופק</p>
+      <p>שלום רב,</p>
+      <p>הנדון: <docTitle eId="doctitle_1">
+          <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">הסכם שכר חדש מיום 19.10.2022</ref> לתקופה <date date="2020-01-01">1.1.2020</date> - <date date="2026-12-31">31.12.2026</date>
+        </docTitle>
+      </p>
+      <p>בתאריך <date date="2022-10-29">29.10.2022</date> נחתם הסכם שכר בין <organization eId="org_7" refersTo="#state-israel">מדינת ישראל</organization> <organization eId="org_8" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> לעניין תנאי ההעסקה של עובדי הוראה בתנאי רפורמת <concept eId="con_9" refersTo="#reform_ofek">אופק חדש</concept> ולעניין תנאי העסקה של עובדי הוראה בתנאי טרום הרפורמה.</p>
+      <p>מטרת חוזר זה הינה לפרט את תנאי ההעסקה ותנאי השכר בהתאם להסכם זה, כל רכיב בהסכם, על עובדי ההוראה המועסקים בתנאי טרום רפורמה ולפי המועד הקבוע בהסכם לתחולתו.</p>
+      <p>תחולה</p>
+      <p>הוראות חוזר זה יחולו על כל עובדי ההוראה המדורגים בדירוג עובדי הוראה, המועסקים על ידי הבעלויות על- מוסדות החינוך המפוקחים על ידי <organization eId="org_10" refersTo="#moe">משרד החינוך</organization> (להלן: "<def refersTo="#term_2db30064">עובדי הוראה</def>") ואשר מועסקים בשלבי החינוך הבאים :</p>
+      <p>– גני ילדים מוכש"ר בחינוך הרגיל</p>
+      <p>– גני ילדים מוכש"ר בחינוך המיוחד שטרם הצטרפו לרפורמת <concept eId="con_11" refersTo="#reform_ofek">אופק חדש</concept>
+      </p>
+      <p>– בתי ספר מוכש"ר בחינוך הרגיל (יסודי וחט"ב)</p>
+      <p>– בתי ספר מוכש"ר בחינוך המיוחד שטרם הצטרפו לאופק</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <intro>
+          <p>תוספת שקלית אחידה לעובדי הוראה שאינם ברפורמת <concept eId="con_12" refersTo="#reform_ofek">אופק חדש</concept> ("עולם ישן")</p>
+        </intro>
+        <paragraph eId="art_1__para_1-1">
+          <num>1.1</num>
+          <content>
+            <p>החל מיום <date date="2022-09-01">1.9.2022</date> יהיו עובדי ההוראה עליהם חל סעיף זה, זכאים לתוספת שקלית בסכום של <quantity eId="qty_1" refersTo="#ILS" normalized="500">500 ₪</quantity> למשרה מלאה (<quantity eId="qty_2" refersTo="#percentage" normalized="100">100%</quantity>) בכפוף לכללים המפורטים להלן (להלן : "<def refersTo="#term_98100f05">תוספת שקלית 2022</def>"). התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_1-2">
+          <num>1.2</num>
+          <content>
+            <p>עובד הוראה יהיה זכאי לתוספת שקלית 2022 בסכום שיחושב באופן יחסי לחלקיות משרתו בהשוואה לעובד הוראה במשרה מלאה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_1-3">
+          <num>1.3</num>
+          <content>
+            <p>תוספת שקלית 2022 תהווה שכר לכל דבר ועניין, והיא תובא בחשבון לעניין חישוב תוספות אחוזיות המחושבות מהשכר המשולב, למעט תוספת 2001, תוספת 2008 ותוספת 2011, וכן תובא בחשבון לעניין חישוב ערך שעה, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג – 1963, לעניין הפרשות לקופת גמל לקצבה (עבור עובד הוראה המבוטח בפנסיה צוברת בגין המשכורת הקובעת) ולעניין הפרשות לקרן השתלמות וכל הפרשה או ניכוי אחרים הנהוגים לעניין שכר משולב.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_1__para_1-4">
+          <num>1.4</num>
+          <content>
+            <p>מוסכם כי תוספת שקלית 2022 לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז – 1987. למען הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה – 2015.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <heading>מקדמות שכר</heading>
+        <paragraph eId="art_2__para_2-1">
+          <num>2.1</num>
+          <intro>
+            <p>לאור ההבנות שגובשו יש לשלם לעובדי ההוראה מקדמות על חשבון שכר עבודה, בהתאם ובכפוף לאמור להלן :</p>
+          </intro>
+          <subparagraph eId="art_2__para_2-1__subpara_a">
+            <num>א.</num>
+            <content>
+              <p>במשכורת חודש נובמבר 2022 ולכל המאוחר במשכורת חודש דצמבר 2022 תשולם לעובדי ההוראה מקדמה על חשבון שכר העבודה בסכומים כדלהלן :</p>
+              <p>לעובד ההוראה המועסק במשרה מלאה בתנאי העסקה טרום רפורמה – <quantity eId="qty_3" refersTo="#ILS" normalized="500">500 ₪</quantity>;</p>
+              <p>(להלן : "<def refersTo="#term_aa7a696a">מקדמה א'</def>")</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_2__para_2-1__subpara_b">
+            <num>ב.</num>
+            <content>
+              <p>במשכורת חודש דצמבר 2022 ולכל המאוחר במשכורת חודש ינואר 2023 תשולם לעובדי ההוראה מקדמה על חשבון שכר העבודה בסכומים כדלהלן :</p>
+              <p>לעובד ההוראה המועסק במשרה מלאה בתנאי העסקה טרום רפורמה – 500 [כך במקור]</p>
+              <p>(להלן : "<def refersTo="#term_e10cda77">מקדמה ב'</def>")</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_2__para_2-1__subpara_c">
+            <num>ג.</num>
+            <content>
+              <p>עובד הוראה המועסק במשרה חלקית יהיה זכאי לחלק היחסי של הסכומים המפורטים בהתאם לחלקיות המשרה בה הוא משובץ.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_2__para_2-2">
+          <num>2.2</num>
+          <content>
+            <p>סכום מקדמה א' שישולם כאמור ינוכה ממשכורת העובדים בהתאם לדין במועד תשלום המשכורת בה יבוצע התשלום הראשון לפי ההסכם הקיבוצי, או במשכורת חודש דצמבר 2022 , לפי המוקדם.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_2-3">
+          <num>2.3</num>
+          <content>
+            <p>סכום מקדמה ב' שישולם כאמור ינוכה ממשכורת העובדים בהתאם לדין במועד תשלום המשכורת שלאחר המשכורת בה יבוצע התשלום הראשון לפי ההסכם הקיבוצי, או במשכורת חודש ינואר 2023 , לפי המוקדם.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_2-4">
+          <num>2.4</num>
+          <content>
+            <p>לגבי עובד הוראה אשר שולמה לו מקדמה בהתאם לאמור בסעיף 20.1 א' וסעיף 20.1 ב', אשר יסיים את העסקתו לפני מועד ניכוי המקדמה כאמור בסעיף 20.2 או בסעיף 20.3 לעיל, לפי העניין, יש לנכות את סכום המקדמה במסגרת ביצוע גמר חשבון עם העובד כאמור.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_2-5">
+          <num>2.5</num>
+          <content>
+            <p>המקדמה תשולם רק לעובד שחתם קודם לכן על טופס "הודעה על קבלת מקדמה" המצורף <ref href="#att_1">כנספח א'</ref> לחוזר זה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_2-6">
+          <num>2.6</num>
+          <content>
+            <p>לתלוש השכר של כל אחת מהמשכורות בה שולמה מקדמה יש לצרף ההודעה הבאה :</p>
+            <p>"במשכורת חודש ________ 2022 שולמה בשכרך מקדמה על חשבון שכר העבודה. מועד ניכוי המקדמה יהיה במועד תשלום המשכורת בה מבוצע התשלום הראשון לפי ההסכם הקיבוצי או במשכורת חודש _________ 2022 , לפי המוקדם / במועד תשלום המשכורת שלאחר המשכורת בה יבוצע התשלום הראשון לפי ההסכם הקיבוצי, או במשכורת חודש __________ 2023 , לפי המוקדם (למחוק את המיותר). אם תסיים העסקתך <organization eId="org_13" refersTo="#moe">במשרד החינוך</organization> בטרם מועד ניכוי המקדמה כאמור, תנוכה המקדמה במסגרת גמר חשבון."</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_3" repo:prose="same-source">
+        <num>3</num>
+        <content>
+          <p>חוזר זה מטרתו לרכז את הכללים האמורים <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">בהסכם מיום 19.10.22</ref>, בכל מקום בו קיימת סתירה בין האמור בחוזר זה לבין האמור בהסכם הקיבוצי– יחול האמור בהסכם.</p>
+        </content>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p>[חתימות]</p>
+      <p><signature eId="signature_1">
+          <person eId="pers_1" refersTo="#p_88bb0a53">תמר כהן</person> <role eId="rol_26" refersTo="#office_c5b90a5e">מנהלת תחום בכיר</role>
+        </signature>
+      </p>
+      <p>משכורות לעובדי הוראה</p>
+      <p>סוניה פרץ</p>
+      <p><role eId="rol_27" refersTo="#office_1900ecbc">סמנכ"לית ומנהלת</role>
+      </p>
+      <p><organization eId="org_14" refersTo="#unit_8e31efd0">אגף בכיר כח-אדם בהוראה</organization>
+      </p>
+      <p>העתקים :</p>
+      <p>גב' <person eId="pers_2" refersTo="#p_0167e941">דלית שטאובר</person>, <role eId="rol_15" refersTo="#role-mankal">המנהלת הכללית</role>
+      </p>
+      <p>מר <person eId="pers_3" refersTo="#p_adcb72bb">קובי בר נתן</person>, <role eId="rol_16" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_17" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_5b10e7d8">משה בכר</person>, סגן בכיר לממנה על השכר, <organization eId="org_18" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_5" refersTo="#p_a21a15f1">יניב זוהר</person>, <role eId="rol_19" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>מר <person eId="pers_6" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר ומנהל מינהל כלכלה ותקציבים</p>
+      <p>גב' <person eId="pers_7" refersTo="#p_794520a0">אינה זלצמן</person>, סמנכ"לית בכירה ומנהלת המינהל הפדגוגי</p>
+      <p>עו"ד <person eId="pers_8" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_20" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>עו"ד <person eId="pers_9" refersTo="#p_4f19a187">איריס שלו-טל</person>, סגנית בכירה ליועצת המשפטית</p>
+      <p>מר <person eId="pers_10" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף בכיר, ארגון מוסדות חינוך, המינהל הפדגוגי</p>
+      <p><role eId="rol_28" refersTo="#office_5730deb6">מנהלי ומנהלות המחוזות</role>
+      </p>
+      <p>מר <person eId="pers_11" refersTo="#p_e496d0db">טל ביבס</person>, סגן חשב <organization eId="org_21" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p>גב' <person eId="pers_12" refersTo="#p_c9452c16">לבנת גבריאלוב</person>, מנהלת תחום (תקצוב מוניציפאלי ועלויות)</p>
+      <p>גב' <person eId="pers_13" refersTo="#p_6be0991c">סיגל אלה</person>, מנהלת תחום בכיר (תקציב עובד הוראה ומוכש"ר)</p>
+      <p>מר <person eId="pers_14" refersTo="#p_2421ea1c">מקס אנדרונוב</person>, מנהל תחום בכיר הוצאות ותשלומים</p>
+      <p>גב' <person eId="pers_15" refersTo="#p_f71cee61">רחל טייטלבום</person>, מנהלת תחום תנאי שירות עובדי הוראה</p>
+      <p>מר <person eId="pers_16" refersTo="#p_4f819e0e">שמואל אפלבויים</person> רכז חינוך והשכלה גבוהה, האגף לשכר והסכמי עבודה, <organization eId="org_22" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_17" refersTo="#p_2dbccc15">עוז שמאי</person>, מנהל תחום ארגון ותהליכים</p>
+      <p>מר <person eId="pers_18" refersTo="#p_66c94fb9">אביב מצא</person>, מנהל חטיבה בכירה יישומי שכר וכח אדם בהוראה, מינהל תקשוב</p>
+      <p><role eId="rol_29" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_30" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_19" refersTo="#p_bca8a4ab">חגית מגן</person>, ממונה על יחסי עבודה ושכר, <organization eId="org_23" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>עו"ד <person eId="pers_20" refersTo="#p_bfdd3a7b">עידית ורונין</person>, ממונה על תנאי שירות, <organization eId="org_24" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_21" refersTo="#p_6f9e1f28">שי חג'אג'</person>, מנכ"ל <organization eId="org_25" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
+      </p>
+      <p>גב' <person eId="pers_22" refersTo="#p_97807776">יפעת לוי</person>, ממונה תנאי שירות עובדי הוראה</p>
+    </conclusions>
+    <attachments>
+      <attachment eId="att_1">
+        <heading>נספח א' - הודעה על קבלת מקדמה – עובדי הוראה</heading>
+        <doc name="annex">
+          <meta>
+            <identification source="#repo-generator">
+              <FRBRWork>
+                <FRBRthis value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/!annex_1" />
+                <FRBRuri value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05" />
+                <FRBRdate date="2022-12-04" name="issued" />
+                <FRBRauthor href="#repo-generator" as="#author" />
+                <FRBRcountry value="il" />
+                <FRBRsubtype value="annex" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/heb@/!annex_1" />
+                <FRBRuri value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/heb@" />
+                <FRBRdate date="2022-12-04" name="issued" />
+                <FRBRauthor href="#repo-generator" as="#author" />
+                <FRBRlanguage language="heb" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/heb@/!annex_1.xml" />
+                <FRBRuri value="/akn/il/doc/circular/2022-12-04/2022-23-tashpag-05/heb@/!annex_1.xml" />
+                <FRBRdate date="2026-08-27" name="generation" />
+                <FRBRauthor href="#repo-generator" as="#editor" />
+                <FRBRformat value="xml" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <hcontainer eId="att_1__hc_1" name="text" repo:structure="enumerated">
+              <paragraph eId="att_1__hc_1__para_1">
+                <num>1.</num>
+                <content>
+                  <p>במשכורת חודש _________ 2022 תשולם בשכרך מקדמה על חשבון שכר העבודה בסכום של ________₪.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_2">
+                <num>2.</num>
+                <content>
+                  <p>מועד ניכוי המקדמה יהיה במועד תשלום המשכורת בה מבוצע התשלום הראשון לפי ההסכם הקיבוצי או במשכורת חודש _________ 2023 , לפי המוקדם.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_3">
+                <num>3.</num>
+                <content>
+                  <p>במשכורת חודש _________ 2022 תשולם בשכרך מקדמה על חשבון שכר העבודה בסכום של ________ ₪.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_4">
+                <num>4.</num>
+                <content>
+                  <p>מועד ניכוי המקדמה יהיה במועד תשלום המשכורת שלאחר המשכורת בה יבוצע התשלום הראשון לפי ההסכם הקיבוצי, או במשכורת חודש _________ 2023 , לפי המוקדם.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="att_1__hc_1__para_5">
+                <num>5.</num>
+                <content>
+                  <p>יובהר כי לגבי עובד שמסיים את העסקתו <organization eId="org_31" refersTo="#moe">במשרד החינוך</organization> לפני מועד הניכוי של אחת המקדמות כאמור לעיל, תופחת המקדמה במסגרת גמר החשבון.</p>
+                  <p>אני מאשר כי המידע המפורט לעיל הובא לידיעתי.</p>
+                  <p>שם העובד/ת : _____________________</p>
+                  <p>מספר תעודת זהות : ________________</p>
+                  <p>תאריך : ____________________</p>
+                  <p>חתימה : ____________________</p>
+                </content>
+              </paragraph>
+            </hcontainer>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </doc>
+</akomaNtoso>

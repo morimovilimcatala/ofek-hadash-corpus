@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2026-02-25/2025-26-tashpo-05/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2026-02-25/2025-26-tashpo-05" />
+          <FRBRdate date="2026-02-25" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2026-02-25/2025-26-tashpo-05/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2026-02-25/2025-26-tashpo-05/heb@" />
+          <FRBRdate date="2026-02-25" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2026-02-25/2025-26-tashpo-05/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2026-02-25/2025-26-tashpo-05/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2026-02-25" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="topic_558" href="/ontology/concept/il/payroll-topic/558" showAs="נושא 558 במערכת התשלומים" />
+        <TLCConcept eId="reform_oz" href="/ontology/concept/il/reform/oz-latmura" showAs="עוז לתמורה" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_6f9cf346" href="/ontology/organization/il/unit/6f9cf346" showAs="אגף בכיר כספים" />
+        <TLCOrganization eId="unit_8e31efd0" href="/ontology/organization/il/unit/8e31efd0" showAs="אגף בכיר כח-אדם בהוראה" />
+        <TLCOrganization eId="unit_e11e44ca" href="/ontology/organization/il/unit/e11e44ca" showAs="תחום בכיר תאום משכורות עובדי הוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCRole eId="office_989834aa" href="/ontology/role/il/989834aa" showAs="מנהלי מחוזות" />
+        <TLCRole eId="office_ccb506c1" href="/ontology/role/il/ccb506c1" showAs="מנהלי תחומי כח אדם במחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal-chinuch-m" href="/ontology/role/il/mankal-chinuch-m" showAs="מנכ&quot;ל משרד החינוך" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_172aa0ad" href="/ontology/person/il/172aa0ad" showAs="אוהד אלקבץ" />
+        <TLCPerson eId="p_794520a0" href="/ontology/person/il/794520a0" showAs="אינה זלצמן" />
+        <TLCPerson eId="p_2e900d7f" href="/ontology/person/il/2e900d7f" showAs="אפי מלכין" />
+        <TLCPerson eId="p_0e3ca62d" href="/ontology/person/il/0e3ca62d" showAs="אפרת קמחי" />
+        <TLCPerson eId="p_2fca5b77" href="/ontology/person/il/2fca5b77" showAs="דודי מזרחי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_4a7c0e08" href="/ontology/person/il/4a7c0e08" showAs="מאיר שמעוני" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_1e57b451" href="/ontology/person/il/1e57b451" showAs="סוניה פרץ" />
+        <TLCPerson eId="p_bfdd3a7b" href="/ontology/person/il/bfdd3a7b" showAs="עידית ורונין" />
+        <TLCPerson eId="p_6d45b74d" href="/ontology/person/il/6d45b74d" showAs="עמית ענבר בן-זאב" />
+        <TLCPerson eId="p_1de853f6" href="/ontology/person/il/1de853f6" showAs="ענבל וילנר" />
+        <TLCPerson eId="p_9dca1676" href="/ontology/person/il/9dca1676" showAs="רונן לוי" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_19cae32e" href="/ontology/person/il/19cae32e" showAs="רכאן שנאן" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_6f9e1f28" href="/ontology/person/il/6f9e1f28" showAs="שי חג'אג'" />
+        <TLCPerson eId="p_0da2f0d4" href="/ontology/person/il/0da2f0d4" showAs="שלי קרן" />
+        <TLCPerson eId="p_2c6f7186" href="/ontology/person/il/2c6f7186" showAs="שלמה חדד" />
+        <TLCPerson eId="p_3f99a273" href="/ontology/person/il/3f99a273" showAs="שרית חאיק שפיגלשטיין" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2025-26_tashpo_05.pdf" sha256="9ac843631292d101adee7493dcd905e6a556d61f12d0a4a2c738c4d692919cf6" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשפ"ו/5</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                            <organization eId="org_4" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
+      </p>
+      <p><organization eId="org_5" refersTo="#unit_e11e44ca">תחום בכיר תאום משכורות עובדי הוראה</organization>
+      </p>
+      <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2026-02-25">ח' אדר תשפ"ו</date>
+      </p>
+      <p><date date="2026-02-25">25 פברואר 2026</date>
+      </p>
+      <p>סימוכין <docNumber>2000-1028-2026-0002870</docNumber> :</p>
+      <p>חוזר לבעלויות <docNumber>תשפ"ו5/</docNumber>
+      </p>
+      <p>לכבוד</p>
+      <p>הבעלויות על מוסדות החינוך</p>
+      <p>שלום רב,</p>
+      <p>הנדון: עדכון תוספת שקלית  2016 לעובדי הוראה בחטיבה העליונה ובכיתות יג'-יד'</p>
+      <p>ועדכון תוספת  -87 מעבר לרפורמה למנהלים בחטיבה העליונה <concept eId="con_6" refersTo="#reform_oz">בעוז לתמורה</concept>
+      </p>
+      <p>בהתאם להסכמי השכר עם <organization eId="org_7" refersTo="#irgun-hamorim">ארגון המורים</organization> מיום ) <date date="2018-03-14">14.3.2018</date> סעיפים  (5א( )ב( ו (5-ב( )ב((, ומיום <date date="2017-03-23">23.3.2017</date>
+      </p>
+      <p>)סעיף  (4ד( (, ובהתאם לחוזרנו לבעלויות <ref href="/akn/il/doc/circular/2024-02-14/2023-24-tashpad-05">תשפ"ד, 5 /</ref>תוספת שקלית  2016 צמודה למדד המחירים לצרכן.</p>
+      <p>מטרת חוזר זה הינה לפרסם את ההוראות לגבי עדכון ההצמדה למדד עבור תשלום תוספת שקלית  2016 לעובדי</p>
+      <p>הוראה, בהתאם לערכה כפי שנקבע בהסכמים הקיבוציים כאמור, בגין התקופה שמיום  <date date="2026-01-01">1.1.2026</date> ואילך.</p>
+      <p>ההצמדה של תוספת שקלית  2016 מכוח חוזר זה הינה למדד דצמבר  2025 שהתפרסם בחודש ינואר ) 2026 לעומת</p>
+      <p>מדד דצמבר  2024 שהתפרסם בחודש ינואר. ( 2025</p>
+      <p>תחולה:</p>
+      <p>הוראות חוזר זה יחולו על כל עובד המדורג בדירוג עובדי הוראה, המועסק על-ידי הבעלויות על מוסדות החינוך</p>
+      <p>המפוקחים על ידי <organization eId="org_8" refersTo="#moe">משרד החינוך</organization> )להלן": עובד הוראה"( ואשר מועסק בחטיבות העליונות ובכיתות יג'-יד'.</p>
+      <p>למען הסר ספק, ההוראות יחולו הן לגבי עובדי הוראה המועסקים לפי תנאי רפורמת <concept eId="con_9" refersTo="#reform_oz">עוז לתמורה</concept> והן לגבי עובדי</p>
+      <p>הוראה המועסקים שלא עפ"י תנאי הרפורמה.</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_a" repo:prose="same-source">
+        <num>א.</num>
+        <heading>עדכון תוספת שקלית 2016</heading>
+        <content>
+          <p>כדלהלן:    הסכומים       על    ויעמוד    יעודכן    2016     שקלית      תוספת     סכום     <date date="2026-01-01">1.1.2026</date>     מיום     החל</p>
+          <p>מורים ברפורמת <concept eId="con_10" refersTo="#reform_oz">עוז לתמורה</concept>) <quantity eId="qty_1" refersTo="#ILS" normalized="1647.42">₪ 1,647.42</quantity> -במקום  <quantity eId="qty_2" refersTo="#ILS" normalized="1605.05">₪ 1605.05</quantity> לחודש(.</p>
+          <p>מורים שאינם ברפורמת <concept eId="con_11" refersTo="#reform_oz">עוז לתמורה</concept> ומנהלים) <quantity eId="qty_3" refersTo="#ILS" normalized="1393.07">₪ 1,393.07</quantity> -במקום  <quantity eId="qty_4" refersTo="#ILS" normalized="1357.24">₪ 1,357.24</quantity> לחודש(.</p>
+          <p>שיפוי לבעלויות יינתן בעלויות השעה הרלוונטיות במערכת התשלומים.</p>
+        </content>
+      </article>
+      <article eId="art_b" repo:prose="same-source">
+        <num>ב.</num>
+        <heading>עדכון סכום תוספת -'87 מעבר רפורמה למנהלים</heading>
+        <content>
+          <p>בהתאם להסכם כאמור ולסעיף  18 לחוזרנו לבעלויות תשע"ח, 9/יש לעדכן את סכום תוספת  -'87 מעבר</p>
+          <p>לרפורמה למנהלים המועסקים לפי תנאי רפורמת <concept eId="con_12" refersTo="#reform_oz">עוז לתמורה</concept>, בהתאם לעדכון המדד, כאמור לעיל.</p>
+          <p>החל מיום ) <quantity eId="qty_5" refersTo="#ILS" normalized="1201.86">₪ 1,201.86</quantity> -<date date="2026-01-01">1.1.2026</date> במקום  <quantity eId="qty_6" refersTo="#ILS" normalized="1170.95">₪ 1,170.95</quantity> לחודש(.</p>
+          <p>פברואר ) 2026בתחולה           במערכת התשלומים <concept eId="con_13" refersTo="#topic_558">בנושא  558</concept>בשכל"מ חודש                       שיפוי לבעלויות הועבר</p>
+          <p>רטרואקטיבית לחודש ינואר  ( 2026 אשר שולם בתחילת חודש מרץ .2026</p>
+          <p>יש לשלם את תוספת שקלית  2016 וכן את תוספת  -'87 מעבר לרפורמה )למנהלים( בערכן המעודכן לעיל, כולל</p>
+          <p>הפרשים רטרואקטיביים, החל מחודש ינואר .2026</p>
+        </content>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person>                                                    <person eId="pers_2" refersTo="#p_88bb0a53">תמר כהן</person>
+      </p>
+      <p>סמנכ"לית ומנהלת                                              מנהלת תחום בכיר</p>
+      <p><organization eId="org_14" refersTo="#unit_8e31efd0">אגף בכיר כח-אדם בהוראה</organization>                                       משכורות לעובדי הוראה</p>
+      <p>העתקים:</p>
+      <p>מר <person eId="pers_3" refersTo="#p_4a7c0e08">מאיר שמעוני</person>, <role eId="rol_15" refersTo="#role-mankal-chinuch-m">מנכ"ל משרד החינוך</role>
+      </p>
+      <p>מר <person eId="pers_4" refersTo="#p_2e900d7f">אפי מלכין</person>, <role eId="rol_16" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_17" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_5" refersTo="#p_172aa0ad">אוהד אלקבץ</person>, סגן <role eId="rol_18" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_19" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_6" refersTo="#p_9dca1676">רונן לוי</person>, <role eId="rol_20" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>מר <person eId="pers_7" refersTo="#p_2fca5b77">דודי מזרחי</person>, סמנכ"ל בכיר ומנהל מינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_8" refersTo="#p_3f99a273">שרית חאיק שפיגלשטיין</person>, <role eId="rol_21" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>מר <person eId="pers_9" refersTo="#p_4b7467e5">רן ארז</person>, יו"ר <organization eId="org_22" refersTo="#irgun-hamorim">ארגון המורים העל יסודיים</organization>
+      </p>
+      <p><role eId="rol_28" refersTo="#office_989834aa">מנהלי מחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_10" refersTo="#p_794520a0">אינה זלצמן</person>, סמנכ"לית בכירה ומנהלת המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_11" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף בכיר ארגון מוסדות חינוך</p>
+      <p>גב' <person eId="pers_12" refersTo="#p_0e3ca62d">אפרת קמחי</person>, מנהלת תחום בכיר )תקציב על יסודי(, מינהל כלכלה ותקציבים</p>
+      <p>מר <person eId="pers_13" refersTo="#p_19cae32e">רכאן שנאן</person>, מנהל תחום בכיר תקציב מוניציפלי, מינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_14" refersTo="#p_1de853f6">ענבל וילנר</person>, סגנית בכירה ליועצת המשפטית</p>
+      <p>מר <person eId="pers_15" refersTo="#p_6d45b74d">עמית ענבר בן-זאב</person>, רכז חינוך שכר והסכמי עבודה, <organization eId="org_23" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_16" refersTo="#p_f71cee61">רחל טייטלבום</person>, מנהלת תחום תנאי שירות עובדי הוראה</p>
+      <p>גב' <person eId="pers_17" refersTo="#p_bca8a4ab">חגית מגן</person>, ראש מינהל שכר והסכמי עבודה, <organization eId="org_24" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>גב' <person eId="pers_18" refersTo="#p_0da2f0d4">שלי קרן</person>, יו"ר איגוד מנהלי אגפי החינוך ברשויות המקומיות</p>
+      <p>עו"ד <person eId="pers_19" refersTo="#p_bfdd3a7b">עידית ורונין</person>, ממונה על תנאי שירות, <organization eId="org_25" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_20" refersTo="#p_6f9e1f28">שי חג'אג'</person>, יו"ר <organization eId="org_26" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>
+      </p>
+      <p>מר <person eId="pers_21" refersTo="#p_2c6f7186">שלמה חדד</person>, יו"ר המחלקה הפרופסיונאלית, <organization eId="org_27" refersTo="#irgun-hamorim">ארגון המורים</organization>
+      </p>
+      <p><role eId="rol_29" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+      <p><role eId="rol_30" refersTo="#office_ccb506c1">מנהלי תחומי כח אדם במחוזות</role>
+      </p>
+      <p>הנהלת אגף בכיר כוח-אדם בהוראה</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2013-09-01/2013-14-tashad-03/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2013-09-01/2013-14-tashad-03" />
+          <FRBRdate date="2013-09-01" name="schoolYearStart" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2013-09-01/2013-14-tashad-03/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2013-09-01/2013-14-tashad-03/heb@" />
+          <FRBRdate date="2013-09-01" name="schoolYearStart" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2013-09-01/2013-14-tashad-03/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2013-09-01/2013-14-tashad-03/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2013-09-01" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
+        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
+        <TLCOrganization eId="unit_9b299eca" href="/ontology/organization/il/unit/9b299eca" showAs="אגף בכיר כח אדם בהוראה" />
+        <TLCOrganization eId="unit_cd9b3fd1" href="/ontology/organization/il/unit/cd9b3fd1" showAs="מנהל עובדי הוראה" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCPerson eId="p_a1c0ea3a" href="/ontology/person/il/a1c0ea3a" showAs="אריאלה טוקר" />
+        <TLCPerson eId="p_be4337f4" href="/ontology/person/il/be4337f4" showAs="גילה נגר" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="school-year">SCHOOL YEAR from the filename, dated to its 1 September start. This is NOT the document's own date, which is not encoded in the filename.</repo:date>
+          <repo:source path="law/circulars/2013-14_tashad_03.pdf" sha256="2cd4ac60bdc20b2883802562cb3983fc4937c0bdecadbe04c5bc16cd02f98d3b" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ד/3</docNumber> - חוזר תשלום מקדמות לעו"ה עובדי בעלויות בחט"ב הרשמיות המועסקים בהתאם לרפורמת "<concept eId="con_1" refersTo="#reform_ofek">אופק חדש</concept>" בשנה"ל תשע"ד</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p><organization eId="org_2" refersTo="#state-israel">מדינת ישראל</organization>
+      </p>
+      <p><organization eId="org_3" refersTo="#moe">משרד החינוך</organization>
+      </p>
+      <p><organization eId="org_4" refersTo="#unit_cd9b3fd1">מנהל עובדי הוראה</organization>
+      </p>
+      <p><organization eId="org_5" refersTo="#unit_9b299eca">אגף בכיר כח אדם בהוראה</organization>
+      </p>
+      <p>חוזר תשלום מקדמות לעו"ה עובדי בעלויות בחט"ב הרשמיות המועסקים בהתאם לרפורמת "<concept eId="con_6" refersTo="#reform_ofek">אופק חדש</concept>"</p>
+      <p>בשנה"ל תשע"ד</p>
+    </preamble>
+    <mainBody>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <heading>מבוא</heading>
+        <intro>
+          <p>בהמשך לחוזרנו לבעלויות <ref href="/akn/il/doc/circular/2013-11-27/2013-14-tashad-01">תשע"ד 1/</ref>בנושא העסקת עו"ה עובדי בעלויות בחט"ב הרשמיות בהתאם לרפורמת "<concept eId="con_7" refersTo="#reform_ofek">אופק חדש</concept>" לשנה"ל תשע"ד, אני מבקשים להסב את תשומת לבכם לשינוי סעיף  5 בחוזר בדבר גובה מקדמות השכר לעו"ה .</p>
+          <p>מרכיבי מקדמות השכר:</p>
+        </intro>
+        <paragraph eId="art_1__para_1-1">
+          <num>1.1</num>
+          <intro>
+            <p>בשלב הראשון יקבלו עובדי ההוראה, אשר טרם נקבעו להם דירוג ודרגה <concept eId="con_8" refersTo="#reform_ofek">באופק חדש</concept>, מקדמה בגין העסקת <concept eId="con_9" refersTo="#reform_ofek">באופק חדש</concept>, בנוסף לשכרם הנוכחי, אשר תחושב על -פיו (לפי תנאי השכר שלא לפי <concept eId="con_10" refersTo="#reform_ofek">אופק חדש</concept>). תשלום המקדמה יחושב עבור רכיבי השכר הבאים: שכר משולב, תוספת, 87 תוספת, 94 תוספת, 2001 תוספת, 2008 גמול פיצול, גמולי השתלמות, גמול כפל תואר, תוספת . 2011</p>
+            <p>המקדמה תינתן עבור חלקיות העסקה בחט"ב בלבד, בגין התקופה שתחילתה במועד ההצטרפות של עובד ההוראה לרפורמה. הבעלות תחשב את שיעור המקדמה לכל עו"ה ותעביר לו את התוספת, המקדמה תיקרא "מקדמת <concept eId="con_11" refersTo="#reform_ofek">אופק חדש</concept>".</p>
+            <p>גובה המקדמה לעו"ה שאינם מנהלים או סגנים ראשונים יעמוד על  <quantity eId="qty_1" refersTo="#percentage" normalized="30">30%</quantity>ולא  <quantity eId="qty_2" refersTo="#percentage" normalized="27">27%</quantity>כפי שנכתב בחוזר תשע"ד</p>
+          </intro>
+          <subparagraph eId="art_1__para_1-1__subpara_1">
+            <num>1.</num>
+            <content>
+              <p>את השינוי בגובה המקדמה יש להחיל רטרואקטיבית החל מ ( 27-08-2013 תחילת שנה"ל תשע"ד).</p>
+              <p>גובה המקדמה למורים מתמחים: <quantity eId="qty_3" refersTo="#percentage" normalized="22">22%</quantity> -נותר ללא שינוי.</p>
+              <p>גובה המקדמה לסגנים ראשונים: <quantity eId="qty_4" refersTo="#percentage" normalized="20">20%</quantity> -נותר ללא שינוי.</p>
+              <p>גובה המקדמה למנהלים: <quantity eId="qty_5" refersTo="#percentage" normalized="15">15%</quantity> -נותר ללא שינוי.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <content>
+          <p><organization eId="org_12" refersTo="#moe">משרד החינוך</organization> ממשיך בתהליך ביצוע המרות לעו"ה בחטיבות הביינים הרשמיות שהינם עובדי בעלויות וצורפו <concept eId="con_13" refersTo="#reform_ofek">לאופק חדש</concept>.</p>
+          <p>מצ"ב הנחיות חשבות המשרד הנוגעות לקביעת דרגות שכר לעובדי הוראה ב"<concept eId="con_14" refersTo="#reform_ofek">אופק חדש</concept>".</p>
+          <p>בעלויות שטרם נקבעה דרגת שכר לעובדי ההוראה המועסקים אצלה, יש לפעול בהתאם להנחיות בחוזר</p>
+          <p>המצורף, על מנת להימנע ממצב בו משולמות מקדמות לעו"ה לאורך זמן בלתי סביר.</p>
+          <p>קביעת דרגות שכר לעובדי הוראה <concept eId="con_15" refersTo="#reform_ofek">באופק חדש</concept>
+          </p>
+          <p>בכל שאלה בנושא קביעת דרגת אופק יש לפנות למוקד <concept eId="con_16" refersTo="#reform_ofek">אופק חדש</concept>:</p>
+          <p>במייל  <a href="mailto:Ofek@unq.co.il">Ofek@unq.co.il</a> או בטלפון .02-5009350</p>
+        </content>
+      </article>
+    </mainBody>
+    <conclusions>
+      <p>בברכה</p>
+      <p><person eId="pers_1" refersTo="#p_be4337f4">גילה נגר</person>                                                  <person eId="pers_2" refersTo="#p_a1c0ea3a">אריאלה טוקר</person>
+      </p>
+      <p>סמנכ"לית ומנהלת מינהל עו"ה                                     חשבת <organization eId="org_17" refersTo="#moe">משרד החינוך</organization>
+      </p>
+    </conclusions>
+  </doc>
+</akomaNtoso>

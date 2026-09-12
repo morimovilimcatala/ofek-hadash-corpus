@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <act name="collectiveAgreement" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2008-11-03/2008-11-03-ofek-hadash-validity-extension-letters/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2008-11-03/2008-11-03-ofek-hadash-validity-extension-letters" />
+          <FRBRdate date="2008-11-03" name="issued" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRauthor href="#mof" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="collectiveAgreement" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2008-11-03/2008-11-03-ofek-hadash-validity-extension-letters/heb@/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2008-11-03/2008-11-03-ofek-hadash-validity-extension-letters/heb@" />
+          <FRBRdate date="2008-11-03" name="issued" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRauthor href="#mof" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2008-11-03/2008-11-03-ofek-hadash-validity-extension-letters/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2008-11-03/2008-11-03-ofek-hadash-validity-extension-letters/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2008-11-03" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="day" href="/ontology/concept/quantity/day" showAs="יום" />
+        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
+        <TLCLocation eId="loc_f6f4c31d" href="/ontology/location/il/f6f4c31d" showAs="רח' קפלן 1" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCRole eId="role-mazkir-klali" href="/ontology/role/il/mazkir-klali" showAs="המזכיר הכללי" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCPerson eId="p_35958635" href="/ontology/person/il/35958635" showAs="אילן לוין" />
+        <TLCPerson eId="p_9317fe46" href="/ontology/person/il/9317fe46" showAs="יוסי וסרמן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="transcribed" passes="2">The content is a transcription made by READING the document's pages (reference/transcriptions/), not extracted and not OCR. A second reader checked it word by word against the pages (@passes=2). It is not 'verified': that word is reserved for a person checking against the source.</repo:prose>
+          <repo:date precision="day">the document's own date, from the filename</repo:date>
+          <repo:source path="law/agreements/ofek-hadash/2008-11-03_ofek-hadash_validity-extension-letters.pdf" sha256="09139d89521fe940d00630176354416b6cd1d57432a51fd2f7787bb55420172f" transcription="reference/transcriptions/2008-11-03_ofek-hadash_validity-extension-letters.txt" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>הסכם רפורמת <concept eId="con_1" refersTo="#reform_ofek">אופק חדש</concept> — ההארכה הנוספת של תקופת תוקפו של <ref href="/akn/il/act/collectiveAgreement/2007-09-10/2007-09-10-ofek-hadash-reform-founding-agreement">ההסכם הקיבוצי מיום 10.9.07</ref>
+        </p>
+      </longTitle>
+    </preface>
+    <body>
+      <hcontainer eId="hc_1" name="text" repo:structure="flat">
+        <content>
+          <p>הסכם רפורמת <concept eId="con_2" refersTo="#reform_ofek">אופק חדש</concept>
+          </p>
+          <p><organization eId="org_3" refersTo="#mof">משרד האוצר</organization>
+          </p>
+          <p>Ministry of Finance</p>
+          <p><role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+          </p>
+          <p><date date="2008-11-03">ה' בחשון התשס"ט</date>
+          </p>
+          <p><date date="2008-11-03">3 בנובמבר 2008</date>
+          </p>
+          <p>שכ. 2008-9294</p>
+          <p repo:note="stamp">[חותמת: <date date="2009-02-15">15. 02. 2009</date>]</p>
+          <p>[בכתב יד: [לא קריא]/2009]</p>
+          <p>לכבוד:</p>
+          <p>מר <person eId="pers_1" refersTo="#p_9317fe46">יוסי וסרמן</person>
+          </p>
+          <p>מזכ"ל <organization eId="org_5" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> בישראל</p>
+          <p>שלום רב,</p>
+          <p>הנדון: <docTitle eId="doctitle_1">הסכם רפורמת <concept eId="con_6" refersTo="#reform_ofek">אופק חדש</concept>
+            </docTitle>
+          </p>
+          <p>בהמשך למכתבי אליך בעניין שבנדון, מיום <date date="2008-08-31">31.8.08</date>, מוסכם עלי כי תקופת תוקפו של ההסכם שנחתם ביום <date date="2007-09-10">10.9.07</date> תוארך ב – <quantity eId="qty_1" refersTo="#day" normalized="60">60 ימים</quantity> נוספים, או עד לחתימת הסכם סופי לרפורמה, לפי המוקדם, בכפוף ובהתאם לכל התנאים המפורטים במכתבי האמור לעיל.</p>
+          <p>אודה לך אם תשיב לי במכתב מטעמך, כי הנך מסכים לאמור במכתבי זה.</p>
+          <p>אני מסכים שההתכתבות בינינו תוגש לרישום כהסכם קיבוצי.</p>
+        </content>
+      </hcontainer>
+    </body>
+    <conclusions>
+      <p>בכבוד רב,</p>
+      <p repo:role="running-head">[חתימות]</p>
+      <p><person eId="pers_2" refersTo="#p_35958635">אילן לוין</person>
+      </p>
+      <p repo:note="stamp">[חותמת: דואר נכנס 10 -11- 2008 לשכת <role eId="rol_7" refersTo="#role-mazkir-klali">המזכיר הכללי</role>]</p>
+      <p><location eId="locref_1" refersTo="#loc_f6f4c31d">רח' קפלן 1</location> ירושלים 91030 ת.ד. 3100 טל': 02-5317415 פקס': 02-5695372</p>
+      <p>אוצר ברשת: <a href="https://www.mof.gov.il">www.mof.gov.il</a> gov שער הממשלה: <a href="https://www.gov.il">www.gov.il</a>
+      </p>
+      <p><date date="2008-11-03">ה' בחשון התשס"ט</date>
+      </p>
+      <p><date date="2008-11-03">3 בנובמבר 2008</date>
+      </p>
+      <p>שכ. 2008-9298</p>
+      <p>לכבוד:</p>
+      <p>מר <person eId="pers_3" refersTo="#p_35958635">אילן לוין</person>
+      </p>
+      <p><role eId="rol_8" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+      </p>
+      <p repo:role="running-head"><organization eId="org_9" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>שלום רב,</p>
+      <p>הנדון: הסכם רפורמת <concept eId="con_10" refersTo="#reform_ofek">אופק חדש</concept>
+      </p>
+      <p>מכתבך אלי מיום <date date="2008-11-03">3.11.08</date>
+      </p>
+      <p>אני מסכים לאמור במכתבך שבסימוכין. מקובלת עלי ההארכה הנוספת של תקופת תוקפו של <ref href="/akn/il/act/collectiveAgreement/2007-09-10/2007-09-10-ofek-hadash-reform-founding-agreement">ההסכם הקיבוצי מיום 10.9.07</ref>, בכפוף ובהתאם לכל התנאים שפורטו בהתכתבות בינינו מיום <date date="2008-08-31">31.8.08</date>, כאמור במכתבך.</p>
+      <p>אני מסכים כי ההתכתבות בינינו תוגש לרישום כהסכם קיבוצי.</p>
+      <p>בכבוד רב,</p>
+      <p repo:role="running-head">[חתימות]</p>
+      <p><person eId="pers_4" refersTo="#p_9317fe46">יוסי וסרמן</person>
+      </p>
+      <p><role eId="rol_11" refersTo="#role-mazkir-klali">המזכיר הכללי</role>
+      </p>
+    </conclusions>
+  </act>
+</akomaNtoso>

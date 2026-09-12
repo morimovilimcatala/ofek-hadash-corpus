@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <doc name="circular" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/doc/circular/2017-12-10/2017-18-tashach-02/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2017-12-10/2017-18-tashach-02" />
+          <FRBRdate date="2017-12-10" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="circular" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/doc/circular/2017-12-10/2017-18-tashach-02/heb@/!main" />
+          <FRBRuri value="/akn/il/doc/circular/2017-12-10/2017-18-tashach-02/heb@" />
+          <FRBRdate date="2017-12-10" name="issued" />
+          <FRBRauthor href="#moe" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/doc/circular/2017-12-10/2017-18-tashach-02/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/doc/circular/2017-12-10/2017-18-tashach-02/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2017-12-10" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
+        <TLCOrganization eId="unit_545210c4" href="/ontology/organization/il/unit/545210c4" showAs="לשכת חשב" />
+        <TLCOrganization eId="unit_8e31efd0" href="/ontology/organization/il/unit/8e31efd0" showAs="אגף בכיר כח-אדם בהוראה" />
+        <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
+        <TLCRole eId="office_987a4a52" href="/ontology/role/il/987a4a52" showAs="חשבי המחוזות" />
+        <TLCRole eId="office_989834aa" href="/ontology/role/il/989834aa" showAs="מנהלי מחוזות" />
+        <TLCRole eId="office_d49f75b4" href="/ontology/role/il/d49f75b4" showAs="מנהלי תחומי כח אדם במחוזות במחוזות" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
+        <TLCRole eId="role-mankal-chinuch-m" href="/ontology/role/il/mankal-chinuch-m" showAs="מנכ&quot;ל משרד החינוך" />
+        <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCRole eId="role-yoetzet-mishpatit" href="/ontology/role/il/yoetzet-mishpatit" showAs="היועצת המשפטית" />
+        <TLCPerson eId="p_73257817" href="/ontology/person/il/73257817" showAs="אבי פרידמן" />
+        <TLCPerson eId="p_4572337a" href="/ontology/person/il/4572337a" showAs="אבי קמינסקי" />
+        <TLCPerson eId="p_19c967f8" href="/ontology/person/il/19c967f8" showAs="אילת מלקמן" />
+        <TLCPerson eId="p_4f19a187" href="/ontology/person/il/4f19a187" showAs="איריס שלו-טל" />
+        <TLCPerson eId="p_69b3f2ff" href="/ontology/person/il/69b3f2ff" showAs="אסף שירמן" />
+        <TLCPerson eId="p_be4337f4" href="/ontology/person/il/be4337f4" showAs="גילה נגר" />
+        <TLCPerson eId="p_e03b783f" href="/ontology/person/il/e03b783f" showAs="דסי בארי" />
+        <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />
+        <TLCPerson eId="p_5c443ad9" href="/ontology/person/il/5c443ad9" showAs="יוסי שטראוס" />
+        <TLCPerson eId="p_141537ad" href="/ontology/person/il/141537ad" showAs="מירי כהן" />
+        <TLCPerson eId="p_2b906c4d" href="/ontology/person/il/2b906c4d" showAs="מירי נבון" />
+        <TLCPerson eId="p_1653fdf7" href="/ontology/person/il/1653fdf7" showAs="מנחם מזרחי" />
+        <TLCPerson eId="p_e8cd65cb" href="/ontology/person/il/e8cd65cb" showAs="משה שגיא" />
+        <TLCPerson eId="p_1e57b451" href="/ontology/person/il/1e57b451" showAs="סוניה פרץ" />
+        <TLCPerson eId="p_bfdd3a7b" href="/ontology/person/il/bfdd3a7b" showAs="עידית ורונין" />
+        <TLCPerson eId="p_8962711c" href="/ontology/person/il/8962711c" showAs="ערן יעקב" />
+        <TLCPerson eId="p_adcb72bb" href="/ontology/person/il/adcb72bb" showAs="קובי בר נתן" />
+        <TLCPerson eId="p_f71cee61" href="/ontology/person/il/f71cee61" showAs="רחל טייטלבום" />
+        <TLCPerson eId="p_4b7467e5" href="/ontology/person/il/4b7467e5" showAs="רן ארז" />
+        <TLCPerson eId="p_4b203808" href="/ontology/person/il/4b203808" showAs="שמואל אבואב" />
+        <TLCPerson eId="p_88bb0a53" href="/ontology/person/il/88bb0a53" showAs="תמר כהן" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="pdf">pdftotext -layout, kept in full — letterhead and preamble included. PROSE IS BIDI-DAMAGED — digit runs reorder against the Hebrew, so clause references and amounts in this text may be wrong, and where section detection misfires the article numbering may not match the document's own. Check against the PDF before relying on any figure.</repo:prose>
+          <repo:date precision="printed-pdf">the date the document PRINTS in its own letterhead, read from the PDF's text layer — which is bidi-damaged, so it is machine-read from a damaged source and not a person's reading. The letterhead line survives that damage (the month is a Hebrew word, so the three fields cannot be confused); a line that does not match yields no date and the school-year placeholder stands.</repo:date>
+          <repo:source path="law/circulars/2017-18_tashach_02.pdf" sha256="8d7c6adedffabdb339c0a2a09540d1564b1d5a1ae6d1be69b694873400660612" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוזר לבעלויות <docNumber>תשע"ח/2</docNumber>
+        </p>
+      </longTitle>
+    </preface>
+    <mainBody>
+      <hcontainer eId="hc_1" name="text" repo:structure="flat">
+        <content>
+          <p><organization eId="org_1" refersTo="#state-israel">מדינת ישראל</organization>
+          </p>
+          <p><organization eId="org_2" refersTo="#moe">משרד החינוך</organization>
+          </p>
+          <p><organization eId="org_3" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                                    <organization eId="org_4" refersTo="#unit_545210c4">לשכת חשב</organization>
+          </p>
+          <p>תאום משכורות לעובדי הוראה</p>
+          <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="2017-12-10">כ"ב בכסלו תשע"ח</date>
+          </p>
+          <p><date date="2017-12-10">10 בדצמבר 2017</date>
+          </p>
+          <p>סימוכין <docNumber>2000-1028-2017-0103578</docNumber> :</p>
+          <p>חוזר לבעלויות <docNumber>תשע"ח2/</docNumber>
+          </p>
+          <p>לכבוד</p>
+          <p>הבעלויות על מוסדות החינוך</p>
+          <p>שלום רב,</p>
+          <p>הנדון: ניכוי שכר לעובדי הוראה בשל השבתת מערכת החינוך</p>
+          <p>בשנת הלימודים התשע"ח</p>
+          <p>על פי החלטת הממשלה מס' ) 647 כל  (168 מיום  <date date="1980-04-22">22.4.80</date> והחלטת הממשלה מס'  646 מיום, <date date="1981-05-26">26.5.81</date> אין</p>
+          <p>לשלם שכר עבור ימי שביתה. יובהר, כי יישום ההוראה דלעיל בגופים המתוקצבים מתחייב מסעיף  29 לחוק</p>
+          <p>יסודות התקציב.</p>
+          <p>אשר על כן ובהתאם להנחיית <role eId="rol_5" refersTo="#role-memuneh-sachar">הממונה על השכר</role> ויחסי עבודה <organization eId="org_6" refersTo="#mof">במשרד האוצר</organization> הרינו להודיעכם כי ככל</p>
+          <p>שעובדי הוראה נטלו חלק בשביתה עליה הודיע <organization eId="org_7" refersTo="#irgun-hamorim">ארגון המורים</organization> במהלך שנת הלימודים תשע"ח, על הבעלות</p>
+          <p>יהיה להפחית משכרם בהתאם לשעות העבודה בהן נעדרו.</p>
+          <p>ההפחתה מהשכר תיערך על פי דיווחי הנוכחות של עובדי ההוראה במקומות עבודותיהם. ככל שעובד הוראה</p>
+          <p>לא דיווח על נוכחות במועד השביתה, ולא המציא אישור להיעדרותו על פי הנהלים, או לחילופין הוכחה</p>
+          <p>לנוכחותו במקום העבודה, הוא יוחזק כמי שנטל חלק בשביתה או בצעדים הארגוניים.</p>
+          <p>הפחתת השכר תחושב כמכפלה של משך הזמן בו נעדר עובד ההוראה מעבודתו )בשעות( בערך השעה של עובד</p>
+          <p>ההוראה. למען הסר ספק, יש להפחית שכר גם בגין שעות שהייה וגם בגין שעות פרטניות שהיה על העובד</p>
+          <p>לבצע בזמן השביתה.</p>
+          <p><organization eId="org_12" refersTo="#moe">משרד החינוך</organization> ינכה מתשלומי המת"מ השוטפים לבעלות על פי מספר השעות המתוקצבות במוסדות</p>
+          <p>השובתים ועל פי המועדים בהם התקיימה השביתה.</p>
+        </content>
+      </hcontainer>
+    </mainBody>
+    <conclusions>
+      <p>בברכה,</p>
+      <p><person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person>                                                                       <person eId="pers_2" refersTo="#p_88bb0a53">תמר כהן</person>
+      </p>
+      <p>סמנכ"לית ומנהלת                                                               מנהלת תחום בכיר</p>
+      <p><organization eId="org_13" refersTo="#unit_8e31efd0">אגף בכיר כח-אדם בהוראה</organization>                                                          משכורות לעובדי הוראה</p>
+      <p>העתקים:</p>
+      <p>מר <person eId="pers_3" refersTo="#p_4b203808">שמואל אבואב</person>, <role eId="rol_14" refersTo="#role-mankal-chinuch-m">מנכ"ל משרד החינוך</role>
+      </p>
+      <p>גב' <person eId="pers_4" refersTo="#p_be4337f4">גילה נגר</person>, משנה למנהלת הכללית</p>
+      <p>מר <person eId="pers_5" refersTo="#p_8962711c">ערן יעקב</person> <role eId="rol_15" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_16" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_6" refersTo="#p_adcb72bb">קובי בר נתן</person>, סגן בכיר לממונה על השכר, <organization eId="org_17" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_7" refersTo="#p_5c443ad9">יוסי שטראוס</person>, <role eId="rol_18" refersTo="#role-chashav">חשב המשרד</role>
+      </p>
+      <p>מר <person eId="pers_8" refersTo="#p_e8cd65cb">משה שגיא</person>, סמנכ"ל בכיר למינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_9" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_19" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      </p>
+      <p>מר <person eId="pers_10" refersTo="#p_4b7467e5">רן ארז</person>, יו"ר <organization eId="org_20" refersTo="#irgun-hamorim">ארגון המורים</organization> בבתי הספר העל-יסודיים</p>
+      <p><role eId="rol_25" refersTo="#office_989834aa">מנהלי מחוזות</role>
+      </p>
+      <p>גב' <person eId="pers_11" refersTo="#p_2b906c4d">מירי נבון</person>, מ"מ מנהלת המינהל הפדגוגי</p>
+      <p>מר <person eId="pers_12" refersTo="#p_1653fdf7">מנחם מזרחי</person>, מנהל אגף א' אמח"י</p>
+      <p>גב' <person eId="pers_13" refersTo="#p_e03b783f">דסי בארי</person>, מנהלת האגף לחינוך על-יסודי</p>
+      <p>גב' <person eId="pers_14" refersTo="#p_141537ad">מירי כהן</person>, מינהל כלכלה ותקציבים</p>
+      <p>עו"ד <person eId="pers_15" refersTo="#p_4f19a187">איריס שלו-טל</person>, סגנית בכירה ליועצת המשפטית</p>
+      <p>מר <person eId="pers_16" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך והשכלה גבוהה, <organization eId="org_21" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>מר <person eId="pers_17" refersTo="#p_69b3f2ff">אסף שירמן</person>, מנהל תחום, <organization eId="org_22" refersTo="#mof">משרד האוצר</organization>
+      </p>
+      <p>גב' <person eId="pers_18" refersTo="#p_f71cee61">רחל טייטלבום</person>, ממונה על תנאי שירות עובדי הוראה</p>
+      <p>גב' <person eId="pers_19" refersTo="#p_bca8a4ab">חגית מגן</person>, ראש מנהל שכר והסכמי עבודה, <organization eId="org_23" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p>מר <person eId="pers_20" refersTo="#p_4572337a">אבי קמינסקי</person>, יו"ר איגוד מנהלי אגפי החינוך ברשויות המקומיות</p>
+      <p>עו"ד <person eId="pers_21" refersTo="#p_bfdd3a7b">עידית ורונין</person>, ממונה על תנאי שירות, <organization eId="org_24" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      </p>
+      <p><role eId="rol_26" refersTo="#office_d49f75b4">מנהלי תחומי כח אדם במחוזות במחוזות</role>
+      </p>
+      <p><role eId="rol_27" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      </p>
+      <p>הנהלת אגף בכיר כוח-אדם בהוראה</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>
