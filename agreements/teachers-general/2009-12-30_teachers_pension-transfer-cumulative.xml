@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <act name="collectiveAgreement" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative" />
+          <FRBRdate date="2009-12-30" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="collectiveAgreement" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/heb@/!main" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/heb@" />
+          <FRBRdate date="2009-12-30" name="issued" />
+          <FRBRauthor href="#state" as="#author" />
+          <FRBRauthor href="#histadrut-hamorim" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="2009-12-30" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="none" reason="no-text-layer">The PDF has no USABLE text layer and no transcription yet — either none at all, or one baked in by OCR that decodes to noise. Neither is written into the AKN: on these scans OCR returns text too corrupt to stand as the wording of an instrument. The document is metadata only.</repo:prose>
+          <repo:date precision="day">the document's own date, from the filename</repo:date>
+          <repo:source path="law/agreements/teachers-general/2009-12-30_teachers_pension-transfer-cumulative.pdf" sha256="127879e17a44d9b84806e0e686c4bc3d1ba65674c3c505866bdd1f5ed53c7c88" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <body>
+      <hcontainer eId="hc_1" name="text" repo:structure="flat" repo:empty="true" />
+    </body>
+  </act>
+</akomaNtoso>

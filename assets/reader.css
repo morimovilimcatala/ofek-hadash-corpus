@@ -1,0 +1,1120 @@
+
+:root{
+  --paper:#f5f6f8; --raised:#ffffff; --sunk:#eceff4;
+  --ink:#15181f; --ink-dim:#5b6474; --ink-faint:#8b94a5;
+  --rule:#dfe3ea; --rule-soft:#ebeef3;
+  --accent:#31497a; --accent-soft:#e7ecf6; --accent-ink:#243758;
+  --good:#2c6e4e; --good-soft:#e4f0e9;
+  --warn:#8a5d16; --warn-soft:#f7efdf;
+  --bad:#9a3b3b;  --bad-soft:#f7e6e6;
+  --flash:#fdf2cf;
+  /* The sticky topbar's height, re-measured by script because the document
+     title wraps to one or two lines. Anything that sticks BELOW the topbar
+     offsets by it: at a flat top:16px the section index's first rows sat
+     behind the bar, so a document's §§1-3 were simply not there. */
+  --topbar-h:108px;
+  /* The amendment picker's height, 0 where it is not sticky. Measured the
+     same way and for the same reason: it stacks UNDER the topbar, so
+     anything below it offsets by both. */
+  --versions-h:0px;
+}
+html{scroll-padding-top:calc(var(--topbar-h) + var(--versions-h) + 12px);}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#101319; --raised:#171b23; --sunk:#0b0e13;
+    --ink:#e6e9f0; --ink-dim:#a5aec0; --ink-faint:#788296;
+    --rule:#282e3a; --rule-soft:#1f242e;
+    --accent:#8aa9de; --accent-soft:#1c2534; --accent-ink:#adc4ea;
+    --good:#6fc094; --good-soft:#16241d;
+    --warn:#d7a75e; --warn-soft:#271f14;
+    --bad:#e08585;  --bad-soft:#2a1a1a;
+    --flash:#3a3318;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#101319; --raised:#171b23; --sunk:#0b0e13;
+  --ink:#e6e9f0; --ink-dim:#a5aec0; --ink-faint:#788296;
+  --rule:#282e3a; --rule-soft:#1f242e;
+  --accent:#8aa9de; --accent-soft:#1c2534; --accent-ink:#adc4ea;
+  --good:#6fc094; --good-soft:#16241d;
+  --warn:#d7a75e; --warn-soft:#271f14;
+  --bad:#e08585;  --bad-soft:#2a1a1a;
+  --flash:#3a3318;
+}
+/* ——— THE VERSION PICKER (MMS-13) ———
+   A control, not a document: it sits on the paper above .work, outside .doc,
+   because the script rebuilds .doc's contents when a version is chosen. The
+   diff uses the sheet's own --good/--bad pair, so it follows the theme
+   instead of hard-coding a green and a red that vanish on the dark ground.
+
+   IT STAYS PUT WHILE THE DOCUMENT SCROLLS (2026-09-14, on the client's "I
+   want to be able to switch the year while scrolling"). On the base
+   agreement the control sat above 160 clauses, so choosing a version meant
+   scrolling thousands of pixels back and losing your place. What sticks is
+   the CONTROL and only the control — a one-line bar of label, chips and
+   toggle — because the panel at rest is 209px of a 900px viewport and a
+   quarter of the screen is already a lot to spend on a control. The WARNING
+   and the CAVEAT are statements about the chosen version rather than
+   controls: they are read once, so they sit below the bar in the flow and
+   scroll away with the paper. */
+.versions{max-width:1180px;margin:16px auto 0;padding:11px 18px;
+  background:var(--raised);border:1px solid var(--rule);border-radius:10px;
+  position:sticky; top:var(--topbar-h); z-index:4;}
+.versions-bar{display:flex;flex-wrap:wrap;align-items:center;gap:9px 14px;}
+.versions-head{font-weight:700;font-size:.92rem;}
+/* The chips GROW rather than sit on a line of their own: at max-content the
+   base agreement's seven fill the bar, so the label and the toggle were each
+   pushed onto a row of their own and the bar cost 165px where it now costs
+   133. min-width:0 because a flex item's default min-width is its content
+   and the chips would then refuse to wrap at all. */
+.versions .chips{display:flex;flex-wrap:wrap;gap:8px;flex:1 1 260px;
+  min-width:0;}
+/* Row two: what MODIFIES the choice and what the choice COSTS. Its own row
+   on purpose — a checkbox floating half-way down a three-row block of chips
+   reads as belonging to one of them — and `flex-basis:100%` is what makes it
+   one, so the row also absorbs the warning mark instead of the mark pushing
+   the chips onto a fourth row every time a version drops a change. */
+.versions-tail{display:flex;flex-wrap:wrap;align-items:center;
+  gap:9px 14px;flex-basis:100%;}
+.versions .chip{font:inherit;font-size:.86rem;cursor:pointer;
+  padding:6px 12px;border-radius:999px;border:1px solid var(--rule);
+  background:var(--sunk);color:var(--ink-dim);}
+.versions .chip:hover{border-color:var(--accent);color:var(--accent);}
+.versions .chip.is-on{background:var(--accent-soft);border-color:var(--accent);
+  color:var(--accent-ink);font-weight:700;}
+.versions .difftoggle{display:inline-flex;align-items:center;gap:7px;
+  font-size:.86rem;color:var(--ink-dim);cursor:pointer;}
+/* THE BAR CARRIES THE WARNING'S OWN COUNT, and nothing else of it. A control
+   that can be operated from a place where the warning is invisible puts back
+   exactly the silence the warning exists to prevent — so where the chosen
+   version drops a change, the bar says so and links to the statement. Its
+   words are the warning's own first clause; it is not a second voice. */
+.versions-flag{font-size:.82rem;text-decoration:none;
+  padding:5px 11px;border-radius:999px;
+  border:1px solid var(--warn);background:var(--warn-soft);color:var(--warn);}
+.versions-flag:hover{text-decoration:underline;}
+/* What the panel SAYS, as against what it DOES: outside the sticky bar, so
+   the control can stay put without spending a third of the screen. */
+.versions-say{max-width:1180px;margin:0 auto;padding:0 18px;}
+/* No note rule: the panel carries no running commentary (2026-09-13, the
+   client's call). The caveat is not commentary — it is the standing
+   statement that this text is composed and unofficial. */
+.versions-caveat{margin:10px 0 0;font-size:.78rem;color:var(--ink-faint);
+  line-height:1.5;}
+/* A change the amending document states and this text cannot take: the
+   address it names is not in the signed text. Yellow, because it is neither
+   the reader's error nor silently dropped — it is a fact about the
+   instruments that the reader has to see before trusting the version. */
+.versions-warn{margin:12px 0 0;padding:10px 14px;border-radius:8px;
+  border-inline-start:3px solid var(--warn);background:var(--warn-soft);
+  color:var(--warn);font-size:.84rem;line-height:1.55;}
+.versions-warn ul{margin:6px 0 0;padding-inline-start:18px;}
+.versions-warn li{margin:2px 0;}
+/* What an amendment put in, and what it replaced. `.amended` alone is the
+   consolidated reading — no colour, because with the toggle off the inserted
+   clause simply IS the text. */
+.doc .amended.ins{background:var(--good-soft);
+  border-inline-start:3px solid var(--good);
+  padding:2px 10px;border-radius:4px;}
+.doc .del{background:var(--bad-soft);text-decoration:line-through;
+  text-decoration-color:var(--bad);opacity:.75;}
+@media (max-width:700px){.versions,.versions-say{margin-inline:12px;}}
+*{box-sizing:border-box;}
+/* min-height, NOT height. At height:100% the grid's single row is exactly
+   one viewport tall, the document pane's content overflows that row, and the
+   sticky rail's containing block ends after 100vh — so scrolling past the
+   first screen took the whole navigation away and left blank paper behind
+   the overflow. The row has to grow with the document. */
+html{height:100%;}
+body{min-height:100%;}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased;
+  display:grid; grid-template-columns:302px minmax(0,1fr);
+}
+code,.mono{font-family:"IBM Plex Mono",ui-monospace,"SF Mono",monospace;}
+.he{font-family:"Frank Ruhl Libre","Times New Roman",serif;}
+a{color:var(--accent);}
+:focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+
+/* ---------------- navigation spine ---------------- */
+.spine{
+  background:var(--sunk); border-inline-end:1px solid var(--rule);
+  height:100vh; position:sticky; top:0;
+  display:flex; flex-direction:column; min-height:0;
+}
+.spine-head{padding:16px 16px 12px; border-bottom:1px solid var(--rule);
+  display:flex; flex-direction:column; gap:10px;}
+.brand{display:flex; align-items:baseline; gap:8px; text-decoration:none;
+  color:var(--ink);}
+.brand b{font-size:14px; font-weight:600; letter-spacing:-.01em;}
+.brand span{font-size:11px; color:var(--ink-faint);
+  font-variant-numeric:tabular-nums;}
+.search{width:100%; padding:7px 10px; font:inherit; font-size:13px;
+  border:1px solid var(--rule); border-radius:5px;
+  background:var(--raised); color:var(--ink);}
+.search::placeholder{color:var(--ink-faint);}
+/* What the filter matched. Hidden until a query is typed, so the head keeps
+   its height when nobody is searching. */
+.found{font-size:11px; color:var(--ink-faint); margin:-4px 2px 0;
+  font-variant-numeric:tabular-nums;}
+.found.none{color:var(--ink-dim);}
+.tree{overflow-y:auto; flex:1; min-height:0; padding:8px 8px 24px;}
+.folder{margin-bottom:2px;}
+.folder>summary{
+  cursor:pointer; list-style:none; padding:5px 8px; border-radius:4px;
+  font-size:12px; font-weight:600; color:var(--ink-dim);
+  display:flex; align-items:center; gap:6px; white-space:nowrap;
+}
+.folder>summary>span.lbl{overflow:hidden; text-overflow:ellipsis;}
+.folder>summary::-webkit-details-marker{display:none;}
+.folder>summary::before{content:"▸"; color:var(--ink-faint); font-size:9px;}
+.folder[open]>summary::before{content:"▾";}
+.folder>summary:hover{background:var(--accent-soft); color:var(--accent-ink);}
+.folder>summary .count{margin-inline-start:8px; font-weight:400;
+  letter-spacing:0; color:var(--ink-faint);
+  font-variant-numeric:tabular-nums;}
+.folder>summary .lbl{flex:1;}
+.folder ul{list-style:none; margin:0; padding:0 0 4px 10px;}
+/* THE INDENT HAS TO BE ON THE READING EDGE. This was `margin:1px 0 1px 8px`
+   — a LEFT margin, which in an RTL rail is the END side, so it indented
+   nothing a reader sees: measured in Chromium, the kind, its chain and the
+   chain's decade all started at x=1273. One level could carry that (a folder
+   is bold, a bucket is small and grey); three cannot, and the chain level
+   added 2026-09-14 is the one that made it matter. margin-inline-start
+   indents each nesting level on the side the eye starts from. */
+.sub{margin:1px 0; margin-inline-start:10px;}
+.sub>summary{cursor:pointer; list-style:none; padding:3px 8px; border-radius:4px;
+  font-size:11.5px; color:var(--ink-faint); display:flex; gap:6px;
+  align-items:center; white-space:nowrap;}
+.sub>summary::-webkit-details-marker{display:none;}
+.sub>summary::before{content:"·"; color:var(--ink-faint);}
+.sub>summary:hover{background:var(--accent-soft); color:var(--accent-ink);}
+.sub>summary .count{margin-inline-start:auto;}
+.sub>summary .count{margin-inline-start:auto; font-variant-numeric:tabular-nums;}
+.sub>summary .lbl{font-variant-numeric:tabular-nums;}
+.folder li a{
+  display:flex; align-items:flex-start; gap:8px; padding:6px 8px;
+  border-radius:4px; text-decoration:none; color:var(--ink);
+  font-size:13px; line-height:1.45;
+  border-inline-start:2px solid transparent;
+}
+.folder li a:hover{background:var(--accent-soft); color:var(--accent-ink);}
+.folder li a.on{background:var(--accent-soft); color:var(--accent-ink);
+  border-inline-start-color:var(--accent); font-weight:500;}
+/* Each label picks its own direction from its first strong character, so a
+   Hebrew title lays out RTL and a filename-derived Latin one LTR. Without it
+   the Latin labels were clipped at the START — "...reform founding agreement"
+   — losing the half that identifies them.
+   The label WRAPS to two lines rather than ellipsing on one: these titles run
+   long and differ only near their end, so a single clipped line showed nine
+   agreements as nine copies of "הסכם קיבוצי — החלת חלק מ…". */
+.folder li a .nm{unicode-bidi:plaintext; text-align:start; min-width:0;
+  display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical;
+  overflow:hidden;}
+/* The date column: fixed width so the dates line up into something the eye
+   can run down, and tabular figures so they do not jitter. It is the fact
+   that tells two near-identically titled instruments apart. */
+.folder li a .dt{flex:0 0 auto; min-width:52px; font-size:10.5px;
+  font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;
+  color:var(--ink-faint); padding-top:2px; text-align:left; letter-spacing:-.2px;}
+.folder li a.on .dt,.folder li a:hover .dt{color:var(--accent);}
+/* A qualifier lifted out of a trimmed title — "(מסגרת)", "(שכר)" — is a real
+   distinction between agreements, so it survives the trim as a chip. */
+.folder li a .body{display:flex; flex-direction:column; min-width:0; gap:1px;}
+/* The copy-distinguishing tail. Never clamped: it is the whole reason the
+   row is not a duplicate, so it must survive when the title does not. */
+.folder li a .tag{unicode-bidi:plaintext; text-align:start;
+  font-family:"IBM Plex Mono",monospace; font-size:10px; letter-spacing:-.2px;
+  color:var(--ink-faint); white-space:nowrap; overflow:hidden;
+  text-overflow:ellipsis;}
+.folder li a.on .tag,.folder li a:hover .tag{color:var(--accent-ink);}
+.folder li a .chip{display:inline-block; margin-inline-end:5px; padding:0 5px;
+  border-radius:3px; background:var(--accent-soft);
+  border:1px solid var(--rule); font-size:10px; font-weight:500;
+  font-family:"IBM Plex Sans",sans-serif; color:var(--accent-ink);
+  vertical-align:2px;}
+.folder li a.on .chip,.folder li a:hover .chip{border-color:var(--accent);
+  color:var(--accent-ink);}
+
+/* ---------------- main pane ---------------- */
+.pane{min-width:0; display:flex; flex-direction:column;}
+.topbar{
+  background:var(--raised); border-bottom:1px solid var(--rule);
+  position:sticky; top:0; z-index:5;
+  padding:14px 26px; display:flex; flex-wrap:wrap; gap:14px;
+  align-items:flex-start; justify-content:space-between;
+}
+.topbar h1{margin:0; font-size:17px; font-weight:600; letter-spacing:-.01em;
+  text-wrap:balance;}
+.topbar h1.he{font-size:20px; font-weight:500; direction:rtl;}
+.crumb{font-size:11.5px; color:var(--ink-faint); margin-bottom:5px;}
+.facts{display:flex; flex-wrap:wrap; gap:5px 16px; margin-top:7px;
+  font-size:11.5px; color:var(--ink-faint);}
+.facts b{color:var(--ink-dim); font-weight:500;}
+.pager{display:flex; gap:6px; align-items:center; flex:none;}
+.pager a{font-size:12px; text-decoration:none; padding:5px 10px;
+  border:1px solid var(--rule); border-radius:5px; background:var(--paper);
+  color:var(--ink-dim); white-space:nowrap;}
+.pager a:hover{border-color:var(--accent); color:var(--accent);}
+
+.work{display:grid; grid-template-columns:minmax(0,1fr) 230px; gap:34px;
+  padding:22px 34px 70px; align-items:start; max-width:1180px;}
+.work.solo{grid-template-columns:minmax(0,1fr); max-width:900px;}
+/* A salary table is 11 to 19 columns wide and has no business being folded
+   into a 900px reading measure — that column limit is for PROSE, and it was
+   hiding two thirds of the conversion tables behind a scrollbar. A document
+   that contains a table gets the pane. */
+.work.has-table{max-width:none;}
+/* Below this the rail costs more than it gives: it becomes a collapsed strip
+   above the document instead of stealing 40% of a narrow screen. */
+
+/* THE INDEX GOES ABOVE THE DOCUMENT, AS A STRIP (2026-09-13, MMS-27). The
+   comment above has claimed since the grid was written that below 1080px
+   the rail "becomes a collapsed strip above the document"; nothing
+   implemented it, so on one column the index rendered BELOW the document —
+   on a six-annex page, under a very long page — and `class="fold"` named a
+   rule that did not exist. `order` puts it first and the height cap keeps
+   it a strip the reader scrolls past rather than through. */
+@media (max-width:1080px){
+  .work{grid-template-columns:minmax(0,1fr);}
+  .toc{order:-1; position:static; max-height:min(38vh,260px);
+       border-left:0; border-bottom:1px solid var(--rule-soft);
+       padding-left:0; padding-bottom:10px; margin-bottom:4px;}
+  /* AND THE PICKER STOPS STICKING HERE TOO. It is the same trade the rail
+     makes one line up: at a narrow width the topbar wraps to 146px and the
+     chips wrap to three rows, so a stuck bar and the bar above it take
+     nearly half the screen and there is no document left to read while you
+     switch. The script reads this back off the computed style and reports
+     --versions-h:0, so the index and every anchor landing follow. */
+  .versions{position:static;}
+}
+/* The index clears the topbar AND the picker stuck under it: at a flat
+   offset its first rows sat behind whichever bar was in front. */
+.toc{position:sticky;
+  top:calc(var(--topbar-h) + var(--versions-h) + 12px); font-size:12px;
+  max-height:calc(100vh - var(--topbar-h) - var(--versions-h) - 28px);
+  overflow:auto; border-left:1px solid var(--rule-soft); padding-left:12px;}
+.toc h2{font-size:10px; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-faint); margin:0 0 7px;}
+.toc a{display:grid; grid-template-columns:26px 1fr; gap:6px; padding:3px 4px;
+  text-decoration:none; color:var(--ink-dim); border-radius:3px;}
+.toc a:hover{background:var(--accent-soft); color:var(--accent-ink);}
+.toc .n{text-align:end; color:var(--ink-faint);
+  font-variant-numeric:tabular-nums;}
+/* Runs of unheaded articles between the headed ones, so the index can carry
+   every article without a row per number. The margin sets a run apart from
+   the headed rows it sits between. */
+.numstrip{display:flex; flex-wrap:wrap; gap:3px; direction:rtl;
+  margin:4px 0 6px;}
+.numstrip a{display:inline-block; min-width:26px; text-align:center;
+  padding:2px 4px; border:1px solid var(--rule-soft); border-radius:3px;
+  font-variant-numeric:tabular-nums; font-size:11px; color:var(--ink-dim);}
+.numstrip a:hover{border-color:var(--accent); color:var(--accent);
+  background:var(--accent-soft);}
+/* Two lines, like the spine's labels: these headings differ near their end
+   ("ביטול סכסוכי עבודה, מיצוי תביעות ושקט תעשייתי"), which is precisely what
+   a single ellipsed line removes. */
+.toc .t{direction:rtl; text-align:right; overflow:hidden; min-width:0;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+  font-family:"Frank Ruhl Libre",serif;}
+.toc a{align-items:start;}
+
+/* ---------------- the document ---------------- */
+.doc{direction:rtl; text-align:right; min-width:0;}
+/* ONE rule for every numbered block, at every level: the number HANGS in the
+   gutter and the text keeps a constant measure beside it.
+   Set as a line of its own — which is what it was — a number made two
+   rhythms out of one document. A headed article opened with a number, a
+   title and then prose; an unheaded one opened with a bare figure floating
+   over its text; and an enumerated "(א)" took a whole line to itself above a
+   sentence the page prints it INSIDE. Only some articles are headed (the
+   base agreement heads 100 of its 160), so that was not a rare case.
+   In the gutter a number is never a line, and an article, a takanon section
+   and a lettered sub-clause are all laid out the same way. */
+.akn-article,.akn-chapter,.akn-section,.akn-subsection,.akn-part,.akn-title,
+.akn-paragraph,.akn-subparagraph,.akn-clause,.akn-point{position:relative;}
+.akn-article{border-top:1px solid var(--rule-soft); padding:16px 0 6px;
+  scroll-margin-top:14px; padding-inline-start:46px;}
+.akn-article:first-child{border-top:none;}
+.akn-chapter,.akn-part{border-top:1px solid var(--rule); margin-top:22px;
+  padding:18px 0 6px; padding-inline-start:46px; scroll-margin-top:14px;}
+/* A takanon subsection (1.9.1 under 1.9) is a section one level down: same
+   gutter, so its number sits under its parent's rather than on it. */
+.akn-section,.akn-subsection{padding:10px 0 2px; padding-inline-start:46px;
+  scroll-margin-top:14px;}
+.akn-num{font-weight:600; color:var(--ink-faint); font-size:15px;
+  font-variant-numeric:tabular-nums;}
+.akn-article>.akn-num,.akn-chapter>.akn-num,.akn-part>.akn-num,
+.akn-section>.akn-num,.akn-subsection>.akn-num{
+  position:absolute; inset-inline-start:0; top:16px; width:38px;
+  text-align:end;}
+/* A chapter's number is WORDS here, not a figure: the takanon numbers its
+   chapters "1א'" and fits the 38px gutter, but an agreement or a circular
+   writes "פרק ראשון". Hung in that gutter it wrapped to two lines and ran
+   through its own heading — "פרק" beside the title and "שני" orphaned under
+   it. So a chapter's number sits on its own line above the heading, which is
+   also how these documents print it; articles and sections keep the gutter,
+   where a figure belongs. */
+.akn-chapter>.akn-num,.akn-part>.akn-num{position:static; width:auto;
+  text-align:start; color:var(--accent); font-size:17px; display:block;
+  margin-block-end:.15em; white-space:nowrap;}
+.akn-section>.akn-num,.akn-subsection>.akn-num{top:10px;}
+.akn-chapter>.akn-heading,.akn-part>.akn-heading{font-size:21px;
+  font-weight:600;}
+.akn-heading{font-family:"Frank Ruhl Libre",serif; font-size:18px;
+  font-weight:500; margin:0 0 8px; line-height:1.4; text-wrap:balance;}
+.akn-p{display:block; font-family:"Frank Ruhl Libre","Times New Roman",serif;
+  font-size:16.5px; line-height:1.8; margin:0 0 8px; max-width:76ch;}
+/* The same gutter one level down, with the nesting rail kept beside it. */
+.akn-paragraph,.akn-subparagraph,.akn-clause,.akn-point{
+  margin:8px 0; padding-inline-start:34px;
+  border-inline-start:2px solid var(--rule-soft);}
+.akn-paragraph>.akn-num,.akn-subparagraph>.akn-num,.akn-clause>.akn-num,
+.akn-point>.akn-num{
+  position:absolute; inset-inline-start:2px; top:2px; width:30px;
+  text-align:end; font-size:14px;}
+a.akn-ref-work{border-bottom:1px solid color-mix(in srgb,var(--accent) 45%,transparent);}
+a.akn-ref-work::after{content:"↗"; font-size:.8em; vertical-align:.25em;
+  margin-inline-start:.15em; opacity:.65;}
+a.akn-ref{color:var(--accent); text-decoration:none;
+  border-bottom:1px solid var(--accent-soft);
+  font-variant-numeric:tabular-nums;}
+a.akn-ref:hover{border-bottom-color:var(--accent);
+  background:var(--accent-soft);}
+/* A date the encoding recognised. Marked quietly — the reader is reading an
+   instrument, not an annotation — but findable, and its normalized value is
+   on the element for anything that consumes the page. */
+.akn-date{border-bottom:1px dotted var(--rule); cursor:help;}
+/* A person the document names. The corpus knows who they are — every one is
+   declared as a TLCPerson — so the name is set apart from the prose around
+   it without being turned into a link to nowhere. */
+.akn-person{font-weight:600; text-underline-offset:3px;
+  text-decoration:underline dotted var(--rule);}
+/* An organization or an office the document names, each linked to its TLC
+   declaration. Quieter than a person's name — they recur constantly — but
+   still distinguishable from the prose carrying them. */
+.akn-organization{text-underline-offset:3px;
+  text-decoration:underline dotted var(--rule); }
+/* A party the agreement binds — the same body an <organization> names, but
+   here acting as a party. Marked like an organization it is one of; the role
+   (employer/union) is deferred, so nothing distinguishes the two sides yet. */
+.akn-party{text-underline-offset:3px;
+  text-decoration:underline dotted var(--rule); }
+/* A signature block: the signer grouped with the office they hold. It only
+   groups the marks inside it (a person and a role/organization, which keep
+   their own styling) and stays inline, adding no decoration of its own. */
+.akn-signature{display:inline;}
+/* The document's own title, off its "הנדון:" subject line. The page sets it
+   bold and underlined; the reader keeps the weight and leaves the underline
+   to links, so a title is not mistaken for one. */
+.akn-doctitle{display:inline; font-weight:600;}
+.akn-role{color:var(--ink-dim);}
+/* AN ENTITY MARK IS A LINK TO ITS ONTOLOGY ROW (2026-09-13). A person, a
+   body, a post, a concept, a place or a defined term whose TLC declaration
+   carries an ontology URI links to that entity's row on /ontology. The link
+   adds NOTHING at rest — the mark keeps its own class's weight, colour and
+   dotted rule, so the page reads exactly as it did — and says it is a link
+   only under the pointer: the dotted underline in the text's own ink.
+   `a:where(.akn-ent)` on purpose — specificity (0,0,1), the same as the
+   sheet's own `a{color}` and BELOW every `.akn-*` mark rule, so it undoes
+   only the anchor's defaults (accent colour, solid underline) and a role
+   keeps its dim ink, a person its dotted rule. Measured: `a.akn-ent` at
+   (0,1,1) turned every role link black and stripped nothing visible, and the
+   role and def links wore the browser's solid underline at rest. */
+a:where(.akn-ent){color:inherit; text-decoration:none; cursor:pointer;}
+a.akn-ent:hover,a.akn-ent:focus-visible{
+  text-decoration:underline dotted currentColor; text-underline-offset:3px;}
+/* A link OUT of the corpus. Marked more quietly than akn-ref, which goes to
+   another instrument the repository holds: this one leaves. */
+/* A URL the instrument prints is one unbreakable word — the circulars link
+   to files under meyda.education.gov.il with paths 500px long — and at phone
+   width it pushed the page 53px past the screen (2026-09-13, the visual
+   scan). It wraps now; the rest of the prose is Hebrew and breaks on its
+   own. */
+a.akn-a{color:var(--accent); text-decoration:none; overflow-wrap:anywhere;
+        border-bottom:1px dotted color-mix(in srgb,var(--accent) 50%,transparent);}
+a.akn-a:hover{border-bottom-style:solid;}
+.akn-location{text-underline-offset:3px;
+              text-decoration:underline dotted color-mix(in srgb,var(--ink-dim) 45%,transparent);}
+.akn-docnumber{color:var(--ink-dim); font-variant-numeric:tabular-nums;}
+/* A term the document defines for its own later use: "(להלן: "המדינה")". */
+.akn-def{font-weight:600; font-style:normal;}
+/* A USE of a term the document defined — "ההסתדרות" wherever it recurs after
+   its "(להלן: …)". Thousands of them, so set as quietly as a quantity: a
+   dotted rule in the sheet's own rule colour, and the definition one hover
+   (or one click, to the ontology row) away. Never bold: the definition is
+   the claim, the use is the reader's cue that a word means something here. */
+.akn-term{text-underline-offset:3px;
+  text-decoration:underline dotted var(--rule);}
+/* An amount, a percentage, a count of hours or an age. The commonest mark in
+   the corpus by an order of magnitude, so it is set the most quietly of all:
+   the figures already stand out from Hebrew prose, and the point of the mark
+   is that hovering one says what the encoder read it as. */
+.akn-quantity{text-underline-offset:3px; font-variant-numeric:tabular-nums;
+  text-decoration:underline dotted
+    color-mix(in srgb,var(--ink-dim) 30%,transparent);}
+/* A pay-scale code — "קוד דירוג 101" — which is the key tying a salary table
+   to the grade it prices. Set like the other ontology marks: findable in the
+   caption, and never louder than the caption itself. */
+.akn-concept{text-underline-offset:3px;
+  text-decoration:underline dotted var(--rule);}
+/* A NOTE ABOUT THE SOURCE, never text of the instrument. Two treatments,
+   because the notes say two different things and used to be painted alike.
+
+   .scangap is the WARNING one: "[חסר בסריקה: …]" and the continuation notes
+   say the document in front of the reader is INCOMPLETE — clauses 17-23 of
+   the של"ח agreement are missing from the fax, and no amount of reading the
+   page recovers them. That earns the warning colour.
+
+   .srcnote is the quiet one: a registration stamp, a fax banner, a filing
+   mark, a signature note. Nothing is missing; the page simply carries
+   something that is not the instrument's words. 77 of the corpus's 81 notes
+   are these, and until 2026-09-08 every one of them was painted as a gap in
+   the scan and labelled `repo:note="scan-gap"` in the XML besides. */
+.scangap{border-inline-start:3px solid var(--warn); background:var(--warn-soft);
+  padding:9px 13px; margin:10px 0; border-radius:0 4px 4px 0;
+  font-size:13.5px; line-height:1.65; color:var(--warn);}
+.srcnote{border-inline-start:2px solid var(--rule); padding:6px 12px;
+  margin:9px 0; font-size:13px; line-height:1.6; color:var(--ink-dim);}
+/* AN AMENDING QUOTATION — the clauses this instrument inserts into another
+   one. They are NOT this document's own text, and the page says so the way
+   the page does: indented, ruled, and with the quotation marks the printed
+   original carries (they live in startQuote/endQuote on the element, because
+   leaving them in the text hid the quotation's first marker from the
+   parser). The clauses inside render exactly as clauses do anywhere, so
+   their own numbering, links and marks survive. */
+.akn-mod{margin:10px 0;}
+.akn-quoted{margin:10px 0; padding:10px 16px;
+  border-inline-start:3px solid var(--rule); border-radius:0 4px 4px 0;
+  background:var(--sunk);}
+.akn-quoted>.akn-paragraph,.akn-quoted>.akn-subparagraph,
+.akn-quoted>.akn-clause,.akn-quoted>.akn-article{margin-block:4px;}
+.quotemark{color:var(--ink-faint);}
+/* An inline substitution: the instruction reads as prose and the
+   two strings it names are set apart, quietly, the way a quantity
+   is. No border and no fill — it stands inside a sentence. */
+.akn-quoted-text{font-style:normal; background:var(--sunk); border-radius:2px; padding:0 2px;}
+:target{animation:flash 1.5s ease-out;}
+@keyframes flash{from{background:var(--flash);} to{background:transparent;}}
+@media (prefers-reduced-motion:reduce){
+  :target{animation:none; outline:2px solid var(--accent); outline-offset:3px;}
+}
+.table-wrap{overflow-x:auto; margin:12px 0;}
+/* A table's own header, wrapped by extraction into loose lines above the
+   grid. Set with the table and like a label band, so a document whose header
+   survived inside the grid and one whose header did not still look alike. */
+.tbl-caption{margin:12px 0 0; font-weight:600;}
+.tbl-caption .akn-p{margin:0; font-size:14.5px; line-height:1.5;
+  max-width:none;}
+.tbl-caption+.table-wrap{margin-top:4px;}
+/* The document is RTL and so is the table: a grid wider than the pane must
+   open at its RIGHT edge, where the row labels are, not at its left. Pushing
+   the table over with an auto inline-start margin puts the start of the
+   scroll where a Hebrew reader begins. */
+/* Flush to the INLINE START, which in RTL is the right — where the Hebrew
+   text beside it begins. The auto margin goes on the END for that: setting
+   it on the start put the free space on the right and pushed every narrow
+   table over to the left of the page. */
+.table-wrap>table{margin-inline-end:auto; width:max-content;}
+/* The row label stays put while a wide grid scrolls under it: without this
+   the ותק column slides away and the salaries lose the row they belong to.
+   In RTL the first cell is the RIGHTMOST, so it pins to the right. */
+.table-wrap td:first-child,.table-wrap th:first-child{
+  position:sticky; inset-inline-start:0; background:var(--paper);
+  font-weight:600; border-inline-end:2px solid var(--rule);}
+.buildnote .akn-p{font:inherit; margin:0; max-width:none; display:inline;}
+/* Folded shut by default: the summary is Hebrew and belongs to the page, the
+   note inside is an English verification log and belongs to whoever is
+   checking the encoding. */
+.buildnote{background:var(--sunk); border:1px solid var(--rule-soft);
+  border-radius:5px; margin:0 0 12px; max-width:none;}
+.buildnote>summary{cursor:pointer; padding:7px 11px; font-size:12px;
+  color:var(--ink-dim); list-style:none;}
+.buildnote>summary::-webkit-details-marker{display:none;}
+.buildnote>summary::before{content:"▸ "; color:var(--ink-faint);}
+.buildnote[open]>summary::before{content:"▾ ";}
+.buildnote>p{direction:ltr; text-align:left;
+  font-family:"IBM Plex Mono",monospace; font-size:11px; line-height:1.55;
+  color:var(--ink-faint); padding:0 11px 9px; margin:0;}
+.akn-heading.filename{direction:ltr; text-align:left;
+  font-family:"IBM Plex Mono",monospace; font-size:12px; font-weight:500;
+  color:var(--ink-dim); margin:0 0 4px;}
+.nocontent{border:1px dashed var(--rule); border-radius:6px; padding:22px 24px;
+  color:var(--ink-dim); font-size:14px; max-width:60ch;}
+.nocontent p{margin:0 0 8px;}
+table{border-collapse:collapse; font-size:13.5px;}
+/* One rhythm for every table in the corpus. The row height used to follow
+   whatever the cells happened to hold, so a grid of salaries and a grid of
+   weekly hours — the same object to a reader — came out with different row
+   heights and wildly different column widths, purely because one had long
+   words in its header. A minimum column width stops an empty column from
+   collapsing to a sliver, and a label cell wraps instead of stretching its
+   column to fit "מדריך מקצועי מוסמך בפועל". */
+th,td{border:1px solid var(--rule); padding:6px 10px; text-align:center;
+  font-variant-numeric:tabular-nums; line-height:1.45;
+  min-width:3.4em; vertical-align:middle;}
+th,.table-wrap tr.lbl>td{max-width:14ch; overflow-wrap:anywhere;}
+/* A cell's paragraph is not a paragraph of the document: it carried the
+   body's 8px bottom margin, so every row of a table whose cells came from
+   prose stood ~8px taller than the same row in a table built from a CSV,
+   where the cell is bare text. That was the last thing making two tables of
+   one kind look unalike. */
+th>.akn-p,td>.akn-p{margin:0; font:inherit; line-height:inherit;}
+/* An unpriced cell, recessed. Every salary table in the corpus is a triangle
+   — a darga starts at a vetek and has nothing below it — so a third of a
+   grid is legitimately blank, and blank-on-white read as a table that had
+   failed to load rather than one whose page prints no value there. */
+.table-wrap td.e{background:var(--sunk);}
+/* A header cell is BOLD, not a coloured band. Only the CSV-derived tables
+   know which row is a header — a reconstructed grid never promotes one,
+   because the printed labels sit a column off their values — so a filled
+   band made the same salary grid look like two different kinds of table
+   depending on which source it came from. */
+/* One look for a label, whichever way the table was recovered: a <th> from a
+   verified CSV or a transcription, and the leading label band of a grid
+   reconstructed from a PDF, which the XML deliberately does not call a
+   header. */
+th,.table-wrap tr.lbl>td{font-weight:600; color:var(--ink);}
+.table-wrap tr:first-child>th,.table-wrap tr.lbl.last>td{
+  border-bottom:2px solid var(--rule);}
+.eid{direction:ltr; text-align:left; font-size:10px; color:var(--ink-faint);
+  opacity:0; transition:opacity .12s;}
+.akn-article:hover .eid,.akn-paragraph:hover>.eid{opacity:1;}
+.akn-preamble{padding:0 0 10px; border-bottom:1px solid var(--rule-soft);
+  margin-bottom:8px;}
+.akn-conclusions{border-top:1px solid var(--rule-soft); margin-top:12px;
+  padding-top:14px; color:var(--ink-dim);}
+/* The recital chain and the enacting formula that closes it. Set apart from
+   the letterhead above them because they ARE a distinct part of the
+   instrument, not because they are decorative. */
+/* ---- the masthead ----
+   The opening of an agreement is not body prose and should not be set as
+   it: at one full-width paragraph per line, single words like "בין" and
+   "מצד אחד" each took a paragraph and a gap, and the registration stamp
+   read as a sentence of the instrument. Narrower measure, tighter leading,
+   and each part set according to what it is. */
+.akn-preamble{max-width:62ch; margin:0 auto 6px; padding-bottom:14px;
+  border-bottom:1px solid var(--rule-soft);}
+.akn-preamble .akn-p{margin:0 0 5px; max-width:none;}
+/* ---- the letterhead ----
+   A circular's preamble is a LETTERHEAD and was being set as sixteen body
+   paragraphs: see `letterhead_kind` for what the page actually does and for
+   the three positional rules that were measured to reach the lines the markup
+   does NOT name, and refused because each one dims words the document says.
+   Two kinds of rule live here and they are deliberately not the same kind of
+   claim. RHYTHM — leading and the gap between lines — is set for the whole
+   preamble: it says only that a preamble is not body prose, which is what
+   AKN says by making it a <preamble>, and it makes no claim about any line.
+   RECESSION — smaller type, dimmer ink — is set ONLY where a mark says the
+   line is stationery, because dimming a line asserts that the instrument is
+   not speaking there.
+   `>` throughout: a <recitals> block and the enacting <formula> are the
+   instrument's own words and keep the body's setting. */
+.akn-preamble>.akn-p{margin:0 0 3px; font-size:15px; line-height:1.55;}
+.akn-preamble>.akn-p:first-child{margin-top:0;}
+/* The masthead stack: the state, the ministry, the division that issued the
+   letter. Set by a closed-up stack and a recessed rank, not by centring it:
+   the mark says "this line is a body's name", it does not say where on the
+   page the line sat, and centring one line of the stack while its
+   neighbours stay in the RTL flow pulls the letterhead apart — that was the
+   first cut, and looking at it is what showed it.
+   ONE RANK FOR THE WHOLE STACK, which is a refusal and not a preference.
+   The page prints TWO — "מדינת ישראל" over a smaller "משרד החינוך" over
+   smaller division lines again — and nothing in the markup separates them:
+   "משרד החינוך" and "אגף בכיר כוח-אדם בהוראה" are both one <organization>
+   filling their line, and the divisions the reading WRAPS ("אגף בכיר" over
+   "משכורות עובדי הוראה") carry no mark at all. Ranking them by the mark set
+   the same division name two ways three lines apart on one page, which is
+   the "text all different sizes" the client read. So the stack is one rank,
+   and the circular's own number above it carries the hierarchy the page
+   gives this block. */
+.akn-preamble>.akn-p.akn-lh-masthead{margin:0; font-size:13px;
+  line-height:1.4; font-weight:500; color:var(--ink-dim);}
+/* The Arabic half of the address is a different LANGUAGE, and the markup now
+   says so (xml:lang). Give it a script-appropriate stack rather than letting
+   it fall through the Hebrew one, and let the browser shape it: its own
+   direction, and no letter-spacing, which Arabic joining does not survive. */
+.akn-preamble>.akn-p[lang="ar"],
+.akn-stationery>.akn-p[lang="ar"]{font-family:"Noto Naskh Arabic","Segoe UI",
+  "Geeza Pro","Arabic Typesetting",serif; letter-spacing:normal;
+  unicode-bidi:isolate;}
+/* AND ARABIC PRINTS THE MINISTRY'S TELEPHONE NUMBER BACKWARDS. The Unicode
+   bidi algorithm's rule W2 turns a European number into an ARABIC number
+   where the last strong character before it is an Arabic LETTER, and W4 —
+   which folds the hyphen between two European numbers into the number — then
+   does not apply: the separator resolves as a neutral, the two digit runs are
+   ordered right to left around it, and "073-3935108" PAINTS as
+   "3935108-073". Hebrew is strong R rather than AL, so the identical line
+   directly above renders correctly and the defect lives in the Arabic half of
+   the footer alone — invisible in the XML, in the HTML and to every
+   structural check here, which is the .work lesson again. The `tel:` scheme
+   is what says the text is a number rather than prose; whether it has to be
+   isolated is a fact about the SCRIPT AROUND IT, which is why the rule is
+   here and not an attribute on the mark. Scoped to Arabic deliberately: an
+   isolate cuts the run off from what follows it, and a Hebrew line that
+   prints a second number onto the mark's end ("02-5604750/1") loses its "/1"
+   to the left of the number if the same isolate is applied there. Measured
+   over the corpus: every digit run Arabic reverses is a telephone number
+   (four literals across 17 documents), so this reaches the whole class.
+
+   AND THE ISOLATE IS AN ATOMIC BOX RATHER THAN AN INLINE BIDI ISOLATE, which
+   is a third layer under the paint and the markup: `unicode-bidi:isolate` on
+   an INLINE element leaves the link's box to be placed by the line's own bidi
+   reordering, and an engine may paint it in one place and hit-test it in
+   another -- the number reads correctly, underlines, and does nothing when it
+   is tapped. `display:inline-block` says the same thing about the text (the
+   box is its own bidi paragraph, so the digits run left to right and the box
+   sits where the surrounding script puts it) and says it as ONE box, which
+   every engine hit-tests by geometry. The Hebrew line's identical link
+   carries no isolate and has always been pressable; this rule was the only
+   thing the Arabic half had that it did not. `white-space:nowrap` below is
+   what the atomic box needs anyway. `line-height:1` is what keeps the paint:
+   an inline-block's box is as tall as its line-height, so at the band's 1.5
+   it stood 18px where the text's own box is 13, which raised that line and
+   moved the page below it by a pixel and dropped the link's dotted rule four
+   pixels off the digits. Measured at 500 wide: with it the render differs by
+   558 pixels, all of them the two rules a pixel lower; without it, 159,383.
+   48 telephone links in 17 documents; the 216 elsewhere and the 101 mailto
+   links are not touched. */
+[lang="ar"] a.akn-a[href^="tel:"]{display:inline-block; direction:ltr;
+  line-height:1;}
+/* And a telephone number is ONE token: `overflow-wrap:anywhere` above is
+   there for the 500px URLs these circulars print, and at phone width it was
+   also breaking the footer's numbers after the area code — measured at 500,
+   two line boxes for "073-3935180", with and without the isolate alike, so
+   it is older than that rule. Eleven digits never need the break. */
+a.akn-a[href^="tel:"]{white-space:nowrap;}
+/* The document's own printed number — "חוזר לבעלויות תשפ"ו/7". On the page it
+   is the circular's title, set large and bold; here it gains size and air and
+   stays in the document's own flow, for the same reason the masthead does. */
+.akn-preamble>.akn-p.akn-lh-number{margin:12px 0 10px;
+  font-size:18px; line-height:1.35; font-weight:600; color:var(--ink);}
+/* The stationery band: the address with its mailto, the ministry's website.
+   Page-footer type, which is where the page prints them — and since
+   2026-09-15 it is set at the foot of the document too, so every rule of the
+   band names both places it can stand. See `stationery_band`. */
+.akn-preamble>.akn-p.akn-lh-contact,
+.akn-stationery>.akn-p.akn-lh-contact{margin:0; font-size:11.5px;
+  line-height:1.5; color:var(--ink-faint);}
+/* The band at the foot. It is the page's stationery and not the instrument's
+   words, so it is set apart from the document by a rule and by air rather
+   than by a heading, and it keeps the preamble's own measure so the address
+   sits under the text it belongs to rather than under the whole pane. */
+.akn-stationery{display:block; max-width:62ch; margin:22px auto 0;
+  padding-top:10px; border-top:1px solid var(--rule-soft);}
+.akn-stationery>.akn-p{max-width:none;}
+/* A LINK NOBODY CAN SEE IS NOT A LINK. `color:inherit` was written here to
+   keep the band quiet — accent blue at 11.5px broke the stationery — and it
+   left the address, the mailto and the telephone numbers painting in exactly
+   the paragraph's own ink (#8b94a5 against #8b94a5, read off the browser),
+   with only a 1px dotted rule at half the accent's alpha to say they could be
+   clicked. The band stays grey rather than blue; what the link gets back is
+   the band's own STRONGER ink and a rule in that ink, so it is darker than
+   the words beside it, and the accent under the pointer. */
+.akn-preamble>.akn-p.akn-lh-contact a.akn-a,
+.akn-stationery>.akn-p.akn-lh-contact a.akn-a{color:var(--ink-dim);
+  border-bottom-color:color-mix(in srgb,var(--ink-dim) 60%,transparent);}
+.akn-preamble>.akn-p.akn-lh-contact a.akn-a,
+.akn-stationery>.akn-p.akn-lh-contact a.akn-a:hover{color:var(--accent);
+  border-bottom-color:var(--accent);}
+/* The date, set off from the stationery the way a letter sets it. A second
+   date line (these circulars print the Hebrew and the Gregorian one under the
+   other) joins the first rather than opening a second block. */
+.akn-preamble>.akn-p.akn-lh-dateline{margin:12px 0 0; font-size:13.5px;
+  line-height:1.5; color:var(--ink-dim);}
+.akn-preamble>.akn-p.akn-lh-dateline+.akn-p.akn-lh-dateline{margin-top:0;}
+/* The "הנדון:" line. It is the document saying what it is about, so it is the
+   one line in the letterhead that gains rather than loses: body size in a
+   block set below it, with air around it. */
+.akn-preamble>.akn-p.akn-lh-title{margin:13px 0 2px; font-size:16.5px;
+  line-height:1.6; color:var(--ink);}
+/* The line where the instrument names itself. Marked by WHAT IT SAYS, not by
+   being first: two documents open with something else — a registry stamp,
+   and a fax whose text layer is bidi-wreckage — and both were being set in
+   19px bold as though the mangling were a title. */
+.akn-preamble .role-title{text-align:center; font-size:19px;
+  font-weight:600; letter-spacing:.01em; margin:0 0 12px;}
+/* The registry stamp: an artefact stamped ONTO the page, not a clause of
+   it. Boxed and small, the way it sits on the paper. */
+/* A letterhead or running footer the source prints on every page. It is on
+   the page, so it is kept, but it is typography rather than a clause and is
+   set apart so it does not read as something the document says. */
+.role-running-head{font-size:12px; color:var(--ink-faint);
+  border-top:1px solid var(--rule-soft); padding-top:6px; margin-top:14px;}
+.role-running-head .akn-p{font-size:inherit; color:inherit;}
+.akn-preamble .role-registration{border:1px solid var(--rule);
+  border-radius:5px; background:var(--sunk); padding:7px 10px;
+  margin:0 0 12px; font-size:11.5px; line-height:1.6; color:var(--ink-dim);}
+.akn-preamble .role-registration .akn-p{margin:0; font-family:inherit;
+  font-size:inherit;}
+/* "בין" / "מצד אחד" — the document's own delimiters for its parties. They
+   label the block that follows; they are not sentences. */
+.akn-preamble .role-party-marker{margin:10px 0 2px; font-size:11px;
+  letter-spacing:.14em; color:var(--ink-faint); font-weight:600;}
+.akn-preamble .role-party-marker .akn-p{margin:0; font-size:inherit;
+  letter-spacing:inherit; font-family:"IBM Plex Sans",sans-serif;}
+/* "(להלן: …)" — the defined short name, an aside to the party above it. */
+.akn-preamble .role-aside{margin:0 0 4px; color:var(--ink-dim);
+  font-size:13px;}
+.akn-preamble .role-aside .akn-p{margin:0; font-size:inherit;}
+.akn-recitals{margin:14px 0 0; padding-right:14px;
+  border-right:2px solid var(--rule-soft);}
+.akn-recital{margin:0 0 6px;}
+.akn-recital .akn-p{margin:0;}
+.akn-formula{margin:14px 0 2px; font-weight:600; text-align:center;}
+.akn-formula .akn-p{margin:0; max-width:none;}
+.akn-attachment{border-top:2px solid var(--rule); margin-top:22px;
+  padding-top:16px; scroll-margin-top:14px;}
+.akn-attachment>.akn-heading{font-size:20px; font-weight:600;}
+
+/* ---------------- index landing ---------------- */
+.stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+  gap:12px; padding:22px 26px 6px;}
+.stat{border:1px solid var(--rule); border-radius:6px; padding:12px 14px;
+  background:var(--raised);}
+.stat .n{font-size:23px; font-weight:600; font-variant-numeric:tabular-nums;
+  display:block; line-height:1.1;}
+.stat .l{font-size:10.5px; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--ink-faint); margin-top:4px; display:block;}
+.stat .d{font-size:11.5px; color:var(--ink-dim); margin-top:6px;
+  line-height:1.4;}
+.prose-note{padding:14px 26px 40px; max-width:76ch; font-size:13.5px;
+  color:var(--ink-dim);}
+.prose-note h2{font-size:12px; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--ink-faint); margin:22px 0 8px;}
+.empty{color:var(--ink-faint); padding:26px;}
+.landing{padding:26px; max-width:860px;}
+.landing h2{font-size:13px; letter-spacing:.07em; text-transform:uppercase;
+  color:var(--ink-faint); margin:0 0 12px; font-weight:600;}
+.recent-h{font-size:12px; letter-spacing:.07em; text-transform:uppercase;
+  color:var(--ink-faint); margin:30px 0 10px; font-weight:600;}
+table.recent{border-collapse:collapse; width:100%;}
+table.recent{table-layout:fixed;}
+table.recent td{border:none; border-bottom:1px solid var(--rule-soft);
+  padding:8px 10px 8px 0; font-size:13.5px; vertical-align:middle;
+  text-align:start;}
+table.recent td.d{color:var(--ink-faint); font-variant-numeric:tabular-nums;
+  white-space:nowrap; width:86px; text-align:start;}
+/* A KIND LABEL WRAPS RATHER THAN RUNNING INTO THE TITLE (2026-09-13, on
+   the client's "seems like there is text overlap"). The column is a fixed
+   120px and carried white-space:nowrap, so the one label longer than it —
+   "תקנון שירות עובדי הוראה", 145px — ran 25px INTO the document title beside
+   it and the two sentences were painted on top of one another. Measured on
+   the text ranges, not the cell boxes: a cell's box always abuts its
+   neighbour's, which is padding; only the ranges show the collision. */
+table.recent td.k{color:var(--ink-faint); width:120px; line-height:1.35;}
+/* WHICH TITLE A DOCUMENT USED (2026-09-14, the client's ask). Quiet, like
+   the kind label beside it: it qualifies the row rather than being what the
+   row is about, and a document that names the person without a title leaves
+   it empty. Narrow, because every value is an abbreviation. */
+table.recent td.ttl{color:var(--ink-dim); width:52px; text-align:center;
+  unicode-bidi:plaintext; white-space:nowrap;}
+table.recent a{color:var(--ink); text-decoration:none;
+  unicode-bidi:plaintext;}
+table.recent a:hover{color:var(--accent); text-decoration:underline;}
+table.recent a.slug{color:var(--ink-dim);}
+/* THE LANDING'S TWO NEW BLOCKS. The page told a reader how to use itself
+   and never what was in it; these say what the corpus covers and where the
+   two ways in are. Both are set quietly — the numbers carry them, and a
+   landing page for a legal corpus should not look like a dashboard. */
+ul.kinds{list-style:none; margin:22px 0 0; padding:0; display:flex;
+  flex-wrap:wrap; gap:1px; background:var(--rule-soft); border-radius:4px;
+  overflow:hidden;}
+ul.kinds li{flex:1 1 120px; background:var(--paper); padding:11px 13px;}
+ul.kinds b{display:block; font-size:19px; font-weight:600; color:var(--ink);
+  font-variant-numeric:tabular-nums; line-height:1.2;}
+ul.kinds span{display:block; font-size:11.5px; color:var(--ink-faint);
+  margin-top:3px;}
+.ways{display:flex; flex-wrap:wrap; gap:12px; margin-top:14px;}
+.way{flex:1 1 250px; display:block; padding:13px 15px; border-radius:4px;
+  border:1px solid var(--rule-soft); background:var(--raised);
+  text-decoration:none; color:inherit;}
+a.way:hover{border-color:var(--accent); background:var(--accent-soft);}
+.way b{display:block; font-size:13.5px; font-weight:600; color:var(--accent-ink);
+  margin-bottom:4px;}
+.way span{display:block; font-size:12.5px; color:var(--ink-dim);
+  line-height:1.6;}
+/* THE ONTOLOGY PAGE. The corpus declares who and what each document names;
+   this is the one place that inverts it — an entity, and every instrument
+   that names it. Set as a reference list, not a dashboard: the counts are
+   quiet, the names carry the page. */
+/* A SECOND STICKY BAR STACKS UNDER THE TOPBAR, IT DOES NOT COVER IT
+   (2026-09-14, the client reading the scrolled page: "this is ugly too").
+   This box was stuck at top:0 with the topbar's own z-index:5 and comes
+   later in the document, so from the first scroll it PAINTED OVER the
+   page's header — its title, its breadcrumb and its pager — and all that
+   was left of the header was the strip either side of the 860px column, a
+   white rectangle beside a grey band. Measured in the browser: topbar
+   x0-983 y0-80, this box x149-957 y0-89, both at top:0.
+   AND ITS margin-bottom WAS A HOLE. A sticky element's margin paints
+   nothing, so the 10px under the border was a transparent strip the rows
+   scrolled through — a sliver of the next name and its count showing under
+   the rule. The air belongs INSIDE the box, where the background covers
+   it. */
+.onto-tools{position:sticky; top:var(--topbar-h); z-index:4;
+  background:var(--paper); padding:10px 0 14px; margin-bottom:0;
+  border-bottom:1px solid var(--rule-soft);}
+#ofind{width:100%; max-width:320px; padding:7px 11px; font:inherit;
+  font-size:13px; color:var(--ink); background:var(--sunk);
+  border:1px solid var(--rule); border-radius:4px;}
+#ofind:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
+.onto-nav{display:flex; flex-wrap:wrap; gap:6px 14px; margin:10px 0 0;
+  font-size:12.5px;}
+.onto-nav a{color:var(--ink-dim); text-decoration:none;}
+.onto-nav a:hover{color:var(--accent); text-decoration:underline;}
+.onto-nav b{color:var(--ink); font-weight:600; font-variant-numeric:tabular-nums;}
+table.onto{border-collapse:collapse; width:100%; margin-bottom:8px;}
+/* A row is an anchor target — every entity mark in a document links to it —
+   and two bars now stand between it and the top of the screen. The page's
+   scroll-padding clears the topbar plus 12px; this adds the filter box's
+   MEASURED height (ONTOLOGY_JS sets --onto-tools-h), so the row lands 12px
+   under the box rather than behind it. It was a max() of the two while the
+   box covered the topbar instead of sitting under it. */
+table.onto tbody tr{scroll-margin-top:var(--onto-tools-h, 96px);}
+table.onto td{border:none; border-bottom:1px solid var(--rule-soft);
+  padding:7px 10px 7px 0; font-size:13.5px; vertical-align:baseline;
+  text-align:start;}
+table.onto td.n,table.onto th.n{font-variant-numeric:tabular-nums;
+  color:var(--ink-faint); white-space:nowrap; width:64px;}
+/* The bar is drawn UNDER the number, from the inline edge, and it is the
+   only colour on the page: everything else here is a name or a count. The
+   number is lifted into its own stacking level — a bare text node loses to
+   an absolutely positioned ::before, which is how the count vanished behind
+   its own bar the first time this shipped. */
+table.onto td.bar{position:relative; color:var(--ink-dim); isolation:isolate;}
+/* A DECORATION IS MEASURED AGAINST WHAT IT DECORATES, NOT AGAINST ITS
+   CONTAINER (2026-09-13, on the client's "the grey box is ugly"). The bar was
+   inset from BOTH block edges, so its height was the cell's — fine in a 35px
+   row, and a 1,916px slab of --accent-soft down the whole page the moment the
+   row's <details> opened and the cell grew to hold the document list. The bar
+   says "this many documents", which is a fact about the row's first line; it
+   is anchored to the top and given that line's height (2em at the cell's
+   13.5px is the 27px the closed row always drew), so the open state cannot
+   stretch it. */
+table.onto td.bar::before{content:""; position:absolute; inset-block-start:4px;
+  height:2em; inset-inline-start:0; width:var(--share);
+  background:var(--accent-soft); border-radius:2px; z-index:-1;}
+table.onto td.bar>span{position:relative; z-index:1;}
+table.onto th{border:none; border-bottom:1px solid var(--rule);
+  padding:0 10px 6px 0; font-size:11px; letter-spacing:.05em;
+  text-transform:uppercase; color:var(--ink-faint); font-weight:600;
+  text-align:start;}
+table.onto details>summary{cursor:pointer; list-style:none;
+  unicode-bidi:plaintext;}
+table.onto details>summary::-webkit-details-marker{display:none;}
+table.onto details>summary::after{content:" ▾"; color:var(--ink-faint);
+  font-size:10px;}
+table.onto details[open]>summary::after{content:" ▴";}
+/* The row's link to the entity's own page IS THE NAME (2026-09-14, on the
+   client's pick: "I don't like the עמוד button, I think it's ugly"). It was
+   a separate bordered word beside the name, and a 1px box repeated down all
+   772 rows is a column of boxes however small the type — the word was quiet
+   and the border was not. The name is what a reader reaches for anyway, so
+   it carries the link and the button is gone.
+   The link is inside the summary, so the browser runs the LINK's activation
+   and not the summary's when the name is what was clicked: the name
+   navigates, the ▾ and the rest of the summary's line still toggle the row
+   (checked in Chromium, 2026-09-13 and again 2026-09-14).
+   Set exactly as the marks in a document are (`a:where(.akn-ent)`): at rest
+   it reads as the name it is, and says it is a link only under the pointer
+   or on keyboard focus. */
+table.onto a.entpage{color:inherit; text-decoration:none;}
+table.onto a.entpage:hover,table.onto a.entpage:focus-visible{
+  text-decoration:underline dotted currentColor; text-underline-offset:3px;}
+/* ——— ONE PAGE PER ENTITY (2026-09-13) ———
+   A reference page, set like the landing: the name in the topbar, quiet
+   section heads, the facts as lists. The spellings are chips because they
+   are a SET, not a sentence; the canonical one wears the accent so a reader
+   sees at once which of the four spellings of a name the corpus declares.
+   A defining sentence is a quotation from an instrument and is set the way
+   the reader sets an instrument's words — the serif face, ruled on the
+   inline start, on the raised ground — with its attribution under it. */
+.entity{max-width:900px;}
+.entity .topbar-h{margin:0;}
+ul.spellings{list-style:none; margin:0 0 10px; padding:0; display:flex;
+  flex-wrap:wrap; gap:8px;}
+/* A SPELLING IS DATA, NOT A CONTROL (2026-09-13, on the client's "this
+   button doesn't seem to work"). These carried the pill radius and the
+   accent fill of `.versions .chip.is-on` — the amendment picker's SELECTED
+   toggle — so the page offered a row of buttons that do nothing. Square
+   corners, a soft rule and the sunk surface read as a tag; the declared
+   spelling is set apart by weight and ink, not by a selected state. */
+ul.spellings li{padding:4px 9px; border:1px solid var(--rule-soft);
+  border-radius:4px; background:var(--sunk); font-size:13.5px;
+  unicode-bidi:plaintext; cursor:default;
+  /* THE GAP IS THE BOX'S, NOT THE NUMBER'S (2026-09-13, on the client's
+     "the numbers seem pretty squished to the text"). The count carried
+     margin-inline-start, and it is set dir="ltr" so a Latin numeral reads
+     left to right — which makes ITS inline start the left edge, the side
+     AWAY from the Hebrew name. The margin went to the outside of the chip
+     and the count sat flush against the last letter, measured at a gap of
+     0px. A flex gap is decided by the chip and cannot be flipped by a
+     child's own direction. */
+  display:inline-flex; align-items:baseline; gap:7px;}
+ul.spellings li.canon{border-color:var(--rule); background:var(--raised);
+  color:var(--ink); font-weight:600;}
+ul.spellings li b{font-weight:500; color:var(--ink-faint); font-size:11px;
+  font-variant-numeric:tabular-nums;}
+ul.spellings li.canon b{color:var(--accent);}
+/* A formula line: read left to right, but kept at the paragraph column's
+   start edge (the right, in RTL) rather than flushed to the far margin. */
+.akn-p.akn-ltr{text-align:right;}
+/* THE MAP: a picture drawn once from OpenStreetMap's tiles and carried in
+   the page (see `place_map`), with no script, no key and nothing fetched
+   when a reader opens it. Sized by aspect-ratio
+   rather than by a fixed height so it keeps its shape at phone width, and
+   capped in width so it reads as a figure beside the page's own prose rather
+   than as a hero image. The caption carries the attribution ODbL asks for
+   and — the part that matters here — says whose reading the pin is. */
+figure.placemap{margin:0 0 10px; max-width:52ch;}
+figure.placemap img{display:block; width:100%; height:auto;
+  aspect-ratio:3/2; border:1px solid var(--rule); border-radius:6px;
+  background:var(--sunk);}
+figure.placemap figcaption{font-size:12.5px; color:var(--ink-dim);
+  line-height:1.6; margin:6px 0 0;}
+figure.placemap .resolved{color:var(--ink-faint);}
+.tblnote{font-size:12.5px; color:var(--ink-dim); line-height:1.6;
+  margin:6px 0 0; max-width:76ch;}
+.tblnote code{font-size:11px;}
+.absent{color:var(--ink-dim); font-size:13.5px; line-height:1.6;
+  border:1px dashed var(--rule); border-radius:4px; padding:10px 14px;
+  margin:0; max-width:76ch;}
+.defq{margin:0 0 14px; padding:12px 16px; background:var(--raised);
+  border:1px solid var(--rule-soft); border-inline-start:3px solid var(--accent);
+  border-radius:0 4px 4px 0;}
+.defq p{margin:0; font-family:"Frank Ruhl Libre","Times New Roman",serif;
+  font-size:16px; line-height:1.75; color:var(--ink); direction:rtl;
+  text-align:start; unicode-bidi:plaintext; overflow-wrap:anywhere;}
+.defq cite{display:block; margin-top:8px; font-size:12px; font-style:normal;
+  color:var(--ink-dim); line-height:1.6;}
+.defq cite a{color:var(--accent); text-decoration:none;}
+.defq cite a:hover{text-decoration:underline;}
+.defq cite code{font-size:11px;}
+table.entdocs td.n{width:56px; text-align:end; color:var(--ink-faint);
+  font-variant-numeric:tabular-nums; white-space:nowrap;}
+/* THE BODY IS ITS OWN COLUMN, not a run after the name. Appending it with a
+   dash read as one field -- "מיכל כהן — משרד החינוך" is two facts, the
+   person and where the post is held, and a reader scanning the column wants
+   the bodies under each other. Dim, because the name is what the row is
+   about. */
+table.entdocs td.y{color:var(--ink-dim); padding-inline-start:14px;
+  unicode-bidi:plaintext;}
+table.entdocs td a{color:var(--accent);}
+.entity .lede{margin:0 0 12px;}
+table.onto .uri{display:block; font-family:"IBM Plex Mono",monospace;
+  font-size:10.5px; color:var(--ink-faint); margin-top:2px;
+  unicode-bidi:plaintext; word-break:break-all;}
+table.onto ul{margin:8px 0 4px; padding-inline-start:16px;}
+table.onto li{font-size:12.5px; line-height:1.6;}
+table.onto li a{color:var(--ink-dim); text-decoration:none;
+  unicode-bidi:plaintext;}
+table.onto li a:hover{color:var(--accent); text-decoration:underline;}
+.lede{font-size:14px; color:var(--ink-dim); max-width:68ch; line-height:1.65;}
+kbd{font-family:"IBM Plex Mono",monospace; font-size:11.5px;
+  border:1px solid var(--rule); border-radius:3px; padding:1px 5px;
+  background:var(--sunk);}
+details.tech{margin-top:7px;}
+details.tech>summary{cursor:pointer; font-size:11px; color:var(--ink-faint);
+  letter-spacing:.05em; text-transform:uppercase; list-style:none;}
+details.tech>summary::-webkit-details-marker{display:none;}
+details.tech>summary::before{content:"▸ ";}
+details.tech[open]>summary::before{content:"▾ ";}
+.notice.off{background:var(--sunk); color:var(--ink-dim);}
+.folder li a .nm.slug{color:var(--ink-faint);}
+.folder li a .nm.he{font-family:"Frank Ruhl Libre",serif; direction:rtl;
+  text-align:right; font-size:13.5px;}
+
+/* ---------------- phone ---------------- */
+/* The rail is a DRAWER below this width. Stacked above the document it took
+   the whole first screen, so every page opened on a list of other documents
+   and the one you asked for started below the fold. */
+.navbtn{display:none; font:inherit; font-size:13px; cursor:pointer;
+  padding:8px 13px; border:1px solid var(--rule); border-radius:6px;
+  background:var(--paper); color:var(--ink-dim); flex:none;}
+.scrim{display:none;}
+@media (max-width:900px){
+  /* height:100% would force both stacked rows into one viewport and crush
+     the rail to a sliver. */
+  html,body{height:auto;}
+  body{grid-template-columns:minmax(0,1fr);}
+  /* An app bar: the drawer button and the pager share the first line, the
+     title takes the second. Left to wrap on their own they made three. */
+  .navbtn{display:block; order:-2;}
+  .topbar>.pager{order:-1; margin-inline-start:auto;}
+  /* :not(.pager) — the pager is a div too, so a bare `.topbar>div` gave it a
+     100% basis and a line of its own, which is the three-row bar again. */
+  .topbar>div:not(.pager){flex:1 1 100%; order:1;}
+  .spine{position:fixed; inset:0; z-index:60; height:100dvh; max-height:none;
+    width:min(86vw,420px); inset-inline-end:auto;
+    border-inline-end:1px solid var(--rule); box-shadow:0 0 40px #0003;
+    transform:translateX(-102%); transition:transform .18s ease;}
+  html[dir="rtl"] .spine{transform:translateX(102%);}
+  body.nav-open .spine,html[dir="rtl"] body.nav-open .spine{
+    transform:translateX(0);}
+  .tree{max-height:none;}
+  body.nav-open .scrim{display:block; position:fixed; inset:0; z-index:55;
+    background:#0006;}
+  /* Room for a thumb, and a measure a phone can hold. */
+  .work{padding:14px 14px 60px; gap:16px;}
+  .topbar{padding:11px 14px; gap:10px; align-items:center;}
+  .topbar h1{font-size:16px;}
+  .topbar h1.he{font-size:18px;}
+  .landing{padding:16px;}
+  .folder li a{padding:9px 8px;}
+  .pager a{padding:8px 12px;}
+  .akn-p{font-size:16px; line-height:1.75;}
+  .akn-article,.akn-chapter,.akn-part,.akn-section,.akn-subsection{
+    padding-inline-start:36px;}
+  .akn-article>.akn-num,.akn-chapter>.akn-num,.akn-part>.akn-num,
+  .akn-section>.akn-num,.akn-subsection>.akn-num{
+    width:30px;}
+  .akn-paragraph,.akn-subparagraph,.akn-clause{padding-inline-start:26px;}
+  .akn-paragraph>.akn-num,.akn-subparagraph>.akn-num,.akn-clause>.akn-num,
+  .akn-point>.akn-num{
+    width:22px;}
+  /* The section index is a block to scroll PAST on a phone, so it is capped
+     and scrolls in place rather than pushing the document off the screen. */
+  .toc{position:static; max-height:34vh; overflow:auto; padding:10px 12px;
+    border:1px solid var(--rule-soft); border-radius:6px;
+    background:var(--raised);}
+  .akn-preamble{max-width:none;}
+  /* The landing page's "recent documents" list is a three-column table with
+     fixed 86px and 120px columns, which on a phone squeezed every title into
+     a fifth of the width and wrapped it to five lines. On a narrow screen it
+     stops being a table and becomes a list: date and kind on one line, the
+     title under them. */
+  table.recent,table.recent tbody,table.recent tr,table.recent td{
+    display:block; width:auto;}
+  table.recent tr{border-bottom:1px solid var(--rule-soft); padding:10px 0;}
+  table.recent td{border:none; padding:0;}
+  table.recent td.d,table.recent td.k{display:inline-block; width:auto;
+    font-size:11.5px;}
+  /* A separator, not a margin: the date is an LTR run and the kind an RTL
+     one, so they sat against each other — "29.6.2026הסכמים קיבוציים". */
+  table.recent td.k::before{content:"·"; margin:0 7px; color:var(--ink-faint);}
+  table.recent td:last-child{margin-top:3px; font-size:15px; line-height:1.5;}
+  /* The entity page's document list adds a fourth cell — the mark count,
+     or the office beside a signer — after the title, so "last child" is
+     not the title there: the title keeps the landing's treatment by its
+     own class and the extra cell sits under it, small, with its label,
+     because a bare "8" on a line of its own said nothing (read at 400
+     wide, 2026-09-13). */
+  table.entdocs td:last-child{margin-top:0; font-size:inherit; line-height:inherit;}
+  table.entdocs td.t{margin-top:3px; font-size:15px; line-height:1.5;}
+  table.entdocs td.n{display:inline-block; width:auto; margin-top:2px;
+    font-size:11.5px; text-align:start; color:var(--ink-faint);}
+  table.entdocs td.n::before{content:"אזכורים "; }
+  table.entdocs td.x{margin-top:2px; font-size:13px; color:var(--ink-dim);}
+  table.entdocs td.x::before{content:"— "; color:var(--ink-faint);}
+  /* Stacked at this width, so the column becomes a line of its own and
+     carries its own separator: without one it runs straight on from the
+     name above it and the two read as a single phrase again. */
+  table.entdocs td.y{display:block; margin-top:1px; padding-inline-start:0;
+    font-size:12.5px; color:var(--ink-faint);}
+  table.entdocs td.y:empty{display:none;}
+  table.entdocs td.y::before{content:"ב"; }
+  .recent-h{margin-top:22px;}
+}
+@media (prefers-reduced-motion:reduce){.spine{transition:none;}}
