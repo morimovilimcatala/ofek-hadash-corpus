@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+  <act name="act" contains="originalVersion">
+    <meta>
+      <identification source="#repo-generator">
+        <FRBRWork>
+          <FRBRthis value="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717/!main" />
+          <FRBRuri value="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717" />
+          <FRBRdate date="1957-02-28" name="issued" />
+          <FRBRauthor href="#knesset" as="#author" />
+          <FRBRcountry value="il" />
+          <FRBRsubtype value="act" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717/heb@/!main" />
+          <FRBRuri value="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717/heb@" />
+          <FRBRdate date="1957-02-28" name="issued" />
+          <FRBRauthor href="#knesset" as="#author" />
+          <FRBRlanguage language="heb" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717/heb@/!main.xml" />
+          <FRBRuri value="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717/heb@/!main.xml" />
+          <FRBRdate date="2026-08-27" name="generation" />
+          <FRBRauthor href="#repo-generator" as="#editor" />
+          <FRBRformat value="xml" />
+        </FRBRManifestation>
+      </identification>
+      <lifecycle source="#repo-generator">
+        <eventRef eId="e_signature" date="1957-02-28" source="#repo-generator" type="generation" />
+      </lifecycle>
+      <references source="#repo-generator">
+        <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
+        <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
+        <TLCConcept eId="day" href="/ontology/concept/quantity/day" showAs="יום" />
+        <TLCConcept eId="month" href="/ontology/concept/quantity/month" showAs="חודש" />
+        <TLCConcept eId="year" href="/ontology/concept/quantity/year" showAs="שנה" />
+        <TLCTerm eId="term_0a25bca0" href="/ontology/term/il/0a25bca0" showAs="הוראות אישיות" />
+        <TLCTerm eId="term_29982bf8" href="/ontology/term/il/29982bf8" showAs="בית הדין" />
+        <TLCTerm eId="term_5503e04e" href="/ontology/term/il/5503e04e" showAs="חוק העונשין" />
+        <TLCTerm eId="term_846977ac" href="/ontology/term/il/846977ac" showAs="צו הרחבה" />
+        <TLCTerm eId="term_9dbcc4fc" href="/ontology/term/il/9dbcc4fc" showAs="המועצה" />
+        <TLCOrganization eId="knesset" href="/ontology/organization/il/knesset" showAs="הכנסת" />
+        <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
+        <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
+      </references>
+      <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
+        <repo:provenance>
+          <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
+          <repo:prose tier="consolidated">CONSOLIDATED TEXT PUBLISHED BY A THIRD PARTY, not the instrument's own official publication. HTML is logical-order, so RTL is not reordered. Consolidated by ספר החוקים הפתוח — the Open Law Book project on Hebrew Wikisource, whose OpenLawBot converts each law from the project's source format and checks for updates every half hour. The Knesset's own National Legislation Database publishes NO consolidated text for this law and links to this page as "לחוק המלא" (read 2026-09-20). The page prints the NLD's own law id 2000459 and the Sefer HaChukkim chain of every amendment, and the revision taken here carries תיקון מס' 12 of 24.3.2026 — the last amendment the NLD records. ACQUIRED ON THE CLIENT'S DECISION OF 2026-09-20 (MMS-129), which allows a mirror an official body names as a law's full text, for THIS law by name; MMS-12's answer for every other act citation is unchanged.</repo:prose>
+          <repo:date precision="day">the document's own date, from the filename</repo:date>
+          <repo:source path="law/laws/1957-02-28_collective-agreements-law_5717.html" sha256="e5a8beab96dfd80cc75008d7745553a87ba88e0964c24d40aefd4b40d1d35011" publisher="ספר החוקים הפתוח (OpenLawBot), ויקיטקסט" url="https://he.wikisource.org/w/index.php?title=%D7%97%D7%95%D7%A7_%D7%94%D7%A1%D7%9B%D7%9E%D7%99%D7%9D_%D7%A7%D7%99%D7%91%D7%95%D7%A6%D7%99%D7%99%D7%9D&amp;oldid=3001702" retrieved="2026-09-20" revision="3001702" />
+        </repo:provenance>
+      </proprietary>
+    </meta>
+    <preface>
+      <longTitle>
+        <p>חוק הסכמים קיבוציים</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>חוק הסכמים קיבוציים</p>
+      <p>חוק הסכמים קיבוציים מתוך</p>
+      <p>חוק הסכמים קיבוציים, תשי״ז–1957</p>
+      <p>2000459</p>
+      <p>ס״ח תשי״ז, 63, 86; תשל״ה, 122, 223, 245; תשל״ו, 138, 182, 264; תשמ״א, 173, 277; תשמ״ג, 62; תשמ״ו, 242; תשס״א, 123; תשס״ט, 243, 316; תשע״ד, 603; תשפ״ד, 152, 564; תשפ״ה, 6; תשפ״ו, 316.</p>
+    </preamble>
+    <body>
+      <article eId="art_1" repo:prose="same-source">
+        <num>1</num>
+        <heading>הגדרת הסכם קיבוצי [תיקון: תשע״ד]</heading>
+        <content>
+          <p>הסכם קיבוצי הוא הסכם בין מעסיק או ארגון מעבידים לבין ארגון עובדים שנעשה והוגש לרישום לפי חוק זה, בעניני קבלת אדם לעבודה או סיום עבודתו, תנאי עבודה, יחסי עבודה, זכויות וחובות של הארגונים בעלי ההסכם, או בחלק מענינים אלה.</p>
+        </content>
+      </article>
+      <article eId="art_2" repo:prose="same-source">
+        <num>2</num>
+        <heading>סוגי הסכמים קיבוציים [תיקון: תשע״ד]</heading>
+        <intro>
+          <p>שני סוגים בהסכמים קיבוציים:</p>
+        </intro>
+        <paragraph eId="art_2__para_1">
+          <num>(1)</num>
+          <content>
+            <p>הסכם קיבוצי מיוחד – למפעל מסויים או למעסיק מסויים – בין מעסיק או ארגון מעבידים המייצג את המעסיק לבין ארגון העובדים היציג של העובדים שעליהם יחול ההסכם;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_2__para_2">
+          <num>(2)</num>
+          <content>
+            <p>הסכם קיבוצי כללי – לכל שטח המדינה או לחלק ממנה, לענפי עבודה מסויימים או לכל ענפי העבודה כשההסכם הוא בין ארגון העובדים היציג שבענף העבודה או בשטח הנדון לבין ארגון מעבידים שבהם, הכל לפי הענין.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_3" repo:prose="same-source">
+        <num>3</num>
+        <heading>ארגון יציג לגבי הסכם קיבוצי מיוחד</heading>
+        <content>
+          <p>ארגון יציג של עובדים לענין הסכם קיבוצי מיוחד הוא ארגון העובדים שעם חבריו נמנה המספר הגדול ביותר של עובדים מאורגנים שעליהם יחול ההסכם, או שהוא מייצגם לענין אותו הסכם, ובלבד שמספר זה אינו פחות משליש כלל העובדים שעליהם יחול ההסכם.</p>
+        </content>
+      </article>
+      <article eId="art_4" repo:prose="same-source">
+        <num>4</num>
+        <heading>ארגון יציג לענין הסכם קיבוצי כללי</heading>
+        <content>
+          <p>ארגון יציג של עובדים לענין הסכם קיבוצי כללי הוא ארגון עובדים שעם חבריו נמנה המספר הגדול ביותר של עובדים מאורגנים שעליהם יחול ההסכם.</p>
+        </content>
+      </article>
+      <article eId="art_5" repo:prose="same-source">
+        <num>5</num>
+        <heading>שינוי ביציגות אינו פוגע בהסכם</heading>
+        <content>
+          <p>נעשה הסכם קיבוצי, יראוהו כבר־תוקף אף אם תוך תקופת תקפו איבד ארגון עובדים את התכונות העושות אותו ארגון יציג לפי הסעיפים <ref href="#art_3">3</ref> או 4.</p>
+        </content>
+      </article>
+      <article eId="art_6" repo:prose="same-source">
+        <num>6</num>
+        <heading>סתימת טענת כשרות לאחר חתימה</heading>
+        <content>
+          <p>טענה שארגון עובדים בעל הסכם קיבוצי לא היה בשעת עשייתו של ההסכם ארגון עובדים יציג לענין אותו הסכם לא תישמע אלא מטעם ארגון עובדים אחר.</p>
+        </content>
+      </article>
+      <article eId="art_7" repo:prose="same-source">
+        <num>7</num>
+        <heading>הסכם קיבוצי חייב בכתב</heading>
+        <content>
+          <p>הסכם קיבוצי יהיה בכתב והוא הדין לכל שינוי בו או להארכתו.</p>
+        </content>
+      </article>
+      <article eId="art_8" repo:prose="same-source">
+        <num>8</num>
+        <heading>הסכם קיבוצי בדרך הצטרפות</heading>
+        <intro>
+          <p>מותר לעשות הסכם קיבוצי מיוחד גם בדרכים אלה:</p>
+        </intro>
+        <paragraph eId="art_8__para_1">
+          <num>(1)</num>
+          <content>
+            <p>חתימה על כתב הצטרפות לכללים שהוסכם עליהם בין ארגון עובדים ובין ארגון מעבידים בענינים העשויים להיות נושא להסכם קיבוצי;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_8__para_2">
+          <num>(2)</num>
+          <content>
+            <p>חתימה על כתב הצטרפות להסכם קיבוצי מיוחד קיים.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_9" repo:prose="same-source">
+        <num>9</num>
+        <heading>פטור ממס בולים</heading>
+        <content>
+          <p>הסכם קיבוצי, וכן הסכם המשנה או המאריך הסכם קיבוצי, פטורים ממס בולים.</p>
+        </content>
+      </article>
+      <article eId="art_10" repo:prose="same-source">
+        <num>10</num>
+        <heading>רישום [תיקון: תשל״ו־3]</heading>
+        <paragraph eId="art_10__para_a">
+          <num>(א)</num>
+          <content>
+            <p>תוך חדשיים מתאריך החתימה יוגש, באופן שנקבע בתקנות, לשר העבודה, או למי שנתמנה לכך על־ידיו, העתק של כל הסכם קיבוצי, של כללים מוסכמים וכתב הצטרפות כאמור בסעיף <ref href="#art_8">8</ref>, לשם רישום; הוא הדין לגבי כתב שינוי, ביטול או הארכה של המסמכים האמורים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>החובה להגיש מסמך בר־רישום כאמור ב<ref href="#art_10__para_a">סעיף קטן (א)</ref> תחול על כל אחד מהצדדים לו; הגישו אחד מהם – פטורים האחרים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_c">
+          <num>(ג)</num>
+          <content>
+            <p><role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role> לפי חוק יישוב סכסוכי עבודה, תשי״ז–1957, רשאי להאריך את המועד האמור ב<ref href="#art_10__para_a">סעיף קטן (א)</ref> או בסעיף 10ב(א) אם מצא שהדבר מוצדק בנסיבות הענין.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>שר העבודה יפרסם, בדרך שתיקבע בתקנות, הודעה על דבר הגשת מסמך בר־רישום כאמור לרישום.</p>
+            <p>פורסמו תקנות הסכמים קיבוציים (רישום), תשי״ז–1957.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_10a" repo:prose="same-source">
+        <num>10א</num>
+        <heading>עיון [תיקון: תשל״ה־2, תשל״ו־3]</heading>
+        <content>
+          <p>כל אדם רשאי לעיין בהסכם קיבוצי שנרשם לפי סעיף <ref href="#art_10">10</ref> או בהסדר שנמסרה עליו הודעה כאמור בסעיף 10ב.</p>
+        </content>
+      </article>
+      <article eId="art_10b" repo:prose="same-source">
+        <num>10ב</num>
+        <heading>חובת הודעה [תיקון: תשל״ו־3, תשע״ד]</heading>
+        <paragraph eId="art_10b__para_a">
+          <num>(א)</num>
+          <content>
+            <p>מעסיק בשירות ציבורי המעסיק מאה עובדים או יותר חייב להודיע לשר העבודה או למי שהוא מינה לכך על כל הסדר בכתב שאינו מסמך בר־רישום לפי סעיף <ref href="#art_10">10</ref>, שענינו שכר עבודה או תנאים סוציאליים של כל עובדיו או סוג מהם, תוך חדשיים מיום חתימת ההסדר.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10b__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>שר העבודה רשאי לפטור בצו, באישור ועדת העבודה של הכנסת, בתנאים או בלא תנאים, מעסיק או סוג מעסיקים מתחולת הוראות <ref href="#art_10b__para_a">סעיף קטן (א)</ref>, בין בדרך כלל ובין לגבי הסדר מסויים או סוג הסדרים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10b__para_c">
+          <num>(ג)</num>
+          <intro>
+            <p>”שירות ציבורי“, לענין סעיף זה –</p>
+          </intro>
+          <subparagraph eId="art_10b__para_c__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>גוף מבוקר כמשמעותו בפסקאות (1) עד (5) לסעיף <ref href="#art_9">9</ref> לחוק מבקר המדינה, תשי״ח–1958 [נוסח משולב];</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_10b__para_c__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>תאגיד שהוקם או שהוכר בחוק שנתייחד לו;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_10b__para_c__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>תאגיד שניהול עסקיו נתון לפיקוח או לביקורת על פי חוק שנתייחד לעסקים מהסוג שהוא מנהל.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_10b__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>שר העבודה יקבע בתקנות לענין ההודעה האמורה ב<ref href="#art_10b__para_a">סעיף קטן (א)</ref> את דרכי מסירתה, הפרטים שיש לכלול בה והמסמכים שיש לצרף אליה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10b__para_e">
+          <num>(ה)</num>
+          <content>
+            <p>המפר הוראה מהוראות סעיף זה או צו לפיו, דינו – קנס 10,000 לירות.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_10b__para_f">
+          <num>(ו)</num>
+          <content>
+            <p>בעבירה לפי <ref href="#art_10b__para_e">סעיף קטן (ה)</ref> יהא אחראי גם מי שבתוקף תפקידו כמנהל או כעובד בכיר היה אחראי למילוי הוראות סעיף זה או צו לפיו, ובאין מנהל או עובד בכיר כאמור – מי שחתם על ההסדר בשם השירות הציבורי, והכל – זולת אם הוכיח שנקט אמצעים סבירים למניעת העבירה או שהעבירה נעברה עקב גורם שאינו בשליטתו.</p>
+            <p>פורסמו תקנות הסכמים קיבוציים (הודעה על הסדר בכתב שאינו מסמך בר־רישום), תשל״ז–1977.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_11" repo:prose="same-source">
+        <num>11</num>
+        <heading>תחילתו של הסכם</heading>
+        <content>
+          <p>תחילתו של הסכם קיבוצי היא מהיום שנקבע לכך בהסכם, ובאין תאריך קבוע – מיום חתימתו.</p>
+        </content>
+      </article>
+      <article eId="art_12" repo:prose="same-source">
+        <num>12</num>
+        <heading>הסכם לתקופה מסויימת והסכם לתקופה בלתי מסויימת</heading>
+        <content>
+          <p>הסכם קיבוצי יכול שיהיה לתקופה מסויימת הקבועה בו או לתקופה בלתי מסויימת או מקצתו כך ומקצתו כך.</p>
+        </content>
+      </article>
+      <article eId="art_13" repo:prose="same-source">
+        <num>13</num>
+        <heading>תקופת תקפו של הסכם קיבוצי לתקופה מסויימת</heading>
+        <content>
+          <p>הסכם קיבוצי לתקופה מסויימת שתמה תקופת תקפו, ואחד מבעלי ההסכם לא הודיע לצד השני במועד הנכון ובכתב על גמר תקפו, יוסיף להיות בר־תוקף בתורת הסכם קיבוצי לתקופה בלתי מסויימת; המועד להודעת גמר הוא כקבוע בהסכם, ובאין קביעה בהסכם – שני חדשים לפחות לפני תום תקפו של ההסכם.</p>
+        </content>
+      </article>
+      <article eId="art_14" repo:prose="same-source">
+        <num>14</num>
+        <heading>תקופת תקפו של הסכם קיבוצי לתקופה בלתי מסויימת</heading>
+        <content>
+          <p>הסכם קיבוצי לתקופה בלתי מסויימת, רשאי כל צד לבטלו במתן הודעה מוקדמת על כך לצד השני במועד הקבוע לכך בהסכם, ואם אין קביעה בהסכם, שני חדשים לפחות לפני יום הביטול, ואולם תקפו של הסכם קיבוצי שנעשה לכתחילה לתקופה בלתי מסויימת הוא לפחות שנה אחת.</p>
+        </content>
+      </article>
+      <article eId="art_15" repo:prose="same-source">
+        <num>15</num>
+        <heading>היקפו של הסכם קיבוצי מיוחד [תיקון: תשע״ד]</heading>
+        <intro>
+          <p>הסכם קיבוצי מיוחד חל על –</p>
+        </intro>
+        <paragraph eId="art_15__para_1">
+          <num>(1)</num>
+          <content>
+            <p>בעלי ההסכם;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_15__para_2">
+          <num>(2)</num>
+          <content>
+            <p>המעסיקים המיוצגים, לענין אותו הסכם, על ידי ארגון מעבידים שהוא בעל ההסכם;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_15__para_3">
+          <num>(3)</num>
+          <content>
+            <p>כל העובדים מהסוגים הכלולים בהסכם, המועסקים על ידי מעסיק שהוא בעל ההסכם או שהוא מיוצג כאמור בפסקה <ref href="#art_15__para_2">(2)</ref>, במקצועות או בתפקידים הכלולים בהסכם.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_16" repo:prose="same-source">
+        <num>16</num>
+        <heading>היקפו של הסכם קיבוצי כללי [תיקון: תשע״ד]</heading>
+        <intro>
+          <p>הסכם קיבוצי כללי חל על –</p>
+        </intro>
+        <paragraph eId="art_16__para_1">
+          <num>(1)</num>
+          <content>
+            <p>בעלי ההסכם;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_16__para_2">
+          <num>(2)</num>
+          <content>
+            <p>המעבידים (קרי: המעסיקים), בענפים או בשטח הכלולים בהסכם, שהיו בעת חתימת ההסכם חברים בארגון המעבידים שהוא בעל ההסכם, או שנעשו לחברים תוך תקופת תקפו של ההסכם, חוץ מחברים שהוצאו מכלל ההסכם במפורש;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_16__para_3">
+          <num>(3)</num>
+          <content>
+            <p>כל העובדים מהסוגים הכלולים בהסכם המועסקים, על ידי מעסיק כאמור בפסקה <ref href="#art_16__para_2">(2)</ref>, במקצועות או בתפקידים הכלולים בהסכם.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_17" repo:prose="same-source">
+        <num>17</num>
+        <heading>הוכחת חברות בארגון</heading>
+        <content>
+          <p>לענין סעיף <ref href="#art_16">16</ref> יהא אישור של ארגון עובדים או מעבידים בכתב, כי פלוני הוא חבר בו, או שהיה חבר בו בזמן פלוני, הוכחה מספקת לחברותו.</p>
+        </content>
+      </article>
+      <article eId="art_18" repo:prose="same-source">
+        <num>18</num>
+        <heading>שינוי מעסיקים [תיקון: תשע״ד]</heading>
+        <content>
+          <p>עבר מפעל מיד ליד או חולק או מוזג, יראו את המעסיק החדש כמעסיק שעליו חל ההסכם הקיבוצי.</p>
+        </content>
+      </article>
+      <article eId="art_19" repo:prose="same-source">
+        <num>19</num>
+        <heading>זכויות וחובות של עובד ומעסיק [תיקון: תשע״ד]</heading>
+        <content>
+          <p>הוראות שבהסכם קיבוצי בדבר תנאי עבודה, סיום עבודה, וחובות אישיות המוטלות לפי אותן הוראות על עובד ומעסיק וזכויות המוקנות להם (להלן – <def refersTo="#term_0a25bca0">הוראות אישיות</def>), יראו אותן כחוזה עבודה בין כל מעסיק וכל עובד שעליהם חל ההסכם, ותקפן אף לאחר פקיעת תקפו של ההסכם הקיבוצי, כל עוד לא שונו או לא בוטלו כדין; השתתפות בשביתה לא יראו כהפרת חובה אישית.</p>
+        </content>
+      </article>
+      <article eId="art_20" repo:prose="same-source">
+        <num>20</num>
+        <heading>איסור לוותר על זכויות</heading>
+        <content>
+          <p>זכויות המוקנות לעובד <term eId="trm_1" refersTo="#term_0a25bca0">בהוראות אישיות</term> שבהסכם קיבוצי אינן ניתנות לויתור.</p>
+        </content>
+      </article>
+      <article eId="art_21" repo:prose="same-source">
+        <num>21</num>
+        <heading>שמירת זכויות</heading>
+        <content>
+          <p>זכויות עובד הקבועות בחוק יכול הסכם קיבוצי להוסיף עליהן אך לא לגרוע מהן.</p>
+        </content>
+      </article>
+      <article eId="art_22" repo:prose="same-source">
+        <num>22</num>
+        <heading>חוזה עבודה והסכם קיבוצי</heading>
+        <content>
+          <p>הוראה בחוזה עבודה שהיא שונה מהוראה אישית שבהסכם קיבוצי החל על בעלי החוזה – ההוראה שבהסכם הקיבוצי עדיפה; היה השינוי לטובת העובד, עדיפה ההוראה בחוזה העבודה, אם אין בהסכם הקיבוצי דבר המונע במפורש אותו שינוי.</p>
+        </content>
+      </article>
+      <article eId="art_23" repo:prose="same-source">
+        <num>23</num>
+        <heading>סתירה בין הסכמים</heading>
+        <content>
+          <p>היו חלים על עובד יותר מהסכם קיבוצי אחד, הולכים אחר הוראה שהיא לטובת העובד.</p>
+        </content>
+      </article>
+      <article eId="art_24" repo:prose="same-source">
+        <num>24</num>
+        <heading>פיצויים</heading>
+        <content>
+          <p>על אף. כל דין לא יהיה ארגון עובדים או ארגון מעבידים חייב בפיצויים על הפרת חובותיו לפי הסכם קיבוצי, אלא במידה שהתחייב בהם במפורש בהסכם קיבוצי כללי.</p>
+        </content>
+      </article>
+      <article eId="art_25" repo:prose="same-source">
+        <num>25</num>
+        <heading>הסמכות להרחיב הסכם קיבוצי [תיקון: תשע״ד]</heading>
+        <content>
+          <p>שר העבודה רשאי, ביזמתו הוא או לפי בקשת בעל הסכם קיבוצי כללי, להרחיב, בצו, היקף תחולתה של כל הוראה שבהסכם קיבוצי כללי (להלן – <def refersTo="#term_846977ac">צו הרחבה</def>), אם לדעתו נכון לעשות כן בשים לב למספר העובדים והמעסיקים, שעליהם חל ההסכם הקיבוצי הנדון, ולמשקלו של ההסכם בהסדר יחסי העבודה ובקביעת התנאים בשוק העבודה; השר רשאי לעשות כך בין שההסכם תקף ובין שהותנה תקפו במתן <term eId="trm_2" refersTo="#term_846977ac">צו הרחבה</term>.</p>
+        </content>
+      </article>
+      <article eId="art_26" repo:prose="same-source">
+        <num>26</num>
+        <heading>הנוהל במתן צו [תיקון: תשל״ה־2]</heading>
+        <content>
+          <p>לא יתן שר העבודה <term eId="trm_3" refersTo="#term_846977ac">צו הרחבה</term> אלא אם פרסם חודש קודם לכן ברשומות ובכל דרך נוספת הנראית לו, הודעה בכתב על כוונתו לעשות כן, ומשנתפרסמה – רשאי כל מעונין לערור על מתן הצו לפני השר בדרך שתיקבע בתקנות; לא יפרסם שר העבודה הודעה כאמור אלא לאחר שהתייעץ בארגון העובדים המייצג את המספר הגדול ביותר של עובדים במדינה ובארגונים ארציים יציגים של מעבידים שלדעת השר הם נוגעים בדבר.</p>
+          <p>פורסמו תקנות הסכמים קיבוציים (הנוהל במתן <term eId="trm_4" refersTo="#term_846977ac">צו הרחבה</term>), תשל״ה–1975.</p>
+        </content>
+      </article>
+      <article eId="art_26a" repo:prose="same-source">
+        <num>26א</num>
+        <heading>הוראות מיוחדות לעניין הרחבת הסכם קיבוצי כללי שנעשה בשל המצב המיוחד בעורף [תיקון: תשפ״ד־2, תשפ״ה, תשפ״ו]</heading>
+        <intro>
+          <p>(הוראת שעה מיום <date date="2026-02-28">28.2.2026</date> עד תום <quantity eId="qty_1" refersTo="#month" normalized="3">שלושה חודשים</quantity> מסיומו של המצב המיוחד בעורף):</p>
+        </intro>
+        <paragraph eId="art_26a__para_a">
+          <num>(א)</num>
+          <content>
+            <p>בסעיף זה –</p>
+            <p>”ההכרזה על מצב מיוחד בעורף“ – ההכרזה על מצב מיוחד בעורף לפי סעיף 9ג לחוק ההתגוננות האזרחית מיום <date date="2026-02-28">י״א באדר התשפ״ו</date> (<date date="2026-02-28">28 בפברואר 2026</date>);</p>
+            <p>”הסכם קיבוצי כללי שנעשה בשל המצב המיוחד בעורף“ – הסכם קיבוצי כללי שהעניינים המוסדרים בו, כאמור בסעיף <ref href="#art_1">1</ref>, נובעים בעיקרם מהמצב המיוחד בעורף שעליו הוכרז בהכרזה על מצב מיוחד בעורף, ובכלל זה מההוראות שניתנו לפי סעיף 9ד(א) לחוק ההתגוננות האזרחית או משירות מילואים בתקופת ההכרזה על מצב מיוחד בעורף;</p>
+            <p>”חוק ההתגוננות האזרחית“ – חוק ההתגוננות האזרחית, התשי״א–1951.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_26a__para_b">
+          <num>(ב)</num>
+          <intro>
+            <p>על אף האמור בהוראות לפי סעיפים <ref href="#art_26">26</ref> ו־<ref href="#art_34">34</ref>, שוכנע שר העבודה כי הסכם קיבוצי כללי הוא הסכם קיבוצי כללי שנעשה בשל המצב המיוחד בעורף ויש דחיפות לתת <term eId="trm_5" refersTo="#term_846977ac">צו הרחבה</term> לגביו, יחולו הוראות אלה:</p>
+          </intro>
+          <subparagraph eId="art_26a__para_b__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>הודעת שר העבודה על כוונתו לתת <term eId="trm_6" refersTo="#term_846977ac">צו הרחבה</term> לגבי ההסכם (בסעיף זה – הודעה) תפורסם ברשומות;</p>
+              <p>בהודעה יצוין כי ההסכם הוא הסכם קיבוצי כללי שנעשה בשל המצב המיוחד בעורף, וכי שר העבודה שוכנע כי יש דחיפות להרחיב את היקף תחולתו, וכן יצוין המועד האחרון להגשת ערר על מתן צו ההרחבה כאמור בפסקה <ref href="#art_26a__para_b__subpara_2">(2)</ref>;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_26a__para_b__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>ערר כמשמעותו בסעיף <ref href="#art_26">26</ref> על מתן צו ההרחבה יוגש לשר העבודה, באופן מקוון, לא יאוחר מארבעה מיום פרסום ההודעה של שר העבודה לפי פסקה <ref href="#art_26a__para_b__subpara_1">(1)</ref> ברשומות, או במועד מאוחר יותר שציין שר העבודה בהודעה;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_26a__para_b__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>שר העבודה רשאי לתת את צו ההרחבה אף אם טרם חלף חודש מיום פרסום ההודעה ברשומות, ובלבד שחלפו <quantity eId="qty_2" refersTo="#day" normalized="7">שבעה ימים</quantity> לפחות מהיום האמור.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_26a__para_c">
+          <num>(ג)</num>
+          <intro>
+            <p>על אף האמור בהוראות לפי סעיפים <ref href="#art_10">10</ref> ו־<ref href="#art_34">34</ref> לעניין הגשת הסכם קיבוצי לרישום, פורסמה הודעה של שר העבודה על כוונתו לתת <term eId="trm_7" refersTo="#term_846977ac">צו הרחבה</term> לפי <ref href="#art_26a__para_b">סעיף קטן (ב)</ref>(1), יחולו הוראות אלה:</p>
+          </intro>
+          <subparagraph eId="art_26a__para_c__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>טענת כשרות של ארגון עובדים לפי סעיף <ref href="#art_6">6</ref>, הנוגעת להסכם הקיבוצי הכללי שנעשה בשל המצב המיוחד בעורף, תוגש במועד שלא יאוחר מהמועד להגשת ערר לפי <ref href="#art_26a__para_b">סעיף קטן (ב)</ref>(2) ותוכרע לפני מתן <term eId="trm_8" refersTo="#term_846977ac">צו הרחבה</term> כאמור;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_26a__para_c__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>רישום ההסכם הקיבוצי הכללי שנעשה בשל המצב המיוחד בעורף ייעשה במועד שלא יאוחר מהמועד שבו ניתן <term eId="trm_9" refersTo="#term_846977ac">צו הרחבה</term> לגביו, אם ניתן.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_27" repo:prose="same-source">
+        <num>27</num>
+        <heading>תנאים למתן <term eId="trm_10" refersTo="#term_846977ac">צו הרחבה</term> [תיקון: תשל״ה־2, תשע״ד]</heading>
+        <intro>
+          <p>לא יתן שר העבודה <term eId="trm_11" refersTo="#term_846977ac">צו הרחבה</term> אלא אם קויימו תנאים אלה:</p>
+        </intro>
+        <paragraph eId="art_27__para_1">
+          <num>(1)</num>
+          <content>
+            <p>הוראות ההסכם הקיבוצי הנדון שהן נושא לצו ההרחבה אינן פוגעות בזכות אדם לעבודה עקב חברותו או אי־חברותו בארגון עובדים;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_27__para_2">
+          <num>(2)</num>
+          <content>
+            <p>ההוראות בהסכם הקיבוצי שהן נושא לצו ההרחבה אינן בסתירה לאמנת עבודה בינלאומית שישראל אישרה אותה;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_27__para_3">
+          <num>(3)</num>
+          <content>
+            <p><term eId="trm_12" refersTo="#term_9dbcc4fc">המועצה</term> ליחסי עבודה הפועלת מכוח חוק יישוב סכסוכי עבודה, תשי״ז–1957 (להלן – <def refersTo="#term_9dbcc4fc">המועצה</def>), דנה בענין וחוות דעתה הובאה לפני שר העבודה, <term eId="trm_13" refersTo="#term_9dbcc4fc">המועצה</term> רשאית לאצול סמכותה לפי פסקה זו לועדה מבין חבריה ובה נציגי עובדים ונציגי מעסיקים שווה בשווה.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_27__para_4">
+          <num>(4)</num>
+          <content>
+            <p>שר העבודה החליט בערר שהוגש לפי סעיף <ref href="#art_26">26</ref>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_28" repo:prose="same-source">
+        <num>28</num>
+        <heading><term eId="trm_14" refersTo="#term_846977ac">צו הרחבה</term> [תיקון: תשל״ה־2, תשמ״ג, תשמ״ו, תשע״ד, תשפ״ד]</heading>
+        <paragraph eId="art_28__para_a">
+          <num>(א)</num>
+          <content>
+            <p><term eId="trm_15" refersTo="#term_846977ac">צו הרחבה</term> יפורסם ברשומות ויפורטו בו ההוראות שהורחבו וסוגי העובדים והמעסיקים שעליהם חל הצו.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_28__para_b">
+          <num>(ב)</num>
+          <intro>
+            <p><term eId="trm_16" refersTo="#term_846977ac">בצו הרחבה</term> אפשר לקבוע כי תחילתו – לגבי הוראות כמפורט להלן – תקדם לתאריך פרסומו עד ליום תחילתן של הוראות ההסכם שהורחבו בו:</p>
+          </intro>
+          <subparagraph eId="art_28__para_b__subpara_1">
+            <num>(1)</num>
+            <intro>
+              <p>הוראה של הסכם קיבוצי כללי שענינה אחד מאלה:</p>
+            </intro>
+            <clause eId="art_28__para_b__subpara_1__cls_a">
+              <num>(א)</num>
+              <content>
+                <p>תוספת יוקר;</p>
+              </content>
+            </clause>
+            <clause eId="art_28__para_b__subpara_1__cls_b">
+              <num>(ב)</num>
+              <content>
+                <p>פיצוי בעד התייקרות;</p>
+              </content>
+            </clause>
+            <clause eId="art_28__para_b__subpara_1__cls_c">
+              <num>(ג)</num>
+              <content>
+                <p>שכר מינימום.</p>
+              </content>
+            </clause>
+          </subparagraph>
+          <subparagraph eId="art_28__para_b__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>הוראה של הסכם קיבוצי כללי החל על כמה ענפים, שלדעת שר העבודה והרווחה יש הצדקה לקבוע שתחילתה תהיה למפרע, בשים לב למספר בעלי ההסכם ולאופיה של ההוראה.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_28__para_c">
+          <num>(ג)</num>
+          <content>
+            <p>פורסם <term eId="trm_17" refersTo="#term_846977ac">צו הרחבה</term> עם תחילה למפרע כאמור ב<ref href="#art_28__para_b">סעיף קטן (ב)</ref>, רשאי המעסיק לשלם את ההפרשים הנובעים מהתחילה למפרע של הצו, בשיעורים חדשיים שווים ורצופים שמספרם כמספר החדשים שחלפו מיום תחילת הצו ועד יום פרסומו, ולענין זה יראו חלק מחודש כחודש שלם, השיעור החדשי הראשון ישולם במועד שבו יש לשלם את שכר העבודה בעד החודש שבו פורסם הצו האמור, או כעבור <quantity eId="qty_3" refersTo="#day" normalized="10">עשרה ימים</quantity> מיום פרסומו, לפי המאוחר; כל שיעור חדשי שלאחריו ישולם במועד שבו יש לשלם את שכר העבודה בעד אותו חודש; כל שיעור כאמור וכן ריבית שקלית כאמור ב<ref href="#art_28__para_d">סעיף קטן (ד)</ref>, שלא שולמו עד היום התשיעי שלאחר המועד שבו יש לשלמו כאמור, יראו כשכר מולן כמשמעותו בחוק הגנת השכר, התשי״ח–1958.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_28__para_d">
+          <num>(ד)</num>
+          <content>
+            <p>להפרשים הנובעים מהתחילה למפרע של הוראה כאמור ב<ref href="#art_28__para_b">סעיף קטן (ב)</ref> תתווסף ריבית שקלית כהגדרתה בחוק פסיקת ריבית והצמדה, התשכ״א–1961, לגבי התקופה שמיום תחילתו של צו ההרחבה עד היום שבו שולמו ההפרשים או שבו יש לשלמם לפי <ref href="#art_28__para_c">סעיף קטן (ג)</ref>, לפי המוקדם, ויחולו הוראות החוק האמור לעניין ריבית זו, בשינויים המחויבים; סעיף קטן זה לא יחול לגבי הפרשים שעל פי הוראות ההסכם הקיבוצי שהורחבו, יש לשלמם למפרע ללא הפרשי הצמדה או ריבית, לפי הענין.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_29" repo:prose="same-source">
+        <num>29</num>
+        <heading>חזקת תוקף</heading>
+        <content>
+          <p>פורסם <term eId="trm_18" refersTo="#term_846977ac">צו הרחבה</term> כאמור אין עוררים על תקפו.</p>
+        </content>
+      </article>
+      <article eId="art_30" repo:prose="same-source">
+        <num>30</num>
+        <heading>פעולת <term eId="trm_19" refersTo="#term_846977ac">צו הרחבה</term> [תיקון: תשע״ד]</heading>
+        <paragraph eId="art_30__para_a">
+          <num>(א)</num>
+          <content>
+            <p>ניתן <term eId="trm_20" refersTo="#term_846977ac">צו הרחבה</term>, יהיו הוראות ההסכם הקיבוצי שהורחבו בצו חלות על כל העובדים ועל כל המעסיקים, שעליהם חל הצו, ויראו אותן כחלק מחוזה עבודה שבין אותם עובדים לבין אותם מעסיקים.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_30__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>אין הוראות <ref href="#art_30__para_a">סעיף קטן (א)</ref> גורעות מזכותו של עובד על פי הוראה בחוזה עבודה או בהסכם קיבוצי המעניקה תנאים טובים יותר.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_31" repo:prose="same-source">
+        <num>31</num>
+        <heading>בטילותו של <term eId="trm_21" refersTo="#term_846977ac">צו הרחבה</term>
+        </heading>
+        <content>
+          <p>תם תקפו של הסכם קיבוצי, שעל הוראותיו ניתן <term eId="trm_22" refersTo="#term_846977ac">צו הרחבה</term>, בטל צו ההרחבה והודעה על כך תפורסם ברשומות.</p>
+        </content>
+      </article>
+      <article eId="art_32" repo:prose="same-source">
+        <num>32</num>
+        <heading>ביטולו של <term eId="trm_23" refersTo="#term_846977ac">צו הרחבה</term>
+        </heading>
+        <content>
+          <p>ראה שר העבודה שהנסיבות האמורות בסעיף <ref href="#art_25">25</ref> אינן קיימות עוד, רשאי הוא לאחר התייעצות במועצה וכן בארגון העובדים המייצג את המספר הגדול ביותר של עובדים במדינה ובארגונים ארציים יציגים של מעבידים שלדעת השר נוגעים בדבר, לבטל את צו ההרחבה והודעה על הביטול ועל תאריכו תפורסם ברשומות, ובלבד שתאריך הביטול לא יקדם לתאריך הפרסום.</p>
+        </content>
+      </article>
+      <article eId="art_33" repo:prose="same-source">
+        <num>33</num>
+        <heading>המשך תקפן של <term eId="trm_24" refersTo="#term_0a25bca0">הוראות אישיות</term>
+        </heading>
+        <content>
+          <p>בטל <term eId="trm_25" refersTo="#term_846977ac">צו הרחבה</term> מכוח סעיף <ref href="#art_31">31</ref> או בוטל מכוח סעיף <ref href="#art_32">32</ref>, מוסיפות ההוראות האישיות של ההסכם הקיבוצי שהורחבו בצו לעמוד בתקפן כחלק מחוזי העבודה שהיו קיימים בהיות הצו בתקפו, כל עוד לא שונו או לא בוטלו בחוזי עבודה חדשים.</p>
+        </content>
+      </article>
+      <article eId="art_33a" repo:prose="same-source">
+        <num>33א</num>
+        <heading>ועדת פיקוח [תיקון: תשל״ו]</heading>
+        <intro>
+          <p>לענין כל הסכם קיבוצי כללי שניתן לגביו <term eId="trm_26" refersTo="#term_846977ac">צו הרחבה</term> רשאי שר העבודה למנות ועדת פיקוח של שלושה:</p>
+        </intro>
+        <paragraph eId="art_33a__para_1">
+          <num>(1)</num>
+          <content>
+            <p>נציג שר העבודה, והוא יהיה יושב ראש;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_33a__para_2">
+          <num>(2)</num>
+          <content>
+            <p>חבר שהמליץ עליו ארגון העובדים החתום על ההסכם הקיבוצי שהורחב;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_33a__para_3">
+          <num>(3)</num>
+          <content>
+            <p>חבר שהמליץ עליו ארגון המעבידים החתום על ההסכם האמור.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_33b" repo:prose="same-source">
+        <num>33ב</num>
+        <heading>רישום ופרסום [תיקון: תשל״ו]</heading>
+        <content>
+          <p>ועדת פיקוח תנהל רישום של המפעלים שעליהם חל צו ההרחבה ותפרסם את רשימת המפעלים בדרך שיורה שר העבודה.</p>
+        </content>
+      </article>
+      <article eId="art_33c" repo:prose="same-source">
+        <num>33ג</num>
+        <heading>תחולת <term eId="trm_27" refersTo="#term_846977ac">צו הרחבה</term> על מפעל ופיקוח על ביצועו [תיקון: תשל״ו]</heading>
+        <paragraph eId="art_33c__para_a">
+          <num>(א)</num>
+          <content>
+            <p>מי שהסמיכו שר העבודה להיות מפקח רשאי לדרוש מכל מפעל מידע כדי לברר אם חל על המפעל <term eId="trm_28" refersTo="#term_846977ac">צו הרחבה</term> ואם מתקיימות הוראות הצו במפעל, וכן רשאי הוא, לאותה מטרה, ולאחר מתן הודעה מוקדמת, להיכנס לכל מפעל, לחקור את בעליו, מנהליו ואת העובדים בו ולבדוק את ספרי המפעל ומסמכיו הנוגעים לעובדים במפעל.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_33c__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>לא יגלה מפקח כל דבר שהגיע לידיעתו בתוקף תפקידו לפי <ref href="#art_33c__para_a">סעיף קטן (א)</ref> אלא תוך מילוי חובה המוטלת עליו לפי דין.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_33d" repo:prose="same-source">
+        <num>33ד</num>
+        <heading>סמכות <term eId="trm_29" refersTo="#term_29982bf8">בית הדין</term> [תיקון: תשל״ו, תשע״ד]</heading>
+        <content>
+          <p><term eId="trm_30" refersTo="#term_29982bf8">לבית הדין</term> האזורי כמשמעותו בחוק <term eId="trm_31" refersTo="#term_29982bf8">בית הדין</term> לעבודה, תשכ״ט–1969 (להלן – <def refersTo="#term_29982bf8">בית הדין</def>), הסמכות היחודית לפסוק אם חל <term eId="trm_32" refersTo="#term_846977ac">צו הרחבה</term> על מפעל וכן בתובענה של עובד, מעסיק או מפקח בכל ענין הנובע מהוראות סעיפים 33ב ו־33ג.</p>
+        </content>
+      </article>
+      <article eId="art_33e" repo:prose="same-source">
+        <num>33ה</num>
+        <heading>הוראות בדבר הליכים ליישוב חילוקי דעות [תיקון: תשי״ז, תשע״ד]</heading>
+        <intro>
+          <p>נקבעו בהסכם קיבוצי שניתן לגביו <term eId="trm_33" refersTo="#term_846977ac">צו הרחבה</term> הליכים ליישוב חילוקי דעות, רשאי שר העבודה לקבוע לגבי ההוראות שהורחבו, כולן או מקצתן, כי לענין המפעלים שעליהם חל הצו –</p>
+        </intro>
+        <paragraph eId="art_33e__para_1">
+          <num>(1)</num>
+          <content>
+            <p>ועדת הפיקוח תשמש כגוף ליישוב חילוקי דעות כאמור במקום גוף שנקבע בהסכם הקיבוצי, וכי יחולו הליכים שונים מההליכים שנקבעו בהסכם הקיבוצי;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_33e__para_2">
+          <num>(2)</num>
+          <content>
+            <p>זכות או חובה של עובד או מעסיק, אשר לפי הוראה שהורחבה היא מותנית בהסכמת ארגון עובדים או ארגון מעבידים, תהא מותנית בהסכמת המעסיק או ועד העובדים במקום העבודה, לפי הענין, ואם לא היה במקום העבודה ועד עובדים – בהסכמה בין העובד והמעסיק.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_33f" repo:prose="same-source">
+        <num>33ו</num>
+        <heading>סמכויות ועדת פיקוח [תיקון: תשל״ו]</heading>
+        <content>
+          <p>סמכויותיה של ועדת פיקוח לענין יישוב חילוקי דעות, סדרי הדין בפניה ודין החלטתה יהיו כשל הגוף שהיא באה להחליף כאמור בסעיף 33ה, ואם החליפה מספר גופים כאמור – כשל הגוף הפוסק אחרון ביניהם, והכל בשינויים המחוייבים.</p>
+        </content>
+      </article>
+      <article eId="art_33g" repo:prose="same-source">
+        <num>33ז</num>
+        <heading>דמי טיפול ארגוני־מקצועי לארגון מעבידים [תיקון: תשל״ו, תשע״ד]</heading>
+        <paragraph eId="art_33g__para_a">
+          <num>(א)</num>
+          <content>
+            <p>שר העבודה רשאי לקבוע בתקנות, באישור ועדת העבודה של הכנסת, הוראות בדבר חובת מעסיק שחל עליו <term eId="trm_34" refersTo="#term_846977ac">צו הרחבה</term> לשלם דמי טיפול ארגוני־מקצועי לארגון המעבידים שהוא צד להסכם הקיבוצי שהורחב, הכל בשיעור ובתנאים שנקבעו כאמור; התקנות יכול שיחולו לגבי סוגי מעסיקים, ענפי עבודה, ענפי משק, אזורים גיאוגרפיים או מעסיקים מסויימים, למעט מפעל או מעסיק שהוא חבר בארגון של מפעלים או מעסיקים אשר נקבע בתקנות כאמור.</p>
+            <p>פורסמו תקנות הסכמים קיבוציים (תשלום דמי טיפול ארגוני־מקצועי לארגון מעבידים), תשל״ז–1977.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_33g__para_b">
+          <num>(ב)</num>
+          <content>
+            <p><term eId="trm_35" refersTo="#term_29982bf8">לבית הדין</term> הסמכות היחודית לפסוק בחילוקי דעות הנובעים מהוראות <ref href="#art_33g__para_a">סעיף קטן (א)</ref>.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_33h" repo:prose="same-source">
+        <num>33ח</num>
+        <heading>הזכות לפעילות או לחברות בועד עובדים או בארגון עובדים [תיקון: תשס״א]</heading>
+        <content>
+          <p>לכל עובד הזכות לפעול למען התארגנות עובדים בועד עובדים ובארגון עובדים, להיות חבר בועד עובדים ובארגון עובדים ולפעול במסגרתם.</p>
+        </content>
+      </article>
+      <article eId="art_33h1" repo:prose="same-source">
+        <num>33ח1</num>
+        <heading>התארגנות ראשונית – חובת ניהול משא ומתן עם ארגון עובדים יציג [תיקון: תשס״ט־2, תשע״ד]</heading>
+        <paragraph eId="art_33h1__para_a">
+          <num>(א)</num>
+          <content>
+            <p>מעסיק חייב לנהל משא ומתן בענינים המנויים בסעיף <ref href="#art_1">1</ref>, עם ארגון עובדים יציג לפי סעיף <ref href="#art_3">3</ref>, בהתארגנות ראשונית אצלו; אין באמור בהוראות סעיף זה כדי לחייב מעסיק לחתום על הסכם קיבוצי עם ארגון עובדים בהתארגנות ראשונית.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_33h1__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>בסעיף זה, ”התארגנות ראשונית“ – התארגנות של ארגון עובדים שהפך ליציג לפי סעיף <ref href="#art_3">3</ref>, אצל המעסיק.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_33i" repo:prose="same-source">
+        <num>33ט</num>
+        <heading>איסור מניעת כניסה [תיקון: תשס״א, תשע״ד]</heading>
+        <content>
+          <p>מעסיק לא ימנע מנציג של ארגון עובדים להיכנס למקום עבודה שבו מועסק עובד, לשם קידום הזכות כאמור בסעיף 33ח ולשם קידום עניני עובדים, וזאת בהתחשב בצורכי העבודה ובצנעת הפרט.</p>
+        </content>
+      </article>
+      <article eId="art_33j" repo:prose="same-source">
+        <num>33י</num>
+        <heading>איסור פגיעה בעובד לענין חברות או פעילות בועד עובדים או בארגון עובדים [תיקון: תשס״א, תשע״ד]</heading>
+        <paragraph eId="art_33j__para_a">
+          <num>(א)</num>
+          <intro>
+            <p>מעסיק לא יפטר עובד, לא ירע תנאי עבודה של עובד, ולא יימנע מקבלה של אדם לעבודה, בשל אחד מאלה:</p>
+          </intro>
+          <subparagraph eId="art_33j__para_a__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>חברותו או פעילותו בארגון עובדים;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33j__para_a__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>פעילותו לצורך הקמה של ארגון עובדים;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33j__para_a__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>הימנעותו מהיותו חבר בארגון עובדים או הפסקת חברותו בארגון עובדים:</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33j__para_a__subpara_4">
+            <num>(4)</num>
+            <content>
+              <p>חברותו בועד עובדים או פעילותו בועד עובדים הפועל במסגרת ארגון עובדים: לענין זה, יראו ועד עובדים כפועל במסגרת ארגון עובדים אם יושב ראש ארגון העובדים או מי מטעמו נתן הודעה בכתב המאשרת זאת:</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33j__para_a__subpara_5">
+            <num>(5)</num>
+            <content>
+              <p>פעילותו לצורך הקמה של ועד עובדים.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_33j__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>בסעיף זה, ”תנאי עבודה“ – לרבות קידום בעבודה, הכשרה או השתלמות מקצועית, פיצויי פיטורים, הטבות ותשלומים הניתנים לעובד בקשר לפרישה מעבודה.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_33ja" repo:prose="same-source">
+        <num>33יא</num>
+        <heading>סמכויות שיפוט ותרופות [תיקון: תשס״א, תשס״ט, תשע״ד]</heading>
+        <paragraph eId="art_33ja__para_a">
+          <num>(א)</num>
+          <intro>
+            <p>לבית דין אזורי לעבודה תהא סמכות ייחודית לדון בהליך אזרחי בשל הפרת הוראות סעיפים 33ט ו־33י והוא רשאי –</p>
+          </intro>
+          <subparagraph eId="art_33ja__para_a__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>ליתן צו מניעה או צו עשה; הוראת פסקה זו כוחה יפה על אף האמור בסעיף 3(2) לחוק החוזים (תרופות בשל הפרת חוזה), התשל״א–1970;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33ja__para_a__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>לפסוק פיצויים, אף אם לא נגרם נזק של ממון, בשיעור שייראה לו בנסיבות הענין.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_33ja__para_b">
+          <num>(ב)</num>
+          <subparagraph eId="art_33ja__para_b__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>מצא בית דין אזורי לעבודה כי מעסיק הפר את הוראות סעיפים 33ט או 33י, רשאי הוא לחייב את המפר בתשלום פיצויים שאינם תלויים בנזק (בסעיף זה – פיצויים לדוגמה), בסכום שלא יעלה על <quantity eId="qty_4" refersTo="#ILS" normalized="50000">50,000 שקלים חדשים</quantity>; ואולם רשאי <term eId="trm_36" refersTo="#term_29982bf8">בית הדין</term> לפסוק, בשל הפרה כאמור, פיצויים לדוגמה בסכום העולה על <quantity eId="qty_5" refersTo="#ILS" normalized="50000">50,000 שקלים חדשים</quantity> ובלבד שלא יעלה על <quantity eId="qty_6" refersTo="#ILS" normalized="200000">200,000 שקלים חדשים</quantity>, בהתחשב בחומרת ההפרה או נסיבותיה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33ja__para_b__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>אין בהוראות פסקה <ref href="#art_33ja__para_b__subpara_2">(2)</ref> כדי לגרוע מזכותו של עובד לפיצויים או לכל סעד אחר לפי כל דין, בשל אותה הפרה; ואולם <term eId="trm_37" refersTo="#term_29982bf8">בית הדין</term> לא יפסוק פיצויים לפי אותה פסקה, בתובענה ייצוגית כמשמעותה בחוק תובענות ייצוגיות, התשס״ו–2006.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33ja__para_b__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>בבואו לפסוק פיצויים לדוגמה למעביד, בשל הפרת הוראות סעיף 33י כאמור בפסקה <ref href="#art_33ja__para_b__subpara_1">(1)</ref>, רשאי <term eId="trm_38" refersTo="#term_29982bf8">בית הדין</term> להתחשב בכך שהמעסיק הורשע בשל אותו מעשה ובקנס שנגזר עליו.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33ja__para_b__subpara_4">
+            <num>(4)</num>
+            <content>
+              <p>בבואו להטיל קנס על מעסיק שהורשע בעבירה לפי סעיף 33יד, רשאי בית משפט או בית דין אזורי לעבודה להתחשב בכך שנפסקו נגד המעביד, בפסק דין סופי, פיצויים לדוגמה לפי סעיף זה, בשל המעשה שבשלו הורשע כאמור.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33ja__para_b__subpara_5">
+            <num>(5)</num>
+            <content>
+              <p>הסכומים הנקובים בסעיף זה יעודכנו ב־1 בינואר בכל שנה (בסעיף קטן זה – יום העדכון), בהתאם לשיעור עליית המדד החדש לעומת המדד הבסיסי; לעניין זה –</p>
+              <p>”מדד“ – מדד המחירים לצרכן שמפרסמת <organization eId="org_2" refersTo="#cbs">הלשכה המרכזית לסטטיסטיקה</organization>;</p>
+              <p>”המדד החדש“ – המדד שפורסם לאחרונה לפני יום העדכון;</p>
+              <p>”המדד הבסיסי“ – המדד שפורסם בחודש יולי 2009.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+      </article>
+      <article eId="art_33jb" repo:prose="same-source">
+        <num>33יב</num>
+        <heading>זכות תביעה [תיקון: תשס״א]</heading>
+        <intro>
+          <p>תובענות בשל הפרת הוראות סעיפים 33ט ו־33י יכול שיוגשו בידי –</p>
+        </intro>
+        <paragraph eId="art_33jb__para_1">
+          <num>(1)</num>
+          <content>
+            <p>העובד או דורש העבודה;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="art_33jb__para_2">
+          <num>(2)</num>
+          <content>
+            <p>ארגון עובדים.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_33jc" repo:prose="same-source">
+        <num>33יג</num>
+        <heading>התיישנות [תיקון: תשס״א, תשס״ט]</heading>
+        <content>
+          <p>לא ייזקק בית דין אזורי לעבודה לתביעה אזרחית בשל הפרת הוראות סעיפים 33ט ו־33י לאחר שחלפו <quantity eId="qty_7" refersTo="#year" normalized="3">שלוש שנים</quantity> מיום שנוצרה העילה.</p>
+        </content>
+      </article>
+      <article eId="art_33jd" repo:prose="same-source">
+        <num>33יד</num>
+        <heading>עונשין [תיקון: תשס״א, תשס״ט־2, תשע״ד]</heading>
+        <paragraph eId="art_33jd__para_a">
+          <num>(א)</num>
+          <intro>
+            <p>הנמנע מקבלתו של אדם לעבודה, המרע את תנאי עבודתו של עובד או המפטר עובד בשל אחד מאלה, דינו – קנס כאמור בסעיף 61(א)(2), לחוק העונשין, התשל״ז–1977 (להלן – <def refersTo="#term_5503e04e">חוק העונשין</def>):</p>
+          </intro>
+          <subparagraph eId="art_33jd__para_a__subpara_1">
+            <num>(1)</num>
+            <content>
+              <p>חברותו בארגון עובדים או בועד עובדים;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33jd__para_a__subpara_2">
+            <num>(2)</num>
+            <content>
+              <p>הימנעותו מהיותו חבר בארגון עובדים;</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="art_33jd__para_a__subpara_3">
+            <num>(3)</num>
+            <content>
+              <p>הפסקת חברותו בארגון עובדים.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="art_33jd__para_b">
+          <num>(ב)</num>
+          <content>
+            <p>מעסיק העובר על הוראה שבהסכם קיבוצי כללי ענפי תקף, שתחולתה הורחבה <term eId="trm_39" refersTo="#term_846977ac">בצו הרחבה</term> תקף לפי סעיף <ref href="#art_25">25</ref>, והקובעת במפורש הוספה על שכר המינימום שנקבע בחוק שכר מינימום, התשמ״ו–1987, דינו – קנס כאמור בסעיף 61(א)(3) לחוק העונשין.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article eId="art_33if" repo:prose="same-source">
+        <num>33טו</num>
+        <heading>דין המדינה [תיקון: תשס״א, תשע״ד]</heading>
+        <content>
+          <p>לענין סעיפים 33ח עד 33יד, דין המדינה כמעסיק כדין כל מעסיק אחר.</p>
+        </content>
+      </article>
+      <article eId="art_33ig" repo:prose="same-source">
+        <num>33טז</num>
+        <heading>אי תחולה [תיקון: תשס״א]</heading>
+        <content>
+          <p>סעיפים 33ח עד 33טו לא יחולו על מי שחל עליו איסור להתארגן על פי חוק.</p>
+        </content>
+      </article>
+      <article eId="art_34" repo:prose="same-source">
+        <num>34</num>
+        <heading>ביצוע ותקנות</heading>
+        <content>
+          <p>שר העבודה ממונה על ביצוע חוק זה והוא רשאי להתקין תקנות בכל ענין הנוגע לביצועו, אך לא יתקין שר העבודה תקנות לפי סעיף <ref href="#art_26">26</ref> אלא לאחר התייעצות בארגון העובדים המייצג את המספר הגדול ביותר של עובדים במדינה ובארגונים ארציים יציגים של מעבידים שלדעת השר נוגעים בדבר.</p>
+        </content>
+      </article>
+      <article eId="art_35" repo:prose="same-source">
+        <num>35</num>
+        <heading>הוראות מעבר</heading>
+        <content>
+          <p>חוק זה אינו חל על הסכמים שנעשו לפני תחילתו, אך לא יפגע בתקפם של אלה.</p>
+        </content>
+      </article>
+      <article eId="art_36" repo:prose="same-source">
+        <num>36</num>
+        <heading>תחילה</heading>
+        <content>
+          <p>תחילתו של חוק זה היא ביום <date date="1957-03-01">כ״ח באדר א׳ תשי״ז</date> (<date date="1957-03-01">1 במרס 1957</date>).</p>
+          <p>נתקבל בכנסת ביום <date date="1957-02-18">י״ז באדר א׳ תשי״ז</date> (<date date="1957-02-18">18 בפברואר 1957</date>).</p>
+          <p>דוד בן־גוריון</p>
+          <p>ראש הממשלה</p>
+          <p>מרדכי נמיר</p>
+          <p>שר העבודה</p>
+          <p>יצחק בן־צבי</p>
+          <p>נשיא המדינה</p>
+          <p>אזהרה: המידע בוויקיטקסט נועד להעשרה בלבד ואין לראות בו ייעוץ משפטי. במידת הצורך היוועצו בעורך־דין.</p>
+        </content>
+      </article>
+    </body>
+  </act>
+</akomaNtoso>
