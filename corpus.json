@@ -3,7 +3,7 @@
  "url": "https://morimovilimcatala.github.io/ofek-hadash-corpus",
  "standard": "Akoma Ntoso 3.0 (OASIS LegalDocML)",
  "generated": "2026-09-27",
- "documentCount": 358,
+ "documentCount": 360,
  "ontology": "ontology.json",
  "note": "Every document is one legal instrument's own wording. There is no advice layer. The /akn/il/... identifiers are a repository convention, not an official namespace.",
  "documents": [
@@ -150,6 +150,18 @@
    "frbrWork": "/akn/il/act/collectiveAgreement/2018-01-09/2018-01-09-framework-agreement-public-sector-amendment",
    "html": "agreements/framework/2018-01-09_framework-agreement_public-sector_amendment.html",
    "xml": "agreements/framework/2018-01-09_framework-agreement_public-sector_amendment.xml"
+  },
+  {
+   "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
+   "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
+   "hasEncodedTitle": true,
+   "kind": "collectiveAgreement",
+   "kindLabel": "הסכמים קיבוציים",
+   "date": "2018-01-10",
+   "datePrecision": "day",
+   "frbrWork": "/akn/il/act/collectiveAgreement/2018-01-10/2018-01-10-framework-agreement-public-sector-technologies",
+   "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html",
+   "xml": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml"
   },
   {
    "path": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.xml",
@@ -690,6 +702,18 @@
    "frbrWork": "/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision",
    "html": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.html",
    "xml": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.xml"
+  },
+  {
+   "path": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml",
+   "title": "הסכם קיבוצי — תיקונים והתאמות בהסכם עוז לתמורה בעקבות הרפורמה בבחינות הבגרות",
+   "hasEncodedTitle": true,
+   "kind": "collectiveAgreement",
+   "kindLabel": "הסכמים קיבוציים",
+   "date": "2014-06-26",
+   "datePrecision": "day",
+   "frbrWork": "/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments",
+   "html": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.html",
+   "xml": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml"
   },
   {
    "path": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.xml",

@@ -54,6 +54,14 @@
             <destination href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement/!main#art_6__para_d__subpara_3" pos="after" />
             <new href="#art_16__para_16-2__mod_1__qstr_1" />
           </textualMod>
+          <textualMod eId="amod_4" type="substitution">
+            <source href="#art_26__para_26-1__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_c" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_5" type="substitution">
+            <source href="#art_26__para_26-1__mod_2" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_c" pos="unspecified" />
+          </textualMod>
         </activeModifications>
       </analysis>
       <references source="#repo-generator">
@@ -1201,8 +1209,8 @@
             <num>26.1</num>
             <content>
               <p>סעיף 27 (ג) להסכם <concept eId="con_96" refersTo="#reform_ofek">אופק חדש</concept> יתוקן כמפורט להלן:</p>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> במקום המילים "חלקיות משרה הנמוכה מ- <quantity eId="qty_99" refersTo="#percentage" normalized="50">50%</quantity>" יבוא "חלקיות משרה הנמוכה מ- <quantity eId="qty_100" refersTo="#percentage" normalized="70">70%</quantity>".</p>
-              <p>החל מיום <date date="2024-09-01">1.9.2024</date> במקום המילים "חלקיות משרה הנמוכה מ- <quantity eId="qty_101" refersTo="#percentage" normalized="70">70%</quantity>" יבוא "חלקיות משרה הנמוכה מ- <quantity eId="qty_102" refersTo="#percentage" normalized="80">80%</quantity>".</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> <mod eId="art_26__para_26-1__mod_1">במקום המילים <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_26__para_26-1__mod_1__qtxt_1">חלקיות משרה הנמוכה מ- <quantity eId="qty_99" refersTo="#percentage" normalized="50">50%</quantity></quotedText> יבוא <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_26__para_26-1__mod_1__qtxt_2">חלקיות משרה הנמוכה מ- <quantity eId="qty_100" refersTo="#percentage" normalized="70">70%</quantity></quotedText></mod>.</p>
+              <p>החל מיום <date date="2024-09-01">1.9.2024</date> <mod eId="art_26__para_26-1__mod_2">במקום המילים <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_26__para_26-1__mod_2__qtxt_1">חלקיות משרה הנמוכה מ- <quantity eId="qty_101" refersTo="#percentage" normalized="70">70%</quantity></quotedText> יבוא <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_26__para_26-1__mod_2__qtxt_2">חלקיות משרה הנמוכה מ- <quantity eId="qty_102" refersTo="#percentage" normalized="80">80%</quantity></quotedText></mod>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_26__para_26-2">

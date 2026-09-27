@@ -826,9 +826,7 @@
             </intro>
             <paragraph eId="chp_1א___sec_1_9__ssec_1_9_1__para_1">
               <num>1.</num>
-              <intro>
-                <p><term eId="trm_37" refersTo="#term_9c553b17">עובד הוראה</term> המועסק באזור מגוריו</p>
-              </intro>
+              <heading><term eId="trm_37" refersTo="#term_9c553b17">עובד הוראה</term> המועסק באזור מגוריו</heading>
               <subparagraph eId="chp_1א___sec_1_9__ssec_1_9_1__para_1__subpara_a">
                 <num>א.</num>
                 <content>
@@ -902,9 +900,7 @@
             </paragraph>
             <paragraph eId="chp_1א___sec_1_9__ssec_1_9_1__para_2">
               <num>2.</num>
-              <intro>
-                <p><term eId="trm_48" refersTo="#term_9c553b17">עובד הוראה</term> המועסק מחוץ לאזור השיפוט של מקום מגוריו</p>
-              </intro>
+              <heading><term eId="trm_48" refersTo="#term_9c553b17">עובד הוראה</term> המועסק מחוץ לאזור השיפוט של מקום מגוריו</heading>
               <subparagraph eId="chp_1א___sec_1_9__ssec_1_9_1__para_2__subpara_a">
                 <num>א.</num>
                 <content>
@@ -1342,127 +1338,246 @@
           <subsection eId="chp_1א___sec_1_10__ssec_1_10_1" repo:prose="same-source">
             <num>1.10.1</num>
             <heading>​ביטוח <term eId="trm_99" refersTo="#term_2db30064">עובדי הוראה</term> המשתתפים במסעות וטיולים (1)</heading>
-            <content>
-              <p>1. תנאים כלליים</p>
-              <p>א. כל <term eId="trm_100" refersTo="#term_9c553b17">עובד הוראה</term> שייכלל בכיסוי מיוחד זה לפי הוראות <organization eId="chp_1א___sec_1_10__org_4" refersTo="#moe">משרד החינוך</organization> התרבות והספורט יכוסה בכיסוי לתאונות אישיות לטיולים, לסיורים ולמסעות - נגד מוות או נכות, בסכומים שיפורטו בסעיפים ב-ד להלן.</p>
-              <p>הערה; הסכומים עודכנו לפי תנאי הכיסוי לשנת 1997 התקפים עד היום.</p>
-              <p>ב. במקרה של מוות או נכות צמיתה של % 100, אשר ייגרמו כתוצאה מתאונה בעת טיולים, סיורים ומסעות תוך כדי ועקב עבודת עובד ההוראה במסגרת בית-הספר, יקבל עובד ההוראה או יקבלו שאריו סכום של 30,000 דולר (בש"ח) כפיצוי חד- פעמי, ובמקרה של נכות צמיתה חלקית יקבל עובד ההוראה פיצוי יחסי בהתאם לאחוזי הנכות. אחוזי הנכות ייקבעו על-פי תקנות הביטוח הלאומי.</p>
-              <p>ג. <term eId="trm_101" refersTo="#term_2db30064">לעובדי הוראה</term> יינתן החל מהשבוע ה - 27 ועד תום שנה (מיום הפציעה) פיצוי שבועי בסך 450 דולר (בש"ח), אם הופסקו תשלומי הביטוח הלאומי <term eId="trm_102" refersTo="#term_2e131aef">והעובד</term> היה זכאי לקבלם אילולא ההגבלה של 26 שבועות בחוק הביטוח הלאומי.</p>
-              <p>ד. <term eId="trm_103" refersTo="#term_9c553b17">עובד הוראה</term> שהיה באי-כושר עבודה כתוצאה מתאונה לפחות שבועיים רצופים, יקבל החזר הוצאות בסך 200 דולר (בש"ח) לחודש, כל עוד אינו כשיר לעבוד ועד לשבוע ה - 26 (כולל).</p>
-              <p>ה. מקרים חריגים</p>
-              <p>ועדה ובה נציגי חברת "ענבל", <organization eId="chp_1א___sec_1_10__org_5" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>, <organization eId="chp_1א___sec_1_10__org_6" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> <organization eId="chp_1א___sec_1_10__org_7" refersTo="#moe">ומשרד החינוך</organization> התרבות והספורט (להלן "<def refersTo="#term_f94250be">הוועדה</def>") תחליט ברוב קולות, לפי שיקול דעתה,על-פי פנייה של אחד הארגונים היציגים, שנסיבות המקרה מצדיקות תשלום בתום <quantity eId="chp_1א___sec_1_10__qty_10" refersTo="#day" normalized="10">10 ימים</quantity> מפגיעת עובד ההוראה.</p>
-              <p>במקרים חריגים שייקבעו על-ידי <term eId="trm_104" refersTo="#term_f94250be">הוועדה</term> ניתן יהיה להגדיל את סכום הפיצוי השבועי, בהתאם לנסיבות המקרה, או להמשיך ולשלמו מעבר לתקופה הקבועה בפוליסה - הכול על-פי החלטת <term eId="trm_105" refersTo="#term_f94250be">הוועדה</term>.</p>
-              <p>בכל מקרה לא תעלה תוספת הפיצוי על % 10 מהסכום שהנפגע זכאי לו.</p>
-              <p>באותם מקרים חריגים שבהם התרחשה התאונה במקום המרוחק ממקום מגוריו של עובד ההוראה, תוכל <term eId="trm_106" refersTo="#term_f94250be">הוועדה</term> להמליץ על פיצוי עובד ההוראה בעבור הוצאות נלוות הוצאות נסיעה) שהיו למשפחתו בגין ועקב התרחשות התאונה במקום מרוחק, כאמור לעיל, וזאתבנוסף לפיצוי האמור בכתב הכיסוי.</p>
-              <p>במקרה כזה יוגבל הפיצוי המיוחד לתקרה של 450 דולר למקרה.</p>
-              <p>ו. כתב הכיסוי הוא לכל תקופת הטיול או המסע בארץ ובחו"ל (2) (ללא הגבלה במספר הימים) ולכל משך הזמן, משעת צאתו של עובד ההוראה מביתו אל מקום המפגש ועד שובו ישירות הביתה.</p>
-              <p>ז. אין הכיסוי כולל תאונה המכוסה על-פי חוק הפיצויים לנפגעי תאונות דרכים התשל"ה - 1975, וכן על-פי חוק נפגעי פעולות איבה.</p>
-              <p>1א. (3) "דו"ח על תאונה"</p>
-              <p>בכל מקרה שמורה המלווה טיול או מסע נפגע בתפקידו, על מנהל בית-הספר לדווח על כך תוך שבועיים לגב' <person eId="chp_1א___sec_1_10__pers_1" refersTo="#p_8ed27b84">א' כהן</person>, חברת ענבל, עמק רפאים 44, ירושלים, מיקוד 93142.</p>
-              <p>להלן דוגמת טופס הדו"ח</p>
-              <p>2. התחייבות המבַטֵח</p>
-              <p>א. במקרה שיוכח לשביעות רצונו הגמורה של המבַטֵח ובהתאם לכללי הביטוח המסחריים, כי המבוטח נפגע על-ידי תאונה גופנית בלתי צפויה מראש, שנגרמה על-ידי אמצעי אלימות חיצוניים וגלויים לעין, ואשר היוותה את הסיבה היחידה, הישירה והמיָדית לנכות המיָדית של המבוטח, שאירעה תוך <quantity eId="chp_1א___sec_1_10__qty_11" refersTo="#month" normalized="12">12 חודשים</quantity> מיום התאונה, ישלם לו המבַטֵח את האחוזים מן הסכום המבוטח המצויים ליד הנכות האמורה בלוח הפיצויים דלהלן;</p>
-              <p>"הסכום המבוטח" לעניין זה - הסכום הנקוב ב"אישור ביטוח וחיוב כספי".</p>
-              <p>ב. במקרה שתאונה כאמור היוותה את הסיבה היחידה, הישירה והמיָדית למותו של המבוטח תוך <quantity eId="chp_1א___sec_1_10__qty_12" refersTo="#month" normalized="12">12 חודשים</quantity> מיום התאונה, ישלח המבטח למי שצוין ב"הצהרה למקרה מוות" שבתיקו האישי של המבוטח, או, באין ציון כאמור, לעיזבונו, את הסכום הנקוב לעניין זה ב"אישור ביטוח וחיוב כספי".</p>
-              <p>ג. לוח פיצויים</p>
-              <p>שיתוק גמור: % 100</p>
-              <p>אבדן שתי גפיים: % 100</p>
-              <p>אבדן שתי הידיים או כל האצבעות ושני הבוהנים: % 100</p>
-              <p>ריתוק תמידי למיטה כתוצאה מפציעה: % 100</p>
-              <p>כל פציעה אחרת הגורמת לאבדן תמידי ומוחלט של כושר העבודה: % 100</p>
-              <p>אבדן גמור ומוחלט של כוח הראייה שתי העיניים: % 100</p>
-              <p>אבדן הזרוע - בכתף: <quantity eId="chp_1א___sec_1_10__qty_13" refersTo="#percentage" normalized="60">60%</quantity>
-              </p>
-              <p>בין הכתף והמרפק: <quantity eId="chp_1א___sec_1_10__qty_14" refersTo="#percentage" normalized="50">50%</quantity>
-              </p>
-              <p>במרפק: <quantity eId="chp_1א___sec_1_10__qty_15" refersTo="#percentage" normalized="47.5">47.5%</quantity>
-              </p>
-              <p>בין המרפק ופרק היד: <quantity eId="chp_1א___sec_1_10__qty_16" refersTo="#percentage" normalized="45">45%</quantity>
-              </p>
-              <p>אבדן היד: <quantity eId="chp_1א___sec_1_10__qty_17" refersTo="#percentage" normalized="42.5">42.5%</quantity>
-              </p>
-              <p>אבדן ארבע אצבעות ובוהן של יד אחת: <quantity eId="chp_1א___sec_1_10__qty_18" refersTo="#percentage" normalized="42.5">42.5%</quantity>
-              </p>
-              <p>אבדן ארבע אצבעות אבדן הבוהן: <quantity eId="chp_1א___sec_1_10__qty_19" refersTo="#percentage" normalized="35">35%</quantity>
-              </p>
-              <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_20" refersTo="#percentage" normalized="25">25%</quantity>
-              </p>
-              <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_21" refersTo="#percentage" normalized="10">10%</quantity>
-              </p>
-              <p>אבדן האצבע - שלוש עצמות: <quantity eId="chp_1א___sec_1_10__qty_22" refersTo="#percentage" normalized="10">10%</quantity>
-              </p>
-              <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_23" refersTo="#percentage" normalized="8">8%</quantity>
-              </p>
-              <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_24" refersTo="#percentage" normalized="4">4%</quantity>
-              </p>
-              <p>אבדן הצרֵדה - שלוש עצמות: <quantity eId="chp_1א___sec_1_10__qty_25" refersTo="#percentage" normalized="6">6%</quantity>
-              </p>
-              <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_26" refersTo="#percentage" normalized="4">4%</quantity>
-              </p>
-              <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_27" refersTo="#percentage" normalized="2">2%</quantity>
-              </p>
-              <p>אבדן הקמיצה - שלוש עצמות: <quantity eId="chp_1א___sec_1_10__qty_28" refersTo="#percentage" normalized="5">5%</quantity>
-              </p>
-              <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_29" refersTo="#percentage" normalized="4">4%</quantity>
-              </p>
-              <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_30" refersTo="#percentage" normalized="2">2%</quantity>
-              </p>
-              <p>אבדן הזרת - שלוש עצמות: <quantity eId="chp_1א___sec_1_10__qty_31" refersTo="#percentage" normalized="4">4%</quantity>
-              </p>
-              <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_32" refersTo="#percentage" normalized="3">3%</quantity>
-              </p>
-              <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_33" refersTo="#percentage" normalized="2">2%</quantity>
-              </p>
-              <p>אבדן הרגל - בירך: <quantity eId="chp_1א___sec_1_10__qty_34" refersTo="#percentage" normalized="70">70%</quantity>
-              </p>
-              <p>בין הברך והירך: <quantity eId="chp_1א___sec_1_10__qty_35" refersTo="#percentage" normalized="50">50%</quantity>
-              </p>
-              <p>מתחת לברך: <quantity eId="chp_1א___sec_1_10__qty_36" refersTo="#percentage" normalized="35">35%</quantity>
-              </p>
-              <p>אבדן אצבעות הרגליים כולן: <quantity eId="chp_1א___sec_1_10__qty_37" refersTo="#percentage" normalized="15">15%</quantity>
-              </p>
-              <p>הגדולה, שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_38" refersTo="#percentage" normalized="5">5%</quantity>
-              </p>
-              <p>הגדולה, עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_39" refersTo="#percentage" normalized="2">2%</quantity>
-              </p>
-              <p>האחרת, במקרה של אבדן יותר מאצבע אחת, כל אחת: <quantity eId="chp_1א___sec_1_10__qty_40" refersTo="#percentage" normalized="1">1%</quantity>
-              </p>
-              <p>עין: אבדן של - כל העין: <quantity eId="chp_1א___sec_1_10__qty_41" refersTo="#percentage" normalized="30">30%</quantity>
-              </p>
-              <p>כוח הראייה, מלבד כוח תחושת האור: <quantity eId="chp_1א___sec_1_10__qty_42" refersTo="#percentage" normalized="30">30%</quantity>
-              </p>
-              <p>עדשת העין: <quantity eId="chp_1א___sec_1_10__qty_43" refersTo="#percentage" normalized="20">20%</quantity>
-              </p>
-              <p>אבדן כוח השמיעה - של שתי האוזניים: <quantity eId="chp_1א___sec_1_10__qty_44" refersTo="#percentage" normalized="50">50%</quantity>
-              </p>
-              <p>של אוזן אחת: <quantity eId="chp_1א___sec_1_10__qty_45" refersTo="#percentage" normalized="7">7%</quantity>
-              </p>
-              <p>ד. אם הפציעה אינה מפורטת בלוח הפיצויים או אם מסיבה סבירה נבצר מלהשתמש בלוח הפיצויים, ייקבעו אחוזי הנכות בהתאם לתקנות הביטוח הלאומי, על-ידי רופא מוסמך, על חשבון המבַטח.</p>
-              <p>ה. בשום מקרה לא יעלה סכום הפיצויים במקרה של תאונה המכוסה לפי כיסוי ביטוחי זה על % 100 מהסכום המבוטח.</p>
-              <p>3. חריגים</p>
-              <p>כיסוי ביטוחי זה אינו מכסה תאונה או נזק גופני שנגרמו למבוטח באופן ישיר או בלתי ישיר על-ידי או כתוצאה מן:</p>
-              <p>א. חבלה גופנית שהמבוטח גרם במתכוון לעצמו, או התאבדות, או כל ניסיון לכך.</p>
-              <p>ב. העמדת עצמו לסכנה במתכוון וללא נחיצות.</p>
-              <p>ג. כל עבֵרה על החוק על-ידי המבוטח (למעט עברה על חוקי תעבורה).</p>
-              <p>ד. טירוף הדעת, שכרות או שימוש בסמים.</p>
-              <p>4. חובות המבוטח ותנאים</p>
-              <p>א. על המבוטח או על באי-כוח עיזבונו לשתף פעולה עם המבטח, ככל שיידרש.</p>
-              <p>ב. <term eId="trm_107" refersTo="#term_7be72c5a">הודעה</term> על תביעות - על כל מקרה של תאונה על המבוטח או בא-כוחו להודיע למבַטח בכתב בהקדם האפשרי. על מות המבוטח כתוצאה מתאונה יש להודיע למבַטח מיד.</p>
-              <p><term eId="trm_108" refersTo="#term_7be72c5a">הודעה</term> על תאונה תכלול את שם המבוטח ומענו ופרטים בדבר התאונה ונסיבותיה.</p>
-              <p>המבַטח לא יהיה אחראי לפי כיסוי ביטוחי זה, אם לא תתקבל <term eId="trm_109" refersTo="#term_7be72c5a">הודעה</term> כאמור בכתב תוך <quantity eId="chp_1א___sec_1_10__qty_46" refersTo="#month" normalized="6">6 חודשים</quantity> מיום קרות התאונה.</p>
-              <p>ג. טיפול רפואי ותעודות - מיד לאחר קרות תאונה על המבוטח להעמיד את עצמו תחת השגחת רופא מוסמך. תוך <quantity eId="chp_1א___sec_1_10__qty_47" refersTo="#day" normalized="10">10 ימים</quantity> לאחר מתן ההודעה על התביעה, על המבוטח או על בא-כוחו להמציא למבטח דו"ח מקיף על התאונה, בצירוף דו"ח ותעודה מפורטת מאת הרופא המטפל. המבוטח או בא-כוחו ימציא מפעם לפעם למבטח כל תעודה או אינפורמציה נוספת שהמבטח ידרוש. המבטח רשאי לדרוש, כי דו"חות ותעודות כאמור יומצאו על-גבי טפסים שהמבַטח יספק. המבַטח לא יכיר בשום תביעה ולא יאשר שום נכות אלא אם אומתו על-ידי רופא מוסמך.</p>
-              <p>המבטח רשאי לדרוש, כי המבוטח ייבדק על-ידי רופא או מומחה שימונו על-ידי המבטח.</p>
-              <p>ד. היעלמותו של המבוטח לא תיחשב בחזקת מיתה מחמת תאונה.</p>
-              <p>5. קיזוז ומניעת תשלום כפול</p>
-              <p>כל סכום שישולם על-פי כיסוי ביטוחי זה למבוטח או ליורשיו, יקוזז מכל סכום <organization eId="chp_1א___sec_1_10__org_8" refersTo="#state">שממשלת ישראל</organization> או מעסיקו, שעל-פי הזמנתו ניתן הכיסוי הביטוחי, יחויבו לשלם לו מעילה כלשהי בשל אותו אירוע, אף אם החיוב הוא על-פי כיסוי ביטוחי אחר כלשהו;</p>
-              <p>היה הנזק מכוסה על-ידי ביטוח שנתן מבטח אחר - לא תהיה חובה לשלם על-פי כיסוי ביטוחי זה.</p>
+            <paragraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_1">
+              <num>1.</num>
+              <heading>תנאים כלליים</heading>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_1__subpara_a">
+                <num>א.</num>
+                <content>
+                  <p>כל <term eId="trm_100" refersTo="#term_9c553b17">עובד הוראה</term> שייכלל בכיסוי מיוחד זה לפי הוראות <organization eId="chp_1א___sec_1_10__org_4" refersTo="#moe">משרד החינוך</organization> התרבות והספורט יכוסה בכיסוי לתאונות אישיות לטיולים, לסיורים ולמסעות - נגד מוות או נכות, בסכומים שיפורטו בסעיפים ב-ד להלן.</p>
+                  <p>הערה; הסכומים עודכנו לפי תנאי הכיסוי לשנת 1997 התקפים עד היום.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_1__subpara_b">
+                <num>ב.</num>
+                <content>
+                  <p>במקרה של מוות או נכות צמיתה של % 100, אשר ייגרמו כתוצאה מתאונה בעת טיולים, סיורים ומסעות תוך כדי ועקב עבודת עובד ההוראה במסגרת בית-הספר, יקבל עובד ההוראה או יקבלו שאריו סכום של 30,000 דולר (בש"ח) כפיצוי חד- פעמי, ובמקרה של נכות צמיתה חלקית יקבל עובד ההוראה פיצוי יחסי בהתאם לאחוזי הנכות. אחוזי הנכות ייקבעו על-פי תקנות הביטוח הלאומי.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_1__subpara_c">
+                <num>ג.</num>
+                <content>
+                  <p><term eId="trm_101" refersTo="#term_2db30064">לעובדי הוראה</term> יינתן החל מהשבוע ה - 27 ועד תום שנה (מיום הפציעה) פיצוי שבועי בסך 450 דולר (בש"ח), אם הופסקו תשלומי הביטוח הלאומי <term eId="trm_102" refersTo="#term_2e131aef">והעובד</term> היה זכאי לקבלם אילולא ההגבלה של 26 שבועות בחוק הביטוח הלאומי.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_1__subpara_d">
+                <num>ד.</num>
+                <content>
+                  <p><term eId="trm_103" refersTo="#term_9c553b17">עובד הוראה</term> שהיה באי-כושר עבודה כתוצאה מתאונה לפחות שבועיים רצופים, יקבל החזר הוצאות בסך 200 דולר (בש"ח) לחודש, כל עוד אינו כשיר לעבוד ועד לשבוע ה - 26 (כולל).</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_1__subpara_e">
+                <num>ה.</num>
+                <content>
+                  <p>מקרים חריגים</p>
+                  <p>ועדה ובה נציגי חברת "ענבל", <organization eId="chp_1א___sec_1_10__org_5" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>, <organization eId="chp_1א___sec_1_10__org_6" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> <organization eId="chp_1א___sec_1_10__org_7" refersTo="#moe">ומשרד החינוך</organization> התרבות והספורט (להלן "<def refersTo="#term_f94250be">הוועדה</def>") תחליט ברוב קולות, לפי שיקול דעתה,על-פי פנייה של אחד הארגונים היציגים, שנסיבות המקרה מצדיקות תשלום בתום <quantity eId="chp_1א___sec_1_10__qty_10" refersTo="#day" normalized="10">10 ימים</quantity> מפגיעת עובד ההוראה.</p>
+                  <p>במקרים חריגים שייקבעו על-ידי <term eId="trm_104" refersTo="#term_f94250be">הוועדה</term> ניתן יהיה להגדיל את סכום הפיצוי השבועי, בהתאם לנסיבות המקרה, או להמשיך ולשלמו מעבר לתקופה הקבועה בפוליסה - הכול על-פי החלטת <term eId="trm_105" refersTo="#term_f94250be">הוועדה</term>.</p>
+                  <p>בכל מקרה לא תעלה תוספת הפיצוי על % 10 מהסכום שהנפגע זכאי לו.</p>
+                  <p>באותם מקרים חריגים שבהם התרחשה התאונה במקום המרוחק ממקום מגוריו של עובד ההוראה, תוכל <term eId="trm_106" refersTo="#term_f94250be">הוועדה</term> להמליץ על פיצוי עובד ההוראה בעבור הוצאות נלוות הוצאות נסיעה) שהיו למשפחתו בגין ועקב התרחשות התאונה במקום מרוחק, כאמור לעיל, וזאתבנוסף לפיצוי האמור בכתב הכיסוי.</p>
+                  <p>במקרה כזה יוגבל הפיצוי המיוחד לתקרה של 450 דולר למקרה.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_1__subpara_f">
+                <num>ו.</num>
+                <content>
+                  <p>כתב הכיסוי הוא לכל תקופת הטיול או המסע בארץ ובחו"ל (2) (ללא הגבלה במספר הימים) ולכל משך הזמן, משעת צאתו של עובד ההוראה מביתו אל מקום המפגש ועד שובו ישירות הביתה.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_1__subpara_g">
+                <num>ז.</num>
+                <content>
+                  <p>אין הכיסוי כולל תאונה המכוסה על-פי חוק הפיצויים לנפגעי תאונות דרכים התשל"ה - 1975, וכן על-פי חוק נפגעי פעולות איבה.</p>
+                  <p>1א. (3) "דו"ח על תאונה"</p>
+                  <p>בכל מקרה שמורה המלווה טיול או מסע נפגע בתפקידו, על מנהל בית-הספר לדווח על כך תוך שבועיים לגב' <person eId="chp_1א___sec_1_10__pers_1" refersTo="#p_8ed27b84">א' כהן</person>, חברת ענבל, עמק רפאים 44, ירושלים, מיקוד 93142.</p>
+                  <p>להלן דוגמת טופס הדו"ח</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_2">
+              <num>2.</num>
+              <heading>התחייבות המבַטֵח</heading>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_2__subpara_a">
+                <num>א.</num>
+                <content>
+                  <p>במקרה שיוכח לשביעות רצונו הגמורה של המבַטֵח ובהתאם לכללי הביטוח המסחריים, כי המבוטח נפגע על-ידי תאונה גופנית בלתי צפויה מראש, שנגרמה על-ידי אמצעי אלימות חיצוניים וגלויים לעין, ואשר היוותה את הסיבה היחידה, הישירה והמיָדית לנכות המיָדית של המבוטח, שאירעה תוך <quantity eId="chp_1א___sec_1_10__qty_11" refersTo="#month" normalized="12">12 חודשים</quantity> מיום התאונה, ישלם לו המבַטֵח את האחוזים מן הסכום המבוטח המצויים ליד הנכות האמורה בלוח הפיצויים דלהלן;</p>
+                  <p>"הסכום המבוטח" לעניין זה - הסכום הנקוב ב"אישור ביטוח וחיוב כספי".</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_2__subpara_b">
+                <num>ב.</num>
+                <content>
+                  <p>במקרה שתאונה כאמור היוותה את הסיבה היחידה, הישירה והמיָדית למותו של המבוטח תוך <quantity eId="chp_1א___sec_1_10__qty_12" refersTo="#month" normalized="12">12 חודשים</quantity> מיום התאונה, ישלח המבטח למי שצוין ב"הצהרה למקרה מוות" שבתיקו האישי של המבוטח, או, באין ציון כאמור, לעיזבונו, את הסכום הנקוב לעניין זה ב"אישור ביטוח וחיוב כספי".</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_2__subpara_c">
+                <num>ג.</num>
+                <content>
+                  <p>לוח פיצויים</p>
+                  <p>שיתוק גמור: % 100</p>
+                  <p>אבדן שתי גפיים: % 100</p>
+                  <p>אבדן שתי הידיים או כל האצבעות ושני הבוהנים: % 100</p>
+                  <p>ריתוק תמידי למיטה כתוצאה מפציעה: % 100</p>
+                  <p>כל פציעה אחרת הגורמת לאבדן תמידי ומוחלט של כושר העבודה: % 100</p>
+                  <p>אבדן גמור ומוחלט של כוח הראייה שתי העיניים: % 100</p>
+                  <p>אבדן הזרוע - בכתף: <quantity eId="chp_1א___sec_1_10__qty_13" refersTo="#percentage" normalized="60">60%</quantity>
+                  </p>
+                  <p>בין הכתף והמרפק: <quantity eId="chp_1א___sec_1_10__qty_14" refersTo="#percentage" normalized="50">50%</quantity>
+                  </p>
+                  <p>במרפק: <quantity eId="chp_1א___sec_1_10__qty_15" refersTo="#percentage" normalized="47.5">47.5%</quantity>
+                  </p>
+                  <p>בין המרפק ופרק היד: <quantity eId="chp_1א___sec_1_10__qty_16" refersTo="#percentage" normalized="45">45%</quantity>
+                  </p>
+                  <p>אבדן היד: <quantity eId="chp_1א___sec_1_10__qty_17" refersTo="#percentage" normalized="42.5">42.5%</quantity>
+                  </p>
+                  <p>אבדן ארבע אצבעות ובוהן של יד אחת: <quantity eId="chp_1א___sec_1_10__qty_18" refersTo="#percentage" normalized="42.5">42.5%</quantity>
+                  </p>
+                  <p>אבדן ארבע אצבעות אבדן הבוהן: <quantity eId="chp_1א___sec_1_10__qty_19" refersTo="#percentage" normalized="35">35%</quantity>
+                  </p>
+                  <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_20" refersTo="#percentage" normalized="25">25%</quantity>
+                  </p>
+                  <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_21" refersTo="#percentage" normalized="10">10%</quantity>
+                  </p>
+                  <p>אבדן האצבע - שלוש עצמות: <quantity eId="chp_1א___sec_1_10__qty_22" refersTo="#percentage" normalized="10">10%</quantity>
+                  </p>
+                  <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_23" refersTo="#percentage" normalized="8">8%</quantity>
+                  </p>
+                  <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_24" refersTo="#percentage" normalized="4">4%</quantity>
+                  </p>
+                  <p>אבדן הצרֵדה - שלוש עצמות: <quantity eId="chp_1א___sec_1_10__qty_25" refersTo="#percentage" normalized="6">6%</quantity>
+                  </p>
+                  <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_26" refersTo="#percentage" normalized="4">4%</quantity>
+                  </p>
+                  <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_27" refersTo="#percentage" normalized="2">2%</quantity>
+                  </p>
+                  <p>אבדן הקמיצה - שלוש עצמות: <quantity eId="chp_1א___sec_1_10__qty_28" refersTo="#percentage" normalized="5">5%</quantity>
+                  </p>
+                  <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_29" refersTo="#percentage" normalized="4">4%</quantity>
+                  </p>
+                  <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_30" refersTo="#percentage" normalized="2">2%</quantity>
+                  </p>
+                  <p>אבדן הזרת - שלוש עצמות: <quantity eId="chp_1א___sec_1_10__qty_31" refersTo="#percentage" normalized="4">4%</quantity>
+                  </p>
+                  <p>שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_32" refersTo="#percentage" normalized="3">3%</quantity>
+                  </p>
+                  <p>עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_33" refersTo="#percentage" normalized="2">2%</quantity>
+                  </p>
+                  <p>אבדן הרגל - בירך: <quantity eId="chp_1א___sec_1_10__qty_34" refersTo="#percentage" normalized="70">70%</quantity>
+                  </p>
+                  <p>בין הברך והירך: <quantity eId="chp_1א___sec_1_10__qty_35" refersTo="#percentage" normalized="50">50%</quantity>
+                  </p>
+                  <p>מתחת לברך: <quantity eId="chp_1א___sec_1_10__qty_36" refersTo="#percentage" normalized="35">35%</quantity>
+                  </p>
+                  <p>אבדן אצבעות הרגליים כולן: <quantity eId="chp_1א___sec_1_10__qty_37" refersTo="#percentage" normalized="15">15%</quantity>
+                  </p>
+                  <p>הגדולה, שתי עצמות: <quantity eId="chp_1א___sec_1_10__qty_38" refersTo="#percentage" normalized="5">5%</quantity>
+                  </p>
+                  <p>הגדולה, עצם אחת: <quantity eId="chp_1א___sec_1_10__qty_39" refersTo="#percentage" normalized="2">2%</quantity>
+                  </p>
+                  <p>האחרת, במקרה של אבדן יותר מאצבע אחת, כל אחת: <quantity eId="chp_1א___sec_1_10__qty_40" refersTo="#percentage" normalized="1">1%</quantity>
+                  </p>
+                  <p>עין: אבדן של - כל העין: <quantity eId="chp_1א___sec_1_10__qty_41" refersTo="#percentage" normalized="30">30%</quantity>
+                  </p>
+                  <p>כוח הראייה, מלבד כוח תחושת האור: <quantity eId="chp_1א___sec_1_10__qty_42" refersTo="#percentage" normalized="30">30%</quantity>
+                  </p>
+                  <p>עדשת העין: <quantity eId="chp_1א___sec_1_10__qty_43" refersTo="#percentage" normalized="20">20%</quantity>
+                  </p>
+                  <p>אבדן כוח השמיעה - של שתי האוזניים: <quantity eId="chp_1א___sec_1_10__qty_44" refersTo="#percentage" normalized="50">50%</quantity>
+                  </p>
+                  <p>של אוזן אחת: <quantity eId="chp_1א___sec_1_10__qty_45" refersTo="#percentage" normalized="7">7%</quantity>
+                  </p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_2__subpara_d">
+                <num>ד.</num>
+                <content>
+                  <p>אם הפציעה אינה מפורטת בלוח הפיצויים או אם מסיבה סבירה נבצר מלהשתמש בלוח הפיצויים, ייקבעו אחוזי הנכות בהתאם לתקנות הביטוח הלאומי, על-ידי רופא מוסמך, על חשבון המבַטח.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_2__subpara_e">
+                <num>ה.</num>
+                <content>
+                  <p>בשום מקרה לא יעלה סכום הפיצויים במקרה של תאונה המכוסה לפי כיסוי ביטוחי זה על % 100 מהסכום המבוטח.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_3">
+              <num>3.</num>
+              <heading>חריגים</heading>
+              <intro>
+                <p>כיסוי ביטוחי זה אינו מכסה תאונה או נזק גופני שנגרמו למבוטח באופן ישיר או בלתי ישיר על-ידי או כתוצאה מן:</p>
+              </intro>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_3__subpara_a">
+                <num>א.</num>
+                <content>
+                  <p>חבלה גופנית שהמבוטח גרם במתכוון לעצמו, או התאבדות, או כל ניסיון לכך.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_3__subpara_b">
+                <num>ב.</num>
+                <content>
+                  <p>העמדת עצמו לסכנה במתכוון וללא נחיצות.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_3__subpara_c">
+                <num>ג.</num>
+                <content>
+                  <p>כל עבֵרה על החוק על-ידי המבוטח (למעט עברה על חוקי תעבורה).</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_3__subpara_d">
+                <num>ד.</num>
+                <content>
+                  <p>טירוף הדעת, שכרות או שימוש בסמים.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_4">
+              <num>4.</num>
+              <heading>חובות המבוטח ותנאים</heading>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_4__subpara_a">
+                <num>א.</num>
+                <content>
+                  <p>על המבוטח או על באי-כוח עיזבונו לשתף פעולה עם המבטח, ככל שיידרש.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_4__subpara_b">
+                <num>ב.</num>
+                <content>
+                  <p><term eId="trm_107" refersTo="#term_7be72c5a">הודעה</term> על תביעות - על כל מקרה של תאונה על המבוטח או בא-כוחו להודיע למבַטח בכתב בהקדם האפשרי. על מות המבוטח כתוצאה מתאונה יש להודיע למבַטח מיד.</p>
+                  <p><term eId="trm_108" refersTo="#term_7be72c5a">הודעה</term> על תאונה תכלול את שם המבוטח ומענו ופרטים בדבר התאונה ונסיבותיה.</p>
+                  <p>המבַטח לא יהיה אחראי לפי כיסוי ביטוחי זה, אם לא תתקבל <term eId="trm_109" refersTo="#term_7be72c5a">הודעה</term> כאמור בכתב תוך <quantity eId="chp_1א___sec_1_10__qty_46" refersTo="#month" normalized="6">6 חודשים</quantity> מיום קרות התאונה.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_4__subpara_c">
+                <num>ג.</num>
+                <content>
+                  <p>טיפול רפואי ותעודות - מיד לאחר קרות תאונה על המבוטח להעמיד את עצמו תחת השגחת רופא מוסמך. תוך <quantity eId="chp_1א___sec_1_10__qty_47" refersTo="#day" normalized="10">10 ימים</quantity> לאחר מתן ההודעה על התביעה, על המבוטח או על בא-כוחו להמציא למבטח דו"ח מקיף על התאונה, בצירוף דו"ח ותעודה מפורטת מאת הרופא המטפל. המבוטח או בא-כוחו ימציא מפעם לפעם למבטח כל תעודה או אינפורמציה נוספת שהמבטח ידרוש. המבטח רשאי לדרוש, כי דו"חות ותעודות כאמור יומצאו על-גבי טפסים שהמבַטח יספק. המבַטח לא יכיר בשום תביעה ולא יאשר שום נכות אלא אם אומתו על-ידי רופא מוסמך.</p>
+                  <p>המבטח רשאי לדרוש, כי המבוטח ייבדק על-ידי רופא או מומחה שימונו על-ידי המבטח.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_4__subpara_d">
+                <num>ד.</num>
+                <content>
+                  <p>היעלמותו של המבוטח לא תיחשב בחזקת מיתה מחמת תאונה.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="chp_1א___sec_1_10__ssec_1_10_1__para_5">
+              <num>5.</num>
+              <heading>קיזוז ומניעת תשלום כפול</heading>
+              <content>
+                <p>כל סכום שישולם על-פי כיסוי ביטוחי זה למבוטח או ליורשיו, יקוזז מכל סכום <organization eId="chp_1א___sec_1_10__org_8" refersTo="#state">שממשלת ישראל</organization> או מעסיקו, שעל-פי הזמנתו ניתן הכיסוי הביטוחי, יחויבו לשלם לו מעילה כלשהי בשל אותו אירוע, אף אם החיוב הוא על-פי כיסוי ביטוחי אחר כלשהו;</p>
+                <p>היה הנזק מכוסה על-ידי ביטוח שנתן מבטח אחר - לא תהיה חובה לשלם על-פי כיסוי ביטוחי זה.</p>
+              </content>
+            </paragraph>
+            <wrapUp>
               <p>אסמכתא:</p>
               <p>חוזר מנכ"ל מב / 6, עמ' 7, סעיף 205;</p>
               <p>חוזר מנכ"ל נד / 8, עמ' 32, סעיף 393</p>
               <p>חוזר מנכ"ל נז/9, עמוד 36, סעיף 396.</p>
               <p>חוזר מנכ"ל נה / 6, עמ' 20, סעיף 233.</p>
               <p>חוזר מנכ"ל נג / 9, עמ' 27, סעיף 395.</p>
-            </content>
+            </wrapUp>
           </subsection>
         </section>
         <section eId="chp_1א___sec_1_11" repo:source="reference/takanon-mirror-2026-06-01/terms-service.education.gov.il/terms/general-1a/1-11-compensation">
@@ -1480,9 +1595,7 @@
             </intro>
             <paragraph eId="chp_1א___sec_1_11__hc_2__para_1">
               <num>1.</num>
-              <intro>
-                <p>כללי</p>
-              </intro>
+              <heading>כללי</heading>
               <subparagraph eId="chp_1א___sec_1_11__hc_2__para_1__subpara_a">
                 <num>א.</num>
                 <content>
@@ -1505,9 +1618,7 @@
             </paragraph>
             <paragraph eId="chp_1א___sec_1_11__hc_2__para_2">
               <num>2.</num>
-              <intro>
-                <p>הקבצות וקבוצות (6)</p>
-              </intro>
+              <heading>הקבצות וקבוצות (6)</heading>
               <subparagraph eId="chp_1א___sec_1_11__hc_2__para_2__subpara_a">
                 <num>א.</num>
                 <content>
@@ -1535,9 +1646,7 @@
             </paragraph>
             <paragraph eId="chp_1א___sec_1_11__hc_2__para_3">
               <num>3.</num>
-              <intro>
-                <p>הוראת שפת אם ושפה זרה</p>
-              </intro>
+              <heading>הוראת שפת אם ושפה זרה</heading>
               <subparagraph eId="chp_1א___sec_1_11__hc_2__para_3__subpara_a">
                 <num>א.</num>
                 <content>
@@ -1578,9 +1687,7 @@
             </paragraph>
             <paragraph eId="chp_1א___sec_1_11__hc_2__para_5">
               <num>5.</num>
-              <intro>
-                <p>תנאי תשלום</p>
-              </intro>
+              <heading>תנאי תשלום</heading>
               <subparagraph eId="chp_1א___sec_1_11__hc_2__para_5__subpara_a">
                 <num>א.</num>
                 <content>
@@ -2875,9 +2982,7 @@
               <heading>הסבר לסעיפים 1 ו - 2</heading>
               <paragraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_1">
                 <num>1.</num>
-                <intro>
-                  <p>משרה מלאה</p>
-                </intro>
+                <heading>משרה מלאה</heading>
                 <subparagraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_1__subpara_a">
                   <num>א.</num>
                   <content>
@@ -2895,9 +3000,7 @@
               </paragraph>
               <paragraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_2">
                 <num>2.</num>
-                <intro>
-                  <p>שעות שהייה לעובדים במשרה חלקית</p>
-                </intro>
+                <heading>שעות שהייה לעובדים במשרה חלקית</heading>
                 <subparagraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_2__subpara_a">
                   <num>א.</num>
                   <content>
@@ -2921,17 +3024,15 @@
               </paragraph>
               <paragraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_3">
                 <num>3.</num>
+                <heading>שעות שהייה לעובדים מעל למשרה מלאה</heading>
                 <content>
-                  <p>שעות שהייה לעובדים מעל למשרה מלאה</p>
                   <p>מורה <term eId="trm_249" refersTo="#term_2e131aef">העובד</term> מעל למשרה מלאה, ישהה בבית-הספר יחסית למשרתו.</p>
                   <p>לדוגמה: מורה בבית-ספר <concept eId="dom_50" refersTo="#stage_al_yesodi">על-יסודי</concept>, שמשרתו המלאה היא <quantity eId="chp_1א___sec_1_17__qty_16" refersTo="#hour" normalized="24">24 שעות</quantity>, <term eId="trm_250" refersTo="#term_2e131aef">העובד</term> 32-<quantity eId="chp_1א___sec_1_17__qty_17" refersTo="#hour" normalized="25">25 שעות</quantity> - ישהה ½<quantity eId="chp_1א___sec_1_17__qty_18" refersTo="#hour" normalized="2">2 שעות</quantity>.</p>
                 </content>
               </paragraph>
               <paragraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_4">
                 <num>4.</num>
-                <intro>
-                  <p>הבהרות להסכם</p>
-                </intro>
+                <heading>הבהרות להסכם</heading>
                 <subparagraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_4__subpara_a">
                   <num>א.</num>
                   <intro>
@@ -2973,9 +3074,7 @@
               </paragraph>
               <paragraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_5">
                 <num>5.</num>
-                <intro>
-                  <p>שיבוץ הגננת בתכנית השהייה</p>
-                </intro>
+                <heading>שיבוץ הגננת בתכנית השהייה</heading>
                 <subparagraph eId="chp_1א___sec_1_17__ssec_1_17_1__hc_2__para_5__subpara_a">
                   <num>א.</num>
                   <intro>
@@ -3180,8 +3279,8 @@
             <heading>דיווח</heading>
             <paragraph eId="chp_1א___sec_1_17__ssec_1_17_3__para_1">
               <num>1.</num>
+              <heading>דיווח על נוכחות</heading>
               <content>
-                <p>דיווח על נוכחות</p>
                 <p>על נוכחות עובדי ההוראה בשעות השהייה ידווח מנהל המוסד על-פי סדרי <term eId="trm_270" refersTo="#term_eafe837c">הדיווח</term> המקובלים.</p>
                 <p>הגננת תדווח על שעות השהייה בדו"ח הנוכחות המקובל.</p>
                 <p>סדרי <term eId="trm_271" refersTo="#term_eafe837c">הדיווח</term> ופרטיהם יהיו חלק מסדרי <term eId="trm_272" refersTo="#term_eafe837c">הדיווח</term> ופרטי <term eId="trm_273" refersTo="#term_eafe837c">הדיווח</term> על נוכחות עובד ההוראה בתפקידו.</p>
@@ -3189,9 +3288,7 @@
             </paragraph>
             <paragraph eId="chp_1א___sec_1_17__ssec_1_17_3__para_2">
               <num>2.</num>
-              <intro>
-                <p>דיווח על תוכן הפעילות (3)</p>
-              </intro>
+              <heading>דיווח על תוכן הפעילות (3)</heading>
               <subparagraph eId="chp_1א___sec_1_17__ssec_1_17_3__para_2__subpara_a">
                 <num>(א)</num>
                 <content>
@@ -5820,31 +5917,122 @@
             <subsection eId="chp_1ב__sec_1_26__ssec_1_26_1_1" repo:prose="same-source">
               <num>1.26.1.1</num>
               <heading>כללי</heading>
-              <content>
-                <p>1. כללי</p>
-                <p>א. חוזר זה מבטל את כל ההוראות הקודמות בנושא גמול השתלמות.</p>
-                <p>ב. אין זהות בין קבלת אישור להשתלמות הניתן לצורך שנת שבתון על-ידי קרן ההשתלמות ובין זכאות לגמול השתלמות. לימודים בשנת שבתון יזכו בגמול השתלמות רק אם הם יעמדו בקריטריונים המזכים בגמולים ויינתן על כך אישור רשמי מגף ההשתלמות של <organization eId="chp_1ב__sec_1_26__org_1" refersTo="#moe">משרד החינוך</organization> התרבות והספורט.</p>
-                <p>ג. כל מקום במסמך זה שכתוב בו "הסמכה" או "רישיון", הכוונה להסמכה להוראה (דרגת שכר של מורה מוסמך אינה נחשבת להסמכה) או לרישיון הוראה קבוע, כמשמעותם בתקנון שירות <term eId="trm_773" refersTo="#term_2db30064">עובדי הוראה</term>.</p>
-                <p>ד. גמול השתלמות חל על כל היקף ההעסקה, אף למעלה ממשרה.</p>
-                <p>ה. <term eId="trm_774" refersTo="#term_9c553b17">עובד הוראה</term> המועסק על-ידי בעלויות אחדות זכאי לגמול השתלמות מכל בעלות בנפרד, יחסית להיקף משרתו אצל כל מעסיק.</p>
-                <p>ו. גמול השתלמות יהיה מרכיב לצורך חישוב פיצויי פיטורין וגִמלאות.</p>
-                <p>ז. <term eId="trm_775" refersTo="#term_9c553b17">עובד הוראה</term> אינו זכאי לשתי הטבות בעד אותם לימודים, כגון דרגת שכר וגמולי השתלמות רגילים, תוספת חינוך מיוחד וגמולי השתלמות רגילים, גמול ייעוץ וגמולי השתלמות רגילים, גמול כפל תואר וגמולי השתלמות רגילים, גמול ביניים וגמולי השתלמות רגילים.</p>
-                <p>ח. <term eId="trm_776" refersTo="#term_9c553b17">עובד הוראה</term> שזכה בגמול השתלמות על-סמך לימודיו ולאחר מכן נלקחו לימודים אלה בחשבון לצורך דרגת שכר (של בכיר או דרגה אקדמית או אקוויוולנטית) - תבוטל זכאותו לגמולי השתלמות ביום קבלת דרגת השכר החדשה.</p>
-                <p>2. <term eId="trm_777" refersTo="#term_2db30064">עובדי הוראה</term> הזכאים לגמולי השתלמות</p>
-                <p>א. <term eId="trm_778" refersTo="#term_2db30064">עובדי הוראה</term> שהוסמכו לרובד חינוכי כלשהו בחינוך הפורמלי בארץ, זכאים לגמול השתלמות לפי התבחינים שנקבעו בהוראות אלה. <term eId="trm_779" refersTo="#term_2db30064">עובדי הוראה</term> שהוסמכו להוראה בחו"ל חייבים בכל מקרה להשלים השכלה עברית.</p>
-                <p>ב. זכאים לגמול השתלמות <term eId="trm_780" refersTo="#term_2db30064">עובדי הוראה</term> מוסמכים לרובד כלשהו בחינוך המועסקים <concept eId="dom_224" refersTo="#stage_gan">בגני- ילדים</concept>, במוסדות חינוך יסודיים רשמיים ו/או מוכרים שאינם רשמיים <concept eId="dom_225" refersTo="#stage_chativat_beinayim">בחטיבת- הביניים</concept>, במוסדות חינוך <concept eId="dom_226" refersTo="#stage_al_yesodi">על-יסודיים</concept>, בכיתות י"ג-י"ד בבתי-ספר להנדסאים ולטכנאים, במכללות ובבתי-מדרש למורים ולגננות, במוסדות של חינוך מבוגרים, בקונסרבטוריונים, וכן מורים בתפקידי הדרכה, מדריכים בתקן פיקוח ומפקחים.</p>
-                <p>ג. אף שעובדי האגפים או המחלקות לחינוך ברשויות המקומיות אינם כלולים בקטגוריות המפורטות בסעיף 2ב, ואינם זכאים בתוקף תפקידם לגמול השתלמות, בקשותיהם לגמול השתלמות תטופלנה על-ידי משרדנו, בהתאם לנוהל המקובל לגבי <term eId="trm_781" refersTo="#term_2db30064">עובדי הוראה</term>, ובתנאי שהם מדורגים בדירוג <term eId="trm_782" refersTo="#term_2db30064">עובדי הוראה</term> והוסמכו לרובד חינוכי כלשהו בחינוך הפורמלי. אין בכך משום הוראה למחלקות החינוך לשלם לעובדים אלה גמול השתלמות.</p>
-                <p>ד. <term eId="trm_783" refersTo="#term_9c553b17">עובד הוראה</term> זכאי לגמולי השתלמות רגילים רק בעד לימודים או בעד פרסומים שיצאו לאור בתקופת עבודת הוראה בפועל או אחריה -המזכה בשנת ותק אחת לפחות (2). ניתן לזכות בגמול כפל תואר (בגין תואר אקדמי ותעודת הוראה, שני תארים מקבילים) או בגמול ביניים (בעד רישיון הוראה הניתן על-סמך תואר הנדסאי והנדסאי להוראה) גם בעד לימודים שהתקיימו לפני תחילת העבודה בהוראה.</p>
-                <p>ה. <term eId="trm_784" refersTo="#term_9c553b17">עובד הוראה</term> בפועל שסיים השתלמויות המזכות בגמול השתלמות לפני שהוסמך להוראה ברובד כלשהו, והוסמך לאחר מכן, ניתן לאשר את זכאותו לגמול בעד לימודים שקדמו להסמכה, בתנאי שהלימודים לא היו חלק מדרישות ההסמכה ולא הובאו בחשבון לקביעת דרגת השכר. תחולת הזכאות מאחד בחודש שלאחר ההסמכה.</p>
-                <p>3. סוגי גמולי ההשתלמות וגובהם</p>
-                <p>גמולי ההשתלמות מתחלקים לשלושה סוגים, כדלהלן:</p>
-                <p>א. גמול כפל תואר - בשיעור <quantity eId="chp_1ב__sec_1_26__qty_13" refersTo="#gmul-unit" normalized="8.75">8.75 יחידות גמול</quantity> (ראה הוראות בסעיף 7 להלן). כפל תואר בשיעור זה יאושר רק פעם אחת.</p>
-                <p>ב. גמול ביניים - בשיעור <quantity eId="chp_1ב__sec_1_26__qty_14" refersTo="#gmul-unit" normalized="4">4 יחידות גמול</quantity> (ראה הוראות בסעיף 8 להלן). גמול זה ניתן לאשר רק פעם אחת. מי שמקבל גמול כפל תואר לא יוכל לזכות גם בגמול ביניים.</p>
-                <p>ג. גמולי השתלמות רגילים - בעד השתלמויות בקורסים שונים, בגין פרסומים ובעד כפל תואר נוסף (בהתאם לסעיף 4, תת-סעיף יא, ולהערות לסעיף 7). ניתן לצבור <quantity eId="chp_1ב__sec_1_26__qty_15" refersTo="#gmul-unit" normalized="13">13 יחידות גמול</quantity> לכל היותר. מֵרב גמולי ההשתלמות השונים הם 4 + 13 = 17 או 13 + 8.75 = <quantity eId="chp_1ב__sec_1_26__qty_16" refersTo="#gmul-unit" normalized="21.75">21.75 יחידות גמול</quantity>, ובכל מקרה לא יותר מ - 21.75 גמולים. החל משנת הלימודים התשנ"ו תועלה התקרה מ - 13 ל - <quantity eId="chp_1ב__sec_1_26__qty_17" refersTo="#gmul-unit" normalized="14">14 יחידות גמול</quantity>, משנת הלימודים התשנ"ז תועלה התקרה ל - <quantity eId="chp_1ב__sec_1_26__qty_18" refersTo="#gmul-unit" normalized="15">15 יחידות גמול</quantity>, ומהתשנ"ח היא תועלה ל - <quantity eId="chp_1ב__sec_1_26__qty_19" refersTo="#gmul-unit" normalized="16">16 יחידות גמול</quantity>. כל יחידת גמול השתלמות מזכה ב - % 1.2 מהשכר המשולב.</p>
+              <paragraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1">
+                <num>1.</num>
+                <heading>כללי</heading>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1__subpara_a">
+                  <num>א.</num>
+                  <content>
+                    <p>חוזר זה מבטל את כל ההוראות הקודמות בנושא גמול השתלמות.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1__subpara_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>אין זהות בין קבלת אישור להשתלמות הניתן לצורך שנת שבתון על-ידי קרן ההשתלמות ובין זכאות לגמול השתלמות. לימודים בשנת שבתון יזכו בגמול השתלמות רק אם הם יעמדו בקריטריונים המזכים בגמולים ויינתן על כך אישור רשמי מגף ההשתלמות של <organization eId="chp_1ב__sec_1_26__org_1" refersTo="#moe">משרד החינוך</organization> התרבות והספורט.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1__subpara_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>כל מקום במסמך זה שכתוב בו "הסמכה" או "רישיון", הכוונה להסמכה להוראה (דרגת שכר של מורה מוסמך אינה נחשבת להסמכה) או לרישיון הוראה קבוע, כמשמעותם בתקנון שירות <term eId="trm_773" refersTo="#term_2db30064">עובדי הוראה</term>.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1__subpara_d">
+                  <num>ד.</num>
+                  <content>
+                    <p>גמול השתלמות חל על כל היקף ההעסקה, אף למעלה ממשרה.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1__subpara_e">
+                  <num>ה.</num>
+                  <content>
+                    <p><term eId="trm_774" refersTo="#term_9c553b17">עובד הוראה</term> המועסק על-ידי בעלויות אחדות זכאי לגמול השתלמות מכל בעלות בנפרד, יחסית להיקף משרתו אצל כל מעסיק.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1__subpara_f">
+                  <num>ו.</num>
+                  <content>
+                    <p>גמול השתלמות יהיה מרכיב לצורך חישוב פיצויי פיטורין וגִמלאות.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1__subpara_g">
+                  <num>ז.</num>
+                  <content>
+                    <p><term eId="trm_775" refersTo="#term_9c553b17">עובד הוראה</term> אינו זכאי לשתי הטבות בעד אותם לימודים, כגון דרגת שכר וגמולי השתלמות רגילים, תוספת חינוך מיוחד וגמולי השתלמות רגילים, גמול ייעוץ וגמולי השתלמות רגילים, גמול כפל תואר וגמולי השתלמות רגילים, גמול ביניים וגמולי השתלמות רגילים.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_1__subpara_h">
+                  <num>ח.</num>
+                  <content>
+                    <p><term eId="trm_776" refersTo="#term_9c553b17">עובד הוראה</term> שזכה בגמול השתלמות על-סמך לימודיו ולאחר מכן נלקחו לימודים אלה בחשבון לצורך דרגת שכר (של בכיר או דרגה אקדמית או אקוויוולנטית) - תבוטל זכאותו לגמולי השתלמות ביום קבלת דרגת השכר החדשה.</p>
+                  </content>
+                </subparagraph>
+              </paragraph>
+              <paragraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_2">
+                <num>2.</num>
+                <heading><term eId="trm_777" refersTo="#term_2db30064">עובדי הוראה</term> הזכאים לגמולי השתלמות</heading>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_2__subpara_a">
+                  <num>א.</num>
+                  <content>
+                    <p><term eId="trm_778" refersTo="#term_2db30064">עובדי הוראה</term> שהוסמכו לרובד חינוכי כלשהו בחינוך הפורמלי בארץ, זכאים לגמול השתלמות לפי התבחינים שנקבעו בהוראות אלה. <term eId="trm_779" refersTo="#term_2db30064">עובדי הוראה</term> שהוסמכו להוראה בחו"ל חייבים בכל מקרה להשלים השכלה עברית.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_2__subpara_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>זכאים לגמול השתלמות <term eId="trm_780" refersTo="#term_2db30064">עובדי הוראה</term> מוסמכים לרובד כלשהו בחינוך המועסקים <concept eId="dom_224" refersTo="#stage_gan">בגני- ילדים</concept>, במוסדות חינוך יסודיים רשמיים ו/או מוכרים שאינם רשמיים <concept eId="dom_225" refersTo="#stage_chativat_beinayim">בחטיבת- הביניים</concept>, במוסדות חינוך <concept eId="dom_226" refersTo="#stage_al_yesodi">על-יסודיים</concept>, בכיתות י"ג-י"ד בבתי-ספר להנדסאים ולטכנאים, במכללות ובבתי-מדרש למורים ולגננות, במוסדות של חינוך מבוגרים, בקונסרבטוריונים, וכן מורים בתפקידי הדרכה, מדריכים בתקן פיקוח ומפקחים.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_2__subpara_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>אף שעובדי האגפים או המחלקות לחינוך ברשויות המקומיות אינם כלולים בקטגוריות המפורטות בסעיף 2ב, ואינם זכאים בתוקף תפקידם לגמול השתלמות, בקשותיהם לגמול השתלמות תטופלנה על-ידי משרדנו, בהתאם לנוהל המקובל לגבי <term eId="trm_781" refersTo="#term_2db30064">עובדי הוראה</term>, ובתנאי שהם מדורגים בדירוג <term eId="trm_782" refersTo="#term_2db30064">עובדי הוראה</term> והוסמכו לרובד חינוכי כלשהו בחינוך הפורמלי. אין בכך משום הוראה למחלקות החינוך לשלם לעובדים אלה גמול השתלמות.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_2__subpara_d">
+                  <num>ד.</num>
+                  <content>
+                    <p><term eId="trm_783" refersTo="#term_9c553b17">עובד הוראה</term> זכאי לגמולי השתלמות רגילים רק בעד לימודים או בעד פרסומים שיצאו לאור בתקופת עבודת הוראה בפועל או אחריה -המזכה בשנת ותק אחת לפחות (2). ניתן לזכות בגמול כפל תואר (בגין תואר אקדמי ותעודת הוראה, שני תארים מקבילים) או בגמול ביניים (בעד רישיון הוראה הניתן על-סמך תואר הנדסאי והנדסאי להוראה) גם בעד לימודים שהתקיימו לפני תחילת העבודה בהוראה.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_2__subpara_e">
+                  <num>ה.</num>
+                  <content>
+                    <p><term eId="trm_784" refersTo="#term_9c553b17">עובד הוראה</term> בפועל שסיים השתלמויות המזכות בגמול השתלמות לפני שהוסמך להוראה ברובד כלשהו, והוסמך לאחר מכן, ניתן לאשר את זכאותו לגמול בעד לימודים שקדמו להסמכה, בתנאי שהלימודים לא היו חלק מדרישות ההסמכה ולא הובאו בחשבון לקביעת דרגת השכר. תחולת הזכאות מאחד בחודש שלאחר ההסמכה.</p>
+                  </content>
+                </subparagraph>
+              </paragraph>
+              <paragraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_3">
+                <num>3.</num>
+                <heading>סוגי גמולי ההשתלמות וגובהם</heading>
+                <intro>
+                  <p>גמולי ההשתלמות מתחלקים לשלושה סוגים, כדלהלן:</p>
+                </intro>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_3__subpara_a">
+                  <num>א.</num>
+                  <content>
+                    <p>גמול כפל תואר - בשיעור <quantity eId="chp_1ב__sec_1_26__qty_13" refersTo="#gmul-unit" normalized="8.75">8.75 יחידות גמול</quantity> (ראה הוראות בסעיף 7 להלן). כפל תואר בשיעור זה יאושר רק פעם אחת.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_3__subpara_b">
+                  <num>ב.</num>
+                  <content>
+                    <p>גמול ביניים - בשיעור <quantity eId="chp_1ב__sec_1_26__qty_14" refersTo="#gmul-unit" normalized="4">4 יחידות גמול</quantity> (ראה הוראות בסעיף 8 להלן). גמול זה ניתן לאשר רק פעם אחת. מי שמקבל גמול כפל תואר לא יוכל לזכות גם בגמול ביניים.</p>
+                  </content>
+                </subparagraph>
+                <subparagraph eId="chp_1ב__sec_1_26__ssec_1_26_1_1__para_3__subpara_c">
+                  <num>ג.</num>
+                  <content>
+                    <p>גמולי השתלמות רגילים - בעד השתלמויות בקורסים שונים, בגין פרסומים ובעד כפל תואר נוסף (בהתאם לסעיף 4, תת-סעיף יא, ולהערות לסעיף 7). ניתן לצבור <quantity eId="chp_1ב__sec_1_26__qty_15" refersTo="#gmul-unit" normalized="13">13 יחידות גמול</quantity> לכל היותר. מֵרב גמולי ההשתלמות השונים הם 4 + 13 = 17 או 13 + 8.75 = <quantity eId="chp_1ב__sec_1_26__qty_16" refersTo="#gmul-unit" normalized="21.75">21.75 יחידות גמול</quantity>, ובכל מקרה לא יותר מ - 21.75 גמולים. החל משנת הלימודים התשנ"ו תועלה התקרה מ - 13 ל - <quantity eId="chp_1ב__sec_1_26__qty_17" refersTo="#gmul-unit" normalized="14">14 יחידות גמול</quantity>, משנת הלימודים התשנ"ז תועלה התקרה ל - <quantity eId="chp_1ב__sec_1_26__qty_18" refersTo="#gmul-unit" normalized="15">15 יחידות גמול</quantity>, ומהתשנ"ח היא תועלה ל - <quantity eId="chp_1ב__sec_1_26__qty_19" refersTo="#gmul-unit" normalized="16">16 יחידות גמול</quantity>. כל יחידת גמול השתלמות מזכה ב - % 1.2 מהשכר המשולב.</p>
+                  </content>
+                </subparagraph>
+              </paragraph>
+              <wrapUp>
                 <p>אסמכתא:</p>
                 <p>1. חוזר מנכ"ל מיוחד ה' (התשנ"ה).</p>
                 <p>2. חוזר מנכ"ל נז/6, עמ' 36, סעיף 254.</p>
-              </content>
+              </wrapUp>
             </subsection>
             <subsection eId="chp_1ב__sec_1_26__ssec_1_26_1_2" repo:prose="same-source">
               <num>1.26.1.2</num>
@@ -8903,9 +9091,7 @@
             <heading>הבחירות לכנסת העשירית - הוראות שעה(1)</heading>
             <paragraph eId="chp_1ב__sec_1_36__hc_2__para_1">
               <num>1.</num>
-              <intro>
-                <p>הקדמה</p>
-              </intro>
+              <heading>הקדמה</heading>
               <subparagraph eId="chp_1ב__sec_1_36__hc_2__para_1__subpara_a">
                 <num>א.</num>
                 <content>
@@ -8927,9 +9113,7 @@
             </paragraph>
             <paragraph eId="chp_1ב__sec_1_36__hc_2__para_2">
               <num>2.</num>
-              <intro>
-                <p>פעילות מדינית ומפלגתית ופעילות הקשורה בבחירות</p>
-              </intro>
+              <heading>פעילות מדינית ומפלגתית ופעילות הקשורה בבחירות</heading>
               <subparagraph eId="chp_1ב__sec_1_36__hc_2__para_2__subpara_a">
                 <num>א.</num>
                 <content>
@@ -13403,9 +13587,7 @@
             </intro>
             <paragraph eId="chp_3__sec_3_12__ssec_3_12_2__para_1">
               <num>1.</num>
-              <intro>
-                <p>כללי</p>
-              </intro>
+              <heading>כללי</heading>
               <subparagraph eId="chp_3__sec_3_12__ssec_3_12_2__para_1__subpara_a">
                 <num>א.</num>
                 <content>
@@ -13544,9 +13726,7 @@
             </paragraph>
             <paragraph eId="chp_3__sec_3_12__ssec_3_12_2__para_5">
               <num>5.</num>
-              <intro>
-                <p>הוראות נוהל וביצוע</p>
-              </intro>
+              <heading>הוראות נוהל וביצוע</heading>
               <subparagraph eId="chp_3__sec_3_12__ssec_3_12_2__para_5__subpara_a">
                 <num>א.</num>
                 <content>
@@ -13887,9 +14067,7 @@
             </paragraph>
             <paragraph eId="chp_3__sec_3_15__ssec_3_15_3__para_2">
               <num>2.</num>
-              <intro>
-                <p>דרגת שכר של מורה לא-מוסמכת</p>
-              </intro>
+              <heading>דרגת שכר של מורה לא-מוסמכת</heading>
               <subparagraph eId="chp_3__sec_3_15__ssec_3_15_3__para_2__subpara_a">
                 <num>א.</num>
                 <content>
@@ -13905,9 +14083,7 @@
             </paragraph>
             <paragraph eId="chp_3__sec_3_15__ssec_3_15_3__para_3">
               <num>3.</num>
-              <intro>
-                <p>ותק</p>
-              </intro>
+              <heading>ותק</heading>
               <subparagraph eId="chp_3__sec_3_15__ssec_3_15_3__para_3__subpara_a">
                 <num>א.</num>
                 <content>
@@ -17994,9 +18170,7 @@
             <heading>יחידת עבודה וחופשות (1)</heading>
             <paragraph eId="chp_6__sec_6_17__ssec_6_17_2__para_1">
               <num>1.</num>
-              <intro>
-                <p>יחידת עבודה</p>
-              </intro>
+              <heading>יחידת עבודה</heading>
               <subparagraph eId="chp_6__sec_6_17__ssec_6_17_2__para_1__subpara_a">
                 <num>א.</num>
                 <content>
@@ -18022,9 +18196,7 @@
             </paragraph>
             <paragraph eId="chp_6__sec_6_17__ssec_6_17_2__para_2">
               <num>2.</num>
-              <intro>
-                <p>שעות עודפות (3)</p>
-              </intro>
+              <heading>שעות עודפות (3)</heading>
               <subparagraph eId="chp_6__sec_6_17__ssec_6_17_2__para_2__subpara_a">
                 <num>א.</num>
                 <content>
@@ -18045,8 +18217,8 @@
             </paragraph>
             <paragraph eId="chp_6__sec_6_17__ssec_6_17_2__para_3">
               <num>3.</num>
+              <heading>חופשות (4)</heading>
               <content>
-                <p>חופשות (4)</p>
                 <p>מדריך של"ח זכאי לקבל חופשה לפי לוח החופשות בבתי-הספר התיכוניים המוכרים על- ידי <organization eId="chp_6__sec_6_17__org_3" refersTo="#moe">משרד החינוך</organization> התרבות והספורט.</p>
               </content>
             </paragraph>

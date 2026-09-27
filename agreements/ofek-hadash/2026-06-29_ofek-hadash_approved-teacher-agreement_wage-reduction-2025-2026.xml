@@ -37,6 +37,14 @@
       <lifecycle source="#repo-generator">
         <eventRef eId="e_signature" date="2026-06-29" source="#repo-generator" type="generation" />
       </lifecycle>
+      <analysis source="#repo-generator">
+        <activeModifications>
+          <textualMod eId="amod_1" type="substitution">
+            <source href="#art_19__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement/!main#art_22__para_22-1" pos="unspecified" />
+          </textualMod>
+        </activeModifications>
+      </analysis>
       <references source="#repo-generator">
         <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
         <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
@@ -331,7 +339,7 @@
       <article eId="art_19" repo:prose="same-source">
         <num>19</num>
         <content>
-          <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement/!main#art_22__para_22-1">22.1</ref> <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי שנחתם בין הצדדים ביום 19.10.2022</ref>, במקום "החל בשנת הלימודים תשפ"ו (המתחילה ביום <date date="2025-09-01">1.9.2025</date>)", יבוא: "החל בשנת הלימודים תשפ"ז (המתחילה ביום [<date date="2026-09-01">1.9.2026</date>])".</p>
+          <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement/!main#art_22__para_22-1">22.1</ref> <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי שנחתם בין הצדדים ביום 19.10.2022</ref>, <mod eId="art_19__mod_1">במקום <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_19__mod_1__qtxt_1">החל בשנת הלימודים תשפ"ו (המתחילה ביום <date date="2025-09-01">1.9.2025</date>)</quotedText>, יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_19__mod_1__qtxt_2">החל בשנת הלימודים תשפ"ז (המתחילה ביום [<date date="2026-09-01">1.9.2026</date>])</quotedText></mod>.</p>
         </content>
       </article>
       <article eId="art_20" repo:prose="same-source">

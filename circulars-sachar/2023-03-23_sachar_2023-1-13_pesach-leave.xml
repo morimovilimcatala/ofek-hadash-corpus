@@ -82,46 +82,64 @@
           <p>אל: המעסיקים במגזר הציבורי</p>
           <p>הנדון : <docTitle eId="doctitle_1">הארכת החופשה המרוכזת של פסח גם ליום <date date="2023-04-13">13.4.2023</date> למעסיקים שמנהיגים חופשה כאמור</docTitle>
           </p>
-          <p>במסגרת ההסכם שעתיד להיחתם הוסכם על הארכת החופשה המרוכזת של פסח גם ליום <date date="2023-04-13">13.4.2023</date> למעסיקים שמנהיגים חופשה כאמור. בשל העובדה כי ההסכם הקיבוצי האמור טרם נחתם, להלן יפורטו ההסכמות לפיהן יש לפעול:</p>
         </intro>
-        <paragraph eId="hc_1__para_a">
-          <num>(א)</num>
-          <content>
-            <p>במקום עבודה בו נהוגה חופשה מרוכזת בחג פסח בשנת התשפ"ג, תוארך, באופן חד פעמי החופשה האמורה כך שתכלול גם את יום <date date="2023-04-13">13.4.2023</date> (להלן: "<def refersTo="#term_6380b1ca">יום החופשה הנוסף בחופשה המרוכזת</def>").</p>
-          </content>
-        </paragraph>
-        <paragraph eId="hc_1__para_b">
-          <num>(ב)</num>
-          <content>
-            <p>ניכוי ימי החופשה ממאזן חופשתו של העובד <term eId="trm_1" refersTo="#term_6380b1ca">ביום החופשה הנוסף בחופשה המרוכזת</term>, יעשה ביחס של <quantity eId="qty_1" refersTo="#percentage" normalized="50">50%</quantity> על חשבון העובד ו-<quantity eId="qty_2" refersTo="#percentage" normalized="50">50%</quantity> על חשבון המעסיק, אלא אם במקום העבודה היה קיים הסדר אשר אושר כדין לפיו יום <date date="2023-04-13">13.4.2023</date> הוא יום חופשה והניכוי לפי ההסדר הקיים מטיב עם העובד ביחס להסדר זה, שאז יעשה הניכוי לפי ההסדר המיטיב.</p>
-          </content>
-        </paragraph>
-        <paragraph eId="hc_1__para_c">
-          <num>(ג)</num>
-          <content>
-            <p>מובהר כי אין בחוזר זה כדי לשנות מהכללים ומהנוהגים החלים אשר אושרו כדין לגבי החופשה המרוכזת הנהוגים אצל המעסיק כאמור. עוד מובהר כי ההתייחסות <term eId="trm_2" refersTo="#term_6380b1ca">ליום החופשה הנוסף בחופשה המרוכזת</term> תהא כמו ההתייחסות לשאר ימי חול המועד פסח אשר חלים בחופשה המרוכזת, למעט כפי שנקבע במפורש לגבי הניכוי כאמור בסעיף קטן (ב) לעיל.</p>
-          </content>
-        </paragraph>
-        <paragraph eId="hc_1__para_d">
-          <num>(ד)</num>
-          <content>
-            <p>הודעה על <term eId="trm_3" refersTo="#term_6380b1ca">יום החופשה הנוסף בחופשה המרוכזת</term> תימסר לעובדים עד ליום <date date="2023-03-28">28.3.2023</date>.</p>
-          </content>
-        </paragraph>
-        <paragraph eId="hc_1__para_e">
-          <num>(ה)</num>
-          <content>
-            <p>על אף כל האמור לעיל, האמור בסעיף קטן (א) לעיל, לא יחול לגבי מקום עבודה בו ההנהלה סבורה שלא ניתן להאריך את החופשה המרוכזת בשל הכרח לספק את השירות לציבור <role eId="rol_1" refersTo="#role-mankal">והמנהל הכללי</role> הודיע על כך <role eId="rol_2" refersTo="#role-memuneh-sachar">לממונה על השכר והסכמי עבודה</role> על מנת לדון במתן מענה חלופי לעובדים. הודעה כאמור תינתן בהקדם ולכל המאוחר עד יום <date date="2023-03-28">28.3.2023</date>.</p>
-          </content>
-        </paragraph>
-        <paragraph eId="hc_1__para_f">
-          <num>(ו)</num>
+        <paragraph eId="hc_1__para_1">
+          <num>1.</num>
           <intro>
-            <p>ועדת מעקב בהשתתפות <role eId="rol_3" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_4" refersTo="#mof">במשרד האוצר</organization> <role eId="rol_5" refersTo="#role-yor">ויו"ר</role> <organization eId="org_6" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>, תדון לגבי מתן מענה חלופי לעובדים במקומות עבודה כאמור בסעיף קטן (ה) לעיל.</p>
-            <p>2 . חוזר זה תואם עם <organization eId="org_7" refersTo="#histadrut">ההסתדרות הכללית</organization> והאמור בו מקובל עליה. מובהר כי הסכמות הצדדים לגבי <term eId="trm_4" refersTo="#term_6380b1ca">יום החופשה הנוסף בחופשה המרוכזת</term> לפי חוזר זה יהווה חלק מההסכם הקיבוצי (מסגרת) שייחתם בזמן הקרוב ויעוגנו במסגרתו.</p>
-            <p>3 . (א) יצוין כי לגבי גופים במגזר ציבורי, אשר אמורים לחתום על ההסכם הקיבוצי (מסגרת) העתיד להיחתם, או שיצטרפו להסכם האמור לפי הוראותיו, ניתן אישור מאת <role eId="rol_8" refersTo="#role-memuneh-sachar">הממונה על השכר</role> לאשר את <term eId="trm_5" refersTo="#term_6380b1ca">יום החופשה הנוסף בחופשה המרוכזת</term>, בהתאם להוראות חוזר זה.</p>
+            <p>במסגרת ההסכם שעתיד להיחתם הוסכם על הארכת החופשה המרוכזת של פסח גם ליום <date date="2023-04-13">13.4.2023</date> למעסיקים שמנהיגים חופשה כאמור. בשל העובדה כי ההסכם הקיבוצי האמור טרם נחתם, להלן יפורטו ההסכמות לפיהן יש לפעול:</p>
           </intro>
-          <subparagraph eId="hc_1__para_f__subpara_b">
+          <subparagraph eId="hc_1__para_1__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>במקום עבודה בו נהוגה חופשה מרוכזת בחג פסח בשנת התשפ"ג, תוארך, באופן חד פעמי החופשה האמורה כך שתכלול גם את יום <date date="2023-04-13">13.4.2023</date> (להלן: "<def refersTo="#term_6380b1ca">יום החופשה הנוסף בחופשה המרוכזת</def>").</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_1__subpara_b">
+            <num>(ב)</num>
+            <content>
+              <p>ניכוי ימי החופשה ממאזן חופשתו של העובד <term eId="trm_1" refersTo="#term_6380b1ca">ביום החופשה הנוסף בחופשה המרוכזת</term>, יעשה ביחס של <quantity eId="qty_1" refersTo="#percentage" normalized="50">50%</quantity> על חשבון העובד ו-<quantity eId="qty_2" refersTo="#percentage" normalized="50">50%</quantity> על חשבון המעסיק, אלא אם במקום העבודה היה קיים הסדר אשר אושר כדין לפיו יום <date date="2023-04-13">13.4.2023</date> הוא יום חופשה והניכוי לפי ההסדר הקיים מטיב עם העובד ביחס להסדר זה, שאז יעשה הניכוי לפי ההסדר המיטיב.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_1__subpara_c">
+            <num>(ג)</num>
+            <content>
+              <p>מובהר כי אין בחוזר זה כדי לשנות מהכללים ומהנוהגים החלים אשר אושרו כדין לגבי החופשה המרוכזת הנהוגים אצל המעסיק כאמור. עוד מובהר כי ההתייחסות <term eId="trm_2" refersTo="#term_6380b1ca">ליום החופשה הנוסף בחופשה המרוכזת</term> תהא כמו ההתייחסות לשאר ימי חול המועד פסח אשר חלים בחופשה המרוכזת, למעט כפי שנקבע במפורש לגבי הניכוי כאמור בסעיף קטן (ב) לעיל.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_1__subpara_d">
+            <num>(ד)</num>
+            <content>
+              <p>הודעה על <term eId="trm_3" refersTo="#term_6380b1ca">יום החופשה הנוסף בחופשה המרוכזת</term> תימסר לעובדים עד ליום <date date="2023-03-28">28.3.2023</date>.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_1__subpara_e">
+            <num>(ה)</num>
+            <content>
+              <p>על אף כל האמור לעיל, האמור בסעיף קטן (א) לעיל, לא יחול לגבי מקום עבודה בו ההנהלה סבורה שלא ניתן להאריך את החופשה המרוכזת בשל הכרח לספק את השירות לציבור <role eId="rol_1" refersTo="#role-mankal">והמנהל הכללי</role> הודיע על כך <role eId="rol_2" refersTo="#role-memuneh-sachar">לממונה על השכר והסכמי עבודה</role> על מנת לדון במתן מענה חלופי לעובדים. הודעה כאמור תינתן בהקדם ולכל המאוחר עד יום <date date="2023-03-28">28.3.2023</date>.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_1__subpara_f">
+            <num>(ו)</num>
+            <content>
+              <p>ועדת מעקב בהשתתפות <role eId="rol_3" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_4" refersTo="#mof">במשרד האוצר</organization> <role eId="rol_5" refersTo="#role-yor">ויו"ר</role> <organization eId="org_6" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>, תדון לגבי מתן מענה חלופי לעובדים במקומות עבודה כאמור בסעיף קטן (ה) לעיל.</p>
+            </content>
+          </subparagraph>
+        </paragraph>
+        <paragraph eId="hc_1__para_2">
+          <num>2.</num>
+          <content>
+            <p>חוזר זה תואם עם <organization eId="org_7" refersTo="#histadrut">ההסתדרות הכללית</organization> והאמור בו מקובל עליה. מובהר כי הסכמות הצדדים לגבי <term eId="trm_4" refersTo="#term_6380b1ca">יום החופשה הנוסף בחופשה המרוכזת</term> לפי חוזר זה יהווה חלק מההסכם הקיבוצי (מסגרת) שייחתם בזמן הקרוב ויעוגנו במסגרתו.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="hc_1__para_3">
+          <num>3.</num>
+          <subparagraph eId="hc_1__para_3__subpara_a">
+            <num>(א)</num>
+            <content>
+              <p>יצוין כי לגבי גופים במגזר ציבורי, אשר אמורים לחתום על ההסכם הקיבוצי (מסגרת) העתיד להיחתם, או שיצטרפו להסכם האמור לפי הוראותיו, ניתן אישור מאת <role eId="rol_8" refersTo="#role-memuneh-sachar">הממונה על השכר</role> לאשר את <term eId="trm_5" refersTo="#term_6380b1ca">יום החופשה הנוסף בחופשה המרוכזת</term>, בהתאם להוראות חוזר זה.</p>
+            </content>
+          </subparagraph>
+          <subparagraph eId="hc_1__para_3__subpara_b">
             <num>(ב)</num>
             <content>
               <p>על אף האמור בסעיף (א) לעיל, מובהר כי האישור כאמור ניתן לגבי גופים אשר אין להם הסכם קיבוצי אחר שמסדיר את תוספות השכר או ההטבות הכספיות לגבי כל התקופה שמיום <date date="2020-01-01">1.1.2020</date> עד יום <date date="2027-12-31">31.12.2027</date>.</p>

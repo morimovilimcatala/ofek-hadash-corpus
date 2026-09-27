@@ -701,7 +701,9 @@
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על התקציבים אל מנכ"לית משרד החינוך, מיום <date date="2008-01-14">14.1.2008</date>]</p>
-                <p><organization eId="org_53" refersTo="#mof">משרד האוצר</organization> - אגף תקציבים</p>
+                <p repo:role="running-head"><organization eId="org_53" refersTo="#state-israel">מדינת ישראל</organization>
+                </p>
+                <p><organization eId="org_54" refersTo="#mof">משרד האוצר</organization> - אגף תקציבים</p>
                 <p><date date="2008-01-14">ז' בשבט התשס"ח</date>
                 </p>
                 <p><date date="2008-01-14">14 בינואר 2008</date>
@@ -710,11 +712,11 @@
                 <p>לכבוד:</p>
                 <p>גב' <person eId="pers_13" refersTo="#p_d4f73021">שלומית עמיחי</person>
                 </p>
-                <p><role eId="rol_54" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_55" refersTo="#moe">משרד החינוך</organization>
+                <p><role eId="rol_55" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_56" refersTo="#moe">משרד החינוך</organization>
                 </p>
                 <p>הנדון: תשלום שעות נוספות <term eId="trm_35" refersTo="#term_2db30064">לעובדי הוראה</term> בתפקידי פיקוח</p>
-                <p>לאור החלת השלב הראשון של <term eId="trm_36" refersTo="#term_cfd6a2ea">הרפורמה המוסכמת</term> עם <organization eId="org_56" refersTo="#irgun-hamorim">ארגון המורים</organization>, נדרשת היערכות המפקחים להטמעת ההליך שתואר לעיל.</p>
-                <p>על כן, ברצוננו להגדיל החל מהחודש ינואר 2008 את מכסת השעות הנוספות של <organization eId="org_57" refersTo="#moe">משרד החינוך</organization>, באופן שיאפשר למפקחים המועסקים <organization eId="org_58" refersTo="#moe">במשרד החינוך</organization> במסגרת שיא כח האדם ועב"צ מכסה של עד <quantity eId="qty_38" refersTo="#hour" normalized="6">6 שעות</quantity> נוספות בחודש, וזאת ע"פ דיווח, כמקובל לגבי דיווח על שעות נוספות.</p>
+                <p>לאור החלת השלב הראשון של <term eId="trm_36" refersTo="#term_cfd6a2ea">הרפורמה המוסכמת</term> עם <organization eId="org_57" refersTo="#irgun-hamorim">ארגון המורים</organization>, נדרשת היערכות המפקחים להטמעת ההליך שתואר לעיל.</p>
+                <p>על כן, ברצוננו להגדיל החל מהחודש ינואר 2008 את מכסת השעות הנוספות של <organization eId="org_58" refersTo="#moe">משרד החינוך</organization>, באופן שיאפשר למפקחים המועסקים <organization eId="org_59" refersTo="#moe">במשרד החינוך</organization> במסגרת שיא כח האדם ועב"צ מכסה של עד <quantity eId="qty_38" refersTo="#hour" normalized="6">6 שעות</quantity> נוספות בחודש, וזאת ע"פ דיווח, כמקובל לגבי דיווח על שעות נוספות.</p>
                 <p>הריני להבהיר כי מכסה זו תעמוד אך ורק למפקחים אשר אינם מקבלים היום מכסת שעות נוספות.</p>
                 <p>אבקשך להעביר לי נתונים על מספר המפקחים המועסקים בשיא כח אדם ובעב"צ במשרדך, ועל היקף השעות הנוספות המוקצות להם כיום, וזאת בכדי שנוכל לכמת את התוספת הנדרשת.</p>
               </content>
@@ -724,21 +726,33 @@
             <p>בכבוד רב,</p>
             <p>[חתימות]</p>
             <p><signature eId="signature_2">
-                <person eId="pers_14" refersTo="#p_38286810">רם בלינקוב</person> <role eId="rol_66" refersTo="#office_759e6642">הממונה על התקציבים</role>
+                <person eId="pers_14" refersTo="#p_38286810">רם בלינקוב</person> <role eId="rol_67" refersTo="#office_759e6642">הממונה על התקציבים</role>
               </signature>
             </p>
             <p>העתק:</p>
-            <p>מר <person eId="pers_15" refersTo="#p_31fefbb2" as="#role-memuneh-sachar">אלי כהן</person> - <role eId="rol_59" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_60" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_15" refersTo="#p_31fefbb2" as="#role-memuneh-sachar">אלי כהן</person> - <role eId="rol_60" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_61" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p>גב' <person eId="pers_16" refersTo="#p_fefbc4cd" as="#role-segan-bakhir">עפרה ברטוב</person> - <role eId="hed_2" refersTo="#role-segan-bakhir">סגנית בכירה</role> <role eId="rol_61" refersTo="#role-memuneh-sachar">לממונה על השכר</role> , <organization eId="org_62" refersTo="#mof">משרד האוצר</organization>
+            <p>גב' <person eId="pers_16" refersTo="#p_fefbc4cd" as="#role-segan-bakhir">עפרה ברטוב</person> - <role eId="hed_2" refersTo="#role-segan-bakhir">סגנית בכירה</role> <role eId="rol_62" refersTo="#role-memuneh-sachar">לממונה על השכר</role> , <organization eId="org_63" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p>מר <person eId="pers_17" refersTo="#p_6d383afd">רביב סובל</person> - סגן הממונה על התקציבים, <organization eId="org_63" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_17" refersTo="#p_6d383afd">רביב סובל</person> - סגן הממונה על התקציבים, <organization eId="org_64" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p>מר <person eId="pers_18" refersTo="#p_6d0fdac4">יונתן רגב</person> - רכז תחום חינוך, <organization eId="org_64" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_18" refersTo="#p_6d0fdac4">יונתן רגב</person> - רכז תחום חינוך, <organization eId="org_65" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p>מר <person eId="pers_19" refersTo="#p_fb02ee1f">יהודה קיסר</person> - חשב <organization eId="org_65" refersTo="#moe">משרד החינוך</organization>
+            <p>מר <person eId="pers_19" refersTo="#p_fb02ee1f">יהודה קיסר</person> - חשב <organization eId="org_66" refersTo="#moe">משרד החינוך</organization>
             </p>
             <p><location eId="locref_1" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_2" refersTo="#loc_8e0dfe1e">ירושלים</location> 91030 ת.ד 3100 טל': 02 - 5317111 פקס': 02 - 5695338</p>
+            <table>
+              <tr>
+                <th>
+                  <p>אוצר ברשת : <a href="https://www.mof.gov.il">www.mof.gov.il</a>
+                  </p>
+                </th>
+                <th>
+                  <p>שער הממשלה : <a href="https://www.gov.il">www.gov.il</a>
+                  </p>
+                </th>
+              </tr>
+            </table>
           </conclusions>
         </doc>
       </attachment>
@@ -774,9 +788,11 @@
             <hcontainer eId="att_3__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר והסכמי עבודה אל יו"ר ארגון המורים, מאותו יום]</p>
-                <p><organization eId="org_67" refersTo="#mof">משרד האוצר</organization>
+                <p repo:role="running-head"><organization eId="org_68" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p><role eId="rol_68" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+                <p><organization eId="org_69" refersTo="#mof">משרד האוצר</organization>
+                </p>
+                <p><role eId="rol_70" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
                 <p repo:role="running-head"><date date="2008-01-24">י"ז בשבט התשס"ח</date>
                 </p>
@@ -786,10 +802,10 @@
                 <p>תיק:</p>
                 <p>ללא תיוק לפי סעיף 29</p>
                 <p>אל:</p>
-                <p>מר <person eId="pers_20" refersTo="#p_4b7467e5">רן ארז</person>, <role eId="rol_69" refersTo="#role-yor">יו"ר</role> <organization eId="org_70" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל יסודיים</organization>
+                <p>מר <person eId="pers_20" refersTo="#p_4b7467e5">רן ארז</person>, <role eId="rol_71" refersTo="#role-yor">יו"ר</role> <organization eId="org_72" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל יסודיים</organization>
                 </p>
-                <p>הנדון: הבנות בנושא השפעת יישומו של ההסכם עם <organization eId="org_71" refersTo="#histadrut">ההסתדרות הכללית</organization> על <organization eId="org_72" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> ועל <organization eId="org_73" refersTo="#irgun-hamorim">ארגון המורים</organization> בגין שנת 2009</p>
-                <p>בהתאם למוסכם בינינו ועל אף האמור בהסכם הקיבוצי מיום [בכתב יד: 24-1-08] הריני לאשר כי אם תשולם תוספת שכר לעובדים המיוצגים על-ידי <organization eId="org_74" refersTo="#histadrut">ההסתדרות הכללית</organization> בגין שנת 2009, בהתאם להסכם שבנדון, ואם תשולם אותה תוספת שכר לעובדי ההוראה המיוצגים על ידי <organization eId="org_75" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> בגין שנת 2009, תוזל אותה תוספת גם על <term eId="trm_37" refersTo="#term_2db30064">עובדי הוראה</term> המיוצגים על ידי <organization eId="org_76" refersTo="#irgun-hamorim">ארגון המורים</organization>, ובאותם המועדים.</p>
+                <p>הנדון: הבנות בנושא השפעת יישומו של ההסכם עם <organization eId="org_73" refersTo="#histadrut">ההסתדרות הכללית</organization> על <organization eId="org_74" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> ועל <organization eId="org_75" refersTo="#irgun-hamorim">ארגון המורים</organization> בגין שנת 2009</p>
+                <p>בהתאם למוסכם בינינו ועל אף האמור בהסכם הקיבוצי מיום [בכתב יד: 24-1-08] הריני לאשר כי אם תשולם תוספת שכר לעובדים המיוצגים על-ידי <organization eId="org_76" refersTo="#histadrut">ההסתדרות הכללית</organization> בגין שנת 2009, בהתאם להסכם שבנדון, ואם תשולם אותה תוספת שכר לעובדי ההוראה המיוצגים על ידי <organization eId="org_77" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> בגין שנת 2009, תוזל אותה תוספת גם על <term eId="trm_37" refersTo="#term_2db30064">עובדי הוראה</term> המיוצגים על ידי <organization eId="org_78" refersTo="#irgun-hamorim">ארגון המורים</organization>, ובאותם המועדים.</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -802,6 +818,18 @@
             <p>מר <person eId="pers_22" refersTo="#p_19d2f4cf">רוני בראון</person>, שר האוצר</p>
             <p><location eId="locref_3" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_4" refersTo="#loc_8e0dfe1e">ירושלים</location> 91030 ת.ד 3100 טל': <a href="tel:+97225317415">02-5317415</a> פקס': <a href="tel:+97225695372">02-5695372</a>
             </p>
+            <table>
+              <tr>
+                <th>
+                  <p>אוצר ברשת : <a href="https://www.mof.gov.il">www.mof.gov.il</a>
+                  </p>
+                </th>
+                <th>
+                  <p>שער הממשלה : <a href="https://www.gov.il">www.gov.il</a>
+                  </p>
+                </th>
+              </tr>
+            </table>
           </conclusions>
         </doc>
       </attachment>

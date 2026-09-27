@@ -70,96 +70,116 @@
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_15__para_e" pos="after" />
             <new href="#art_9__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_7" type="insertion">
+          <textualMod eId="amod_7" type="substitution">
+            <source href="#art_10__para_a__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_19" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_8" type="substitution">
+            <source href="#art_10__para_b__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_h" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_9" type="insertion">
             <source href="#art_11__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_19__para_b" pos="after" />
             <new href="#art_11__para_c__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_8" type="renumbering">
+          <textualMod eId="amod_10" type="renumbering">
             <source href="#art_13__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_21" pos="unspecified" />
             <new href="#art_13__mod_1__qtxt_1" />
           </textualMod>
-          <textualMod eId="amod_9" type="insertion">
+          <textualMod eId="amod_11" type="insertion">
             <source href="#art_13__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_21__para_a" pos="after" />
             <new href="#art_13__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_10" type="insertion">
+          <textualMod eId="amod_12" type="insertion">
             <source href="#art_14__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_22__para_c" pos="after" />
             <new href="#art_14__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_11" type="insertion">
+          <textualMod eId="amod_13" type="insertion">
             <source href="#art_15__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_23__para_a" pos="end" />
             <new href="#art_15__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_12" type="insertion">
+          <textualMod eId="amod_14" type="insertion">
             <source href="#art_15__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_23__para_c" pos="after" />
             <new href="#art_15__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_13" type="renumbering">
+          <textualMod eId="amod_15" type="substitution">
+            <source href="#art_16__para_a__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_24" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_16" type="renumbering">
             <source href="#art_16__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_24" pos="unspecified" />
             <new href="#art_16__para_b__mod_1__qtxt_1" />
           </textualMod>
-          <textualMod eId="amod_14" type="insertion">
+          <textualMod eId="amod_17" type="insertion">
             <source href="#art_16__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_24__para_a" pos="after" />
             <new href="#art_16__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_15" type="substitution">
+          <textualMod eId="amod_18" type="substitution">
+            <source href="#art_16__para_c__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_i" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_19" type="substitution">
             <source href="#art_17__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_g" pos="unspecified" />
             <new href="#art_17__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_16" type="insertion">
+          <textualMod eId="amod_20" type="insertion">
             <source href="#art_17__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_g" pos="after" />
             <new href="#art_17__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_17" type="insertion">
+          <textualMod eId="amod_21" type="insertion">
             <source href="#art_17__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_h" pos="after" />
             <new href="#art_17__para_c__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_18" type="substitution">
+          <textualMod eId="amod_22" type="substitution">
             <source href="#art_17__para_d__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_i" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_19" type="substitution">
+          <textualMod eId="amod_23" type="substitution">
             <source href="#art_17__para_e__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_ja" pos="unspecified" />
             <new href="#art_17__para_e__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_20" type="insertion">
+          <textualMod eId="amod_24" type="insertion">
             <source href="#art_17__para_f__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_ja" pos="after" />
             <new href="#art_17__para_f__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_21" type="substitution">
+          <textualMod eId="amod_25" type="substitution">
             <source href="#art_19__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_31__para_b" pos="unspecified" />
             <new href="#art_19__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_22" type="insertion">
+          <textualMod eId="amod_26" type="insertion">
             <source href="#art_20__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_d" pos="after" />
             <new href="#art_20__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_23" type="insertion">
+          <textualMod eId="amod_27" type="insertion">
             <source href="#art_21__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33" pos="after" />
             <new href="#art_21__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_24" type="substitution">
+          <textualMod eId="amod_28" type="substitution">
+            <source href="#art_22__para_b__mod_2" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_36__para_e" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_29" type="substitution">
             <source href="#art_22__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_36__para_e" pos="unspecified" />
             <new href="#art_22__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_25" type="substitution">
+          <textualMod eId="amod_30" type="substitution">
             <source href="#art_23__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_36__para_a" pos="unspecified" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_46__para_c" pos="unspecified" />
@@ -170,470 +190,478 @@
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_147__para_a" pos="unspecified" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_147__para_c" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_26" type="insertion">
+          <textualMod eId="amod_31" type="insertion">
             <source href="#art_25__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_38" pos="after" />
             <new href="#art_25__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_27" type="insertion">
+          <textualMod eId="amod_32" type="insertion">
             <source href="#art_26__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_38א" pos="after" />
             <new href="#art_26__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_28" type="insertion">
+          <textualMod eId="amod_33" type="insertion">
             <source href="#art_27__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_38ב" pos="after" />
             <new href="#art_27__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_29" type="insertion">
+          <textualMod eId="amod_34" type="insertion">
             <source href="#art_28__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_b" pos="after" />
             <new href="#art_28__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_30" type="insertion">
+          <textualMod eId="amod_35" type="insertion">
             <source href="#art_28__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_c" pos="after" />
             <new href="#art_28__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_31" type="renumbering">
+          <textualMod eId="amod_36" type="renumbering">
             <source href="#art_29__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_40" pos="unspecified" />
             <new href="#art_29__mod_1__qtxt_1" />
           </textualMod>
-          <textualMod eId="amod_32" type="insertion">
+          <textualMod eId="amod_37" type="insertion">
             <source href="#art_29__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_40__para_a" pos="after" />
             <new href="#art_29__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_33" type="substitution">
+          <textualMod eId="amod_38" type="substitution">
             <source href="#art_31__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_44__para_b__subpara_2" pos="unspecified" />
             <new href="#art_31__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_34" type="insertion">
+          <textualMod eId="amod_39" type="insertion">
             <source href="#art_31__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_50" pos="after" />
             <new href="#art_31__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_35" type="insertion">
+          <textualMod eId="amod_40" type="insertion">
             <source href="#art_32__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_46" pos="after" />
             <new href="#art_32__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_36" type="substitution">
+          <textualMod eId="amod_41" type="substitution">
             <source href="#art_32__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_70" pos="unspecified" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_97" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_37" type="insertion">
+          <textualMod eId="amod_42" type="insertion">
             <source href="#art_32__para_d__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_140__para_d" pos="after" />
             <new href="#art_32__para_d__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_38" type="insertion">
+          <textualMod eId="amod_43" type="insertion">
             <source href="#art_33__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_44__para_c" pos="inside" />
             <new href="#art_33__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_39" type="insertion">
+          <textualMod eId="amod_44" type="insertion">
             <source href="#art_34__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_44" pos="after" />
             <new href="#art_34__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_40" type="substitution">
+          <textualMod eId="amod_45" type="substitution">
             <source href="#art_35__para_b__subpara_1__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_47__para_a" pos="unspecified" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_47__para_b" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_41" type="insertion">
+          <textualMod eId="amod_46" type="insertion">
             <source href="#art_36__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_49" pos="after" />
             <new href="#art_36__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_42" type="substitution">
+          <textualMod eId="amod_47" type="substitution">
             <source href="#art_37__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_50" pos="unspecified" />
             <new href="#art_37__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_43" type="insertion">
+          <textualMod eId="amod_48" type="insertion">
             <source href="#art_38__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_53" pos="after" />
             <new href="#art_38__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_44" type="substitution">
+          <textualMod eId="amod_49" type="substitution">
             <source href="#art_39__para_a__subpara_1__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_55" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_45" type="renumbering">
+          <textualMod eId="amod_50" type="substitution">
+            <source href="#art_39__para_a__subpara_2__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_55" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_51" type="renumbering">
             <source href="#art_39__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_55" pos="unspecified" />
             <old href="#art_39__para_b__mod_1__qtxt_1" />
             <new href="#art_39__para_b__mod_1__qtxt_2" />
           </textualMod>
-          <textualMod eId="amod_46" type="insertion">
+          <textualMod eId="amod_52" type="insertion">
             <source href="#art_39__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_55__para_a" pos="after" />
             <new href="#art_39__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_47" type="insertion">
+          <textualMod eId="amod_53" type="insertion">
             <source href="#art_40__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_55" pos="after" />
             <new href="#art_40__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_48" type="substitution">
+          <textualMod eId="amod_54" type="substitution">
             <source href="#art_40__para_b__subpara_1__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_79" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_49" type="renumbering">
+          <textualMod eId="amod_55" type="renumbering">
             <source href="#art_40__para_b__subpara_2__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_79" pos="unspecified" />
             <old href="#art_40__para_b__subpara_2__mod_1__qtxt_1" />
             <new href="#art_40__para_b__subpara_2__mod_1__qtxt_2" />
           </textualMod>
-          <textualMod eId="amod_50" type="insertion">
+          <textualMod eId="amod_56" type="insertion">
             <source href="#art_40__para_b__subpara_2__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_79__para_a" pos="after" />
             <new href="#art_40__para_b__subpara_2__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_51" type="substitution">
+          <textualMod eId="amod_57" type="substitution">
             <source href="#art_40__para_c__subpara_1__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_108" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_52" type="substitution">
+          <textualMod eId="amod_58" type="substitution">
             <source href="#art_40__para_c__subpara_2__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_108" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_53" type="renumbering">
+          <textualMod eId="amod_59" type="renumbering">
             <source href="#art_40__para_c__subpara_3__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_108" pos="unspecified" />
             <old href="#art_40__para_c__subpara_3__mod_1__qtxt_1" />
             <new href="#art_40__para_c__subpara_3__mod_1__qtxt_2" />
           </textualMod>
-          <textualMod eId="amod_54" type="insertion">
+          <textualMod eId="amod_60" type="insertion">
             <source href="#art_40__para_c__subpara_3__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_108__para_a" pos="after" />
             <new href="#art_40__para_c__subpara_3__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_55" type="insertion">
+          <textualMod eId="amod_61" type="insertion">
             <source href="#art_42__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_63" pos="after" />
             <new href="#art_42__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_56" type="insertion">
+          <textualMod eId="amod_62" type="insertion">
             <source href="#art_43__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_65__para_c" pos="after" />
             <new href="#art_43__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_57" type="substitution">
+          <textualMod eId="amod_63" type="substitution">
             <source href="#art_44__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_65__para_d" pos="unspecified" />
             <new href="#art_44__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_58" type="insertion">
+          <textualMod eId="amod_64" type="substitution">
+            <source href="#art_45__para_a__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_66__para_f" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_65" type="insertion">
             <source href="#art_45__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_66__para_j" pos="after" />
             <new href="#art_45__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_59" type="substitution">
+          <textualMod eId="amod_66" type="substitution">
             <source href="#art_46__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_67" pos="unspecified" />
             <new href="#art_46__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_60" type="insertion">
+          <textualMod eId="amod_67" type="insertion">
             <source href="#art_48__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_70" pos="after" />
             <new href="#art_48__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_61" type="insertion">
+          <textualMod eId="amod_68" type="insertion">
             <source href="#art_49__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_72__para_d" pos="after" />
             <new href="#art_49__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_62" type="insertion">
+          <textualMod eId="amod_69" type="insertion">
             <source href="#art_50__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_73" pos="after" />
             <new href="#art_50__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_63" type="insertion">
+          <textualMod eId="amod_70" type="insertion">
             <source href="#art_51__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#part_15" pos="after" />
             <new href="#art_51__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_64" type="insertion">
+          <textualMod eId="amod_71" type="insertion">
             <source href="#art_52__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_77" pos="end" />
             <new href="#art_52__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_65" type="insertion">
+          <textualMod eId="amod_72" type="insertion">
             <source href="#art_55__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_90" pos="after" />
             <new href="#art_55__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_66" type="substitution">
+          <textualMod eId="amod_73" type="substitution">
             <source href="#art_56__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_92__para_a" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_67" type="substitution">
+          <textualMod eId="amod_74" type="substitution">
             <source href="#art_57__para_a__subpara_1__cls_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_92__para_c" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_68" type="insertion">
+          <textualMod eId="amod_75" type="insertion">
             <source href="#art_57__para_a__subpara_2__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_92__para_c" pos="after" />
             <new href="#art_57__para_a__subpara_2__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_69" type="insertion">
+          <textualMod eId="amod_76" type="insertion">
             <source href="#art_58__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_92" pos="after" />
             <new href="#art_58__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_70" type="substitution">
+          <textualMod eId="amod_77" type="substitution">
             <source href="#art_59__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_92__para_d" pos="unspecified" />
             <new href="#art_59__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_71" type="substitution">
+          <textualMod eId="amod_78" type="substitution">
             <source href="#art_60__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_94" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_72" type="renumbering">
+          <textualMod eId="amod_79" type="renumbering">
             <source href="#art_60__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_94" pos="unspecified" />
             <old href="#art_60__para_b__mod_1__qtxt_1" />
             <new href="#art_60__para_b__mod_1__qtxt_2" />
           </textualMod>
-          <textualMod eId="amod_73" type="insertion">
+          <textualMod eId="amod_80" type="insertion">
             <source href="#art_60__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_94__para_a" pos="after" />
             <new href="#art_60__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_74" type="renumbering">
+          <textualMod eId="amod_81" type="renumbering">
             <source href="#art_60__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_94" pos="unspecified" />
             <old href="#art_60__para_c__mod_1__qtxt_1" />
             <new href="#art_60__para_c__mod_1__qtxt_2" />
           </textualMod>
-          <textualMod eId="amod_75" type="insertion">
+          <textualMod eId="amod_82" type="insertion">
             <source href="#art_62__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_97" pos="after" />
             <new href="#art_62__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_76" type="insertion">
+          <textualMod eId="amod_83" type="insertion">
             <source href="#art_63__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_98__para_c" pos="after" />
             <new href="#art_63__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_77" type="insertion">
+          <textualMod eId="amod_84" type="insertion">
             <source href="#art_64__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_99__para_d" pos="after" />
             <new href="#art_64__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_78" type="insertion">
+          <textualMod eId="amod_85" type="insertion">
             <source href="#art_65__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_102" pos="after" />
             <new href="#art_65__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_79" type="insertion">
+          <textualMod eId="amod_86" type="insertion">
             <source href="#art_66__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_106" pos="end" />
             <new href="#art_66__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_80" type="insertion">
+          <textualMod eId="amod_87" type="insertion">
             <source href="#art_67__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_109__para_b" pos="after" />
             <new href="#art_67__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_81" type="insertion">
+          <textualMod eId="amod_88" type="insertion">
             <source href="#art_69__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_117__para_d" pos="after" />
             <new href="#art_69__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_82" type="insertion">
+          <textualMod eId="amod_89" type="insertion">
             <source href="#art_70__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_124__para_e" pos="after" />
             <new href="#art_70__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_83" type="insertion">
+          <textualMod eId="amod_90" type="insertion">
             <source href="#art_71__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_131__para_f" pos="after" />
             <new href="#art_71__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_84" type="insertion">
+          <textualMod eId="amod_91" type="insertion">
             <source href="#art_72__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_131" pos="after" />
             <new href="#art_72__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_85" type="insertion">
+          <textualMod eId="amod_92" type="insertion">
             <source href="#art_73__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_132__para_c" pos="after" />
             <new href="#art_73__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_86" type="insertion">
+          <textualMod eId="amod_93" type="insertion">
             <source href="#art_74__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#part_36" pos="after" />
             <new href="#art_74__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_87" type="substitution">
+          <textualMod eId="amod_94" type="substitution">
             <source href="#art_75__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_133" pos="unspecified" />
             <new href="#art_75__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_88" type="insertion">
+          <textualMod eId="amod_95" type="insertion">
             <source href="#art_75__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_133" pos="after" />
             <new href="#art_75__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_89" type="substitution">
+          <textualMod eId="amod_96" type="substitution">
             <source href="#art_75__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_134" pos="unspecified" />
             <new href="#art_75__para_c__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_90" type="insertion">
+          <textualMod eId="amod_97" type="insertion">
             <source href="#art_75__para_d__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_134" pos="after" />
             <new href="#art_75__para_d__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_91" type="substitution">
+          <textualMod eId="amod_98" type="substitution">
             <source href="#art_77__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_136" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_92" type="renumbering">
+          <textualMod eId="amod_99" type="renumbering">
             <source href="#art_78__para_a__subpara_1__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_138__para_a__subpara_2" pos="unspecified" />
             <new href="#art_78__para_a__subpara_1__mod_1__qtxt_1" />
           </textualMod>
-          <textualMod eId="amod_93" type="insertion">
+          <textualMod eId="amod_100" type="insertion">
             <source href="#art_78__para_a__subpara_2__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_138__para_a__subpara_1" pos="after" />
             <new href="#art_78__para_a__subpara_2__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_94" type="insertion">
+          <textualMod eId="amod_101" type="insertion">
             <source href="#art_78__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_138__para_b" pos="after" />
             <new href="#art_78__para_c__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_95" type="substitution">
+          <textualMod eId="amod_102" type="substitution">
             <source href="#art_79__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_140__para_b" pos="unspecified" />
             <new href="#art_79__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_96" type="repeal">
+          <textualMod eId="amod_103" type="repeal">
             <source href="#art_79__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_140__para_c" pos="unspecified" />
             <new href="#art_79__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_97" type="insertion">
+          <textualMod eId="amod_104" type="insertion">
             <source href="#art_80__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_140__para_e" pos="after" />
             <new href="#art_80__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_98" type="insertion">
+          <textualMod eId="amod_105" type="insertion">
             <source href="#art_81__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_140__para_f" pos="after" />
             <new href="#art_81__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_99" type="insertion">
+          <textualMod eId="amod_106" type="insertion">
             <source href="#art_82__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#part_40" pos="after" />
             <new href="#art_82__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_100" type="insertion">
+          <textualMod eId="amod_107" type="insertion">
             <source href="#art_83__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_140__para_g" pos="after" />
             <new href="#art_83__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_101" type="renumbering">
+          <textualMod eId="amod_108" type="renumbering">
             <source href="#art_84__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_145" pos="unspecified" />
             <new href="#art_84__para_b__mod_1__qtxt_1" />
           </textualMod>
-          <textualMod eId="amod_102" type="insertion">
+          <textualMod eId="amod_109" type="insertion">
             <source href="#art_84__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_145__para_a" pos="after" />
             <new href="#art_84__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_103" type="substitution">
+          <textualMod eId="amod_110" type="substitution">
             <source href="#art_85__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_155__para_b" pos="unspecified" />
             <new href="#art_85__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_104" type="substitution">
+          <textualMod eId="amod_111" type="substitution">
             <source href="#art_85__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_155__para_e" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_105" type="substitution">
+          <textualMod eId="amod_112" type="substitution">
             <source href="#art_87__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_38__para_c__subpara_5" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_106" type="substitution">
+          <textualMod eId="amod_113" type="substitution">
             <source href="#art_87__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_59__para_a" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_107" type="substitution">
+          <textualMod eId="amod_114" type="substitution">
             <source href="#art_87__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_60" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_108" type="substitution">
+          <textualMod eId="amod_115" type="substitution">
             <source href="#art_87__para_d__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_61" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_109" type="substitution">
+          <textualMod eId="amod_116" type="substitution">
             <source href="#art_87__para_e__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_61" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_110" type="substitution">
+          <textualMod eId="amod_117" type="substitution">
             <source href="#art_87__para_f__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_72__para_c" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_111" type="substitution">
+          <textualMod eId="amod_118" type="substitution">
             <source href="#art_87__para_h__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_83__para_c" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_112" type="substitution">
+          <textualMod eId="amod_119" type="substitution">
             <source href="#art_87__para_i__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_85__para_b" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_113" type="substitution">
+          <textualMod eId="amod_120" type="substitution">
             <source href="#art_87__para_j__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_89" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_114" type="substitution">
+          <textualMod eId="amod_121" type="substitution">
             <source href="#art_87__para_ja__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_102" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_115" type="substitution">
+          <textualMod eId="amod_122" type="substitution">
             <source href="#art_87__para_jb__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_104__para_c" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_116" type="substitution">
+          <textualMod eId="amod_123" type="substitution">
             <source href="#art_87__para_jc__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_112__para_c" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_117" type="substitution">
+          <textualMod eId="amod_124" type="substitution">
             <source href="#art_87__para_jd__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_113" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_118" type="substitution">
+          <textualMod eId="amod_125" type="substitution">
             <source href="#art_87__para_if__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_114__para_a" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_119" type="substitution">
+          <textualMod eId="amod_126" type="substitution">
             <source href="#art_87__para_ig__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_114__para_b" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_120" type="substitution">
+          <textualMod eId="amod_127" type="substitution">
             <source href="#art_87__para_jg__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_115" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_121" type="substitution">
+          <textualMod eId="amod_128" type="substitution">
             <source href="#art_87__para_jh__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_116" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_122" type="substitution">
+          <textualMod eId="amod_129" type="substitution">
             <source href="#art_87__para_ji__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_125__para_b" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_123" type="substitution">
+          <textualMod eId="amod_130" type="substitution">
             <source href="#art_87__para_k__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_156" pos="unspecified" />
           </textualMod>
@@ -1033,13 +1061,13 @@
           <paragraph eId="art_10__para_a">
             <num>(א)</num>
             <content>
-              <p>בסעיפים <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_19">19</ref> (כותרת וגוף הסעיף), <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_20">20</ref>, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_e">27(ה)</ref>, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_31__para_a__subpara_1">31(א)(1)</ref>, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_b__subpara_2">33(ב)(2)</ref> ו- <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_4">39(א)(4)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, במקום "מורה משלב/ת" יבוא: "מורה/ת שילוב".</p>
+              <p>בסעיפים <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_19">19</ref> (כותרת וגוף הסעיף), <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_20">20</ref>, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_e">27(ה)</ref>, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_31__para_a__subpara_1">31(א)(1)</ref>, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_b__subpara_2">33(ב)(2)</ref> ו- <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_4">39(א)(4)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, <mod eId="art_10__para_a__mod_1">במקום <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_10__para_a__mod_1__qtxt_1">מורה משלב/ת</quotedText> יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_10__para_a__mod_1__qtxt_2">מורה/ת שילוב</quotedText></mod>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_10__para_b">
             <num>(ב)</num>
             <content>
-              <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_h">27 (ח)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, במקום "מורות משלבות" יבוא: "מורי/ות שילוב".</p>
+              <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_h">27 (ח)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, <mod eId="art_10__para_b__mod_1">במקום <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_10__para_b__mod_1__qtxt_1">מורות משלבות</quotedText> יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_10__para_b__mod_1__qtxt_2">מורי/ות שילוב</quotedText></mod>.</p>
             </content>
           </paragraph>
         </article>
@@ -1160,7 +1188,7 @@
           <paragraph eId="art_16__para_a">
             <num>(א)</num>
             <content>
-              <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_24">24</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, במקום "<quantity eId="qty_2" refersTo="#hour" normalized="0.5">חצי שעה</quantity> ביום (<quantity eId="qty_3" refersTo="#hour" normalized="2.5">2.5 שעות</quantity> שבועיות) משעות השהיה המפורטות בסעיפים 15 עד 22 בהתאמה," יבוא: "שעת הוראה פרונטאלית אחת בשבוע ושעת שהיה אחת בשבוע, מתוך מכסת שעות עבודתה השבועיות,".</p>
+              <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_24">24</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, <mod eId="art_16__para_a__mod_1">במקום <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_16__para_a__mod_1__qtxt_1"><quantity eId="qty_2" refersTo="#hour" normalized="0.5">חצי שעה</quantity> ביום (<quantity eId="qty_3" refersTo="#hour" normalized="2.5">2.5 שעות</quantity> שבועיות) משעות השהיה המפורטות בסעיפים 15 עד 22 בהתאמה,</quotedText> יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_16__para_a__mod_1__qtxt_2">שעת הוראה פרונטאלית אחת בשבוע ושעת שהיה אחת בשבוע, מתוך מכסת שעות עבודתה השבועיות,</quotedText></mod>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_16__para_b">
@@ -1180,7 +1208,7 @@
           <paragraph eId="art_16__para_c">
             <num>(ג)</num>
             <content>
-              <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_i">27(ט)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, במקום "ההפחתה בשעות השהייה" יבוא: "ההפחתה בשעות ההוראה הפרונטאלית ובשעות השהייה".</p>
+              <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_i">27(ט)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, <mod eId="art_16__para_c__mod_1">במקום <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_16__para_c__mod_1__qtxt_1">ההפחתה בשעות השהייה</quotedText> יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_16__para_c__mod_1__qtxt_2">ההפחתה בשעות ההוראה הפרונטאלית ובשעות השהייה</quotedText></mod>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_16__para_d">
@@ -1460,7 +1488,8 @@
           <paragraph eId="art_22__para_b">
             <num>(ב)</num>
             <content>
-              <p>במקום " התקופה שתחילתה במועד תחילת לימודיו של המורה לתעודת הוראה או להסמכה להוראה" יבוא: "התקופה שמהמועד בו עבר המורה להעסקה על-פי תנאי <term eId="trm_13" refersTo="#term_0d75357b">הרפורמה</term>"</p>
+              <p><mod eId="art_22__para_b__mod_2">במקום <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_22__para_b__mod_2__qtxt_1"> התקופה שתחילתה במועד תחילת לימודיו של המורה לתעודת הוראה או להסמכה להוראה</quotedText> יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_22__para_b__mod_2__qtxt_2">התקופה שמהמועד בו עבר המורה להעסקה על-פי תנאי <term eId="trm_13" refersTo="#term_0d75357b">הרפורמה</term></quotedText></mod>
+              </p>
               <p><mod eId="art_22__para_b__mod_1">לפיכך, סעיף-קטן <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_36__para_e">36 (ה)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref> ייקרא כדלהלן:<quotedStructure eId="art_22__para_b__mod_1__qstr_1" startQuote="&quot;">
                     <paragraph eId="art_22__para_b__mod_1__qstr_1__para_e">
                       <num>(ה)</num>
@@ -2306,7 +2335,7 @@
             <subparagraph eId="art_39__para_a__subpara_2">
               <num>(2)</num>
               <content>
-                <p>במקום "בשינוי הבא" יבוא: "בשינויים ובהתאמות כדלהלן:".</p>
+                <p><mod eId="art_39__para_a__subpara_2__mod_1">במקום <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_39__para_a__subpara_2__mod_1__qtxt_1">בשינוי הבא</quotedText> יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_39__para_a__subpara_2__mod_1__qtxt_2">בשינויים ובהתאמות כדלהלן:</quotedText></mod>.</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -2578,7 +2607,7 @@
           <paragraph eId="art_45__para_a">
             <num>(א)</num>
             <content>
-              <p>בסעיף-קטן (ו), במקום "אשכולות פיס ומרכזי פסגה" יבוא: "אשכולות פיס, מרכזי פסגה, חוות חקלאיות ומרכזים ימיים".</p>
+              <p>בסעיף-קטן (ו), <mod eId="art_45__para_a__mod_1">במקום <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_45__para_a__mod_1__qtxt_1">אשכולות פיס ומרכזי פסגה</quotedText> יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_45__para_a__mod_1__qtxt_2">אשכולות פיס, מרכזי פסגה, חוות חקלאיות ומרכזים ימיים</quotedText></mod>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_45__para_b">
@@ -4064,7 +4093,7 @@
                       <subparagraph eId="art_83__para_c__mod_1__qstr_1__para_144g__subpara_a">
                         <num>(א)</num>
                         <content>
-                          <p>על גננת קיימת לא אקדמאית, אשר מועסקת בחטיבה צעירה בשנת המעבר שלה להעסקה בתנאי הרפורמה (החל בשנת הלימודים תשע"א), יחול סעיף 144, אולם המכפיל של מקדם ההמרה אשר חל לגביה יהיה כשל מורה.</p>
+                          <p>על גננת קיימת לא אקדמאית, אשר מועסקת בחטיבה צעירה בשנת המעבר שלה להעסקה בתנאי הרפורמה (החל בשנת הלימודים תשע"א), יחול סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_144">144</ref>, אולם המכפיל של מקדם ההמרה אשר חל לגביה יהיה כשל מורה.</p>
                         </content>
                       </subparagraph>
                       <subparagraph eId="art_83__para_c__mod_1__qstr_1__para_144g__subpara_b">

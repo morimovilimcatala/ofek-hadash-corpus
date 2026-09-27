@@ -103,7 +103,7 @@
       <p>צד ב'</p>
       <recitals eId="recitals_1">
         <recital eId="rec_1">
-          <p>הואיל: ו<ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-oz-latmura-out-of-school-activity-livui-tiyulim-gmul">בהסכם הקיבוצי מיום 8.9.98</ref> הוסכם בין הצדדים כי בגין התקופה המתחילה ב-<date date="1998-01-01">1.1.98</date> תבוצע הפרשה לקופת גמל;</p>
+          <p>הואיל: <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-oz-latmura-out-of-school-activity-livui-tiyulim-gmul">ובהסכם הקיבוצי מיום 8.9.98</ref> הוסכם בין הצדדים כי בגין התקופה המתחילה ב-<date date="1998-01-01">1.1.98</date> תבוצע הפרשה לקופת גמל;</p>
         </recital>
         <recital eId="rec_2">
           <p>והואיל: וברצון הצדדים להסדיר את יישום ההסכמה האמורה במסגרת הסכם קיבוצי;</p>
@@ -308,6 +308,10 @@
             <hcontainer eId="att_1__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב היחידה לשכר והסכמי עבודה במשרד האוצר אל יו"ר ארגון המורים בנושא הסכם הכללת רכיבים לקופת גמל לעובדי הוראה שאינם מועסקים בשנת תשנ"ט, מיום <date date="1998-12-17">17.12.1998</date>, בדף הרביעי של הסריקה]</p>
+                <p repo:role="running-head"><organization eId="org_20" refersTo="#state-israel">מדינת ישראל</organization>
+                </p>
+                <p repo:role="running-head"><organization eId="org_21" refersTo="#mof">משרד האוצר</organization>
+                </p>
                 <p repo:role="running-head">היחידה לשכר והסכמי עבודה</p>
                 <p><date date="1998-12-17">כ"ח בכסלו התשנ"ט</date>
                 </p>
@@ -317,7 +321,7 @@
                 <p>לכבוד</p>
                 <p repo:role="running-head">מר <person eId="pers_6" refersTo="#p_4b7467e5">רן ארז</person>
                 </p>
-                <p><role eId="rol_20" refersTo="#role-yor">יו"ר</role> <organization eId="org_21" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>
+                <p><role eId="rol_22" refersTo="#role-yor">יו"ר</role> <organization eId="org_23" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>
                 </p>
                 <p>הנדון: הסכם הכללת רכיבים לקופת גמל – <term eId="trm_9" refersTo="#term_2db30064">עובדי הוראה</term> שאינם מועסקים בשנת תשנ"ט.</p>
                 <p>בהמשך לדיונים שקויימו בינינו בעניין ההפרשות לקופת גמל בגין רכיבי שכר ותשלומים שאינם פנסיוניים. כמפורט בהסכם הקיבוצי מיום <date date="1998-12-17">17.12.98</date> (להלן: "<def refersTo="#term_afe898bb">ההסכם</def>"), הריני להעלות על הכתב את הסכמתנו כי סוגיית עו"ה אשר היו מועסקים אצל מי <term eId="trm_10" refersTo="#term_88a5098d">מהמעסיקים</term> בשנת הלימודים תשנ"ח לאחר יום <date date="1998-01-01">1.1.98</date>, ואשר אינם מועסקים בשנת הלימודים תשנ"ט ואשר לא חל עליהם סעיף 5(ו) או סעיף 10 להסכם, תועבר לדיון בועדה פריטטית של נציגי הצדדים להסכם לפי סעי [כך במקור] 13 <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-oz-latmura-out-of-school-activity-livui-tiyulim-gmul">להסכם מיום 8.9.98</ref>.</p>
@@ -333,7 +337,7 @@
             <p>הנני מאשר האמור לעיל.</p>
             <p repo:role="running-head">מר <person eId="pers_8" refersTo="#p_4b7467e5">רן ארז</person>
             </p>
-            <p repo:role="running-head"><role eId="rol_22" refersTo="#role-yor">יו"ר</role> <organization eId="org_23" refersTo="#irgun-hamorim">ארגון המורים</organization>
+            <p repo:role="running-head"><role eId="rol_24" refersTo="#role-yor">יו"ר</role> <organization eId="org_25" refersTo="#irgun-hamorim">ארגון המורים</organization>
             </p>
             <p><location eId="locref_1" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_2" refersTo="#loc_8e0dfe1e">ירושלים</location> 91131 ת.ד. 13185 טל': <a href="tel:+97225317111">02-5317111</a> פקס': <a href="tel:+97226528360">02-6528360</a>
             </p>
@@ -372,6 +376,10 @@
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב היחידה לשכר והסכמי עבודה במשרד האוצר אל יו"ר ארגון המורים בנושא הפרשה בגין מענק יובל וקצובת ביגוד לקופת גמל לפי סעיף 5(ב) להסכם, מיום <date date="1998-12-17">17.12.1998</date>, בדף החמישי של הסריקה]</p>
+                <p repo:role="running-head"><organization eId="org_26" refersTo="#state-israel">מדינת ישראל</organization>
+                </p>
+                <p repo:role="running-head"><organization eId="org_27" refersTo="#mof">משרד האוצר</organization>
+                </p>
                 <p repo:role="running-head">היחידה לשכר והסכמי עבודה</p>
                 <p>כ"ח בכסלן [כך במקור] התשנ"ט</p>
                 <p><date date="1998-12-17">17 בדצמבר 1998</date>
@@ -380,7 +388,7 @@
                 <p>לכבוד:</p>
                 <p repo:role="running-head">מר <person eId="pers_9" refersTo="#p_4b7467e5">רן ארז</person>
                 </p>
-                <p repo:role="running-head"><role eId="rol_24" refersTo="#role-yor">יו"ר</role> <organization eId="org_25" refersTo="#irgun-hamorim">ארגון המורים</organization>
+                <p repo:role="running-head"><role eId="rol_28" refersTo="#role-yor">יו"ר</role> <organization eId="org_29" refersTo="#irgun-hamorim">ארגון המורים</organization>
                 </p>
                 <p>הנדון: הפרשה בגין מענק יובל וקצובת ביגוד לקופת גמל – סעיף 5 (ב) להסכם הפרשת רכיבים לגמל.</p>
                 <p>הריני להעלות בזה את הסכמת הצדדים שהושגה במהלך המו"מ לכריתת ההסכם הקיבוצי שעניינו הפרשה וניכוי לקופת גמל, כדקלמן [כך במקור]:</p>
@@ -402,14 +410,14 @@
           <conclusions>
             <p>בכבוד רב,</p>
             <p><signature eId="signature_1">
-                <person eId="pers_10" refersTo="#p_d1ef052a">יוסי קוצ'יק</person> <role eId="rol_26" refersTo="#role-memuneh-sachar">ממונה על השכר והסכמי עבודה</role>
+                <person eId="pers_10" refersTo="#p_d1ef052a">יוסי קוצ'יק</person> <role eId="rol_30" refersTo="#role-memuneh-sachar">ממונה על השכר והסכמי עבודה</role>
               </signature>
             </p>
             <p>אישור</p>
             <p>הנני מאשר את האמור לעיל,</p>
             <p repo:role="running-head">מר <person eId="pers_11" refersTo="#p_4b7467e5">רן ארז</person>
             </p>
-            <p repo:role="running-head"><role eId="rol_27" refersTo="#role-yor">יו"ר</role> <organization eId="org_28" refersTo="#irgun-hamorim">ארגון המורים</organization>
+            <p repo:role="running-head"><role eId="rol_31" refersTo="#role-yor">יו"ר</role> <organization eId="org_32" refersTo="#irgun-hamorim">ארגון המורים</organization>
             </p>
           </conclusions>
         </doc>

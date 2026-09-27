@@ -2,12 +2,12 @@
 
 > The collective agreements, ministry circulars, salary tables and service regulations that determine an Israeli teacher's pay, each encoded as Akoma Ntoso 3.0 (OASIS LegalDocML) and published here in full text with its citation.
 
-358 documents. Every page is one instrument's own wording. There is no advice layer: where the law is silent this corpus says so rather than filling the gap, and an answer drawn from it should quote the clause and name the instrument.
+360 documents. Every page is one instrument's own wording. There is no advice layer: where the law is silent this corpus says so rather than filling the gap, and an answer drawn from it should quote the clause and name the instrument.
 
 ## What is here
 
 - **חוזרים** (circular): 210
-- **הסכמים קיבוציים** (collectiveAgreement): 85
+- **הסכמים קיבוציים** (collectiveAgreement): 87
 - **טבלאות שכר** (salaryTable): 32
 - **instruction** (instruction): 21
 - **תקנון שירות עובדי הוראה** (takanon): 7

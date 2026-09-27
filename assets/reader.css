@@ -1325,6 +1325,11 @@ details.tech[open]>summary::before{content:"▾ ";}
    missing. The matrix scrolls INSIDE its own box at phone width: the page
    never scrolls sideways (the overflow class this sheet has fixed before). */
 .cov .lede{max-width:72ch;}
+/* A data page, not a reading measure: at 860px the table of missing
+   instruments split four columns into 808px and read as "very squished"
+   (the client, 2026-09-27), with a third of a desktop screen empty beside
+   it. The prose on the page keeps its 72ch through .lede and .cov-foot. */
+.landing.cov{max-width:1240px;}
 .cov-scroll{overflow-x:auto; margin-top:12px; position:relative;}
 /* A visually-hidden label is absolutely positioned, and an absolute box
    escapes a scroll container that is not itself positioned: the labels in
@@ -1381,7 +1386,15 @@ a.cov-seg:hover,a.cov-seg:focus-visible{filter:brightness(1.25); outline:none;}
 .cov-sum tfoot th,.cov-sum tfoot td{font-weight:600; color:var(--ink);
   border-top:2px solid var(--rule); border-bottom:none;}
 .cov-missing td{vertical-align:top;}
-.cov-cites{font-size:12px; line-height:1.6;}
+.cov-missing col.c-d{width:96px;}
+.cov-missing col.c-name{width:36%;}
+.cov-missing col.c-k{width:130px;}
+.cov-missing thead th{font-size:11.5px; font-weight:500; color:var(--ink-faint);
+  text-align:start; padding:6px 10px 6px 0; border-bottom:1px solid var(--rule);}
+.cov-cites{font-size:12.5px; line-height:1.45;}
+.cov-cites ul{list-style:none; margin:0; padding:0;}
+.cov-cites li + li{margin-top:5px;}
+.cov-cites li.more{color:var(--ink-faint);}
 .cov-note{font-size:11.5px; color:var(--ink-faint); margin-top:2px;}
 .cov-circ{border-collapse:separate; border-spacing:2px;}
 .cov-circ th{font-size:10.5px; font-weight:500; color:var(--ink-faint);
@@ -1396,6 +1409,12 @@ a.cov-sq:hover,a.cov-sq:focus-visible{outline:2px solid var(--ink); outline-offs
 @media (max-width:900px){
   .cov-row{grid-template-columns:130px 1fr; gap:8px;}
   .cov-label{font-size:12px;}
+  /* The table of missing instruments turns into a list here, like every
+     table.recent; its head names columns that no longer exist, and left in
+     place it drew as four cells a few pixels wide. The citing documents
+     stay smaller than the instrument they cite. */
+  .cov-missing thead{display:none;}
+  table.recent td.cov-cites{font-size:13px; line-height:1.45; margin-top:6px;}
 }
 /* On a phone the summary FITS rather than scrolls: the column a reader came
    for, cited-not-held, is the last one in RTL and would start off-screen. */
