@@ -597,11 +597,23 @@
   function mint(op, holder){
     if(!['after', 'before', 'end'].includes(op.pos)) return;
     const dest = op.eid.split('__');
-    for(const top of [...holder.children]){
-      const found = /__qstr_\d+__([^_]+)_([^_]+)$/.exec(top.id || '');
+    // Through a quoted CHAPTER's grouping (`hc_N`), to the articles it
+    // holds: "אחרי פרק מ … יבוא: מ1. … 144א." Only an article-numbered
+    // clause is an address there.
+    const tops = [];
+    const collect = (kids, grouped) => {
+      for(const kid of kids){
+        if(/__hc_[^_]+$/.test(kid.id || '')) collect(kid.children, true);
+        else tops.push([kid, grouped]);
+      }
+    };
+    collect(holder.children, false);
+    for(const [top, grouped] of tops){
+      const found = /__qstr_\d+__(?:.*__)?([^_]+)_([^_]+)$/.exec(top.id || '');
       const num = top.querySelector(':scope > .akn-num');
       if(!found || !num || !LEVELS.includes(found[1])) continue;
       const article = /^\s*(\d{1,3}[א-ת]{0,2})\s*\./.exec(num.textContent);
+      if(grouped && !article) continue;
       let base, offset;
       if(article){
         if(dest.length !== 1) continue;
