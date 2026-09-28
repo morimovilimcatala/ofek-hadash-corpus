@@ -86,7 +86,7 @@
       </longTitle>
     </preface>
     <preamble>
-      <p repo:note="stamp" repo:role="registration">[חותמת רישום:] <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> התשי"ז - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום 15-03-1999 ומספרו: [בכתב יד: 7066/98] | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
+      <p repo:note="stamp" repo:role="registration">[חותמת רישום:] <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> התשי"ז - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום 15-03-1999 ומספרו: [בכתב יד: 7066/98] | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
       </p>
       <p>[בכתב יד: 30533]</p>
       <p repo:role="title">הסכם קיבוצי</p>
@@ -377,7 +377,7 @@
         <paragraph eId="art_10__para_10-2">
           <num>10.2</num>
           <content>
-            <p>לצורך הסכם זה, קופת גמל מוגדרת כקופת גמל לתגמולים כמשמעותה בתקנות מס הכנסה (כללים לאישור ולניהול קופת גמל) התשנ"ד - 1994.</p>
+            <p>לצורך הסכם זה, קופת גמל מוגדרת כקופת גמל לתגמולים כמשמעותה ב<ref href="https://he.wikisource.org/wiki/תקנות_מס_הכנסה_(כללים_לאישור_ולניהול_קופות_גמל)">תקנות מס הכנסה (כללים לאישור ולניהול קופת גמל)</ref> התשנ"ד - 1994.</p>
           </content>
         </paragraph>
         <paragraph eId="art_10__para_10-3">

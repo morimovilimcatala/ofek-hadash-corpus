@@ -108,7 +108,7 @@
     <preamble>
       <p repo:role="title">הסכם קיבוצי מיוחד</p>
       <p>[בכתב יד: <date date="2021-06-17">17/6/21</date>]</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת רישום: <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ז-1957 | הסכם קיבוצי זה נרשם כחוק | ביום: 12 -12- 2022 | ומספרו: [בכתב יד: 310/2022] | <person eId="pers_1" refersTo="#p_acfba614">רבקה ורבנר</person>, עו"ד | הממונה הראשית על יחסי עבודה]</p>
+      <p repo:note="stamp" repo:role="registration">[חותמת רישום: <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ז-1957 | הסכם קיבוצי זה נרשם כחוק | ביום: 12 -12- 2022 | ומספרו: [בכתב יד: 310/2022] | <person eId="pers_1" refersTo="#p_acfba614">רבקה ורבנר</person>, עו"ד | הממונה הראשית על יחסי עבודה]</p>
       <p repo:note="signature-note">[חתימות בשולי עמודים 1-5]</p>
       <p>בין: <party eId="party_1" refersTo="#state">ממשלת ישראל</party>, בשם <party eId="party_2" refersTo="#state-israel">מדינת ישראל</party>, המיוצגת על-ידי <role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_5" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_2" refersTo="#p_adcb72bb" as="#role-memuneh-sachar">קובי בר-נתן</person>, ועל-ידי <role eId="rol_6" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_7" refersTo="#moe">משרד החינוך</organization>, מר <person eId="pers_3" refersTo="#p_18bb76b1" as="#role-mankal">עמית אדרי</person>;</p>
       <p repo:role="aside">(להלן: "<def refersTo="#term_ddf2350a #state #state-israel">המדינה</def>")</p>
@@ -243,27 +243,27 @@
                     </quotedStructure>
                   </mod>
                 </p>
-                <p>למען הסר ספק סעיפים קטנים <ref href="#art_6__para_b">(ב)</ref> - <ref href="#art_6__para_d">(ד)</ref> לסעיף 144ג להסכם רפורמת אופק יחולו ובכלל זה ההתחייבות שם כי <organization eId="org_25" refersTo="#state-israel">מדינת ישראל</organization> תפעל להכרה בתוספת האמורה בסעיף קטן (א), כפי שתוקן בסעיף קטן (2) זה, כתוספת קבועה לעניין חוק שירות <term eId="trm_19" refersTo="#term_ddf2350a">המדינה</term> (גמלאות) [נוסח משולב], התש"ל – 1970. למען הסר ספק עבור <term eId="trm_20" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> המבוטחות בפנסיה צוברת תבוצענה הפרשות לפנסיה צוברת בגין התוספת.</p>
+                <p>למען הסר ספק סעיפים קטנים <ref href="#art_6__para_b">(ב)</ref> - <ref href="#art_6__para_d">(ד)</ref> לסעיף 144ג להסכם רפורמת אופק יחולו ובכלל זה ההתחייבות שם כי <organization eId="org_25" refersTo="#state-israel">מדינת ישראל</organization> תפעל להכרה בתוספת האמורה בסעיף קטן (א), כפי שתוקן בסעיף קטן (2) זה, כתוספת קבועה לעניין <ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)">חוק שירות המדינה (גמלאות)</ref> [נוסח משולב], התש"ל – 1970. למען הסר ספק עבור <term eId="trm_19" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> המבוטחות בפנסיה צוברת תבוצענה הפרשות לפנסיה צוברת בגין התוספת.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_6__para_b__subpara_3">
               <num>(3)</num>
               <content>
-                <p><term eId="trm_21" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> תהיינה זכאיות לגמול חינוך מיוחד על מלא היקף העסקתן בחינוך המיוחד.</p>
+                <p><term eId="trm_20" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> תהיינה זכאיות לגמול חינוך מיוחד על מלא היקף העסקתן בחינוך המיוחד.</p>
               </content>
             </subparagraph>
           </paragraph>
           <paragraph eId="art_6__para_c">
             <num>(ג)</num>
             <content>
-              <p>מובהר כי <term eId="trm_22" refersTo="#term_7dc84344">מנהלת אשכול גנים חדשה בחינוך המיוחד</term>, לא תחשב בשל הסכם זה כ"עובדת הוראה קיימת" ולא כ"גננת קיימת", כהגדרתן בהסכם רפורמת אופק.</p>
+              <p>מובהר כי <term eId="trm_21" refersTo="#term_7dc84344">מנהלת אשכול גנים חדשה בחינוך המיוחד</term>, לא תחשב בשל הסכם זה כ"עובדת הוראה קיימת" ולא כ"גננת קיימת", כהגדרתן בהסכם רפורמת אופק.</p>
             </content>
           </paragraph>
           <paragraph eId="art_6__para_d">
             <num>(ד)</num>
             <content>
-              <p><term eId="trm_23" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> (לרבות <term eId="trm_24" refersTo="#term_7dc84344">מנהלת אשכול גנים חדשה בחינוך המיוחד</term>, <term eId="trm_25" refersTo="#term_dff7d20e">ומנהלת אשכול גנים בחינוך המיוחד שעברה המרה ערב חתימת הסכם זה</term>), לא תהיינה זכאיות לכפל זכות, תשלום או הטבה, מכוח הסכם זה, ככל שזו כבר הוענקה, שולמה או הוחלה לגביהן עוד לפני <term eId="trm_26" refersTo="#term_8743f052">מועד התחילה</term>, בגין אותה תקופה, וכי לא יוחלו לגביהן מכוח הוראות הסכם זה, הוראות הסכם רפורמת אופק ככל שאלה כבר הוחלו לגביהן ערב חתימת הסכם זה.</p>
-              <p>למען הסר ספק מובהר למשל, ומבלי למצות, כי בכל מקרה לא תבוצע <term eId="trm_27" refersTo="#term_7dc84344">למנהלת אשכול גנים חדשה בחינוך המיוחד</term>, ומנהלת אשכול גנים בחינוך המיוחד שעברה המרה ערב מועד תחילת הסכם זה (אשר ערב מועד תחילת הסכם זה כבר נקבעה להן דרגה ברפורמת <concept eId="con_26" refersTo="#reform_ofek">אופק חדש</concept>), המרת שכר כ"גננת קיימת" לפי סעיפים 140 או 144 להסכם רפורמת אופק (משכרן כבר נקבע לפי טבלאות השכר ברפורמה החל ממועד תחילת העסקתן בניהול אשכול גנים בחינוך המיוחד או טרם תחילת העסקתן בניהול אשכול גנים בחינוך המיוחד, לפי העניין); כי הן לא תהיינה זכאיות לשעות גיל מכוח הוראות הסכם זה, ככל שהן כבר זכאיות לשעות גיל ערב <term eId="trm_28" refersTo="#term_8743f052">מועד התחילה</term> (והסכם זה לא גורע מזכאותן הקודמת כאמור). וכדומה.</p>
+              <p><term eId="trm_22" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> (לרבות <term eId="trm_23" refersTo="#term_7dc84344">מנהלת אשכול גנים חדשה בחינוך המיוחד</term>, <term eId="trm_24" refersTo="#term_dff7d20e">ומנהלת אשכול גנים בחינוך המיוחד שעברה המרה ערב חתימת הסכם זה</term>), לא תהיינה זכאיות לכפל זכות, תשלום או הטבה, מכוח הסכם זה, ככל שזו כבר הוענקה, שולמה או הוחלה לגביהן עוד לפני <term eId="trm_25" refersTo="#term_8743f052">מועד התחילה</term>, בגין אותה תקופה, וכי לא יוחלו לגביהן מכוח הוראות הסכם זה, הוראות הסכם רפורמת אופק ככל שאלה כבר הוחלו לגביהן ערב חתימת הסכם זה.</p>
+              <p>למען הסר ספק מובהר למשל, ומבלי למצות, כי בכל מקרה לא תבוצע <term eId="trm_26" refersTo="#term_7dc84344">למנהלת אשכול גנים חדשה בחינוך המיוחד</term>, ומנהלת אשכול גנים בחינוך המיוחד שעברה המרה ערב מועד תחילת הסכם זה (אשר ערב מועד תחילת הסכם זה כבר נקבעה להן דרגה ברפורמת <concept eId="con_26" refersTo="#reform_ofek">אופק חדש</concept>), המרת שכר כ"גננת קיימת" לפי סעיפים 140 או 144 להסכם רפורמת אופק (משכרן כבר נקבע לפי טבלאות השכר ברפורמה החל ממועד תחילת העסקתן בניהול אשכול גנים בחינוך המיוחד או טרם תחילת העסקתן בניהול אשכול גנים בחינוך המיוחד, לפי העניין); כי הן לא תהיינה זכאיות לשעות גיל מכוח הוראות הסכם זה, ככל שהן כבר זכאיות לשעות גיל ערב <term eId="trm_27" refersTo="#term_8743f052">מועד התחילה</term> (והסכם זה לא גורע מזכאותן הקודמת כאמור). וכדומה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_6__para_e">
@@ -279,13 +279,13 @@
           <paragraph eId="art_7__para_a">
             <num>(א)</num>
             <content>
-              <p><term eId="trm_29" refersTo="#term_8743f052">במועד התחילה</term>, מנהלת אשכולות גנים בחנ"מ אשר הייתה מועסקת במשרה מְלאה בשירות <term eId="trm_30" refersTo="#term_ddf2350a">המדינה</term> בתפקיד כאמור, בכל התקופה שמיום <date date="2016-09-01">1.9.2016</date> עד <date date="2021-08-31">31.8.2021</date> (להלן: "<def refersTo="#term_d934060e">התקופה למענק</def>"), תהיה זכאית למענק חד פעמי בגובה <quantity eId="qty_3" refersTo="#ILS" normalized="26000">26,000 ש"ח</quantity> בלבד (במילים: <quantity refersTo="#ILS" normalized="26000" eId="qty_4">עשרים וששה אלף שקלים חדשים</quantity>) (להלן: "<def refersTo="#term_e3d38431">המענק החד פעמי</def>").</p>
+              <p><term eId="trm_28" refersTo="#term_8743f052">במועד התחילה</term>, מנהלת אשכולות גנים בחנ"מ אשר הייתה מועסקת במשרה מְלאה בשירות <term eId="trm_29" refersTo="#term_ddf2350a">המדינה</term> בתפקיד כאמור, בכל התקופה שמיום <date date="2016-09-01">1.9.2016</date> עד <date date="2021-08-31">31.8.2021</date> (להלן: "<def refersTo="#term_d934060e">התקופה למענק</def>"), תהיה זכאית למענק חד פעמי בגובה <quantity eId="qty_3" refersTo="#ILS" normalized="26000">26,000 ש"ח</quantity> בלבד (במילים: <quantity refersTo="#ILS" normalized="26000" eId="qty_4">עשרים וששה אלף שקלים חדשים</quantity>) (להלן: "<def refersTo="#term_e3d38431">המענק החד פעמי</def>").</p>
             </content>
           </paragraph>
           <paragraph eId="art_7__para_b">
             <num>(ב)</num>
             <content>
-              <p>מנהלת אשכולות גנים בחנ"מ, אשר הועסקה בתפקיד כאמור, במשרה מלאה בחלק <term eId="trm_31" refersTo="#term_d934060e">מהתקופה למענק</term> תהיה זכאית לחלק יחסי של <term eId="trm_32" refersTo="#term_e3d38431">המענק החד פעמי</term>, כיחס בין תקופת העבודה שלה בתפקיד כאמור לבין תקופת העבודה של מנהלת אשכולות גנים בחנ"מ שהועסקה בכל <term eId="trm_33" refersTo="#term_d934060e">התקופה למענק</term> (להלן – "<def refersTo="#term_25e59b01">יחס התקופות</def>"). רק לעניין חישוב <term eId="trm_34" refersTo="#term_25e59b01">יחס התקופות</term> ומבלי שיפגע גובה <term eId="trm_35" refersTo="#term_e3d38431">המענק החד פעמי</term> בשל כך, הן בתקופת העבודה של מנהלת אשכולות גנים בחנ"מ, אשר הועסקה במשרה חלקית מהחלק <term eId="trm_36" refersTo="#term_d934060e">מהתקופה למענק</term> והן בתקופת העבודה של מנהלת אשכולות גנים בחנ"מ, שהועסקה בכל <term eId="trm_37" refersTo="#term_d934060e">התקופה למענק</term>, לא יילקחו בחשבון החודשים יולי ואוגוסט הנופלים <term eId="trm_38" refersTo="#term_d934060e">בתקופה למענק</term> מצד אחד ואילו <term eId="trm_39" refersTo="#term_d934060e">התקופה למענק</term> כולה תיחשב כתקופה בת <quantity eId="qty_5" refersTo="#month" normalized="50">50 חודשים</quantity> מצד שני.</p>
+              <p>מנהלת אשכולות גנים בחנ"מ, אשר הועסקה בתפקיד כאמור, במשרה מלאה בחלק <term eId="trm_30" refersTo="#term_d934060e">מהתקופה למענק</term> תהיה זכאית לחלק יחסי של <term eId="trm_31" refersTo="#term_e3d38431">המענק החד פעמי</term>, כיחס בין תקופת העבודה שלה בתפקיד כאמור לבין תקופת העבודה של מנהלת אשכולות גנים בחנ"מ שהועסקה בכל <term eId="trm_32" refersTo="#term_d934060e">התקופה למענק</term> (להלן – "<def refersTo="#term_25e59b01">יחס התקופות</def>"). רק לעניין חישוב <term eId="trm_33" refersTo="#term_25e59b01">יחס התקופות</term> ומבלי שיפגע גובה <term eId="trm_34" refersTo="#term_e3d38431">המענק החד פעמי</term> בשל כך, הן בתקופת העבודה של מנהלת אשכולות גנים בחנ"מ, אשר הועסקה במשרה חלקית מהחלק <term eId="trm_35" refersTo="#term_d934060e">מהתקופה למענק</term> והן בתקופת העבודה של מנהלת אשכולות גנים בחנ"מ, שהועסקה בכל <term eId="trm_36" refersTo="#term_d934060e">התקופה למענק</term>, לא יילקחו בחשבון החודשים יולי ואוגוסט הנופלים <term eId="trm_37" refersTo="#term_d934060e">בתקופה למענק</term> מצד אחד ואילו <term eId="trm_38" refersTo="#term_d934060e">התקופה למענק</term> כולה תיחשב כתקופה בת <quantity eId="qty_5" refersTo="#month" normalized="50">50 חודשים</quantity> מצד שני.</p>
               <p>לדוגמא – מנהלת אשכולות גנים בחנ"מ אשר הועסקה במשרה מלאה ביום <date date="2016-09-01">1.9.2016</date> ועד ליום <date date="2020-03-31">31.3.2020</date> תהיה זכאית למענק בסכום 19,240 לפי החישוב הבא:</p>
               <p>A = מספר החודשים הרלוונטיים לחישוב המענק בהם הועסקה המנהלת = 37 (<quantity eId="qty_6" refersTo="#year" normalized="3">שלוש שנים</quantity> * <quantity eId="qty_7" refersTo="#month" normalized="10">10 חודשים</quantity> רלוונטיים לחישוב המענק (בניכוי החודשים יולי ואוגוסט) + <quantity eId="qty_8" refersTo="#month" normalized="7">7 החודשים</quantity> שבין ספטמבר 2019 ומרץ 2020 כולל).</p>
               <p>A * 26,000 = 37 * 26,000 = 19,240</p>
@@ -295,13 +295,13 @@
           <paragraph eId="art_7__para_c">
             <num>(ג)</num>
             <content>
-              <p>מנהלת אשכולות גנים בחנ"מ, אשר הועסקה בתפקיד כאמור במשרה חלקית בכל (מלוא) <term eId="trm_40" refersTo="#term_d934060e">התקופה למענק</term> תהיה זכאית לחלקן היחסי של <term eId="trm_41" refersTo="#term_e3d38431">המענק החד פעמי</term>, ביחס לחלקיות משרתה (המשוקללת) <term eId="trm_42" refersTo="#term_d934060e">בתקופה למענק</term>. רק לעניין חישוב חלקיות המשרה (המשוקללת) <term eId="trm_43" refersTo="#term_d934060e">בתקופה למענק</term> ומבלי שיפגע גובה <term eId="trm_44" refersTo="#term_e3d38431">המענק החד פעמי</term> בשל כך, <term eId="trm_45" refersTo="#term_d934060e">בתקופה למענק</term> לא יילקחו בחשבון החודשים יולי ואוגוסט הנופלים <term eId="trm_46" refersTo="#term_d934060e">בתקופה למענק</term> מצד אחד ואילו <term eId="trm_47" refersTo="#term_d934060e">התקופה למענק</term> כולה תיחשב כתקופה בת <quantity eId="qty_9" refersTo="#month" normalized="50">50 חודשים</quantity> מצד שני. בכל מקרה, בחישוב חלקיות משרתה של המנהלת בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל-<quantity eId="qty_10" refersTo="#percentage" normalized="100">100%</quantity>.</p>
+              <p>מנהלת אשכולות גנים בחנ"מ, אשר הועסקה בתפקיד כאמור במשרה חלקית בכל (מלוא) <term eId="trm_39" refersTo="#term_d934060e">התקופה למענק</term> תהיה זכאית לחלקן היחסי של <term eId="trm_40" refersTo="#term_e3d38431">המענק החד פעמי</term>, ביחס לחלקיות משרתה (המשוקללת) <term eId="trm_41" refersTo="#term_d934060e">בתקופה למענק</term>. רק לעניין חישוב חלקיות המשרה (המשוקללת) <term eId="trm_42" refersTo="#term_d934060e">בתקופה למענק</term> ומבלי שיפגע גובה <term eId="trm_43" refersTo="#term_e3d38431">המענק החד פעמי</term> בשל כך, <term eId="trm_44" refersTo="#term_d934060e">בתקופה למענק</term> לא יילקחו בחשבון החודשים יולי ואוגוסט הנופלים <term eId="trm_45" refersTo="#term_d934060e">בתקופה למענק</term> מצד אחד ואילו <term eId="trm_46" refersTo="#term_d934060e">התקופה למענק</term> כולה תיחשב כתקופה בת <quantity eId="qty_9" refersTo="#month" normalized="50">50 חודשים</quantity> מצד שני. בכל מקרה, בחישוב חלקיות משרתה של המנהלת בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל-<quantity eId="qty_10" refersTo="#percentage" normalized="100">100%</quantity>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_7__para_d">
             <num>(ד)</num>
             <intro>
-              <p>מנהלת אשכולות גנים בחנ"מ, אשר הועסקה בתפקיד כאמור, במשרה חלקית בחלק <term eId="trm_48" refersTo="#term_d934060e">מהתקופה למענק</term> תהיה זכאית לחלק יחסי של <term eId="trm_49" refersTo="#term_e3d38431">המענק החד פעמי</term>, כיחס בין חלקיות משרתה ותקופת העבודה שלה בתפקיד כאמור <term eId="trm_50" refersTo="#term_d934060e">בתקופה למענק</term> לבין תקופת העבודה של מנהלת אשכולות גנים בחנ"מ שהועסקה בכל <term eId="trm_51" refersTo="#term_d934060e">התקופה למענק</term> במשרה מלאה (להלן – "<def refersTo="#term_478f65ec">יחס התקופות וחלקיות המשרה</def>"). רק לעניין חישוב <term eId="trm_52" refersTo="#term_478f65ec">יחס התקופות וחלקיות המשרה</term> ומבלי שיפגע גובה <term eId="trm_53" refersTo="#term_e3d38431">המענק החד פעמי</term> בשל כך, <term eId="trm_54" refersTo="#term_d934060e">בתקופה למענק</term> לא יילקחו בחשבון החודשים יולי ואוגוסט הנופלים <term eId="trm_55" refersTo="#term_d934060e">בתקופה למענק</term> מצד אחד ואילו <term eId="trm_56" refersTo="#term_d934060e">התקופה למענק</term> כולה תיחשב כתקופה בת <quantity eId="qty_11" refersTo="#month" normalized="50">50 חודשים</quantity> מצד שני. בכל מקרה, בחישוב חלקיות משרתה של המנהלת בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל-<quantity eId="qty_12" refersTo="#percentage" normalized="100">100%</quantity>.</p>
+              <p>מנהלת אשכולות גנים בחנ"מ, אשר הועסקה בתפקיד כאמור, במשרה חלקית בחלק <term eId="trm_47" refersTo="#term_d934060e">מהתקופה למענק</term> תהיה זכאית לחלק יחסי של <term eId="trm_48" refersTo="#term_e3d38431">המענק החד פעמי</term>, כיחס בין חלקיות משרתה ותקופת העבודה שלה בתפקיד כאמור <term eId="trm_49" refersTo="#term_d934060e">בתקופה למענק</term> לבין תקופת העבודה של מנהלת אשכולות גנים בחנ"מ שהועסקה בכל <term eId="trm_50" refersTo="#term_d934060e">התקופה למענק</term> במשרה מלאה (להלן – "<def refersTo="#term_478f65ec">יחס התקופות וחלקיות המשרה</def>"). רק לעניין חישוב <term eId="trm_51" refersTo="#term_478f65ec">יחס התקופות וחלקיות המשרה</term> ומבלי שיפגע גובה <term eId="trm_52" refersTo="#term_e3d38431">המענק החד פעמי</term> בשל כך, <term eId="trm_53" refersTo="#term_d934060e">בתקופה למענק</term> לא יילקחו בחשבון החודשים יולי ואוגוסט הנופלים <term eId="trm_54" refersTo="#term_d934060e">בתקופה למענק</term> מצד אחד ואילו <term eId="trm_55" refersTo="#term_d934060e">התקופה למענק</term> כולה תיחשב כתקופה בת <quantity eId="qty_11" refersTo="#month" normalized="50">50 חודשים</quantity> מצד שני. בכל מקרה, בחישוב חלקיות משרתה של המנהלת בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל-<quantity eId="qty_12" refersTo="#percentage" normalized="100">100%</quantity>.</p>
               <p>לדוגמא – מנהלת אשכולות גנים בחנ"מ אשר הועסקה בחלקיות משרה ובתקופות כמפורט להלן:</p>
             </intro>
             <subparagraph eId="art_7__para_d__subpara_1">
@@ -336,19 +336,19 @@
           <paragraph eId="art_7__para_e">
             <num>(ה)</num>
             <content>
-              <p>מוסכם כי בחישוב תקופת העבודה במסגרת <term eId="trm_57" refersTo="#term_d934060e">התקופה למענק</term> לעניין סעיף זה, לא יילקחו בחשבון תקופות בהן שהתה המנהלת, מכל סיבה שהיא, בחופשה ללא תשלום או בחופשה שדינה כדין חופשה ללא תשלום. מוסכם כי יובאו בחשבון תקופות בהן שהתה המנהלת בשירות מילואים או בתקופות לידה והורות, כמשמעותה בסעיף 6 לחוק עבודת נשים, התשי"ד-1954 (26 שבועות) (להלן: "<def refersTo="#term_6b1b4285">חוק עבודת נשים</def>") או בחופשה ללא משכורת לרגל מחלה.</p>
+              <p>מוסכם כי בחישוב תקופת העבודה במסגרת <term eId="trm_56" refersTo="#term_d934060e">התקופה למענק</term> לעניין סעיף זה, לא יילקחו בחשבון תקופות בהן שהתה המנהלת, מכל סיבה שהיא, בחופשה ללא תשלום או בחופשה שדינה כדין חופשה ללא תשלום. מוסכם כי יובאו בחשבון תקופות בהן שהתה המנהלת בשירות מילואים או בתקופות לידה והורות, כמשמעותה בסעיף <ref href="https://he.wikisource.org/wiki/חוק_עבודת_נשים#סעיף_6">6</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_עבודת_נשים">חוק עבודת נשים</ref>, התשי"ד-1954 (26 שבועות) (להלן: "<def refersTo="#term_6b1b4285">חוק עבודת נשים</def>") או בחופשה ללא משכורת לרגל מחלה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_7__para_f">
             <num>(ו)</num>
             <content>
-              <p>למען הסר ספק, היעדרות שדינה כדין חופשה ללא תשלום, שהיא מתום תקופת הלידה וההורות כמשמעותה בחוק עבודת נשים, לא תילקח בחשבון בחישוב תקופת העבודה במסגרת <term eId="trm_58" refersTo="#term_d934060e">התקופה למענק</term>.</p>
+              <p>למען הסר ספק, היעדרות שדינה כדין חופשה ללא תשלום, שהיא מתום תקופת הלידה וההורות כמשמעותה ב<ref href="https://he.wikisource.org/wiki/חוק_עבודת_נשים">חוק עבודת נשים</ref>, לא תילקח בחשבון בחישוב תקופת העבודה במסגרת <term eId="trm_57" refersTo="#term_d934060e">התקופה למענק</term>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_7__para_g">
             <num>(ז)</num>
             <content>
-              <p>בתקופת לידה והורות או שירות מילואים או חופשה ללא משכורת לרגל מחלה אשר חלה במהלך <term eId="trm_59" refersTo="#term_d934060e">התקופה למענק</term> (כולה או חלקה) תחושב חלקיות המשרה (בעבור כל חודש היעדרות מלא), לפי חלקיות העסקה שהייתה למנהלת ערב יציאתה לתקופת הלידה וההורות או לשירות המילואים או לחופשה ללא משכורת לרגל מחלה, לפי המקרה.</p>
+              <p>בתקופת לידה והורות או שירות מילואים או חופשה ללא משכורת לרגל מחלה אשר חלה במהלך <term eId="trm_58" refersTo="#term_d934060e">התקופה למענק</term> (כולה או חלקה) תחושב חלקיות המשרה (בעבור כל חודש היעדרות מלא), לפי חלקיות העסקה שהייתה למנהלת ערב יציאתה לתקופת הלידה וההורות או לשירות המילואים או לחופשה ללא משכורת לרגל מחלה, לפי המקרה.</p>
               <p>בכל מקרה, בחישוב חלקיות משרתה של המנהלת בכל חודש לצורך החישוב כאמור, לא יילקחו בחשבון היקפי משרה שמעבר ל-<quantity eId="qty_20" refersTo="#percentage" normalized="100">100%</quantity>.</p>
             </content>
           </paragraph>
@@ -361,25 +361,25 @@
           <paragraph eId="art_7__para_i">
             <num>(ט)</num>
             <content>
-              <p><term eId="trm_60" refersTo="#term_e3d38431">המענק החד פעמי</term> אינו מהווה שכר לכל דבר ועניין, לא יובא בחשבון לעניין חישוב ערך שעה לרבות לעניין חישוב התמורה עבור ביצוע שעות ייחודיות (כגון שעות פעילות גן), לעניין הפחתת שכר בשל שעת היעדרות, לעניין חישוב התמורה המשולמת כאמור בסעיף 33(ד) להסכם רפורמת אופק, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, ולא יבוצעו בגינו הפרשות כלשהן לקופת גמל (לרבות לקרן השתלמות, קרן פנסיה או ביטוח מנהלים).</p>
+              <p><term eId="trm_59" refersTo="#term_e3d38431">המענק החד פעמי</term> אינו מהווה שכר לכל דבר ועניין, לא יובא בחשבון לעניין חישוב ערך שעה לרבות לעניין חישוב התמורה עבור ביצוע שעות ייחודיות (כגון שעות פעילות גן), לעניין הפחתת שכר בשל שעת היעדרות, לעניין חישוב התמורה המשולמת כאמור בסעיף 33(ד) להסכם רפורמת אופק, לעניין פיצויי פיטורים כמשמעותם ב<ref href="https://he.wikisource.org/wiki/חוק_פיצויי_פיטורים">חוק פיצויי פיטורים</ref>, התשכ"ג-1963, ולא יבוצעו בגינו הפרשות כלשהן לקופת גמל (לרבות לקרן השתלמות, קרן פנסיה או ביטוח מנהלים).</p>
             </content>
           </paragraph>
           <paragraph eId="art_7__para_j">
             <num>(י)</num>
             <content>
-              <p>למען הסר ספק, <term eId="trm_61" refersTo="#term_e3d38431">המענק החד פעמי</term> לא יובא בחשבון לצורך חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז-1987.</p>
+              <p>למען הסר ספק, <term eId="trm_60" refersTo="#term_e3d38431">המענק החד פעמי</term> לא יובא בחשבון לצורך חישוב השלמת השכר עד לשכר המינימום כמשמעותו ב<ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, התשמ"ז-1987.</p>
             </content>
           </paragraph>
           <paragraph eId="art_7__para_ja">
             <num>(יא)</num>
             <content>
-              <p>אין בתשלום <term eId="trm_62" refersTo="#term_e3d38431">המענק החד פעמי</term> כדי לשנות את בסיס השכר על פי טבלאות השכר המשולב.</p>
+              <p>אין בתשלום <term eId="trm_61" refersTo="#term_e3d38431">המענק החד פעמי</term> כדי לשנות את בסיס השכר על פי טבלאות השכר המשולב.</p>
             </content>
           </paragraph>
           <paragraph eId="art_7__para_jb">
             <num>(יב)</num>
             <intro>
-              <p>מובהר כי לגבי מנהלת אשכולות גנים בחנ"מ אשר זכאית למענק חד פעמי לפי סעיף זה ואשר במועד ביצוע תשלום <term eId="trm_63" refersTo="#term_e3d38431">המענק החד פעמי</term> כאמור בסעיף <ref href="#art_8">8</ref> להלן, מתקיימות לגביה הנסיבות המפורטות באחד מן הסעיפים (1) עד (5) להלן, יבוצע לגביה תשלום <term eId="trm_64" refersTo="#term_e3d38431">המענק החד פעמי</term> במשכורת החודש הראשונה שתשולם עם החזרה לעבודה במשכורת, ולכל היותר במשכורת החודש שאחריה:</p>
+              <p>מובהר כי לגבי מנהלת אשכולות גנים בחנ"מ אשר זכאית למענק חד פעמי לפי סעיף זה ואשר במועד ביצוע תשלום <term eId="trm_62" refersTo="#term_e3d38431">המענק החד פעמי</term> כאמור בסעיף <ref href="#art_8">8</ref> להלן, מתקיימות לגביה הנסיבות המפורטות באחד מן הסעיפים (1) עד (5) להלן, יבוצע לגביה תשלום <term eId="trm_63" refersTo="#term_e3d38431">המענק החד פעמי</term> במשכורת החודש הראשונה שתשולם עם החזרה לעבודה במשכורת, ולכל היותר במשכורת החודש שאחריה:</p>
             </intro>
             <subparagraph eId="art_7__para_jb__subpara_1">
               <num>(1)</num>
@@ -396,7 +396,7 @@
             <subparagraph eId="art_7__para_jb__subpara_3">
               <num>(3)</num>
               <content>
-                <p>בתקופת לידה והורות כמשמעותה בחוק עבודת נשים;</p>
+                <p>בתקופת לידה והורות כמשמעותה ב<ref href="https://he.wikisource.org/wiki/חוק_עבודת_נשים">חוק עבודת נשים</ref>;</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_7__para_jb__subpara_4">
@@ -431,25 +431,25 @@
         <article eId="art_10" repo:prose="same-source">
           <num>10</num>
           <content>
-            <p>הסכם זה מהווה מיצוי מלא ומוחלט של כל תביעות הצדדים בנושא החלת רפורמת <concept eId="con_28" refersTo="#reform_ofek">אופק חדש</concept> לגבי <term eId="trm_65" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> עליהן חל הסכם זה, לרבות מכוח סעיף 155(ב) להסכם רפורמת אופק, ביחס <term eId="trm_66" refersTo="#term_c60c50cc">למנהלות אשכולות גנים בחנ"מ</term>, ומכוח <term eId="trm_67" refersTo="#term_52b29466">המכתבים בעניין המשך המשא ומתן</term>, ולרבות בקשר לסעיף <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama/!main#art_90">90</ref> <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">להסכם ההשלמה</ref>.</p>
+            <p>הסכם זה מהווה מיצוי מלא ומוחלט של כל תביעות הצדדים בנושא החלת רפורמת <concept eId="con_28" refersTo="#reform_ofek">אופק חדש</concept> לגבי <term eId="trm_64" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> עליהן חל הסכם זה, לרבות מכוח סעיף 155(ב) להסכם רפורמת אופק, ביחס <term eId="trm_65" refersTo="#term_c60c50cc">למנהלות אשכולות גנים בחנ"מ</term>, ומכוח <term eId="trm_66" refersTo="#term_52b29466">המכתבים בעניין המשך המשא ומתן</term>, ולרבות בקשר לסעיף <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama/!main#art_90">90</ref> <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">להסכם ההשלמה</ref>.</p>
           </content>
         </article>
         <article eId="art_11" repo:prose="same-source">
           <num>11</num>
           <content>
-            <p>מבלי לגרוע מכלליות האמור, ולמען הסר ספק מובהר כי בנושאים הקשורים לעצם השינוי במבנה העבודה של <term eId="trm_68" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term>, והתמורה בגין עצם ביצוע המעבר לעבודה לפי תנאי רפורמת <concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept>, המיצוי הוא מלא ומוחלט.</p>
+            <p>מבלי לגרוע מכלליות האמור, ולמען הסר ספק מובהר כי בנושאים הקשורים לעצם השינוי במבנה העבודה של <term eId="trm_67" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term>, והתמורה בגין עצם ביצוע המעבר לעבודה לפי תנאי רפורמת <concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept>, המיצוי הוא מלא ומוחלט.</p>
           </content>
         </article>
         <article eId="art_12" repo:prose="same-source">
           <num>12</num>
           <content>
-            <p>בנוסף לאמור לעיל, ומבלי לגרוע ממנו, מובהר כי לא ינוהל משא ומתן בנוגע לדרישות כלכליות נוספות כלשהן בגין החלת רפורמת <concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept> על <term eId="trm_69" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> עליהן חל הסכם זה.</p>
+            <p>בנוסף לאמור לעיל, ומבלי לגרוע ממנו, מובהר כי לא ינוהל משא ומתן בנוגע לדרישות כלכליות נוספות כלשהן בגין החלת רפורמת <concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept> על <term eId="trm_68" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> עליהן חל הסכם זה.</p>
           </content>
         </article>
         <article eId="art_13" repo:prose="same-source">
           <num>13</num>
           <content>
-            <p>בשל האמור בסעיף <ref href="#art_6__para_a">6(א)</ref> לעיל, מוסכם כי הוראות מיצוי תביעות אשר תיקבענה בהסכמים עתידיים בין הצדדים, בנוגע לעדכון הסכם רפורמת אופק לגבי <term eId="trm_70" refersTo="#term_d2e1a7a9">מנהלות אשכולות גנים בחינוך הרגיל</term>, יחולו גם לגבי <term eId="trm_71" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> אלא אם יוסכם אחרת בין הצדדים.</p>
+            <p>בשל האמור בסעיף <ref href="#art_6__para_a">6(א)</ref> לעיל, מוסכם כי הוראות מיצוי תביעות אשר תיקבענה בהסכמים עתידיים בין הצדדים, בנוגע לעדכון הסכם רפורמת אופק לגבי <term eId="trm_69" refersTo="#term_d2e1a7a9">מנהלות אשכולות גנים בחינוך הרגיל</term>, יחולו גם לגבי <term eId="trm_70" refersTo="#term_c60c50cc">מנהלות אשכולות גנים בחנ"מ</term> אלא אם יוסכם אחרת בין הצדדים.</p>
           </content>
         </article>
         <article eId="art_14" repo:prose="same-source">
@@ -494,7 +494,7 @@
     </conclusions>
     <attachments>
       <attachment eId="att_1">
-        <heading>נספח א' - מבנה שבוע העבודה <term eId="trm_72" refersTo="#term_9a47172c">למנהלות אשכולות גנים בחינוך המיוחד</term>
+        <heading>נספח א' - מבנה שבוע העבודה <term eId="trm_71" refersTo="#term_9a47172c">למנהלות אשכולות גנים בחינוך המיוחד</term>
         </heading>
         <doc name="annex">
           <meta>

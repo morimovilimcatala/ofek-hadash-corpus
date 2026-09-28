@@ -88,7 +88,7 @@
     </preface>
     <preamble>
       <p repo:role="title">הסכם קיבוצי</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת רישום:] <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2013-11-18">18.11.2013</date> | ומספרו: [בכתב יד: 215/2013] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
+      <p repo:note="stamp" repo:role="registration">[חותמת רישום:] <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2013-11-18">18.11.2013</date> | ומספרו: [בכתב יד: 215/2013] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
       </p>
       <p>שנערך ונחתם ביום [בכתב יד: <date date="2013-07-22">22.7.13</date>]</p>
       <p repo:role="party-marker">בין</p>
@@ -156,7 +156,7 @@
         <paragraph eId="art_5__para_a">
           <num>א.</num>
           <content>
-            <p>סכום המשולם בעד עובד הוראה לקופת גמל לקצבה, כהגדרתה בחוק הפיקוח על שירותים פיננסיים (קופת גמל), התשס"ה — 2005 ;</p>
+            <p>סכום המשולם בעד עובד הוראה לקופת גמל לקצבה, כהגדרתה ב<ref href="https://he.wikisource.org/wiki/חוק_הפיקוח_על_שירותים_פיננסיים_(קופות_גמל)">חוק הפיקוח על שירותים פיננסיים (קופת גמל)</ref>, התשס"ה — 2005 ;</p>
           </content>
         </paragraph>
         <paragraph eId="art_5__para_b">
@@ -217,7 +217,7 @@
         <paragraph eId="art_7__para_a">
           <num>א.</num>
           <content>
-            <p>סכום המשולם בעד עובד הוראה לקופת גמל לקצבה, כהגדרתה בחוק הפיקוח על שירותים פיננסיים (קופת גמל), התשס"ה — 2005 ;</p>
+            <p>סכום המשולם בעד עובד הוראה לקופת גמל לקצבה, כהגדרתה ב<ref href="https://he.wikisource.org/wiki/חוק_הפיקוח_על_שירותים_פיננסיים_(קופות_גמל)">חוק הפיקוח על שירותים פיננסיים (קופת גמל)</ref>, התשס"ה — 2005 ;</p>
           </content>
         </paragraph>
         <paragraph eId="art_7__para_b">

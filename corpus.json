@@ -3,7 +3,7 @@
  "url": "https://morimovilimcatala.github.io/ofek-hadash-corpus",
  "standard": "Akoma Ntoso 3.0 (OASIS LegalDocML)",
  "generated": "2026-09-28",
- "documentCount": 360,
+ "documentCount": 359,
  "ontology": "ontology.json",
  "note": "Every document is one legal instrument's own wording. There is no advice layer. The /akn/il/... identifiers are a repository convention, not an official namespace.",
  "documents": [
@@ -3570,18 +3570,6 @@
    "frbrWork": "/akn/il/doc/circular/2000-10-01/2000-10-tnai-sherut-tashsa-01-sichot-telefon",
    "html": "circulars-tnai-sherut/2000-10_tnai-sherut_tashsa_01_sichot-telefon.html",
    "xml": "circulars-tnai-sherut/2000-10_tnai-sherut_tashsa_01_sichot-telefon.xml"
-  },
-  {
-   "path": "laws/1957-02-28_collective-agreements-law_5717.xml",
-   "title": "חוק הסכמים קיבוציים",
-   "hasEncodedTitle": true,
-   "kind": "act",
-   "kindLabel": "חוקים",
-   "date": "1957-02-28",
-   "datePrecision": "day",
-   "frbrWork": "/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717",
-   "html": "laws/1957-02-28_collective-agreements-law_5717.html",
-   "xml": "laws/1957-02-28_collective-agreements-law_5717.xml"
   },
   {
    "path": "laws/2025-03-27_public-service-wage-reduction-law_5785.xml",

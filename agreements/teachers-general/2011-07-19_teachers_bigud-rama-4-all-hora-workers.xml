@@ -70,7 +70,7 @@
     </preface>
     <preamble>
       <p repo:role="title">הסכם קיבוצי</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת: <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ז - [לא קריא]]</p>
+      <p repo:note="stamp" repo:role="registration">[חותמת: <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ז - [לא קריא]]</p>
       <p>הסכם קיבוצי זה נרשם כחוק</p>
       <p>ביום: <date date="2012-01-15">15. 01. 2012</date>
       </p>
@@ -120,7 +120,7 @@
         <paragraph eId="art_3__para_b">
           <num>ב.</num>
           <content>
-            <p>עובד הוראה אשר בשל הסכם זה שולמה לו במשכורת חודש יולי 2011 קצובת ביגוד <quantity eId="qty_2" refersTo="#level" normalized="4">ברמה 4</quantity> על אף שוותקו המקצועי לא הגיע ל - <quantity eId="qty_3" refersTo="#year" normalized="25">25 שנים</quantity>, יחויב בהשבת ההפרש בין הסכום המשולם עבור קצובת ביגוד <quantity eId="qty_4" refersTo="#level" normalized="4">רמה 4</quantity> לבין הסכום המשולם עבור קצובת ביגוד <quantity eId="qty_5" refersTo="#level" normalized="3">רמה 3</quantity>. <term eId="trm_3" refersTo="#term_ddf2350a">והמדינה</term> תהא רשאית לקזז את ההפרש האמור ממשכורתו, בכפוף להוראות חוק הגנת השכר.</p>
+            <p>עובד הוראה אשר בשל הסכם זה שולמה לו במשכורת חודש יולי 2011 קצובת ביגוד <quantity eId="qty_2" refersTo="#level" normalized="4">ברמה 4</quantity> על אף שוותקו המקצועי לא הגיע ל - <quantity eId="qty_3" refersTo="#year" normalized="25">25 שנים</quantity>, יחויב בהשבת ההפרש בין הסכום המשולם עבור קצובת ביגוד <quantity eId="qty_4" refersTo="#level" normalized="4">רמה 4</quantity> לבין הסכום המשולם עבור קצובת ביגוד <quantity eId="qty_5" refersTo="#level" normalized="3">רמה 3</quantity>. <term eId="trm_3" refersTo="#term_ddf2350a">והמדינה</term> תהא רשאית לקזז את ההפרש האמור ממשכורתו, בכפוף להוראות <ref href="https://he.wikisource.org/wiki/חוק_הגנת_השכר">חוק הגנת השכר</ref>.</p>
           </content>
         </paragraph>
       </article>

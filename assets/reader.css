@@ -539,6 +539,11 @@ a{color:var(--accent);}
 a.akn-ref-work{border-bottom:1px solid color-mix(in srgb,var(--accent) 45%,transparent);}
 a.akn-ref-work::after{content:"↗"; font-size:.8em; vertical-align:.25em;
   margin-inline-start:.15em; opacity:.65;}
+/* A statute's live page on ספר החוקים הפתוח (MMS-302): it leaves the site,
+   so it is dashed rather than ruled, and its arrow says so too. */
+a.akn-ref.akn-ref-external{border-bottom:1px dashed color-mix(in srgb,var(--accent) 55%,transparent);}
+a.akn-ref-external::after{content:"↗"; font-size:.8em; vertical-align:.25em;
+  margin-inline-start:.15em; opacity:.65;}
 a.akn-ref{color:var(--accent); text-decoration:none;
   border-bottom:1px solid var(--accent-soft);
   font-variant-numeric:tabular-nums;}

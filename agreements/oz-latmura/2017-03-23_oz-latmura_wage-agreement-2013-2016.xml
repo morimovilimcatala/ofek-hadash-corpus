@@ -130,7 +130,7 @@
       <p>הנדון: <docTitle eId="doctitle_1">אישור ההסכם הקיבוצי מיום <date date="2017-03-23">23.3.2017</date>
         </docTitle>
       </p>
-      <p>בהתאם לסמכותי לפי סעיף 29(א) לחוק יסודות התקציב, התשמ"ה – 1985, הנני מאשר את ההסכם הקיבוצי מיום <date date="2017-03-23">23.3.2017</date> אשר נחתם ביום <date date="2017-03-23">23.3.2017</date>, בין <organization eId="org_6" refersTo="#local-government">מרכז השלטון המקומי</organization> <organization eId="org_7" refersTo="#three-cities">ושלוש הערים הגדולות</organization> לבין <organization eId="org_8" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל-יסודיים</organization> ובמכללות, והמצורף בזאת.</p>
+      <p>בהתאם לסמכותי לפי סעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_29">29(א)</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref>, התשמ"ה – 1985, הנני מאשר את ההסכם הקיבוצי מיום <date date="2017-03-23">23.3.2017</date> אשר נחתם ביום <date date="2017-03-23">23.3.2017</date>, בין <organization eId="org_6" refersTo="#local-government">מרכז השלטון המקומי</organization> <organization eId="org_7" refersTo="#three-cities">ושלוש הערים הגדולות</organization> לבין <organization eId="org_8" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל-יסודיים</organization> ובמכללות, והמצורף בזאת.</p>
       <p>בכבוד רב,</p>
       <p>[חתימות]</p>
       <p><person eId="pers_3" refersTo="#p_8962711c">ערן יעקב</person>
@@ -293,13 +293,13 @@
         <paragraph eId="art_4__para_e">
           <num>ה.</num>
           <content>
-            <p>מוסכם כי <term eId="trm_11" refersTo="#term_f3f03137">התוספת השקלית לעובד הוראה</term> לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז-1987. למען הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה-2015.</p>
+            <p>מוסכם כי <term eId="trm_11" refersTo="#term_f3f03137">התוספת השקלית לעובד הוראה</term> לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו ב<ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, התשמ"ז-1987. למען הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה-2015.</p>
           </content>
         </paragraph>
         <paragraph eId="art_4__para_f">
           <num>ו.</num>
           <content>
-            <p>התוספת השקלית <term eId="trm_12" refersTo="#term_2db30064">לעובדי הוראה</term> תהווה שכר לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46">46</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref> ולעניין הפרשות לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה).</p>
+            <p>התוספת השקלית <term eId="trm_12" refersTo="#term_2db30064">לעובדי הוראה</term> תהווה שכר לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם ב<ref href="https://he.wikisource.org/wiki/חוק_פיצויי_פיטורים">חוק פיצויי פיטורים</ref>, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46">46</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref> ולעניין הפרשות לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה).</p>
           </content>
         </paragraph>
         <paragraph eId="art_4__para_g">
@@ -372,7 +372,7 @@
         <paragraph eId="art_5__para_d">
           <num>ד.</num>
           <content>
-            <p><term eId="trm_17" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> תובא בחשבון לחישוב תוספת אחוזיות המחושבות מהשכר המשולב למעט <concept eId="cmp_4" refersTo="#comp_tosefet-2001">תוספת 2001</concept>, תוספת 2008, <concept eId="cmp_5" refersTo="#comp_tosefet-2011">תוספת 2011</concept>, <concept eId="cmp_6" refersTo="#comp_shchika-2011">תוספת שחיקה 2011</concept>, תוספת <concept eId="con_32" refersTo="#reform_oz">עוז לתמורה</concept> ותוספת דרגת קידום, וכן לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46">46</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה).. [כך במקור]</p>
+            <p><term eId="trm_17" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> תובא בחשבון לחישוב תוספת אחוזיות המחושבות מהשכר המשולב למעט <concept eId="cmp_4" refersTo="#comp_tosefet-2001">תוספת 2001</concept>, תוספת 2008, <concept eId="cmp_5" refersTo="#comp_tosefet-2011">תוספת 2011</concept>, <concept eId="cmp_6" refersTo="#comp_shchika-2011">תוספת שחיקה 2011</concept>, תוספת <concept eId="con_32" refersTo="#reform_oz">עוז לתמורה</concept> ותוספת דרגת קידום, וכן לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם ב<ref href="https://he.wikisource.org/wiki/חוק_פיצויי_פיטורים">חוק פיצויי פיטורים</ref>, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46">46</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה).. [כך במקור]</p>
           </content>
         </paragraph>
         <paragraph eId="art_5__para_e">
@@ -384,7 +384,7 @@
         <paragraph eId="art_5__para_f">
           <num>ו.</num>
           <content>
-            <p><term eId="trm_19" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז-1987. למען הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה-2015.</p>
+            <p><term eId="trm_19" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו ב<ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, התשמ"ז-1987. למען הסר ספק מובהר כי התוספת מהווה "תוספת מוחרגת" לעניין הוראות חוק שכר מינימום (העלאת סכומי שכר מינימום – הוראת שעה), התשע"ה-2015.</p>
           </content>
         </paragraph>
       </article>

@@ -95,8 +95,8 @@
     <preamble>
       <p repo:role="title">הסכם קיבוצי</p>
       <p>שנחתם ביום [בכתב יד: <date date="2016-11-09">09/11/16</date>]</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת רישום: <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2017-01-15">15. 01. 2017</date> | ומספרו: [בכתב יד: 283/2016] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>]</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת רישום שנייה: <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: | ומספרו: | <person eId="pers_2" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_2" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>]</p>
+      <p repo:note="stamp" repo:role="registration">[חותמת רישום: <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2017-01-15">15. 01. 2017</date> | ומספרו: [בכתב יד: 283/2016] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>]</p>
+      <p repo:note="stamp" repo:role="registration">[חותמת רישום שנייה: <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: | ומספרו: | <person eId="pers_2" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_2" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>]</p>
       <p repo:note="signature-note">[חתימות בשולי עמודים 1-8]</p>
       <p>בין: <party eId="party_1" refersTo="#state">ממשלת ישראל</party> בשם <party eId="party_2" refersTo="#state-israel">מדינת ישראל</party>, המיוצגת על ידי <role eId="rol_5" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> (בפועל) <organization eId="org_6" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_3" refersTo="#p_5a0c479a" as="#role-memuneh-sachar">יוסי כהן</person>, ועל ידי <role eId="rol_7" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_8" refersTo="#moe">משרד החינוך</organization>, הגב' <person eId="pers_4" refersTo="#p_6bb70ed1" as="#role-mankal">מיכל כהן</person>;</p>
       <p repo:role="aside">(להלן: "<def refersTo="#term_ddf2350a #state #state-israel">המדינה</def>")</p>
@@ -121,10 +121,10 @@
           <p>והואיל: והוסכם בין הצדדים במסגרת הרפורמה כהדרכה [כך במקור] על קביעת מבנה שכרם של <term eId="trm_6" refersTo="#term_c14f4592">המדריכים</term>, בהתחשב, בין היתר, כתנאי [כך במקור] ההעסקה ומאפייניה, מתכונות ההעסקה בחלק המשרה בהוראה, ואפשרויות היישום של כללי השכר ותנאי ההעסקה;</p>
         </recital>
         <recital eId="rec_6">
-          <p>והואיל: ועל פי המוסכם בין הצדדים, במסגרת <term eId="trm_7" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, ישתנה מבנה שכרם של <term eId="trm_8" refersTo="#term_c14f4592">המדריכים</term> באופן מהותי, ובכלל תהא עלייה בשכרם בשיעור משמעותי, לרבות בשכרם של <term eId="trm_9" refersTo="#term_c14f4592">המדריכים</term> המבוטחים בפנסיה תקציבית מכוח חוק שירות <term eId="trm_10" refersTo="#term_ddf2350a">המדינה</term> (גמלאות)[נוסח משולב], התש"ל-1970 (להלן: "<def refersTo="#term_8b90bde1">חוק הגמלאות</def>"), לעומת שכרם עובר להחלת <term eId="trm_11" refersTo="#term_d925d362">הרפורמה בהדרכה</term>; ולנוכח ההבנה כי תנאי השכר והגמלאות במסגרת <term eId="trm_12" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, ככלל, מיטיבים עם <term eId="trm_13" refersTo="#term_c14f4592">המדריכים</term> לעומת מצבם לולא היו מועסקים במתכונת תנאי הרפורמה האמורה;</p>
+          <p>והואיל: ועל פי המוסכם בין הצדדים, במסגרת <term eId="trm_7" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, ישתנה מבנה שכרם של <term eId="trm_8" refersTo="#term_c14f4592">המדריכים</term> באופן מהותי, ובכלל תהא עלייה בשכרם בשיעור משמעותי, לרבות בשכרם של <term eId="trm_9" refersTo="#term_c14f4592">המדריכים</term> המבוטחים בפנסיה תקציבית מכוח <ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)">חוק שירות המדינה (גמלאות)</ref>[נוסח משולב], התש"ל-1970 (להלן: "<def refersTo="#term_8b90bde1">חוק הגמלאות</def>"), לעומת שכרם עובר להחלת <term eId="trm_10" refersTo="#term_d925d362">הרפורמה בהדרכה</term>; ולנוכח ההבנה כי תנאי השכר והגמלאות במסגרת <term eId="trm_11" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, ככלל, מיטיבים עם <term eId="trm_12" refersTo="#term_c14f4592">המדריכים</term> לעומת מצבם לולא היו מועסקים במתכונת תנאי הרפורמה האמורה;</p>
         </recital>
         <recital eId="rec_7">
-          <p>והואיל: ולאור העליות הכרוכות בהגדלת המשכורת הקובעת לגמלה בפנסיה התקציבית לפי המשכורת המשולמת במסגרת <term eId="trm_14" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, הוסכם כי חישוב המשכורת הקובעת לגמלה כאמור, ייעשה על פי משכורת קובעת שהיא לגבי שתי תקופות – תקופה אחת עד המעבר להעסקה על פי תנאי הרפורמה, ותקופה שנייה החל במועד המעבר;</p>
+          <p>והואיל: ולאור העליות הכרוכות בהגדלת המשכורת הקובעת לגמלה בפנסיה התקציבית לפי המשכורת המשולמת במסגרת <term eId="trm_13" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, הוסכם כי חישוב המשכורת הקובעת לגמלה כאמור, ייעשה על פי משכורת קובעת שהיא לגבי שתי תקופות – תקופה אחת עד המעבר להעסקה על פי תנאי הרפורמה, ותקופה שנייה החל במועד המעבר;</p>
         </recital>
         <recital eId="rec_8">
           <p>והואיל: והצדדים מבקשים לעגן בהסכם קיבוצי את ההסכמות אליהן הגיעו במשא ומתן כאמור;</p>
@@ -169,8 +169,8 @@
         <article eId="art_5" repo:prose="same-source">
           <num>5</num>
           <content>
-            <p>הסכם זה יחול על כל העובדים בשירות <term eId="trm_15" refersTo="#term_ddf2350a">המדינה</term>, המדורגים <concept eId="dom_3" refersTo="#scale_ovdei_horaa">בדירוג עובדי הוראה</concept>, ומועסקים על-ידי <organization eId="org_13" refersTo="#moe">משרד החינוך</organization> בתפקידי הדרכה, בהתאם לחוזר מנכ"ל <organization eId="org_14" refersTo="#moe">משרד החינוך</organization> תשס"ד/2(ב), כפי שתוקן ושיתוקן מעת לעת, וכל עוד הם משמשים בתפקיד זה (להלן בהסכם זה: "<def refersTo="#term_4c6057f7">מדריכים</def>").</p>
-            <p>מובהר למען הסר ספק, כי לגבי עובדים כאמור, אשר בנוסף על העסקתם <term eId="trm_16" refersTo="#term_c14f4592">כמדריכים</term>, הם מועסקים בשירות <term eId="trm_17" refersTo="#term_ddf2350a">המדינה</term> <concept eId="dom_4" refersTo="#scale_ovdei_horaa">בדירוג עובדי הוראה</concept> בתפקידים אחרים, יחול הסכם זה רק לגבי חלק המשרה אשר בו הם מועסקים <term eId="trm_18" refersTo="#term_c14f4592">כמדריכים</term>.</p>
+            <p>הסכם זה יחול על כל העובדים בשירות <term eId="trm_14" refersTo="#term_ddf2350a">המדינה</term>, המדורגים <concept eId="dom_3" refersTo="#scale_ovdei_horaa">בדירוג עובדי הוראה</concept>, ומועסקים על-ידי <organization eId="org_13" refersTo="#moe">משרד החינוך</organization> בתפקידי הדרכה, בהתאם לחוזר מנכ"ל <organization eId="org_14" refersTo="#moe">משרד החינוך</organization> תשס"ד/2(ב), כפי שתוקן ושיתוקן מעת לעת, וכל עוד הם משמשים בתפקיד זה (להלן בהסכם זה: "<def refersTo="#term_4c6057f7">מדריכים</def>").</p>
+            <p>מובהר למען הסר ספק, כי לגבי עובדים כאמור, אשר בנוסף על העסקתם <term eId="trm_15" refersTo="#term_c14f4592">כמדריכים</term>, הם מועסקים בשירות <term eId="trm_16" refersTo="#term_ddf2350a">המדינה</term> <concept eId="dom_4" refersTo="#scale_ovdei_horaa">בדירוג עובדי הוראה</concept> בתפקידים אחרים, יחול הסכם זה רק לגבי חלק המשרה אשר בו הם מועסקים <term eId="trm_17" refersTo="#term_c14f4592">כמדריכים</term>.</p>
           </content>
         </article>
         <article eId="art_6" repo:prose="same-source">
@@ -186,13 +186,13 @@
         <article eId="art_7" repo:prose="same-source">
           <num>7</num>
           <content>
-            <p>מובהר כי <term eId="trm_19" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, לא משנה את מבנה שבוע העבודה או את שעות עבודתם של <term eId="trm_20" refersTo="#term_c14f4592">המדריכים</term>, כפי שנהגו עובר לתחילת הסכם זה, ובהתאם להוראות חוזרי מנכ"ל בעניין, כפי שיהיו מעת לעת.</p>
+            <p>מובהר כי <term eId="trm_18" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, לא משנה את מבנה שבוע העבודה או את שעות עבודתם של <term eId="trm_19" refersTo="#term_c14f4592">המדריכים</term>, כפי שנהגו עובר לתחילת הסכם זה, ובהתאם להוראות חוזרי מנכ"ל בעניין, כפי שיהיו מעת לעת.</p>
           </content>
         </article>
         <article eId="art_8" repo:prose="same-source">
           <num>8</num>
           <content>
-            <p>עוד מובהר כי אין בהוראת סעיף <ref href="#art_7">7</ref> לעיל כדי לגרוע מסמכות <term eId="trm_21" refersTo="#term_ddf2350a">המדינה</term> - <organization eId="org_15" refersTo="#moe">משרד החינוך</organization>, לקבוע, על פי שיקול דעתה, כי המדריך יועסק בחצי יום הדרכה בשבוע או החל מיום הדרכה אחד בשבוע ועד ל-<quantity eId="qty_1" refersTo="#day" normalized="4">4 ימי הדרכה</quantity> בשבוע.</p>
+            <p>עוד מובהר כי אין בהוראת סעיף <ref href="#art_7">7</ref> לעיל כדי לגרוע מסמכות <term eId="trm_20" refersTo="#term_ddf2350a">המדינה</term> - <organization eId="org_15" refersTo="#moe">משרד החינוך</organization>, לקבוע, על פי שיקול דעתה, כי המדריך יועסק בחצי יום הדרכה בשבוע או החל מיום הדרכה אחד בשבוע ועד ל-<quantity eId="qty_1" refersTo="#day" normalized="4">4 ימי הדרכה</quantity> בשבוע.</p>
           </content>
         </article>
         <article eId="art_9" repo:prose="same-source">
@@ -208,19 +208,19 @@
         <article eId="art_10" repo:prose="same-source">
           <num>10</num>
           <content>
-            <p>החל בשנת הלימודים תשע"ז, יבצעו <term eId="trm_22" refersTo="#term_c14f4592">המדריכים</term> המועסקים לפי תנאי <term eId="trm_23" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, חתימת נוכחות, בכל כניסה למוסד החינוך או למשרד בו הם מבצעים את תפקידם <term eId="trm_24" refersTo="#term_c14f4592">כמדריכים</term> (להלן: "<def refersTo="#term_422a8d4e">מקום עבודה</def>"), ובכל יציאה ממנו, באמצעות שעון נוכחות ממוחשב המותקן שם. <term eId="trm_25" refersTo="#term_422a8d4e">במקום עבודה</term> בו לא מותקן שעון נוכחות, המדריך ידווח את שעות נוכחותו באמצעים אחרים, כפי שייקבע על ידי <organization eId="org_17" refersTo="#moe">משרד החינוך</organization>.</p>
+            <p>החל בשנת הלימודים תשע"ז, יבצעו <term eId="trm_21" refersTo="#term_c14f4592">המדריכים</term> המועסקים לפי תנאי <term eId="trm_22" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, חתימת נוכחות, בכל כניסה למוסד החינוך או למשרד בו הם מבצעים את תפקידם <term eId="trm_23" refersTo="#term_c14f4592">כמדריכים</term> (להלן: "<def refersTo="#term_422a8d4e">מקום עבודה</def>"), ובכל יציאה ממנו, באמצעות שעון נוכחות ממוחשב המותקן שם. <term eId="trm_24" refersTo="#term_422a8d4e">במקום עבודה</term> בו לא מותקן שעון נוכחות, המדריך ידווח את שעות נוכחותו באמצעים אחרים, כפי שייקבע על ידי <organization eId="org_17" refersTo="#moe">משרד החינוך</organization>.</p>
           </content>
         </article>
       </part>
       <part eId="part_5">
         <num>ה.</num>
-        <heading>שכר <term eId="trm_26" refersTo="#term_c14f4592">המדריכים</term> המועסקים בתפקידי הדרכה בתנאי הרפורמה</heading>
+        <heading>שכר <term eId="trm_25" refersTo="#term_c14f4592">המדריכים</term> המועסקים בתפקידי הדרכה בתנאי הרפורמה</heading>
         <article eId="art_11" repo:prose="same-source">
           <num>11</num>
           <heading>בהסכם זה:</heading>
           <intro>
-            <p>"תנאי רפורמת <concept eId="con_18" refersTo="#reform_ofek">אופק חדש</concept>": השכר שהיה משולם לעובד הוראה בשנת ההדרכה הרלוונטית, אילו היה מועסק כמורה <term eId="trm_27" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> כהגדרתו להלן, במסגרת רפורמת <concept eId="con_19" refersTo="#reform_ofek">אופק חדש</concept>, לפי השיבוץ שלו בטבלאות השכר המשולב כאמור <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>, כפי שתוקנו או שיתוקנו מעת לעת, בהתאם לחלקיות משרתו. למען הסר ספק מובהר כי שכר כאמור אינו כולל גמולי תפקיד או תוספות שכר אחרות שהן תלויות ביצוע.</p>
-            <p>"תנאי רפורמת <concept eId="con_20" refersTo="#reform_oz">עוז לתמורה</concept>": השכר שהיה משולם לעובד ההוראה בשנת ההדרכה הרלוונטית, אילו היה מועסק כמורה <term eId="trm_28" refersTo="#term_22d7eec7">בחטיבה עליונה</term> תלת שנתית או ארבע שנתית המפוקחת על-ידי <organization eId="org_21" refersTo="#moe">משרד החינוך</organization> בתנאי רפורמת <concept eId="con_22" refersTo="#reform_oz">עוז לתמורה</concept>, בהתאם לחלקיות משרתו. למען הסר ספק מובהר כי שכר כאמור אינו כולל גמולי תפקיד או תוספות שכר אחרות שהן תלויות ביצוע.</p>
+            <p>"תנאי רפורמת <concept eId="con_18" refersTo="#reform_ofek">אופק חדש</concept>": השכר שהיה משולם לעובד הוראה בשנת ההדרכה הרלוונטית, אילו היה מועסק כמורה <term eId="trm_26" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> כהגדרתו להלן, במסגרת רפורמת <concept eId="con_19" refersTo="#reform_ofek">אופק חדש</concept>, לפי השיבוץ שלו בטבלאות השכר המשולב כאמור <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>, כפי שתוקנו או שיתוקנו מעת לעת, בהתאם לחלקיות משרתו. למען הסר ספק מובהר כי שכר כאמור אינו כולל גמולי תפקיד או תוספות שכר אחרות שהן תלויות ביצוע.</p>
+            <p>"תנאי רפורמת <concept eId="con_20" refersTo="#reform_oz">עוז לתמורה</concept>": השכר שהיה משולם לעובד ההוראה בשנת ההדרכה הרלוונטית, אילו היה מועסק כמורה <term eId="trm_27" refersTo="#term_22d7eec7">בחטיבה עליונה</term> תלת שנתית או ארבע שנתית המפוקחת על-ידי <organization eId="org_21" refersTo="#moe">משרד החינוך</organization> בתנאי רפורמת <concept eId="con_22" refersTo="#reform_oz">עוז לתמורה</concept>, בהתאם לחלקיות משרתו. למען הסר ספק מובהר כי שכר כאמור אינו כולל גמולי תפקיד או תוספות שכר אחרות שהן תלויות ביצוע.</p>
             <p>"תנאי ההעסקה במכללות": השכר שהיה משולם לעובד הוראה בשנת ההדרכה הרלוונטית, אילו היה מועסק כמורה במכללה להכשרת עובדי הוראה לפי הוראות ההסכמים הקיבוציים החלים על עובדים המדורגים <concept eId="dom_5" refersTo="#scale_ovdei_horaa">בדירוג עובדי הוראה</concept> המועסקים במכללות להכשרת עובדי הוראה, לרבות <ref href="/akn/il/act/collectiveAgreement/2015-05-07/2015-05-07-teachers-michlalot-reform">ההסכם הקיבוצי מיום 7.5.2015</ref>, כפי שתוקנו או שיתוקנו מעת לעת, בהתאם לחלקיות משרתו. למען הסר ספק מובהר כי שכר כאמור אינו כולל גמולי תפקיד או תוספות שכר אחרות שהן תלויות ביצוע.</p>
             <p>"הפסקה בהעסקה בתפקיד הדרכה": שנת לימודים שלגביה עובד ההוראה לא מונה לתפקיד הדרכה בכתב מינוי (לעניין זה), בהתאם להנחיות <organization eId="org_23" refersTo="#moe">משרד החינוך</organization>.</p>
             <p>למען הסר ספק אין באמור בהסכם זה כדי לשנות את הכללים אשר לפיהם מחושב ותק בהדרכה.</p>
@@ -233,13 +233,13 @@
           <paragraph eId="art_11__para_1">
             <num>1.</num>
             <content>
-              <p>בית ספר או <term eId="trm_29" refersTo="#term_8c450e63">מוסד חינוך בשירות המדינה</term> כמשמעותם <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref> (כפי שתוקן מעת לעת), שאינם <concept eId="dom_6" refersTo="#stage_chativa_elyona">חטיבות עליונות</concept> (להלן: "<def refersTo="#term_8c450e63">מוסד חינוך בשירות המדינה</def>");</p>
+              <p>בית ספר או <term eId="trm_28" refersTo="#term_8c450e63">מוסד חינוך בשירות המדינה</term> כמשמעותם <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref> (כפי שתוקן מעת לעת), שאינם <concept eId="dom_6" refersTo="#stage_chativa_elyona">חטיבות עליונות</concept> (להלן: "<def refersTo="#term_8c450e63">מוסד חינוך בשירות המדינה</def>");</p>
             </content>
           </paragraph>
           <paragraph eId="art_11__para_2">
             <num>2.</num>
             <content>
-              <p><term eId="trm_30" refersTo="#term_22d7eec7">חטיבה עליונה</term> תלת שנתית או ארבע שנתית המפוקחת על-ידי <organization eId="org_24" refersTo="#moe">משרד החינוך</organization> או <term eId="trm_31" refersTo="#term_22d7eec7">חטיבה עליונה</term> בבית ספר ממשלתי (להלן: "<def refersTo="#term_22d7eec7">חטיבה עליונה</def>");</p>
+              <p><term eId="trm_29" refersTo="#term_22d7eec7">חטיבה עליונה</term> תלת שנתית או ארבע שנתית המפוקחת על-ידי <organization eId="org_24" refersTo="#moe">משרד החינוך</organization> או <term eId="trm_30" refersTo="#term_22d7eec7">חטיבה עליונה</term> בבית ספר ממשלתי (להלן: "<def refersTo="#term_22d7eec7">חטיבה עליונה</def>");</p>
             </content>
           </paragraph>
           <paragraph eId="art_11__para_3">
@@ -251,7 +251,7 @@
         </article>
         <article eId="art_12" repo:prose="same-source">
           <num>12</num>
-          <heading>שבר [כך במקור] מדריך מוסדר, מדריך מלא ומדריך שאינו מדריך מוסדר ואינו מדריך מלא במסגרת <term eId="trm_32" refersTo="#term_d925d362">הרפורמה בהדרכה</term>
+          <heading>שבר [כך במקור] מדריך מוסדר, מדריך מלא ומדריך שאינו מדריך מוסדר ואינו מדריך מלא במסגרת <term eId="trm_31" refersTo="#term_d925d362">הרפורמה בהדרכה</term>
           </heading>
           <paragraph eId="art_12__para_a">
             <num>(א)</num>
@@ -268,7 +268,7 @@
           <paragraph eId="art_12__para_c">
             <num>(ג)</num>
             <content>
-              <p>מוסכם כי תנאי השכר שיחולו, במסגרת <term eId="trm_33" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, לגבי מדריך שאינו מדריך מוסדר ושאינו מדריך מלא, יידונו בין הצדדים לאחר חתימת הסכם זה. כל עוד לא הושגה הסכמה אחרת בין הצדדים, ימשיכו לחול על מדריך כאמור תנאי השכר שחלו לגבי מדריכים עובר לחתימת הסכם זה.</p>
+              <p>מוסכם כי תנאי השכר שיחולו, במסגרת <term eId="trm_32" refersTo="#term_d925d362">הרפורמה בהדרכה</term>, לגבי מדריך שאינו מדריך מוסדר ושאינו מדריך מלא, יידונו בין הצדדים לאחר חתימת הסכם זה. כל עוד לא הושגה הסכמה אחרת בין הצדדים, ימשיכו לחול על מדריך כאמור תנאי השכר שחלו לגבי מדריכים עובר לחתימת הסכם זה.</p>
               <p>מובהר כי אין באמור בסעיף קטן זה כדי לגרוע מהוראות השקט התעשייתי לפי סעיף <ref href="#art_20">20</ref> להלן.</p>
             </content>
           </paragraph>
@@ -279,36 +279,36 @@
           <paragraph eId="art_13__para_a">
             <num>(א)</num>
             <intro>
-              <p>החל <term eId="trm_34" refersTo="#term_e0560a38">מהמועד הקובע</term>, השכר הבסיסי למדריך מוסדר, בחלק המשרה שבו הוא מועסק בהדרכה, ייקבע לפי האמור להלן:</p>
+              <p>החל <term eId="trm_33" refersTo="#term_e0560a38">מהמועד הקובע</term>, השכר הבסיסי למדריך מוסדר, בחלק המשרה שבו הוא מועסק בהדרכה, ייקבע לפי האמור להלן:</p>
             </intro>
             <subparagraph eId="art_13__para_a__subpara_1">
               <num>(1)</num>
               <content>
-                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), רק <term eId="trm_35" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term>, אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע כאמור ואילך, יהיה על פי תנאי רפורמת <concept eId="con_25" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), רק <term eId="trm_34" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term>, אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע כאמור ואילך, יהיה על פי תנאי רפורמת <concept eId="con_25" refersTo="#reform_ofek">אופק חדש</concept>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_13__para_a__subpara_2">
               <num>(2)</num>
               <content>
-                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), רק <term eId="trm_36" refersTo="#term_22d7eec7">בחטיבה עליונה</term>, אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע כאמור ואילך, יהיה על פי תנאי רפורמת <concept eId="con_26" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), רק <term eId="trm_35" refersTo="#term_22d7eec7">בחטיבה עליונה</term>, אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע כאמור ואילך, יהיה על פי תנאי רפורמת <concept eId="con_26" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_13__para_a__subpara_3">
               <num>(3)</num>
               <content>
-                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), רק <term eId="trm_37" refersTo="#term_33920824">במכללה</term>, אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע כאמור ואילך, יהיה על פי תנאי ההעסקה במכללות.</p>
+                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), רק <term eId="trm_36" refersTo="#term_33920824">במכללה</term>, אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע כאמור ואילך, יהיה על פי תנאי ההעסקה במכללות.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_13__para_a__subpara_4">
               <num>(4)</num>
               <content>
-                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), <term eId="trm_38" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term>, וכן <term eId="trm_39" refersTo="#term_22d7eec7">בחטיבה עליונה</term> או <term eId="trm_40" refersTo="#term_33920824">במכללה</term> (או בשתיהן), אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע כאמור ואילך, יהיה על פי תנאי רפורמת <concept eId="con_27" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), <term eId="trm_37" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term>, וכן <term eId="trm_38" refersTo="#term_22d7eec7">בחטיבה עליונה</term> או <term eId="trm_39" refersTo="#term_33920824">במכללה</term> (או בשתיהן), אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע כאמור ואילך, יהיה על פי תנאי רפורמת <concept eId="con_27" refersTo="#reform_ofek">אופק חדש</concept>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_13__para_a__subpara_5">
               <num>(5)</num>
               <content>
-                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), <term eId="trm_41" refersTo="#term_22d7eec7">בחטיבה עליונה</term> וכן <term eId="trm_42" refersTo="#term_33920824">במכללה</term>, אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע ואילך, יהיה על פי תנאי רפורמת <concept eId="con_28" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), <term eId="trm_40" refersTo="#term_22d7eec7">בחטיבה עליונה</term> וכן <term eId="trm_41" refersTo="#term_33920824">במכללה</term>, אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע ואילך, יהיה על פי תנאי רפורמת <concept eId="con_28" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_13__para_a__subpara_6">
@@ -320,31 +320,31 @@
             <subparagraph eId="art_13__para_a__subpara_7">
               <num>(7)</num>
               <content>
-                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), שלא <term eId="trm_43" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> ולא <term eId="trm_44" refersTo="#term_22d7eec7">בחטיבה עליונה</term> ולא במכללות ולא כמורה של"ח (בנוסף על חלק משרתו בהוראה (שאינה בהדרכה)), אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע ואילך, יהיה לפי הכללים האמורים בסעיפים קטנים (1) עד (6) לעיל, ולפי העניין.</p>
-                <p>מובהר למען הסר ספק כי חלק המשרה בהוראה (שאינה בהדרכה) של מדריך מוסדר שאינה <term eId="trm_45" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> ואינה <concept eId="dom_7" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> ואינה במכללות, לא תשפיע על חישוב השכר בחלק משרתו בהדרכה.</p>
+                <p>מדריך מוסדר שבחודש הקובע, לפי העניין, הועסק בחלק משרתו בהוראה (שאינה בהדרכה), שלא <term eId="trm_42" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> ולא <term eId="trm_43" refersTo="#term_22d7eec7">בחטיבה עליונה</term> ולא במכללות ולא כמורה של"ח (בנוסף על חלק משרתו בהוראה (שאינה בהדרכה)), אזי שכרו בחלק משרתו בהדרכה, משנת הלימודים שתחילתה לאחר החודש הקובע ואילך, יהיה לפי הכללים האמורים בסעיפים קטנים (1) עד (6) לעיל, ולפי העניין.</p>
+                <p>מובהר למען הסר ספק כי חלק המשרה בהוראה (שאינה בהדרכה) של מדריך מוסדר שאינה <term eId="trm_44" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> ואינה <concept eId="dom_7" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> ואינה במכללות, לא תשפיע על חישוב השכר בחלק משרתו בהדרכה.</p>
               </content>
             </subparagraph>
             <wrapUp>
-              <p>לדוגמה: מדריך אשר מונה לתפקיד הדרכה בשנת הלימודים תשע"ח, ואשר הועסק, בחודש מאי של שנת הלימודים תשע"ז, בחלק משרתו בהוראה (שאינה בהדרכה) <term eId="trm_46" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term>; בחלק משרתו <term eId="trm_47" refersTo="#term_22d7eec7">בחטיבה עליונה</term>; ובחלק משרתו שלא <term eId="trm_48" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> ולא <term eId="trm_49" refersTo="#term_22d7eec7">בחטיבה עליונה</term> ולא במכללות, יחושב וישולם שכרו בחלק משרתו בהדרכה, החל משנת הלימודים תשע"ח ואילך, על פי תנאי רפורמת <concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept> [וכל עוד לא חלה הפסקה בהעסקה בתפקיד הדרכה].</p>
-              <p>מדריך כאמור אשר הועסק בחודש מאי של שנת הלימודים תשע"ז, בחלק משרתו בהוראה (שאינה בהדרכה) במכללה ובחלק משרתו שלא <term eId="trm_50" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> ולא <term eId="trm_51" refersTo="#term_22d7eec7">בחטיבה עליונה</term> ולא <term eId="trm_52" refersTo="#term_33920824">במכללה</term>, יחושב וישולם שכרו בחלק משרתו בהדרכה, על פי תנאי העסקה במכללות.</p>
+              <p>לדוגמה: מדריך אשר מונה לתפקיד הדרכה בשנת הלימודים תשע"ח, ואשר הועסק, בחודש מאי של שנת הלימודים תשע"ז, בחלק משרתו בהוראה (שאינה בהדרכה) <term eId="trm_45" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term>; בחלק משרתו <term eId="trm_46" refersTo="#term_22d7eec7">בחטיבה עליונה</term>; ובחלק משרתו שלא <term eId="trm_47" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> ולא <term eId="trm_48" refersTo="#term_22d7eec7">בחטיבה עליונה</term> ולא במכללות, יחושב וישולם שכרו בחלק משרתו בהדרכה, החל משנת הלימודים תשע"ח ואילך, על פי תנאי רפורמת <concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept> [וכל עוד לא חלה הפסקה בהעסקה בתפקיד הדרכה].</p>
+              <p>מדריך כאמור אשר הועסק בחודש מאי של שנת הלימודים תשע"ז, בחלק משרתו בהוראה (שאינה בהדרכה) במכללה ובחלק משרתו שלא <term eId="trm_49" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term> ולא <term eId="trm_50" refersTo="#term_22d7eec7">בחטיבה עליונה</term> ולא <term eId="trm_51" refersTo="#term_33920824">במכללה</term>, יחושב וישולם שכרו בחלק משרתו בהדרכה, על פי תנאי העסקה במכללות.</p>
             </wrapUp>
           </paragraph>
           <paragraph eId="art_13__para_b">
             <num>(ב)</num>
             <content>
-              <p>מדריך אשר שכרו הבסיסי נקבע לפי הכללים האמורים בסעיפים קטנים <ref href="#art_13__para_a">(א)</ref>(2) או (א)(5) לעיל, לא יהיה זכאי, בעד חלק משרתו בהדרכה, לשכר ותנאי עבודה הקבועים בהסכמים הקיבוציים החלים או שיחולו לגבי עובדי הוראה המועסקים <term eId="trm_53" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term>, כהגדרתו לעיל, לרבות שכר ותנאי עבודה הקבועים <ref href="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement">בהסכם הקיבוצי מיום 30.9.2016</ref> בדבר שכר עובדי ההוראה לתקופה שעד יום <date date="2018-06-30">30.6.2018</date>.</p>
+              <p>מדריך אשר שכרו הבסיסי נקבע לפי הכללים האמורים בסעיפים קטנים <ref href="#art_13__para_a">(א)</ref>(2) או (א)(5) לעיל, לא יהיה זכאי, בעד חלק משרתו בהדרכה, לשכר ותנאי עבודה הקבועים בהסכמים הקיבוציים החלים או שיחולו לגבי עובדי הוראה המועסקים <term eId="trm_52" refersTo="#term_8c450e63">במוסד חינוך בשירות המדינה</term>, כהגדרתו לעיל, לרבות שכר ותנאי עבודה הקבועים <ref href="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement">בהסכם הקיבוצי מיום 30.9.2016</ref> בדבר שכר עובדי ההוראה לתקופה שעד יום <date date="2018-06-30">30.6.2018</date>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_13__para_c">
             <num>(ג)</num>
             <content>
-              <p>האמור ב<ref href="#art_13__para_b">סעיף-קטן (ב)</ref> לעיל לא יחול לגבי הוראות בהסכמים קיבוציים אשר עניינן תנאי פנסיה של עובדי הוראה. בעניין תנאי פנסיה יחולו על מדריך כאמור ההוראות בהסכמים הקיבוציים החלים לגבי עובדי הוראה בשירות <term eId="trm_54" refersTo="#term_ddf2350a">המדינה</term> ובכפוף לאמור בסעיף <ref href="#art_18">18</ref> להלן.</p>
+              <p>האמור ב<ref href="#art_13__para_b">סעיף-קטן (ב)</ref> לעיל לא יחול לגבי הוראות בהסכמים קיבוציים אשר עניינן תנאי פנסיה של עובדי הוראה. בעניין תנאי פנסיה יחולו על מדריך כאמור ההוראות בהסכמים הקיבוציים החלים לגבי עובדי הוראה בשירות <term eId="trm_53" refersTo="#term_ddf2350a">המדינה</term> ובכפוף לאמור בסעיף <ref href="#art_18">18</ref> להלן.</p>
             </content>
           </paragraph>
           <paragraph eId="art_13__para_d">
             <num>(ד)</num>
             <content>
-              <p>מובהר למען הסר ספק, כי החל <term eId="trm_55" refersTo="#term_e0560a38">מהמועד הקובע</term>, הוראות סעיף זה, מחליפות את ההוראות הקיימות ערב חתימת הסכם זה, בעניין השכר המשולם למדריך בגין חלק משרתו בהדרכה, ואלה לא יחולו עוד לגבי <term eId="trm_56" refersTo="#term_c14f4592">המדריכים</term> המוסדרים.</p>
+              <p>מובהר למען הסר ספק, כי החל <term eId="trm_54" refersTo="#term_e0560a38">מהמועד הקובע</term>, הוראות סעיף זה, מחליפות את ההוראות הקיימות ערב חתימת הסכם זה, בעניין השכר המשולם למדריך בגין חלק משרתו בהדרכה, ואלה לא יחולו עוד לגבי <term eId="trm_55" refersTo="#term_c14f4592">המדריכים</term> המוסדרים.</p>
             </content>
           </paragraph>
         </article>
@@ -391,7 +391,7 @@
           <paragraph eId="art_14__para_b">
             <num>(ב)</num>
             <content>
-              <p>מובהר למען הסר ספק, כי החל <term eId="trm_57" refersTo="#term_e0560a38">מהמועד הקובע</term>, הוראות סעיף זה, מחליפות את ההוראות הקיימות ערב חתימת הסכם זה, בעניין תשלום גמול הדרכה, הכללים לתשלום הגמול ושיעורי הגמול, ואלה לא יחולו עוד לגבי <term eId="trm_58" refersTo="#term_c14f4592">המדריכים</term> המוסדרים.</p>
+              <p>מובהר למען הסר ספק, כי החל <term eId="trm_56" refersTo="#term_e0560a38">מהמועד הקובע</term>, הוראות סעיף זה, מחליפות את ההוראות הקיימות ערב חתימת הסכם זה, בעניין תשלום גמול הדרכה, הכללים לתשלום הגמול ושיעורי הגמול, ואלה לא יחולו עוד לגבי <term eId="trm_57" refersTo="#term_c14f4592">המדריכים</term> המוסדרים.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_c">
@@ -403,7 +403,7 @@
           <paragraph eId="art_14__para_d">
             <num>(ד)</num>
             <content>
-              <p><organization eId="org_31" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בתוספת גמול הדרכה הקבועה בסעיף זה כתוספת קבועה לעניין חוק שירות <term eId="trm_59" refersTo="#term_ddf2350a">המדינה</term> (גמלאות) [נוסח משולב], התש"ל-1970.</p>
+              <p><organization eId="org_31" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בתוספת גמול הדרכה הקבועה בסעיף זה כתוספת קבועה לעניין <ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)">חוק שירות המדינה (גמלאות)</ref> [נוסח משולב], התש"ל-1970.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_e">
@@ -421,7 +421,7 @@
         </article>
         <article eId="art_15" repo:prose="same-source">
           <num>15</num>
-          <heading>גמול מקצוע והכשרות לחלק <term eId="trm_60" refersTo="#term_c14f4592">מהמדריכים</term> המוסדרים</heading>
+          <heading>גמול מקצוע והכשרות לחלק <term eId="trm_58" refersTo="#term_c14f4592">מהמדריכים</term> המוסדרים</heading>
           <paragraph eId="art_15__para_a">
             <num>(א)</num>
             <content>
@@ -459,7 +459,7 @@
           <paragraph eId="art_16__para_b">
             <num>(ב)</num>
             <content>
-              <p>מוסכם כי על אף האמור בסעיפים <ref href="#art_15">15</ref> ו-<ref href="#art_16">16</ref> לעיל, מדריך מוסדר אשר זכאי <term eId="trm_61" refersTo="#term_fc3cdb1a">לתוספת שמירת שכר</term> לפי <ref href="#art_16__para_a">סעיף קטן (א)</ref>(1), לא יהיה זכאי לגמול הדרכה בעד חלק משרתו בהדרכה; ומדריך מוסדר אשר זכאי <term eId="trm_62" refersTo="#term_fc3cdb1a">לתוספת שמירת שכר</term> לפי <ref href="#art_16__para_a">סעיף קטן (א)</ref>(2), לא יהיה זכאי לגמול הדרכה בעד חלק משרתו בהדרכה ולא יהיה זכאי לגמול מקצוע והכשרות בעד חלק משרתו בהדרכה.</p>
+              <p>מוסכם כי על אף האמור בסעיפים <ref href="#art_15">15</ref> ו-<ref href="#art_16">16</ref> לעיל, מדריך מוסדר אשר זכאי <term eId="trm_59" refersTo="#term_fc3cdb1a">לתוספת שמירת שכר</term> לפי <ref href="#art_16__para_a">סעיף קטן (א)</ref>(1), לא יהיה זכאי לגמול הדרכה בעד חלק משרתו בהדרכה; ומדריך מוסדר אשר זכאי <term eId="trm_60" refersTo="#term_fc3cdb1a">לתוספת שמירת שכר</term> לפי <ref href="#art_16__para_a">סעיף קטן (א)</ref>(2), לא יהיה זכאי לגמול הדרכה בעד חלק משרתו בהדרכה ולא יהיה זכאי לגמול מקצוע והכשרות בעד חלק משרתו בהדרכה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_16__para_c">
@@ -488,7 +488,7 @@
             <subparagraph eId="art_16__para_d__subpara_3">
               <num>(3)</num>
               <content>
-                <p><term eId="trm_63" refersTo="#term_fc3cdb1a">תוספת שמירת שכר</term> לפי סעיף 38ב או לפי סעיף 38ג או לפי סעיף 50א <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>;</p>
+                <p><term eId="trm_61" refersTo="#term_fc3cdb1a">תוספת שמירת שכר</term> לפי סעיף 38ב או לפי סעיף 38ג או לפי סעיף 50א <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>;</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -497,14 +497,14 @@
           <num>17</num>
           <heading>תשלומים והפרשים</heading>
           <content>
-            <p>מוסכם כי התשלומים הנובעים מיישום האמור בפרק זה, ישולמו החל מהמשכורת המשתלמת בעד חודש פברואר 2017 (המשולמת בחודש מרץ 2017) ולא יאוחר מהמשכורת המשתלמת בעד חודש מרץ 2017 (המשולמת בחודש אפריל 2017), לרבות בגין התקופה שחלה <term eId="trm_64" refersTo="#term_e0560a38">מהמועד הקובע</term> ועד לתחילת התשלומים כאמור. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש פברואר 2017 (המשולמת בחודש מרץ 2017), ישולמו במסגרתה גם ההפרשים בעד התקופה <term eId="trm_65" refersTo="#term_e0560a38">שמהמועד הקובע</term> ועד ליום <date date="2017-01-31">31.1.2017</date>. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש מרץ 2017 (המשולמת בחודש אפריל 2017), ישולמו במסגרתה גם ההפרשים בעד התקופה <term eId="trm_66" refersTo="#term_e0560a38">שמהמועד הקובע</term> ועד ליום <date date="2017-02-28">28.2.2017</date>.</p>
+            <p>מוסכם כי התשלומים הנובעים מיישום האמור בפרק זה, ישולמו החל מהמשכורת המשתלמת בעד חודש פברואר 2017 (המשולמת בחודש מרץ 2017) ולא יאוחר מהמשכורת המשתלמת בעד חודש מרץ 2017 (המשולמת בחודש אפריל 2017), לרבות בגין התקופה שחלה <term eId="trm_62" refersTo="#term_e0560a38">מהמועד הקובע</term> ועד לתחילת התשלומים כאמור. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש פברואר 2017 (המשולמת בחודש מרץ 2017), ישולמו במסגרתה גם ההפרשים בעד התקופה <term eId="trm_63" refersTo="#term_e0560a38">שמהמועד הקובע</term> ועד ליום <date date="2017-01-31">31.1.2017</date>. היה והתשלום יבוצע החל מהמשכורת המשתלמת בעד חודש מרץ 2017 (המשולמת בחודש אפריל 2017), ישולמו במסגרתה גם ההפרשים בעד התקופה <term eId="trm_64" refersTo="#term_e0560a38">שמהמועד הקובע</term> ועד ליום <date date="2017-02-28">28.2.2017</date>.</p>
           </content>
         </article>
         <article eId="art_18" repo:prose="same-source">
           <num>18</num>
           <heading>חישוב המשכורת הקובעת לפנסיה תקציבית</heading>
           <content>
-            <p>לגבי מדריך מוסדר אשר חל לגביו הסדר פנסיה תקציבית לפי חוק הגמלאות, יחולו, לגבי חלק משרתו בהדרכה, הוראות ההסכמים הקיבוציים בעניין חישוב משכורת קובעת בפנסיה תקציבית, אשר יחולו לגבי עובד הוראה בשירות <term eId="trm_67" refersTo="#term_ddf2350a">המדינה</term> המועסק כמורה בתנאי ההעסקה אשר לפיהם נקבע השכר הבסיסי של המדריך המוסדר (תנאי רפורמת <concept eId="con_35" refersTo="#reform_ofek">אופק חדש</concept>, תנאי רפורמת <concept eId="con_36" refersTo="#reform_oz">עוז לתמורה</concept> או תנאי ההעסקה במכללות לפי העניין).</p>
+            <p>לגבי מדריך מוסדר אשר חל לגביו הסדר פנסיה תקציבית לפי חוק הגמלאות, יחולו, לגבי חלק משרתו בהדרכה, הוראות ההסכמים הקיבוציים בעניין חישוב משכורת קובעת בפנסיה תקציבית, אשר יחולו לגבי עובד הוראה בשירות <term eId="trm_65" refersTo="#term_ddf2350a">המדינה</term> המועסק כמורה בתנאי ההעסקה אשר לפיהם נקבע השכר הבסיסי של המדריך המוסדר (תנאי רפורמת <concept eId="con_35" refersTo="#reform_ofek">אופק חדש</concept>, תנאי רפורמת <concept eId="con_36" refersTo="#reform_oz">עוז לתמורה</concept> או תנאי ההעסקה במכללות לפי העניין).</p>
             <p>מובהר, כי בהתאם לאמור, מוסכם כי המשכורת הקובעת לצורך חישוב קצבה בפנסיה תקציבית תחושב לפי העיקרון של שקלול של שתי תקופות, כאמור במכתבם של <role eId="rol_37" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_38" refersTo="#moe">משרד החינוך</organization> <role eId="rol_39" refersTo="#role-memuneh-sachar">והממונה על השכר והסכמי עבודה</role> <organization eId="org_40" refersTo="#mof">במשרד האוצר</organization>, מיום <date date="2016-05-11">11.5.2016</date> וכמפורט בחילופי המכתבים בין סגן בכיר <role eId="rol_41" refersTo="#role-memuneh-sachar">לממונה על השכר</role> לבין <role eId="rol_42" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_43" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> מיום <date date="2015-12-21">21.12.2015</date>.</p>
           </content>
         </article>
@@ -512,7 +512,7 @@
           <num>19</num>
           <heading>כללי</heading>
           <content>
-            <p>הסכם זה בא לקבוע מחדש את שכרם ומבנה העסקתם של <term eId="trm_68" refersTo="#term_c14f4592">המדריכים</term>. עם זאת, תנאים ותניות שנקבעו בעבר בין הצדדים בהסכמים קיבוציים או בהסדרים קיבוציים או בהתחייבויות אחרות שבכתב, ימשיכו להיות תקפים לתקופת תוקפו של הסכם זה, אלא אם תוקנו או בוטלו במפורש או כמשתמע על-ידי הוראה מהוראות הסכם זה. הצדדים מתחייבים לפעול ברוח האמור בסעיף זה ככל שיעלו נושאים שלא נדונו בהסכם זה.</p>
+            <p>הסכם זה בא לקבוע מחדש את שכרם ומבנה העסקתם של <term eId="trm_66" refersTo="#term_c14f4592">המדריכים</term>. עם זאת, תנאים ותניות שנקבעו בעבר בין הצדדים בהסכמים קיבוציים או בהסדרים קיבוציים או בהתחייבויות אחרות שבכתב, ימשיכו להיות תקפים לתקופת תוקפו של הסכם זה, אלא אם תוקנו או בוטלו במפורש או כמשתמע על-ידי הוראה מהוראות הסכם זה. הצדדים מתחייבים לפעול ברוח האמור בסעיף זה ככל שיעלו נושאים שלא נדונו בהסכם זה.</p>
           </content>
         </article>
         <article eId="art_20" repo:prose="same-source">
@@ -521,7 +521,7 @@
           <paragraph eId="art_20__para_a">
             <num>(א)</num>
             <intro>
-              <p>האמור בהסכם זה מהווה מיצוי מלא ומוחלט של כל תביעות הצדדים בנושאים שהוסדרו בהסכם זה, ובכלל זה יישום רפורמת <concept eId="con_44" refersTo="#reform_ofek">אופק חדש</concept> לגבי <term eId="trm_69" refersTo="#term_c14f4592">המדריכים</term>. מבלי לגרוע מכלליות האמור ולמען הסר ספק, מובהר כי הסכם זה מהווה מיצוי ההוראות המפורטות להלן בהסכמים הקיבוציים בין הצדדים בקשר למשא ומתן ביחס לעובדי הוראה:</p>
+              <p>האמור בהסכם זה מהווה מיצוי מלא ומוחלט של כל תביעות הצדדים בנושאים שהוסדרו בהסכם זה, ובכלל זה יישום רפורמת <concept eId="con_44" refersTo="#reform_ofek">אופק חדש</concept> לגבי <term eId="trm_67" refersTo="#term_c14f4592">המדריכים</term>. מבלי לגרוע מכלליות האמור ולמען הסר ספק, מובהר כי הסכם זה מהווה מיצוי ההוראות המפורטות להלן בהסכמים הקיבוציים בין הצדדים בקשר למשא ומתן ביחס לעובדי הוראה:</p>
             </intro>
             <subparagraph eId="art_20__para_a__subpara_1">
               <num>(1)</num>
@@ -557,7 +557,7 @@
           <paragraph eId="art_20__para_c">
             <num>(ג)</num>
             <content>
-              <p>למען הסר ספק מובהר כי לא ינוהל משא ומתן בנוגע לדרישות כלכליות נוספות, בגין יישום רפורמת <concept eId="con_45" refersTo="#reform_ofek">אופק חדש</concept> בעניינם של <term eId="trm_70" refersTo="#term_c14f4592">המדריכים</term>.</p>
+              <p>למען הסר ספק מובהר כי לא ינוהל משא ומתן בנוגע לדרישות כלכליות נוספות, בגין יישום רפורמת <concept eId="con_45" refersTo="#reform_ofek">אופק חדש</concept> בעניינם של <term eId="trm_68" refersTo="#term_c14f4592">המדריכים</term>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_20__para_d">

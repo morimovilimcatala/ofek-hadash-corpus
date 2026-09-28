@@ -4084,7 +4084,7 @@
           <paragraph eId="art_124__para_c">
             <num>(ג)</num>
             <content>
-              <p><organization eId="org_84" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בגמול ניהול חטיבה צעירה כתוספת קבועה לעניין חוק שירות <term eId="trm_333" refersTo="#term_ddf2350a">המדינה</term> (גמלאות) [נוסח משולב], התש"ל – 1970. עבור <term eId="trm_334" refersTo="#term_2db30064">עובדי הוראה</term> המבוטחים בפנסיה צוברת תבוצענה הפרשות לקופת גמל לקצבה בגין גמול ניהול חטיבה צעירה.</p>
+              <p><organization eId="org_84" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בגמול ניהול חטיבה צעירה כתוספת קבועה לעניין <ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)">חוק שירות המדינה (גמלאות)</ref> [נוסח משולב], התש"ל – 1970. עבור <term eId="trm_333" refersTo="#term_2db30064">עובדי הוראה</term> המבוטחים בפנסיה צוברת תבוצענה הפרשות לקופת גמל לקצבה בגין גמול ניהול חטיבה צעירה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_124__para_d">
@@ -4122,13 +4122,13 @@
           <paragraph eId="art_126__para_a">
             <num>(א)</num>
             <content>
-              <p>המרת השכר של מורה שכיהן כמנהל חטיבה צעירה ערב המעבר להעסקה בתנאי <term eId="trm_335" refersTo="#term_0d75357b">הרפורמה</term> וממשיך לכהן ברפורמה כמנהל חטיבה צעירה תהיה בהתאם להוראות סעיף  <ref href="#art_120">120</ref> לעיל (המרת שכר לסגן שני).</p>
+              <p>המרת השכר של מורה שכיהן כמנהל חטיבה צעירה ערב המעבר להעסקה בתנאי <term eId="trm_334" refersTo="#term_0d75357b">הרפורמה</term> וממשיך לכהן ברפורמה כמנהל חטיבה צעירה תהיה בהתאם להוראות סעיף  <ref href="#art_120">120</ref> לעיל (המרת שכר לסגן שני).</p>
             </content>
           </paragraph>
           <paragraph eId="art_126__para_b">
             <num>(ב)</num>
             <content>
-              <p>המרת השכר של מורה שכיהן כמנהל חטיבה צעירה, ערב המעבר להעסקה בתנאי <term eId="trm_336" refersTo="#term_0d75357b">הרפורמה</term>, ואשר אינו ממשיך לכהן כמנהל חטיבה צעירה עם כניסתו <term eId="trm_337" refersTo="#term_0d75357b">לרפורמה</term>, תהיה בהתאם להוראות סעיף לעיל. עבור מורה כאמור אשר היה זכאי, ערב המעבר להעסקה בתנאי <term eId="trm_338" refersTo="#term_0d75357b">הרפורמה</term>, לגמול ניהול נגרר, ייכלל הגמול בשכר להמרה (X).</p>
+              <p>המרת השכר של מורה שכיהן כמנהל חטיבה צעירה, ערב המעבר להעסקה בתנאי <term eId="trm_335" refersTo="#term_0d75357b">הרפורמה</term>, ואשר אינו ממשיך לכהן כמנהל חטיבה צעירה עם כניסתו <term eId="trm_336" refersTo="#term_0d75357b">לרפורמה</term>, תהיה בהתאם להוראות סעיף לעיל. עבור מורה כאמור אשר היה זכאי, ערב המעבר להעסקה בתנאי <term eId="trm_337" refersTo="#term_0d75357b">הרפורמה</term>, לגמול ניהול נגרר, ייכלל הגמול בשכר להמרה (X).</p>
             </content>
           </paragraph>
         </article>
@@ -4145,7 +4145,7 @@
       </part>
       <part eId="part_34">
         <num>לד.</num>
-        <heading>שבוע העבודה של יועצים חינוכיים בתנאי <term eId="trm_339" refersTo="#term_0d75357b">הרפורמה</term>
+        <heading>שבוע העבודה של יועצים חינוכיים בתנאי <term eId="trm_338" refersTo="#term_0d75357b">הרפורמה</term>
         </heading>
         <article eId="art_128" repo:score="1.00">
           <num>128</num>
@@ -4170,7 +4170,7 @@
             <subparagraph eId="art_128__para_a__subpara_3">
               <num>(3)</num>
               <content>
-                <p><term eId="trm_340" refersTo="#term_0717ae66">שעות השהיה</term> של יועץ חינוכי יהיו כשל מורה אקדמאי, ואולם הן ישמשו גם לצורך מילוי תפקידו כיועץ.</p>
+                <p><term eId="trm_339" refersTo="#term_0717ae66">שעות השהיה</term> של יועץ חינוכי יהיו כשל מורה אקדמאי, ואולם הן ישמשו גם לצורך מילוי תפקידו כיועץ.</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -4266,7 +4266,7 @@
           <paragraph eId="art_131__para_e">
             <num>(ה)</num>
             <content>
-              <p><organization eId="org_88" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בגמול הייעוץ הקבוע בסעיף זה כתוספת קבועה לעניין חוק שירות <term eId="trm_341" refersTo="#term_ddf2350a">המדינה</term> [גמלאות) [נוסח משולב], התש"ל – 1970. עבור <term eId="trm_342" refersTo="#term_2db30064">עובדי הוראה</term> המבוטחים בפנסיה צוברת תבוצענה הפרשות לקופת גמל לקצבה בגין גמול הייעוץ.</p>
+              <p><organization eId="org_88" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בגמול הייעוץ הקבוע בסעיף זה כתוספת קבועה לעניין חוק שירות <term eId="trm_340" refersTo="#term_ddf2350a">המדינה</term> [גמלאות) [נוסח משולב], התש"ל – 1970. עבור <term eId="trm_341" refersTo="#term_2db30064">עובדי הוראה</term> המבוטחים בפנסיה צוברת תבוצענה הפרשות לקופת גמל לקצבה בגין גמול הייעוץ.</p>
             </content>
           </paragraph>
           <paragraph eId="art_131__para_f">
@@ -4291,7 +4291,7 @@
           <paragraph eId="art_132__para_b">
             <num>(ב)</num>
             <content>
-              <p>יובהר כי בחישוב השכר לצורך המרה (X) כאמור בסעיף  <ref href="#art_44">44</ref> לא יובא בחשבון גמול הייעוץ לו היה זכאי היועץ החינוכי ערב המעבר <term eId="trm_343" refersTo="#term_0d75357b">לרפורמה</term>.</p>
+              <p>יובהר כי בחישוב השכר לצורך המרה (X) כאמור בסעיף  <ref href="#art_44">44</ref> לא יובא בחשבון גמול הייעוץ לו היה זכאי היועץ החינוכי ערב המעבר <term eId="trm_342" refersTo="#term_0d75357b">לרפורמה</term>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_132__para_c">
@@ -4304,7 +4304,7 @@
       </part>
       <part eId="part_37">
         <num>לז.</num>
-        <heading>מבנה שבוע העבודה של גננות בתנאי <term eId="trm_344" refersTo="#term_0d75357b">הרפורמה</term>
+        <heading>מבנה שבוע העבודה של גננות בתנאי <term eId="trm_343" refersTo="#term_0d75357b">הרפורמה</term>
         </heading>
         <article eId="art_133" repo:score="1.00">
           <num>133</num>
@@ -4312,7 +4312,7 @@
           <paragraph eId="art_133__para_a">
             <num>(א)</num>
             <content>
-              <p>במסגרת <term eId="trm_345" refersTo="#term_0d75357b">הרפורמה</term>, גננת במשרה מלאה תעבוד <quantity eId="qty_394" refersTo="#day" normalized="5">5 ימי עבודה</quantity> בשבוע.</p>
+              <p>במסגרת <term eId="trm_344" refersTo="#term_0d75357b">הרפורמה</term>, גננת במשרה מלאה תעבוד <quantity eId="qty_394" refersTo="#day" normalized="5">5 ימי עבודה</quantity> בשבוע.</p>
             </content>
           </paragraph>
           <paragraph eId="art_133__para_b">
@@ -4351,7 +4351,7 @@
           <num>136</num>
           <heading>טבלאות השכר המשולב</heading>
           <content>
-            <p>על הגננות המועסקות בתנאי <term eId="trm_346" refersTo="#term_0d75357b">הרפורמה</term> יחולו טבלאות השכר המשולב החדשות למורים אקדמאים (למען הסר ספק - לרבות הכללים הקבועים בסעיפים  <ref href="#art_36">36</ref> ו –  <ref href="#art_37">37</ref> לעיל).</p>
+            <p>על הגננות המועסקות בתנאי <term eId="trm_345" refersTo="#term_0d75357b">הרפורמה</term> יחולו טבלאות השכר המשולב החדשות למורים אקדמאים (למען הסר ספק - לרבות הכללים הקבועים בסעיפים  <ref href="#art_36">36</ref> ו –  <ref href="#art_37">37</ref> לעיל).</p>
           </content>
         </article>
         <article eId="art_137" repo:score="1.00">
@@ -4363,10 +4363,10 @@
         </article>
         <article eId="art_138" repo:score="1.00">
           <num>138</num>
-          <heading>גמולים אשר ימשיכו להתקיים <term eId="trm_347" refersTo="#term_0d75357b">ברפורמה</term>
+          <heading>גמולים אשר ימשיכו להתקיים <term eId="trm_346" refersTo="#term_0d75357b">ברפורמה</term>
           </heading>
           <intro>
-            <p>הגמולים הבאים המשולמים לגננות ימשיכו להתקיים <term eId="trm_348" refersTo="#term_0d75357b">ברפורמה</term>, בכפוף ובהתאם למפורט בסעיף זה להלן:</p>
+            <p>הגמולים הבאים המשולמים לגננות ימשיכו להתקיים <term eId="trm_347" refersTo="#term_0d75357b">ברפורמה</term>, בכפוף ובהתאם למפורט בסעיף זה להלן:</p>
           </intro>
           <paragraph eId="art_138__para_a">
             <num>(א)</num>
@@ -4431,19 +4431,19 @@
           <paragraph eId="art_140__para_b">
             <num>(ב)</num>
             <content>
-              <p>המרת השכר לגבי גננת בחטיבה צעירה או לגבי גננת - מורה תיעשה בהתאם לסטאטוס שלה (מורה או גננת) בחודש מרץ בשנת הלימודים שלפני מעבר המוסד החינוכי <term eId="trm_349" refersTo="#term_0d75357b">לרפורמה</term>.</p>
+              <p>המרת השכר לגבי גננת בחטיבה צעירה או לגבי גננת - מורה תיעשה בהתאם לסטאטוס שלה (מורה או גננת) בחודש מרץ בשנת הלימודים שלפני מעבר המוסד החינוכי <term eId="trm_348" refersTo="#term_0d75357b">לרפורמה</term>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_140__para_c">
             <num>(ג)</num>
             <content>
-              <p>על אף האמור ב<ref href="#art_140__para_b">סעיף-קטן (ב)</ref> לעיל, על מי שמועסקת כמורה בשנת הלימודים בו עבר המוסד החינוכי <term eId="trm_350" refersTo="#term_0d75357b">לרפורמה</term>, ואשר בחודש מרץ שלפני שנת הלימודים האמורה היתה מועסקת כגננת, יחולו כללי המרת השכר החלים על מורים.</p>
+              <p>על אף האמור ב<ref href="#art_140__para_b">סעיף-קטן (ב)</ref> לעיל, על מי שמועסקת כמורה בשנת הלימודים בו עבר המוסד החינוכי <term eId="trm_349" refersTo="#term_0d75357b">לרפורמה</term>, ואשר בחודש מרץ שלפני שנת הלימודים האמורה היתה מועסקת כגננת, יחולו כללי המרת השכר החלים על מורים.</p>
             </content>
           </paragraph>
           <paragraph eId="art_140__para_d">
             <num>(ד)</num>
             <content>
-              <p>יובהר, כי בחישוב השכר לצורך המרה (X), כאמור בסעיף  <ref href="#art_44">44</ref>, לא יובאו בחשבון גמול ניהול או גמול חינוך לו היתה גננת זכאית ערב המעבר <term eId="trm_351" refersTo="#term_0d75357b">לרפורמה</term>.</p>
+              <p>יובהר, כי בחישוב השכר לצורך המרה (X), כאמור בסעיף  <ref href="#art_44">44</ref>, לא יובאו בחשבון גמול ניהול או גמול חינוך לו היתה גננת זכאית ערב המעבר <term eId="trm_350" refersTo="#term_0d75357b">לרפורמה</term>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_140__para_e">
@@ -4501,16 +4501,16 @@
         <heading>מתמחים בהוראה (סטאז')</heading>
         <article eId="art_145" repo:score="1.00">
           <num>145</num>
-          <heading>העסקה בתנאי <term eId="trm_352" refersTo="#term_0d75357b">הרפורמה</term>
+          <heading>העסקה בתנאי <term eId="trm_351" refersTo="#term_0d75357b">הרפורמה</term>
           </heading>
           <content>
-            <p>החל בשנת הלימודים תשס"ט, מתמחה בהוראה יועסק אך ורק בתנאי <term eId="trm_353" refersTo="#term_0d75357b">הרפורמה</term>.</p>
+            <p>החל בשנת הלימודים תשס"ט, מתמחה בהוראה יועסק אך ורק בתנאי <term eId="trm_352" refersTo="#term_0d75357b">הרפורמה</term>.</p>
           </content>
         </article>
         <article eId="art_146" repo:score="1.00">
           <num>146</num>
           <intro>
-            <p>שכר מתמחה בהוראה בשנת ההתמחות בהוראה שהיא שנת לימודיו האחרונה, ובשנה הראשונה שלאחריה, בהעסקה בתנאי <term eId="trm_354" refersTo="#term_0d75357b">הרפורמה</term>
+            <p>שכר מתמחה בהוראה בשנת ההתמחות בהוראה שהיא שנת לימודיו האחרונה, ובשנה הראשונה שלאחריה, בהעסקה בתנאי <term eId="trm_353" refersTo="#term_0d75357b">הרפורמה</term>
             </p>
             <p>שכר מתמחה בשנת ההתמחות בהוראה (סטאז'), שהיא שנת לימודיו האחרונה (במכללות לחינוך -  שנת הלימודים הרביעית, באוניברסיטאות - שנה שנייה ללימודים לתעודת הוראה), יהיה כדלהלן:</p>
           </intro>
@@ -4523,7 +4523,7 @@
           <paragraph eId="art_146__para_2">
             <num>(2)</num>
             <content>
-              <p>מתמחה שלא סיים <quantity eId="qty_413" refersTo="#percentage" normalized="80">80%</quantity> מחובותיו הלימודיים בשנים א' – ג' (לא כולל שנה אחרונה), יהיה זכאי לשכר של מורה בלתי מוסמך <term eId="trm_355" refersTo="#term_0d75357b">ברפורמה</term>, <quantity eId="qty_414" refersTo="#seniority" normalized="0">בותק 0</quantity> ובדרגה 1, למשך שנת התמחות זו. אם סיים בתום שנה זו את חובותיו לשנים א' עד ד', יחולו עליו, בשנת ההוראה שלאחר מכן, הוראות פסקה  <ref href="#art_146__para_3">(3)</ref> להלן.אם בתום שנה זו, לא סיים את חובותיו לשנים א' עד ד', ימשיך להשתכר על פי טבלת שכר של מורה בלתי מוסמך <term eId="trm_356" refersTo="#term_0d75357b">ברפורמה</term>, אך לא מעבר לתקופה של שנתיים.</p>
+              <p>מתמחה שלא סיים <quantity eId="qty_413" refersTo="#percentage" normalized="80">80%</quantity> מחובותיו הלימודיים בשנים א' – ג' (לא כולל שנה אחרונה), יהיה זכאי לשכר של מורה בלתי מוסמך <term eId="trm_354" refersTo="#term_0d75357b">ברפורמה</term>, <quantity eId="qty_414" refersTo="#seniority" normalized="0">בותק 0</quantity> ובדרגה 1, למשך שנת התמחות זו. אם סיים בתום שנה זו את חובותיו לשנים א' עד ד', יחולו עליו, בשנת ההוראה שלאחר מכן, הוראות פסקה  <ref href="#art_146__para_3">(3)</ref> להלן.אם בתום שנה זו, לא סיים את חובותיו לשנים א' עד ד', ימשיך להשתכר על פי טבלת שכר של מורה בלתי מוסמך <term eId="trm_355" refersTo="#term_0d75357b">ברפורמה</term>, אך לא מעבר לתקופה של שנתיים.</p>
             </content>
           </paragraph>
           <paragraph eId="art_146__para_3">
@@ -4575,7 +4575,7 @@
         <article eId="art_147" repo:score="1.00">
           <num>147</num>
           <intro>
-            <p>שכר מתמחה בהוראה בשנת ההתמחות בהוראה שלאחר סיום הלימודים, ובשנה הראשונה שלאחריה, בהעסקה בתנאי <term eId="trm_357" refersTo="#term_0d75357b">הרפורמה</term>
+            <p>שכר מתמחה בהוראה בשנת ההתמחות בהוראה שלאחר סיום הלימודים, ובשנה הראשונה שלאחריה, בהעסקה בתנאי <term eId="trm_356" refersTo="#term_0d75357b">הרפורמה</term>
             </p>
           </intro>
           <paragraph eId="art_147__para_a">
@@ -4624,7 +4624,7 @@
         <article eId="art_148" repo:score="1.00">
           <num>148</num>
           <content>
-            <p>תקופת ההתמחות לא תובא בחשבון לעניין חישוב <term eId="trm_358" refersTo="#term_8c1b2a49">ותק לשכר</term> ולעניין פרק הזמן המינימאלי לקידום בדרגה. תקופת ההתמחות תובא בחשבון לעניין וותק לצורך קביעות, וותק למענק יובל וותק להבראה.</p>
+            <p>תקופת ההתמחות לא תובא בחשבון לעניין חישוב <term eId="trm_357" refersTo="#term_8c1b2a49">ותק לשכר</term> ולעניין פרק הזמן המינימאלי לקידום בדרגה. תקופת ההתמחות תובא בחשבון לעניין וותק לצורך קביעות, וותק למענק יובל וותק להבראה.</p>
           </content>
         </article>
       </part>
@@ -4644,7 +4644,7 @@
         <article eId="art_150" repo:score="1.00">
           <num>150</num>
           <content>
-            <p>בנושא זה חל, לגבי <term eId="trm_359" refersTo="#term_2db30064">עובדי הוראה</term> שעברו להעסקה בתנאי <term eId="trm_360" refersTo="#term_0d75357b">הרפורמה</term>, <ref href="/akn/il/act/collectiveAgreement/2008-08-31/2008-08-31-ofek-hadash-pension-arrangement">ההסכם הקיבוצי שנחתם בין הצדדים ביום 31.8.08</ref>.</p>
+            <p>בנושא זה חל, לגבי <term eId="trm_358" refersTo="#term_2db30064">עובדי הוראה</term> שעברו להעסקה בתנאי <term eId="trm_359" refersTo="#term_0d75357b">הרפורמה</term>, <ref href="/akn/il/act/collectiveAgreement/2008-08-31/2008-08-31-ofek-hadash-pension-arrangement">ההסכם הקיבוצי שנחתם בין הצדדים ביום 31.8.08</ref>.</p>
           </content>
         </article>
       </part>
@@ -4654,7 +4654,7 @@
         <article eId="art_151" repo:score="1.00">
           <num>151</num>
           <content>
-            <p>למען הסר ספק, ההוראות בדבר הפרשות לקופות גמל (פנסיה, השתלמות, תגמולים ו/או תגמולים ופיצויים), שהיו קיימות ערב חתימת הסכם זה, ימשיכו לחול לגבי אותם רכיבי שכר הממשיכים להתקיים בתנאי <term eId="trm_361" refersTo="#term_0d75357b">הרפורמה</term>.</p>
+            <p>למען הסר ספק, ההוראות בדבר הפרשות לקופות גמל (פנסיה, השתלמות, תגמולים ו/או תגמולים ופיצויים), שהיו קיימות ערב חתימת הסכם זה, ימשיכו לחול לגבי אותם רכיבי שכר הממשיכים להתקיים בתנאי <term eId="trm_360" refersTo="#term_0d75357b">הרפורמה</term>.</p>
           </content>
         </article>
       </part>
@@ -4666,7 +4666,7 @@
           <paragraph eId="art_152__para_a">
             <num>(א)</num>
             <content>
-              <p>בכל בית-ספר בו תיושם <term eId="trm_362" refersTo="#term_0d75357b">הרפורמה</term>, יבצעו עובדי ההוראה חתימת נוכחות, בכל כניסה לבית הספר ובכל יציאה ממנו, באמצעות שעון נוכחות ממוחשב שיותקן בבית הספר, בהתאם לכללי דיווח שייקבעו על-ידי <organization eId="org_93" refersTo="#moe">משרד החינוך</organization>.</p>
+              <p>בכל בית-ספר בו תיושם <term eId="trm_361" refersTo="#term_0d75357b">הרפורמה</term>, יבצעו עובדי ההוראה חתימת נוכחות, בכל כניסה לבית הספר ובכל יציאה ממנו, באמצעות שעון נוכחות ממוחשב שיותקן בבית הספר, בהתאם לכללי דיווח שייקבעו על-ידי <organization eId="org_93" refersTo="#moe">משרד החינוך</organization>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_152__para_b">
@@ -4691,22 +4691,22 @@
           <paragraph eId="art_153__para_a">
             <num>(א)</num>
             <content>
-              <p>הסכם זה בא לקבוע מחדש את שכרם ומבנה העסקתם של <term eId="trm_363" refersTo="#term_2db30064">עובדי הוראה</term> שעברו <term eId="trm_364" refersTo="#term_0d75357b">לרפורמה</term>. עם זאת, תנאים ותניות, שנקבעו בעבר בין הצדדים בהסכמים קיבוציים או בהסדרים קיבוציים או בהתחייבויות אחרות שבכתב, ימשיכו להיות תקפים לתקופת תוקפו של הסכם זה, אלא אם תוקנו או בוטלו כמפורש או במשתמע על ידי הוראה מהוראות הסכם זה.</p>
+              <p>הסכם זה בא לקבוע מחדש את שכרם ומבנה העסקתם של <term eId="trm_362" refersTo="#term_2db30064">עובדי הוראה</term> שעברו <term eId="trm_363" refersTo="#term_0d75357b">לרפורמה</term>. עם זאת, תנאים ותניות, שנקבעו בעבר בין הצדדים בהסכמים קיבוציים או בהסדרים קיבוציים או בהתחייבויות אחרות שבכתב, ימשיכו להיות תקפים לתקופת תוקפו של הסכם זה, אלא אם תוקנו או בוטלו כמפורש או במשתמע על ידי הוראה מהוראות הסכם זה.</p>
               <p>הצדדים מתחייבים לפעול ברוח האמור בסעיף זה ככל שיעלו נושאים שלא נדונו בהסכם זה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_153__para_b">
             <num>(ב)</num>
             <content>
-              <p>ההוראות בהסכמים הקיבוציים בין הצדדים, שעניינן בדיקת שחיקת שכר עובדי ההוראה לעומת שכר המהנדסים, לא יחולו על <term eId="trm_365" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים על-פי תנאי <term eId="trm_366" refersTo="#term_0d75357b">הרפורמה</term>.</p>
-              <p>מובהר, כי לגבי עובדי ההוראה המועסקים בשני בתי ספר – באחד לפי תנאי <term eId="trm_367" refersTo="#term_0d75357b">הרפורמה</term> ובשני – שלא על-פי תנאי <term eId="trm_368" refersTo="#term_0d75357b">הרפורמה</term> – האמור בסעיף זה מתייחס רק להעסקה על-פי תנאי <term eId="trm_369" refersTo="#term_0d75357b">הרפורמה</term>.</p>
+              <p>ההוראות בהסכמים הקיבוציים בין הצדדים, שעניינן בדיקת שחיקת שכר עובדי ההוראה לעומת שכר המהנדסים, לא יחולו על <term eId="trm_364" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים על-פי תנאי <term eId="trm_365" refersTo="#term_0d75357b">הרפורמה</term>.</p>
+              <p>מובהר, כי לגבי עובדי ההוראה המועסקים בשני בתי ספר – באחד לפי תנאי <term eId="trm_366" refersTo="#term_0d75357b">הרפורמה</term> ובשני – שלא על-פי תנאי <term eId="trm_367" refersTo="#term_0d75357b">הרפורמה</term> – האמור בסעיף זה מתייחס רק להעסקה על-פי תנאי <term eId="trm_368" refersTo="#term_0d75357b">הרפורמה</term>.</p>
             </content>
           </paragraph>
         </article>
         <article eId="art_154" repo:score="1.00">
           <num>154</num>
           <content>
-            <p>מובהר, כי עדכון, בשל הסכם זה, של סכומים אשר מנגנון העדכון שלהם, על-פי הסכם או הסדר, כולל עדכון בהתאם לתוספות השכר של <term eId="trm_370" refersTo="#term_2db30064">עובדי הוראה</term>, ייעשה בהסכמה לאחר שינוהל משא ומתן בין הצדדים בו יסוכם שיעור העדכון ומועדיו. אם לא תושג הסכמה כאמור עד ליום <date date="2009-03-31">31.3.09</date>, וכן לא תושג הסכמה בעניין זה בועדת המעקב העליונה, אזי כל צד שומר על טענותיו.</p>
+            <p>מובהר, כי עדכון, בשל הסכם זה, של סכומים אשר מנגנון העדכון שלהם, על-פי הסכם או הסדר, כולל עדכון בהתאם לתוספות השכר של <term eId="trm_369" refersTo="#term_2db30064">עובדי הוראה</term>, ייעשה בהסכמה לאחר שינוהל משא ומתן בין הצדדים בו יסוכם שיעור העדכון ומועדיו. אם לא תושג הסכמה כאמור עד ליום <date date="2009-03-31">31.3.09</date>, וכן לא תושג הסכמה בעניין זה בועדת המעקב העליונה, אזי כל צד שומר על טענותיו.</p>
           </content>
         </article>
       </part>
@@ -4722,31 +4722,31 @@
           <paragraph eId="art_155__para_a">
             <num>(א)</num>
             <intro>
-              <p>הצדדים ינהלו משא ומתן על יישום, לגבי עובדי ההוראה (ולמען הסר ספק הכוונה היא <term eId="trm_371" refersTo="#term_2db30064">לעובדי הוראה</term> בין אם אלה מועסקים בתנאי <term eId="trm_372" refersTo="#term_0d75357b">הרפורמה</term> ובין אם על-פי <term eId="trm_373" refersTo="#term_e1c36f6d">ההסכמים הקיימים</term>), של עלות הסכמי או הסדרי מסגרת, אשר ייחתמו, ככל שיחתמו, בין <organization eId="org_97" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization> לבין <term eId="trm_374" refersTo="#term_ddf2350a">המדינה</term> ו/או המעסיקים במגזר הציבורי, לאחר חתימתו ובמהלך תקופת תוקפו של הסכם זה. היה והצדדים לא יגיעו להסכמה לגבי היישום האמור בתוך <quantity eId="qty_420" refersTo="#day" normalized="90">90 יום</quantity> מיום חתימת הסכמי או הסדרי המסגרת כאמור, מוסכם כי יישום העלות האמורה תהיה כלהלן:</p>
+              <p>הצדדים ינהלו משא ומתן על יישום, לגבי עובדי ההוראה (ולמען הסר ספק הכוונה היא <term eId="trm_370" refersTo="#term_2db30064">לעובדי הוראה</term> בין אם אלה מועסקים בתנאי <term eId="trm_371" refersTo="#term_0d75357b">הרפורמה</term> ובין אם על-פי <term eId="trm_372" refersTo="#term_e1c36f6d">ההסכמים הקיימים</term>), של עלות הסכמי או הסדרי מסגרת, אשר ייחתמו, ככל שיחתמו, בין <organization eId="org_97" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization> לבין <term eId="trm_373" refersTo="#term_ddf2350a">המדינה</term> ו/או המעסיקים במגזר הציבורי, לאחר חתימתו ובמהלך תקופת תוקפו של הסכם זה. היה והצדדים לא יגיעו להסכמה לגבי היישום האמור בתוך <quantity eId="qty_420" refersTo="#day" normalized="90">90 יום</quantity> מיום חתימת הסכמי או הסדרי המסגרת כאמור, מוסכם כי יישום העלות האמורה תהיה כלהלן:</p>
             </intro>
             <subparagraph eId="art_155__para_a__subpara_1">
               <num>(1)</num>
               <content>
-                <p>לגבי <term eId="trm_375" refersTo="#term_2db30064">עובדי הוראה</term> שעברו להעסקה לפי תנאי <term eId="trm_376" refersTo="#term_0d75357b">הרפורמה</term> - בדרך של הגדלת טבלאות השכר של עובדי ההוראה בשיעור אחיד לפי גובה העלות;</p>
+                <p>לגבי <term eId="trm_374" refersTo="#term_2db30064">עובדי הוראה</term> שעברו להעסקה לפי תנאי <term eId="trm_375" refersTo="#term_0d75357b">הרפורמה</term> - בדרך של הגדלת טבלאות השכר של עובדי ההוראה בשיעור אחיד לפי גובה העלות;</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_155__para_a__subpara_2">
               <num>(2)</num>
               <content>
-                <p>לגבי <term eId="trm_377" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים לפי <term eId="trm_378" refersTo="#term_e1c36f6d">ההסכמים הקיימים</term> - בדרך של תוספת שכר אשר תירשם בשורה נפרדת בתלוש השכר ועדכון התוספות השקליות בשיעור התוספת האמורה;</p>
+                <p>לגבי <term eId="trm_376" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים לפי <term eId="trm_377" refersTo="#term_e1c36f6d">ההסכמים הקיימים</term> - בדרך של תוספת שכר אשר תירשם בשורה נפרדת בתלוש השכר ועדכון התוספות השקליות בשיעור התוספת האמורה;</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_155__para_a__subpara_3">
               <num>(3)</num>
               <content>
-                <p>תחולת יישום העלות כאמור תהיה למפרע בהתאם לפריסת העלות המוסכמת בין <term eId="trm_379" refersTo="#term_ddf2350a">המדינה</term> <organization eId="org_98" refersTo="#histadrut">להסתדרות העובדים הכללית החדשה</organization>.</p>
+                <p>תחולת יישום העלות כאמור תהיה למפרע בהתאם לפריסת העלות המוסכמת בין <term eId="trm_378" refersTo="#term_ddf2350a">המדינה</term> <organization eId="org_98" refersTo="#histadrut">להסתדרות העובדים הכללית החדשה</organization>.</p>
               </content>
             </subparagraph>
           </paragraph>
           <paragraph eId="art_155__para_b">
             <num>(ב)</num>
             <content>
-              <p>הצדדים ימשיכו לנהל משא ומתן לשם חתימת הסכם קיבוצי ליישום <term eId="trm_380" refersTo="#term_0d75357b">הרפורמה</term> לעובדים נוספים בדירוג <term eId="trm_381" refersTo="#term_2db30064">עובדי הוראה</term>: גננות, <term eId="trm_382" refersTo="#term_2db30064">עובדי הוראה</term> בתפקידי הדרכה, מפקחים, מורי של"ח, <term eId="trm_383" refersTo="#term_2db30064">עובדי הוראה</term> במכללות ובסמינרים להכשרת <term eId="trm_384" refersTo="#term_2db30064">עובדי הוראה</term>, <term eId="trm_385" refersTo="#term_2db30064">עובדי הוראה</term> בחוות חקלאיות ובמרכזים ימיים, גננות משלבות וגננות פארא רפואיות (גננות שי"ח), מנהלי אשכולות גנים, גננות מילו"א (מרכזים להעשרה אומנותית), גננות בתי חולים ואוכלוסיות נוספות של <term eId="trm_386" refersTo="#term_2db30064">עובדי הוראה</term> בשירות <term eId="trm_387" refersTo="#term_ddf2350a">המדינה</term>, כפי שיוסכם בין הצדדים.</p>
+              <p>הצדדים ימשיכו לנהל משא ומתן לשם חתימת הסכם קיבוצי ליישום <term eId="trm_379" refersTo="#term_0d75357b">הרפורמה</term> לעובדים נוספים בדירוג <term eId="trm_380" refersTo="#term_2db30064">עובדי הוראה</term>: גננות, <term eId="trm_381" refersTo="#term_2db30064">עובדי הוראה</term> בתפקידי הדרכה, מפקחים, מורי של"ח, <term eId="trm_382" refersTo="#term_2db30064">עובדי הוראה</term> במכללות ובסמינרים להכשרת <term eId="trm_383" refersTo="#term_2db30064">עובדי הוראה</term>, <term eId="trm_384" refersTo="#term_2db30064">עובדי הוראה</term> בחוות חקלאיות ובמרכזים ימיים, גננות משלבות וגננות פארא רפואיות (גננות שי"ח), מנהלי אשכולות גנים, גננות מילו"א (מרכזים להעשרה אומנותית), גננות בתי חולים ואוכלוסיות נוספות של <term eId="trm_385" refersTo="#term_2db30064">עובדי הוראה</term> בשירות <term eId="trm_386" refersTo="#term_ddf2350a">המדינה</term>, כפי שיוסכם בין הצדדים.</p>
             </content>
           </paragraph>
           <paragraph eId="art_155__para_c">
@@ -4782,14 +4782,14 @@
         <article eId="art_157" repo:score="1.00">
           <num>157</num>
           <content>
-            <p><organization eId="org_102" refersTo="#moe">משרד החינוך</organization> מודיע כי בכוונתו לקלוט <term eId="trm_388" refersTo="#term_2db30064">כעובדי הוראה</term> חדשים (כהגדרתם בהסכם זה), בהעסקה בתנאי <term eId="trm_389" refersTo="#term_0d75357b">הרפורמה</term>, רק מורים בעלי תואר אקדמי ותעודת הוראה.</p>
+            <p><organization eId="org_102" refersTo="#moe">משרד החינוך</organization> מודיע כי בכוונתו לקלוט <term eId="trm_387" refersTo="#term_2db30064">כעובדי הוראה</term> חדשים (כהגדרתם בהסכם זה), בהעסקה בתנאי <term eId="trm_388" refersTo="#term_0d75357b">הרפורמה</term>, רק מורים בעלי תואר אקדמי ותעודת הוראה.</p>
           </content>
         </article>
         <article eId="art_158" repo:score="1.00">
           <num>158</num>
           <heading>שקיפות</heading>
           <content>
-            <p><term eId="trm_390" refersTo="#term_ddf2350a">המדינה</term> תנהג בשקיפות מלאה ביחס לכל מידע שניתן למסרו על-פי חוק ואשר דרוש <organization eId="org_103" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> לצורך ביצוע הסכם זה או מעקב אחר ביצועו.</p>
+            <p><term eId="trm_389" refersTo="#term_ddf2350a">המדינה</term> תנהג בשקיפות מלאה ביחס לכל מידע שניתן למסרו על-פי חוק ואשר דרוש <organization eId="org_103" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> לצורך ביצוע הסכם זה או מעקב אחר ביצועו.</p>
           </content>
         </article>
       </part>

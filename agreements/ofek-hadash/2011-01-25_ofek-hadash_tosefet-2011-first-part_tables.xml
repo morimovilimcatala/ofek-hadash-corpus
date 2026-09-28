@@ -118,7 +118,7 @@
       <p>[בכתב יד: נספח א']</p>
       <p repo:note="fax-banner">[כותרת פקס: JAN 24,2011 16:56 MISRAD HAOTZAR TO וסרמן יוסי PAGE 2 / 4]</p>
       <p repo:note="fax-banner">[כותרת פקס: MISRAD HAOTZAR]</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת: <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2013-11-18">18.11.2013</date> | ומספרו: [בכתב יד: 213/2013] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>]</p>
+      <p repo:note="stamp" repo:role="registration">[חותמת: <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2013-11-18">18.11.2013</date> | ומספרו: [בכתב יד: 213/2013] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>]</p>
       <p>שנערך ונחתם ביום [בכתב יד: 25 ינו' 2011]</p>
       <p>בין: <party eId="party_1" refersTo="#state">ממשלת ישראל</party> בשם <party eId="party_2" refersTo="#state-israel">מדינת ישראל</party>, המיוצגת על-ידי <role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_5" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_2" refersTo="#p_35958635" as="#role-memuneh-sachar">אילן לוין</person>, ועל-ידי <role eId="rol_6" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_7" refersTo="#moe">משרד החינוך</organization>, ד"ר <person eId="pers_3" refersTo="#p_b07a7e5e" as="#role-mankal">שמשון שושני</person>;</p>
       <p repo:role="aside">(להלן: "<def refersTo="#term_ddf2350a #state #state-israel">המדינה</def>")</p>
@@ -214,31 +214,31 @@
             <clause eId="art_4__para_b__subpara_2__cls_c">
               <num>(ג)</num>
               <content>
-                <p><term eId="trm_18" refersTo="#term_96daeca6">תוספת 2011</term> לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו בחוק שכר מינימום, התשמ"ז-1987.</p>
+                <p><term eId="trm_18" refersTo="#term_96daeca6">תוספת 2011</term> לא תובא בחשבון לעניין חישוב השלמת השכר עד לשכר המינימום כמשמעותו ב<ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, התשמ"ז-1987.</p>
               </content>
             </clause>
             <clause eId="art_4__para_b__subpara_2__cls_d">
               <num>(ד)</num>
               <content>
-                <p><term eId="trm_19" refersTo="#term_96daeca6">תוספת 2011</term> תהווה שכר לכל דבר ועניין והיא תובא בחשבון לעניין חישוב תוספות אחוזיות המחושבות מהשכר המשולב למעט <concept eId="cmp_3" refersTo="#comp_tosefet-2001">תוספת 2001</concept> ותוספת 2008, לעניין חישוב ערך שעה, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג – 1963, לעניין גמלאות, לעניין הפרשות לפנסיה, לקרן השתלמות, לקרן דמה, וכל הפרשה או ניכוי אחר הנהוגים לעניין שכר משולב.</p>
+                <p><term eId="trm_19" refersTo="#term_96daeca6">תוספת 2011</term> תהווה שכר לכל דבר ועניין והיא תובא בחשבון לעניין חישוב תוספות אחוזיות המחושבות מהשכר המשולב למעט <concept eId="cmp_3" refersTo="#comp_tosefet-2001">תוספת 2001</concept> ותוספת 2008, לעניין חישוב ערך שעה, לעניין פיצויי פיטורים כמשמעותם ב<ref href="https://he.wikisource.org/wiki/חוק_פיצויי_פיטורים">חוק פיצויי פיטורים</ref>, התשכ"ג – 1963, לעניין גמלאות, לעניין הפרשות לפנסיה, לקרן השתלמות, לקרן דמה, וכל הפרשה או ניכוי אחר הנהוגים לעניין שכר משולב.</p>
               </content>
             </clause>
             <clause eId="art_4__para_b__subpara_2__cls_e">
               <num>(ה)</num>
               <content>
-                <p>הממשלה מצהירה כי לאור הוראות סעיף 8 לחוק שירות <term eId="trm_20" refersTo="#term_ddf2350a">המדינה</term> (גמלאות) [נוסח משולב], התש"ל-1970, <term eId="trm_21" refersTo="#term_96daeca6">תוספת 2011</term> תובא בחשבון בחישוב המשכורת הקובעת, כהגדרתה בסעיף האמור.</p>
+                <p>הממשלה מצהירה כי לאור הוראות סעיף <ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)#סעיף_8">8</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)">חוק שירות המדינה (גמלאות)</ref> [נוסח משולב], התש"ל-1970, <term eId="trm_20" refersTo="#term_96daeca6">תוספת 2011</term> תובא בחשבון בחישוב המשכורת הקובעת, כהגדרתה בסעיף האמור.</p>
               </content>
             </clause>
             <clause eId="art_4__para_b__subpara_2__cls_f">
               <num>(ו)</num>
               <content>
-                <p>מוסכם כי <term eId="trm_22" refersTo="#term_60736063">תוספות השכר השקליות</term> יעודכנו, החל ביום <date date="2011-01-01">1.1.2011</date>, בשיעור של <quantity eId="qty_5" refersTo="#percentage" normalized="2.25">2.25%</quantity>.</p>
+                <p>מוסכם כי <term eId="trm_21" refersTo="#term_60736063">תוספות השכר השקליות</term> יעודכנו, החל ביום <date date="2011-01-01">1.1.2011</date>, בשיעור של <quantity eId="qty_5" refersTo="#percentage" normalized="2.25">2.25%</quantity>.</p>
                 <p repo:note="fax-banner">[כותרת תחתונה של פקס: 24. Jan. 2011 17:21 No. 3712 P. 3/4]</p>
                 <p repo:note="fax-banner">[כותרת פקס: JAN 24,2011 16:58 MISRAD HAOTZAR TO וסרמן יוסי PAGE 4 / 4]</p>
               </content>
             </clause>
             <wrapUp>
-              <p>לעניין זה, "<def refersTo="#term_60736063">תוספות השכר השקליות</def>" - כל התוספות השקליות המשולמות <term eId="trm_23" refersTo="#term_2db30064">לעובדי הוראה</term> והקיימות בדירוג <term eId="trm_24" refersTo="#term_2db30064">עובדי הוראה</term>, בהתאם להסכמים הקיבוציים החלים בהעסקה שאינה לפי תנאי הרפורמה, ערב חתימת הסכם זה, למעט תוספות אשר אינן מתעדכנות על-פי הסכמי תוספת יוקר ויש להן מנגנון עדכון אחר ולמעט השלמת שכר לשכר מינימום מכוח חוק שכר מינימום, התשמ"ז – 1987.</p>
+              <p>לעניין זה, "<def refersTo="#term_60736063">תוספות השכר השקליות</def>" - כל התוספות השקליות המשולמות <term eId="trm_22" refersTo="#term_2db30064">לעובדי הוראה</term> והקיימות בדירוג <term eId="trm_23" refersTo="#term_2db30064">עובדי הוראה</term>, בהתאם להסכמים הקיבוציים החלים בהעסקה שאינה לפי תנאי הרפורמה, ערב חתימת הסכם זה, למעט תוספות אשר אינן מתעדכנות על-פי הסכמי תוספת יוקר ויש להן מנגנון עדכון אחר ולמעט השלמת שכר לשכר מינימום מכוח <ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, התשמ"ז – 1987.</p>
             </wrapUp>
           </subparagraph>
         </paragraph>
@@ -260,8 +260,8 @@
         <num>6</num>
         <heading>מיצוי תביעות</heading>
         <content>
-          <p>האמור בהסכם זה מהווה מיצוי מלא ומוחלט של האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_155__para_a">155(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, בכל הנוגע ליישום החלק הראשון של <term eId="trm_25" refersTo="#term_88a46e8a">מסגרת עלות התוספות</term>, בשיעור של <quantity eId="qty_6" refersTo="#percentage" normalized="2.25">2.25%</quantity>, הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011/!main#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011">להסכם המסגרת</ref> ובכל הנוגע לאמור בסעיף 5.2 (בעניין המענק החד-פעמי) ובסעיף <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011/!main#art_9">9</ref> <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011">להסכם המסגרת</ref>.</p>
-          <p>למען הסר ספק, לגבי היתרה של <term eId="trm_26" refersTo="#term_88a46e8a">מסגרת עלות התוספות</term>, ימשיכו לחול הוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_155__para_a">155(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>.</p>
+          <p>האמור בהסכם זה מהווה מיצוי מלא ומוחלט של האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_155__para_a">155(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>, בכל הנוגע ליישום החלק הראשון של <term eId="trm_24" refersTo="#term_88a46e8a">מסגרת עלות התוספות</term>, בשיעור של <quantity eId="qty_6" refersTo="#percentage" normalized="2.25">2.25%</quantity>, הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011/!main#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011">להסכם המסגרת</ref> ובכל הנוגע לאמור בסעיף 5.2 (בעניין המענק החד-פעמי) ובסעיף <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011/!main#art_9">9</ref> <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011">להסכם המסגרת</ref>.</p>
+          <p>למען הסר ספק, לגבי היתרה של <term eId="trm_25" refersTo="#term_88a46e8a">מסגרת עלות התוספות</term>, ימשיכו לחול הוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_155__para_a">155(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם הכולל</ref>.</p>
         </content>
       </article>
     </body>

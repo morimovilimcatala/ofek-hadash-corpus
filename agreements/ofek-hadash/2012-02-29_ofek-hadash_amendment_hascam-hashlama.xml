@@ -738,7 +738,7 @@
     </preface>
     <preamble>
       <p repo:role="title">הסכם קיבוצי</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת: <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ז - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום <date date="2013-11-18">18.11.2013</date> | מספרו: [בכתב יד: [לא קריא]] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>]</p>
+      <p repo:note="stamp" repo:role="registration">[חותמת: <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ז - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום <date date="2013-11-18">18.11.2013</date> | מספרו: [בכתב יד: [לא קריא]] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>]</p>
       <p>שנחתם ביום [בכתב יד: 29 בפברואר] 2012</p>
       <p>בין: <party eId="party_1" refersTo="#state">ממשלת ישראל</party>, בשם <party eId="party_2" refersTo="#state-israel">מדינת ישראל</party>, המיוצגת על-ידי <role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_5" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_2" refersTo="#p_35958635" as="#role-memuneh-sachar">אילן לוין</person>, ועל ידי <role eId="rol_6" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_7" refersTo="#moe">משרד החינוך</organization>, גב' <person eId="pers_3" refersTo="#p_0167e941" as="#role-mankal">דלית שטאובר</person>;</p>
       <p repo:role="aside">(להלן: "<def refersTo="#term_ddf2350a #state #state-israel">המדינה</def>")</p>
@@ -3980,7 +3980,7 @@
                       <subparagraph eId="art_82__mod_1__qstr_1__hc_2__para_144c__subpara_b">
                         <num>(ב)</num>
                         <content>
-                          <p><organization eId="org_21" refersTo="#state-israel">מדינת ישראל</organization> תפעל להכרה בתוספת האמורה ב<ref href="#art_82__mod_1__qstr_1__hc_2__para_144c__subpara_a">סעיף-קטן (א)</ref> כתוספת קבועה לעניין חוק שירות המדינה (גמלאות) [נוסח משולב], התש"ל — 1970. עבור עובדי הוראה המבוטחים בפנסיה צוברת תבוצענה הפרשות לפנסיה צוברת בגין התוספת.</p>
+                          <p><organization eId="org_21" refersTo="#state-israel">מדינת ישראל</organization> תפעל להכרה בתוספת האמורה ב<ref href="#art_82__mod_1__qstr_1__hc_2__para_144c__subpara_a">סעיף-קטן (א)</ref> כתוספת קבועה לעניין <ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)">חוק שירות המדינה (גמלאות)</ref> [נוסח משולב], התש"ל — 1970. עבור עובדי הוראה המבוטחים בפנסיה צוברת תבוצענה הפרשות לפנסיה צוברת בגין התוספת.</p>
                         </content>
                       </subparagraph>
                       <subparagraph eId="art_82__mod_1__qstr_1__hc_2__para_144c__subpara_c">
@@ -4348,26 +4348,26 @@
           <paragraph eId="art_89__para_b">
             <num>(ב)</num>
             <content>
-              <p><term eId="trm_55" refersTo="#term_13d3a30a">תוספת שחיקה 2011</term> תהווה שכר לכל דבר ועניין והיא תובא בחשבון לעניין חישוב תוספות אחוזיות המחושבות מהשכר המשולב, לעניין חישוב ערך שעה, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג — 1963, לעניין גמלאות, לעניין הפרשות לפנסיה, לקרן השתלמות ולקרן דפנה ולעניין כל הפרשה או ניכוי אחר הנהוגים לעניין שכר משולב.</p>
+              <p><term eId="trm_55" refersTo="#term_13d3a30a">תוספת שחיקה 2011</term> תהווה שכר לכל דבר ועניין והיא תובא בחשבון לעניין חישוב תוספות אחוזיות המחושבות מהשכר המשולב, לעניין חישוב ערך שעה, לעניין פיצויי פיטורים כמשמעותם ב<ref href="https://he.wikisource.org/wiki/חוק_פיצויי_פיטורים">חוק פיצויי פיטורים</ref>, התשכ"ג — 1963, לעניין גמלאות, לעניין הפרשות לפנסיה, לקרן השתלמות ולקרן דפנה ולעניין כל הפרשה או ניכוי אחר הנהוגים לעניין שכר משולב.</p>
             </content>
           </paragraph>
           <paragraph eId="art_89__para_c">
             <num>(ג)</num>
             <content>
-              <p>הממשלה מבהירה כי לאור הוראות סעיף 8 לחוק שירות <term eId="trm_56" refersTo="#term_ddf2350a">המדינה</term> (גמלאות) [נוסח משולב], התש"ל-1970, <term eId="trm_57" refersTo="#term_13d3a30a">תוספת שחיקה 2011</term> תובא בחשבון בחישוב המשכורת הקובעת, כהגדרתה בסעיף האמור.</p>
+              <p>הממשלה מבהירה כי לאור הוראות סעיף <ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)#סעיף_8">8</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_שירות_המדינה_(גמלאות)">חוק שירות המדינה (גמלאות)</ref> [נוסח משולב], התש"ל-1970, <term eId="trm_56" refersTo="#term_13d3a30a">תוספת שחיקה 2011</term> תובא בחשבון בחישוב המשכורת הקובעת, כהגדרתה בסעיף האמור.</p>
             </content>
           </paragraph>
           <paragraph eId="art_89__para_d">
             <num>(ד)</num>
             <content>
-              <p>הזכאות של עובד הוראה <term eId="trm_58" refersTo="#term_13d3a30a">לתוספת שחיקה 2011</term> תהיה החל ממועד יישום <term eId="trm_59" refersTo="#term_0d75357b">הרפורמה</term> במוסד החינוך בו מועסק עובד ההוראה, או החל מיום <date date="2012-03-01">1.3.2012</date>, לפי המאוחר מבין המועדים האמורים.</p>
+              <p>הזכאות של עובד הוראה <term eId="trm_57" refersTo="#term_13d3a30a">לתוספת שחיקה 2011</term> תהיה החל ממועד יישום <term eId="trm_58" refersTo="#term_0d75357b">הרפורמה</term> במוסד החינוך בו מועסק עובד ההוראה, או החל מיום <date date="2012-03-01">1.3.2012</date>, לפי המאוחר מבין המועדים האמורים.</p>
             </content>
           </paragraph>
         </article>
         <article eId="art_90" repo:prose="same-source">
           <num>90</num>
           <content>
-            <p>לכשתיושם רפורמה לגבי <term eId="trm_60" refersTo="#term_2db30064">עובדי הוראה</term> בתפקידי הדרכה, מורי של"ח, עובדים בדירוג <term eId="trm_61" refersTo="#term_2db30064">עובדי הוראה</term> במכללות להכשרת <term eId="trm_62" refersTo="#term_2db30064">עובדי הוראה</term>, <term eId="trm_63" refersTo="#term_2db30064">עובדי הוראה</term> במוסדות חינוך לתלמידים מחוננים, <term eId="trm_64" refersTo="#term_2db30064">עובדי הוראה</term> בגני החינוך המיוחד אשר בהם שעות העבודה היו ארוכות יותר גם טרם יישום <term eId="trm_65" refersTo="#term_0d75357b">הרפורמה</term> בגנים (כאמור בסעיף 133 לעיל) <term eId="trm_66" refersTo="#term_2db30064">ועובדי הוראה</term> <concept eId="dom_30" refersTo="#stage_gan">בגני ילדים</concept> בהם מופעל יוח"א , יחולו הוראות סעיפים <ref href="#art_88">88</ref> ו — <ref href="#art_89">89</ref> להסכם זה גם לגבי עובדי ההוראה האמורים, בהתאמה.</p>
+            <p>לכשתיושם רפורמה לגבי <term eId="trm_59" refersTo="#term_2db30064">עובדי הוראה</term> בתפקידי הדרכה, מורי של"ח, עובדים בדירוג <term eId="trm_60" refersTo="#term_2db30064">עובדי הוראה</term> במכללות להכשרת <term eId="trm_61" refersTo="#term_2db30064">עובדי הוראה</term>, <term eId="trm_62" refersTo="#term_2db30064">עובדי הוראה</term> במוסדות חינוך לתלמידים מחוננים, <term eId="trm_63" refersTo="#term_2db30064">עובדי הוראה</term> בגני החינוך המיוחד אשר בהם שעות העבודה היו ארוכות יותר גם טרם יישום <term eId="trm_64" refersTo="#term_0d75357b">הרפורמה</term> בגנים (כאמור בסעיף 133 לעיל) <term eId="trm_65" refersTo="#term_2db30064">ועובדי הוראה</term> <concept eId="dom_30" refersTo="#stage_gan">בגני ילדים</concept> בהם מופעל יוח"א , יחולו הוראות סעיפים <ref href="#art_88">88</ref> ו — <ref href="#art_89">89</ref> להסכם זה גם לגבי עובדי ההוראה האמורים, בהתאמה.</p>
           </content>
         </article>
         <article eId="art_91" repo:prose="same-source">
@@ -4382,7 +4382,7 @@
           <paragraph eId="art_91__para_b">
             <num>(ב)</num>
             <content>
-              <p>על אף האמור בסעיף <ref href="#art_3">3</ref> לעיל, סעיף זה יחול על כל העובדים המדורגים בדירוג <term eId="trm_67" refersTo="#term_2db30064">עובדי הוראה</term>, המועסקים בשירות <term eId="trm_68" refersTo="#term_ddf2350a">המדינה</term>.</p>
+              <p>על אף האמור בסעיף <ref href="#art_3">3</ref> לעיל, סעיף זה יחול על כל העובדים המדורגים בדירוג <term eId="trm_66" refersTo="#term_2db30064">עובדי הוראה</term>, המועסקים בשירות <term eId="trm_67" refersTo="#term_ddf2350a">המדינה</term>.</p>
             </content>
           </paragraph>
         </article>
@@ -4400,15 +4400,15 @@
             <subparagraph eId="art_92__para_a__subpara_1">
               <num>(1)</num>
               <content>
-                <p>לגבי העובדים בדירוג <term eId="trm_69" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתנאי <term eId="trm_70" refersTo="#term_0d75357b">הרפורמה</term>, ולגבי העובדים בדירוג <term eId="trm_71" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתפקידי פיקוח ומטה בהתאם להסכם הקיבוצי מיום <date date="2010-07-05">5.7.2010</date>, יעודכנו טבלאות השכר, החל מיום <date date="2012-01-01">1.1.2012</date>, באופן ששיעור העדכון הכולל, ביחס לטבלאות השכר אשר היו תקפות ערב העדכון אשר בוצע בתחולה מיום <date date="2011-01-01">1.1.2011</date> (בהתאם להוראות <ref href="/akn/il/act/collectiveAgreement/2011-01-25/2011-01-25-ofek-hadash-tosefet-2011-first-part-tables">ההסכם מיום 25.1.2011</ref>), יעמוד על <quantity eId="qty_78" refersTo="#percentage" normalized="4">4%</quantity>.</p>
-                <p>טבלאות השכר המעודכנות החלות לגבי עובדים בדירוג <term eId="trm_72" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתנאי <term eId="trm_73" refersTo="#term_0d75357b">הרפורמה</term> מצורפות כנספחים [בכתב יד: 1'] עד [בכתב יד: 22'] להסכם זה.</p>
-                <p>טבלאות השכר המעודכנות החלות לגבי עובדים בדירוג <term eId="trm_74" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתפקידי פיקוח ומטה מצורפות כנספחים [בכתב יד: 1'] עד [בכתב יד: 8'] להסכם זה.</p>
+                <p>לגבי העובדים בדירוג <term eId="trm_68" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתנאי <term eId="trm_69" refersTo="#term_0d75357b">הרפורמה</term>, ולגבי העובדים בדירוג <term eId="trm_70" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתפקידי פיקוח ומטה בהתאם להסכם הקיבוצי מיום <date date="2010-07-05">5.7.2010</date>, יעודכנו טבלאות השכר, החל מיום <date date="2012-01-01">1.1.2012</date>, באופן ששיעור העדכון הכולל, ביחס לטבלאות השכר אשר היו תקפות ערב העדכון אשר בוצע בתחולה מיום <date date="2011-01-01">1.1.2011</date> (בהתאם להוראות <ref href="/akn/il/act/collectiveAgreement/2011-01-25/2011-01-25-ofek-hadash-tosefet-2011-first-part-tables">ההסכם מיום 25.1.2011</ref>), יעמוד על <quantity eId="qty_78" refersTo="#percentage" normalized="4">4%</quantity>.</p>
+                <p>טבלאות השכר המעודכנות החלות לגבי עובדים בדירוג <term eId="trm_71" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתנאי <term eId="trm_72" refersTo="#term_0d75357b">הרפורמה</term> מצורפות כנספחים [בכתב יד: 1'] עד [בכתב יד: 22'] להסכם זה.</p>
+                <p>טבלאות השכר המעודכנות החלות לגבי עובדים בדירוג <term eId="trm_73" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתפקידי פיקוח ומטה מצורפות כנספחים [בכתב יד: 1'] עד [בכתב יד: 8'] להסכם זה.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_92__para_a__subpara_2">
               <num>(2)</num>
               <intro>
-                <p>לגבי <term eId="trm_75" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים לפי ההסכמים הקיבוציים החלים בהעסקה שאינה לפי תנאי <term eId="trm_76" refersTo="#term_0d75357b">הרפורמה</term> (ולמען הסר ספק — אינם מועסקים בתפקידי פיקוח ומטה):</p>
+                <p>לגבי <term eId="trm_74" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים לפי ההסכמים הקיבוציים החלים בהעסקה שאינה לפי תנאי <term eId="trm_75" refersTo="#term_0d75357b">הרפורמה</term> (ולמען הסר ספק — אינם מועסקים בתפקידי פיקוח ומטה):</p>
               </intro>
               <clause eId="art_92__para_a__subpara_2__cls_a">
                 <num>(א)</num>
@@ -4439,14 +4439,14 @@
           <paragraph eId="art_92__para_d">
             <num>(ד)</num>
             <content>
-              <p>על אף האמור בסעיף <ref href="#art_3">3</ref> לעיל, סעיף זה יחול על כל העובדים המדורגים בדירוג <term eId="trm_77" refersTo="#term_2db30064">עובדי הוראה</term>, המועסקים בשירות <term eId="trm_78" refersTo="#term_ddf2350a">המדינה</term>.</p>
+              <p>על אף האמור בסעיף <ref href="#art_3">3</ref> לעיל, סעיף זה יחול על כל העובדים המדורגים בדירוג <term eId="trm_76" refersTo="#term_2db30064">עובדי הוראה</term>, המועסקים בשירות <term eId="trm_77" refersTo="#term_ddf2350a">המדינה</term>.</p>
             </content>
           </paragraph>
         </article>
       </part>
       <part eId="part_4">
         <num>ד.</num>
-        <heading>תיקון תשלומי יתר במסגרת יישום <term eId="trm_79" refersTo="#term_0d75357b">הרפורמה</term>
+        <heading>תיקון תשלומי יתר במסגרת יישום <term eId="trm_78" refersTo="#term_0d75357b">הרפורמה</term>
         </heading>
         <article eId="art_93" repo:prose="same-source">
           <num>93</num>
@@ -4454,7 +4454,7 @@
           <paragraph eId="art_93__para_a">
             <num>(א)</num>
             <content>
-              <p>נוכח העובדה שתהליך המרת השכר הינו מורכב, ולעיתים קורות טעויות במהלך המרת השכר, אשר בעקבותיהן משולמים תשלומי יתר <term eId="trm_80" refersTo="#term_2db30064">לעובדי הוראה</term>, מוסכם בין הצדדים כי תשלומי היתר הללו ייחשבו כמקדמות על חשבון שכר עבודה לעניין הוראות סעיף 25(א)(7) לחוק הגנת השכר, תשי"ח-1958.</p>
+              <p>נוכח העובדה שתהליך המרת השכר הינו מורכב, ולעיתים קורות טעויות במהלך המרת השכר, אשר בעקבותיהן משולמים תשלומי יתר <term eId="trm_79" refersTo="#term_2db30064">לעובדי הוראה</term>, מוסכם בין הצדדים כי תשלומי היתר הללו ייחשבו כמקדמות על חשבון שכר עבודה לעניין הוראות סעיף <ref href="https://he.wikisource.org/wiki/חוק_הגנת_השכר#סעיף_25">25(א)(7)</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_הגנת_השכר">חוק הגנת השכר</ref>, תשי"ח-1958.</p>
             </content>
           </paragraph>
           <paragraph eId="art_93__para_b">
@@ -4492,7 +4492,7 @@
           <paragraph eId="art_94__para_a">
             <num>(א)</num>
             <content>
-              <p>הסכם זה מהווה מיצוי מלא ומוחלט של כל תביעות הצדדים בנושאים שהוסדרו בו. לא ינוהל כל משא ומתן נוסף בנושאים אלו. בכלל זה, מהוות הוראות הסכם זה מיצוי מלא ומוחלט של כל התביעות בנוגע לפיצוי בגין שחיקת שכר <term eId="trm_81" refersTo="#term_2db30064">עובדי הוראה</term> ביחס לשכר המהנדסים, בהתאם להוראות ההסכמים הקיבוציים בגין התקופה שקדמה לחתימת הסכם זה. <organization eId="org_23" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> לא תהיה עוד כל תביעה או טענה בנושא שחיקת שכר <term eId="trm_82" refersTo="#term_2db30064">עובדי הוראה</term> ביחס לשכר המהנדסים, הן לגבי העתיד והן לגבי תקופות שקדמו לחתימת הסכם זה.</p>
+              <p>הסכם זה מהווה מיצוי מלא ומוחלט של כל תביעות הצדדים בנושאים שהוסדרו בו. לא ינוהל כל משא ומתן נוסף בנושאים אלו. בכלל זה, מהוות הוראות הסכם זה מיצוי מלא ומוחלט של כל התביעות בנוגע לפיצוי בגין שחיקת שכר <term eId="trm_80" refersTo="#term_2db30064">עובדי הוראה</term> ביחס לשכר המהנדסים, בהתאם להוראות ההסכמים הקיבוציים בגין התקופה שקדמה לחתימת הסכם זה. <organization eId="org_23" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> לא תהיה עוד כל תביעה או טענה בנושא שחיקת שכר <term eId="trm_81" refersTo="#term_2db30064">עובדי הוראה</term> ביחס לשכר המהנדסים, הן לגבי העתיד והן לגבי תקופות שקדמו לחתימת הסכם זה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_94__para_b">

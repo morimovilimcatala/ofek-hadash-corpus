@@ -88,7 +88,7 @@
     </preface>
     <preamble>
       <p repo:role="title">הסכם קיבוצי</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת: <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957]</p>
+      <p repo:note="stamp" repo:role="registration">[חותמת: <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ג [כך במקור] - 1957]</p>
       <p>הסכם קיבוצי זה נרשם כחוק</p>
       <p>ביום: <date date="2013-11-18">18. 11. 2013</date>
       </p>
@@ -149,19 +149,19 @@
           <subparagraph eId="art_2__para_b__subpara_1">
             <num>(1)</num>
             <content>
-              <p>"גוף מתוקצב" כהגדרתו בסעיף 21 לחוק יסודות התקציב, התשמ"ה-1985 (להלן: "<def refersTo="#term_6fcf3230">חוק יסודות התקציב</def>");</p>
+              <p>"גוף מתוקצב" כהגדרתו בסעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_21">21</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref>, התשמ"ה-1985 (להלן: "<def refersTo="#term_6fcf3230">חוק יסודות התקציב</def>");</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_2__para_b__subpara_2">
             <num>(2)</num>
             <content>
-              <p>"גוף נתמך" כהגדרתו בסעיף 32 לחוק יסודות התקציב;</p>
+              <p>"גוף נתמך" כהגדרתו בסעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_32">32</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref>;</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_2__para_b__subpara_3">
             <num>(3)</num>
             <content>
-              <p>מוסד חינוך כהגדרתו בסעיף 1 לחוק לימוד חובה, התש"ט-1950, שהממשלה משתתפת בתקציבו במישרין או בעקיפין;</p>
+              <p>מוסד חינוך כהגדרתו בסעיף <ref href="https://he.wikisource.org/wiki/חוק_לימוד_חובה#סעיף_1">1</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_לימוד_חובה">חוק לימוד חובה</ref>, התש"ט-1950, שהממשלה משתתפת בתקציבו במישרין או בעקיפין;</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_2__para_b__subpara_4">

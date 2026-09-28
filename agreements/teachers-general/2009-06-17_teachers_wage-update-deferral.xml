@@ -90,7 +90,7 @@
     <preamble>
       <p repo:role="title">הסכם קיבוצי</p>
       <p repo:note="fax-banner">[כותרת פקס: JUN 16,2009 12:04 MISRAD HAOTZAR TO וסרמן יוסי PAGE 2 / 6]</p>
-      <p repo:note="stamp" repo:role="registration">[חותמת רישום:] <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> תשי"ג - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: 15.10.200[לא קריא] | ומספרו: [בכתב יד: [לא קריא]/2009] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
+      <p repo:note="stamp" repo:role="registration">[חותמת רישום:] <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> תשי"ג - 1957 | הסכם קיבוצי זה נרשם כחוק | ביום: 15.10.200[לא קריא] | ומספרו: [בכתב יד: [לא קריא]/2009] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
       </p>
       <p>שנערך ונחתם ביום [בכתב יד: 17 ביוני] 2009</p>
       <p repo:role="party-marker">בין</p>
@@ -147,19 +147,19 @@
           <subparagraph eId="art_2__para_b__subpara_1">
             <num>(1)</num>
             <content>
-              <p>"גוף מתוקצב" כהגדרתו בסעיף 21 לחוק יסודות התקציב, התשמ"ה-1985 (להלן: "<def refersTo="#term_6fcf3230">חוק יסודות התקציב</def>") ;</p>
+              <p>"גוף מתוקצב" כהגדרתו בסעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_21">21</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref>, התשמ"ה-1985 (להלן: "<def refersTo="#term_6fcf3230">חוק יסודות התקציב</def>") ;</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_2__para_b__subpara_2">
             <num>(2)</num>
             <content>
-              <p>"גוף נתמך" כהגדרתו בסעיף 32 לחוק יסודות התקציב ;</p>
+              <p>"גוף נתמך" כהגדרתו בסעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_32">32</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref> ;</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_2__para_b__subpara_3">
             <num>(3)</num>
             <content>
-              <p>מוסד חינוך כהגדרתו בסעיף 1 לחוק לימוד חובה, התש"ט-1950, שהממשלה משתתפת בתקציבו במישרין או בעקיפין ;</p>
+              <p>מוסד חינוך כהגדרתו בסעיף <ref href="https://he.wikisource.org/wiki/חוק_לימוד_חובה#סעיף_1">1</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_לימוד_חובה">חוק לימוד חובה</ref>, התש"ט-1950, שהממשלה משתתפת בתקציבו במישרין או בעקיפין ;</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_2__para_b__subpara_4">
@@ -201,7 +201,7 @@
           <num>(ג)</num>
           <content>
             <p>מובהר כי אי התשלום כתוצאה מדחייה במועדי עדכון השכר, כאמור ב<ref href="#art_3__para_a">סעיף-קטן (א)</ref>, כן יובא בחשבון לעניין חישוב הסכום המשולם לקופות גמל בעד העובד.</p>
-            <p>לעניין זה, "<def refersTo="#term_fde85049">קופת גמל</def>" - כהגדרתה בחוק הפיקוח על שירותים פיננסיים (קופות גמל), תשס"ה-2005 -</p>
+            <p>לעניין זה, "<def refersTo="#term_fde85049">קופת גמל</def>" - כהגדרתה ב<ref href="https://he.wikisource.org/wiki/חוק_הפיקוח_על_שירותים_פיננסיים_(קופות_גמל)">חוק הפיקוח על שירותים פיננסיים (קופות גמל)</ref>, תשס"ה-2005 -</p>
             <p repo:note="fax-banner">[כותרת תחתונה של פקס: 17.JUN.2009 12:17 HISTADRUT HAMORIM 972 3 6922955 NO.098 P.2]</p>
             <p repo:note="fax-banner">[כותרת פקס: JUN 16,2009 12:04 MISRAD HAOTZAR TO וסרמן יוסי PAGE 4 / 6]</p>
           </content>
@@ -211,7 +211,7 @@
         <num>4</num>
         <heading>תחילה</heading>
         <content>
-          <p>הסכם זה ייכנס לתוקפו לאחר השלמת הליכי חקיקת חוק לתשלום חלקי של דמי הבראה בשירות הציבורי בשנים 2009 ו-2010 (הוראת שעה), התשס"ט-2009.</p>
+          <p>הסכם זה ייכנס לתוקפו לאחר השלמת הליכי חקיקת <ref href="https://he.wikisource.org/wiki/חוק_לתשלום_חלקי_של_דמי_הבראה_בשירות_הציבורי_בשנים_2009_ו-2010_(הוראת_שעה)">חוק לתשלום חלקי של דמי הבראה בשירות הציבורי בשנים 2009 ו-2010 (הוראת שעה)</ref>, התשס"ט-2009.</p>
         </content>
       </article>
       <article eId="art_5" repo:prose="same-source">

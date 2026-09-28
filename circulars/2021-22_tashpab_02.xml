@@ -557,7 +557,7 @@
         <paragraph eId="art_7__para_7-3">
           <num>7.3</num>
           <content>
-            <p>עובדת הוראה לאחר חופשת לידה, אשר היקף העסקתה הינו  <quantity eId="qty_40" refersTo="#percentage" normalized="90">90%</quantity>משרה ומעלה, תהיה זכאית, במשך <quantity eId="qty_41" refersTo="#month" normalized="4">ארבעה חודשים</quantity> ממועד תום חופשת הלידה (בהתאם לחוק עבודת נשים), להפחתה של שעה אחת ביום (שעת הנקה) משעות השהייה (ובסך הכל להפחתה של <quantity eId="qty_42" refersTo="#hour" normalized="5">חמש שעות</quantity> שהיה שבועיות) מבלי שיופחת שכרה או היקף משרתה בשל כך. לגבי עובדת הוראה כאמור לא יחולו הוראות סעיף <ref href="#art_7__para_7-2">7.2</ref> לעיל, לגבי התקופה בה חל לגביה סעיף זה.</p>
+            <p>עובדת הוראה לאחר חופשת לידה, אשר היקף העסקתה הינו  <quantity eId="qty_40" refersTo="#percentage" normalized="90">90%</quantity>משרה ומעלה, תהיה זכאית, במשך <quantity eId="qty_41" refersTo="#month" normalized="4">ארבעה חודשים</quantity> ממועד תום חופשת הלידה (בהתאם ל<ref href="https://he.wikisource.org/wiki/חוק_עבודת_נשים">חוק עבודת נשים</ref>), להפחתה של שעה אחת ביום (שעת הנקה) משעות השהייה (ובסך הכל להפחתה של <quantity eId="qty_42" refersTo="#hour" normalized="5">חמש שעות</quantity> שהיה שבועיות) מבלי שיופחת שכרה או היקף משרתה בשל כך. לגבי עובדת הוראה כאמור לא יחולו הוראות סעיף <ref href="#art_7__para_7-2">7.2</ref> לעיל, לגבי התקופה בה חל לגביה סעיף זה.</p>
           </content>
         </paragraph>
         <paragraph eId="art_7__para_7-4">

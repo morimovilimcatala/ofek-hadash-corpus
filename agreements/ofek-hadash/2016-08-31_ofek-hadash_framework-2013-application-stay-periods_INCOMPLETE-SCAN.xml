@@ -101,7 +101,7 @@
         <intro>
           <p>הסכם קיבוצי</p>
           <p>שנחתם ביום [בכתב יד: <date date="2016-08-31">31/8/16</date>]</p>
-          <p repo:note="stamp">[חותמת רישום:] <ref href="/akn/il/act/act/1957-02-28/1957-02-28-collective-agreements-law-5717">חוק הסכמים קיבוציים</ref> [לא קריא] | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2017-01-15">15.01.2017</date> | ומספרו: [בכתב יד: 269/2016] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
+          <p repo:note="stamp">[חותמת רישום:] <ref href="https://he.wikisource.org/wiki/חוק_הסכמים_קיבוציים">חוק הסכמים קיבוציים</ref> [לא קריא] | הסכם קיבוצי זה נרשם כחוק | ביום: <date date="2017-01-15">15.01.2017</date> | ומספרו: [בכתב יד: 269/2016] | <person eId="pers_1" refersTo="#p_43b7f0e7">שלמה יצחקי</person>, עו"ד | <role eId="rol_1" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
           </p>
           <p>בין: <organization eId="org_2" refersTo="#state">ממשלת ישראל</organization> בשם <organization eId="org_3" refersTo="#state-israel">מדינת ישראל</organization>, המיוצגת על ידי <role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> (בפועל) <organization eId="org_5" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_2" refersTo="#p_5a0c479a">יוסי כהן</person>, ועל ידי <role eId="rol_6" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_7" refersTo="#moe">משרד החינוך</organization>, גב' <person eId="pers_3" refersTo="#p_6bb70ed1">מיכל כהן</person>;</p>
           <p>(להלן: "<def refersTo="#term_ddf2350a">המדינה</def>");</p>
