@@ -36,6 +36,7 @@
         <TLCOrganization eId="unit_a1943f15" href="/ontology/organization/il/unit/a1943f15" showAs="מינהל עובדי הוראה" />
         <TLCOrganization eId="unit_f2a5318d" href="/ontology/organization/il/unit/f2a5318d" showAs="אגף בכיר כוח-אדם בהוראה" />
         <TLCRole eId="office_021a1da6" href="/ontology/role/il/021a1da6" showAs="מנהלי תחומי כח-אדם בהוראה במחוזות" />
+        <TLCRole eId="office_293a6da2" href="/ontology/role/il/293a6da2" showAs="ממונה על תנאי שירות עו&quot;ה" />
         <TLCRole eId="office_4ed2f902" href="/ontology/role/il/4ed2f902" showAs="מנהלי המחוזות" />
         <TLCRole eId="office_e32b7007" href="/ontology/role/il/e32b7007" showAs="גזברי המחוזות" />
         <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
@@ -173,7 +174,7 @@
       </p>
       <p>מר <person eId="pers_12" refersTo="#p_4b7467e5" as="#role-yor">רן ארז</person>, <role eId="rol_28" refersTo="#role-yor">יו"ר</role> <organization eId="org_29" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל-יסודיים</organization>
       </p>
-      <p><role eId="rol_37" refersTo="#office_4ed2f902">מנהלי מחוזות</role>
+      <p><role eId="rol_38" refersTo="#office_4ed2f902">מנהלי מחוזות</role>
       </p>
       <p>ד"ר <person eId="pers_13" refersTo="#p_e6a72cc2" as="#role-menahel">עופר רימון</person>, <role eId="hed_9" refersTo="#role-menahel">מנהל</role> <organization eId="unt_5" refersTo="#unit_4667ddd4">מינהל תקשוב טכנולוגיה ומערכות מידע</organization>
       </p>
@@ -196,12 +197,13 @@
       </p>
       <p>מר <person eId="pers_23" refersTo="#p_22148ae1" as="#role-mankal">שמואל ריפמן</person>, <role eId="rol_33" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_34" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
       </p>
-      <p>עו"ד <person eId="pers_24" refersTo="#p_bfdd3a7b">עירית ורונין</person>, ממונה על תנאי שירות, מרכז השלטון מקומי</p>
-      <p>מר <person eId="pers_25" refersTo="#p_4572337a" as="#role-yor">אבי קמינסקי</person>, <role eId="rol_35" refersTo="#role-yor">יו"ר</role> <organization eId="unt_14" refersTo="#unit_ccbc3766">איגוד מנהלי אגפי החינוך ברשויות המקומיות</organization>
+      <p>עו"ד <person eId="pers_24" refersTo="#p_bfdd3a7b" as="#office_293a6da2">עירית ורונין</person>, <role eId="rol_42" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_35" refersTo="#local-government">מרכז השלטון מקומי</organization>
       </p>
-      <p><role eId="rol_38" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      <p>מר <person eId="pers_25" refersTo="#p_4572337a" as="#role-yor">אבי קמינסקי</person>, <role eId="rol_36" refersTo="#role-yor">יו"ר</role> <organization eId="unt_14" refersTo="#unit_ccbc3766">איגוד מנהלי אגפי החינוך ברשויות המקומיות</organization>
       </p>
-      <p><role eId="rol_39" refersTo="#office_e32b7007">גזברי המחוזות</role>
+      <p><role eId="rol_39" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_40" refersTo="#office_e32b7007">גזברי המחוזות</role>
       </p>
       <p>הנהלת <organization eId="unt_15" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>
       </p>

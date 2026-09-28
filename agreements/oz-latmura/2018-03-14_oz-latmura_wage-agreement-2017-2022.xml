@@ -1031,7 +1031,7 @@
         <num>21</num>
         <heading>קרן ימי מחלה</heading>
         <content>
-          <p>בהתאם לסעיף 19 <ref href="/akn/il/act/collectiveAgreement/2003-09-10/2003-09-10-oz-latmura-sick-days-fund-renewal">להסכם הקיבוצי מיום 10.9.2003</ref>, הוסכם על חידוש ההסכם האמור, באופן שתחודש פעילות קרן ימי מחלה שהוקמה מכוח ההסכם הקיבוצי מיום <date date="1995-06-25">25.6.1995</date>. מובהר כי לעניין זה ימשיכו לחול סעיפים 4 עד 19 להסכם הקיבוצי מיום <date date="1995-06-25">25.6.1995</date>. לצורך מימון הקרן, יוקצה סכום חד פעמי בסך של 4 מיליון ש"ח בפריסה על פני <quantity eId="qty_76" refersTo="#year" normalized="4">4 שנים</quantity>, כך שבשנים 2018 - 2021, יוקצה, בכל שנה עד לחודש דצמבר, סכום של 1 מיליון ש"ח.</p>
+          <p>בהתאם לסעיף <ref href="/akn/il/act/collectiveAgreement/2003-09-10/2003-09-10-oz-latmura-sick-days-fund-renewal/!main#art_19">19</ref> <ref href="/akn/il/act/collectiveAgreement/2003-09-10/2003-09-10-oz-latmura-sick-days-fund-renewal">להסכם הקיבוצי מיום 10.9.2003</ref>, הוסכם על חידוש ההסכם האמור, באופן שתחודש פעילות קרן ימי מחלה שהוקמה מכוח ההסכם הקיבוצי מיום <date date="1995-06-25">25.6.1995</date>. מובהר כי לעניין זה ימשיכו לחול סעיפים 4 עד 19 להסכם הקיבוצי מיום <date date="1995-06-25">25.6.1995</date>. לצורך מימון הקרן, יוקצה סכום חד פעמי בסך של 4 מיליון ש"ח בפריסה על פני <quantity eId="qty_76" refersTo="#year" normalized="4">4 שנים</quantity>, כך שבשנים 2018 - 2021, יוקצה, בכל שנה עד לחודש דצמבר, סכום של 1 מיליון ש"ח.</p>
         </content>
       </article>
       <article eId="art_22" repo:prose="same-source">

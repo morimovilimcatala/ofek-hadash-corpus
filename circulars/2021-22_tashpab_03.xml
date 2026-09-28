@@ -153,7 +153,7 @@
       </p>
       <p>עו"ד <person eId="pers_9" refersTo="#p_4f19a187">איריס שלו-טל</person>, <organization eId="unt_3" refersTo="#unit_78decc8c">הלשכה המשפטית</organization>
       </p>
-      <p><role eId="rol_26" refersTo="#office_4ed2f902">מנהלי ומנהלות המחוזות</role>
+      <p><role eId="rol_27" refersTo="#office_4ed2f902">מנהלי ומנהלות המחוזות</role>
       </p>
       <p>גב' <person eId="pers_10" refersTo="#p_e03b783f" as="#role-menahel">דסי בארי</person>, <role eId="hed_4" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_4" refersTo="#unit_0eb7e54a">אגף א' חינוך על-יסודי</organization>
       </p>
@@ -171,16 +171,17 @@
       </p>
       <p>גב' <person eId="pers_17" refersTo="#p_bca8a4ab">חגית מגן</person>, ממונה על יחסי עבודה ושכר, <organization eId="org_21" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>גב' <person eId="pers_18" refersTo="#p_7e8ec746">מיכל מנקס</person>, סמנכ"ל חינוך וחברה מרכז שלטון מקומי</p>
-      <p>מר <person eId="pers_19" refersTo="#p_4572337a" as="#role-yor">אבי קמינסקי</person>, <role eId="rol_22" refersTo="#role-yor">יו"ר</role> <organization eId="unt_13" refersTo="#unit_ccbc3766">איגוד מנהלי אגפי החינוך ברשויות המקומיות</organization>
+      <p>גב' <person eId="pers_18" refersTo="#p_7e8ec746">מיכל מנקס</person>, סמנכ"ל חינוך וחברה <organization eId="org_22" refersTo="#local-government">מרכז שלטון מקומי</organization>
       </p>
-      <p>עו"ד <person eId="pers_20" refersTo="#p_bfdd3a7b" as="#office_293a6da2">עידית ורונין</person>, <role eId="rol_29" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_23" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>מר <person eId="pers_19" refersTo="#p_4572337a" as="#role-yor">אבי קמינסקי</person>, <role eId="rol_23" refersTo="#role-yor">יו"ר</role> <organization eId="unt_13" refersTo="#unit_ccbc3766">איגוד מנהלי אגפי החינוך ברשויות המקומיות</organization>
       </p>
-      <p>מר <person eId="pers_21" refersTo="#p_6f9e1f28" as="#role-mankal">שי חג'אג'</person>, <role eId="rol_24" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_25" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
+      <p>עו"ד <person eId="pers_20" refersTo="#p_bfdd3a7b" as="#office_293a6da2">עידית ורונין</person>, <role eId="rol_30" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_24" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p><role eId="rol_27" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      <p>מר <person eId="pers_21" refersTo="#p_6f9e1f28" as="#role-mankal">שי חג'אג'</person>, <role eId="rol_25" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_26" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
       </p>
-      <p><role eId="rol_28" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      <p><role eId="rol_28" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_29" refersTo="#office_987a4a52">חשבי המחוזות</role>
       </p>
     </conclusions>
   </doc>

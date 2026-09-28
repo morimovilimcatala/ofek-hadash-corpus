@@ -150,7 +150,9 @@
       </article>
       <article eId="art_c" repo:prose="same-source">
         <num>ג.</num>
-        <heading>הצטרפות <term eId="trm_1" refersTo="#term_43cffbce">הבעלות</term> <concept eId="con_8" refersTo="#reform_ofek">לאופק חדש</concept> תהיה עד ל.<date date="2025-08-31">31.8.2025</date>-</heading>
+        <content>
+          <p>הצטרפות <term eId="trm_1" refersTo="#term_43cffbce">הבעלות</term> <concept eId="con_8" refersTo="#reform_ofek">לאופק חדש</concept> תהיה עד ל.<date date="2025-08-31">31.8.2025</date>-</p>
+        </content>
       </article>
       <article eId="art_d" repo:prose="same-source">
         <num>ד.</num>

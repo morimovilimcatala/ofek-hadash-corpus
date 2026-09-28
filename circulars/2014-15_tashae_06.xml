@@ -135,7 +135,9 @@
     <mainBody>
       <article eId="art_1" repo:prose="same-source">
         <num>1</num>
-        <heading>יומיים על חשבון פגרת חנוכה -בתאריכים  <date date="2014-12-18">18.12.2014</date>ו<date date="2014-12-24">24.12.2014</date>-</heading>
+        <content>
+          <p>יומיים על חשבון פגרת חנוכה -בתאריכים  <date date="2014-12-18">18.12.2014</date>ו<date date="2014-12-24">24.12.2014</date>-</p>
+        </content>
       </article>
       <article eId="art_2" repo:prose="same-source">
         <num>2</num>

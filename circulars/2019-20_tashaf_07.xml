@@ -275,7 +275,7 @@
       </p>
       <p>עו"ד <person eId="pers_8" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_17" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
       </p>
-      <p><role eId="rol_28" refersTo="#office_4ed2f902">מנהלי ומנהלות המחוזות</role>
+      <p><role eId="rol_29" refersTo="#office_4ed2f902">מנהלי ומנהלות המחוזות</role>
       </p>
       <p>גב' <person eId="pers_9" refersTo="#p_3ba19377" as="#role-mazkir-klali">יפה בן דויד</person>, <role eId="rol_18" refersTo="#role-mazkir-klali">מזכ"לית</role> <organization eId="org_19" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
       </p>
@@ -302,13 +302,14 @@
       </p>
       <p>גב' <person eId="pers_24" refersTo="#p_f71cee61" as="#role-menahel">רחל טייטלבום</person>, <role eId="hed_11" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_13" refersTo="#unit_2d161a3e">תחום תנאי שירות עובדי הוראה</organization>
       </p>
-      <p>גב' <person eId="pers_25" refersTo="#p_bca8a4ab">חגית מגן</person>, ראש מנהלי שכר והסכמי עבודה, מרכז שלטון מקומי</p>
-      <p>מר <person eId="pers_26" refersTo="#p_4572337a">אבי קמינסקי</person>, <role eId="rol_23" refersTo="#role-yor">יו"ר</role> איגוד מנהלי מח' חינוך</p>
-      <p>מר <person eId="pers_27" refersTo="#p_6f9e1f28" as="#role-yor">שי חג'ג'</person>, <role eId="rol_24" refersTo="#role-yor">יו"ר</role> <organization eId="org_25" refersTo="#regional-councils-centre">מרכז המועצות האיזוריות</organization>
+      <p>גב' <person eId="pers_25" refersTo="#p_bca8a4ab">חגית מגן</person>, ראש מנהלי שכר והסכמי עבודה, <organization eId="org_23" refersTo="#local-government">מרכז שלטון מקומי</organization>
       </p>
-      <p><role eId="rol_29" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      <p>מר <person eId="pers_26" refersTo="#p_4572337a">אבי קמינסקי</person>, <role eId="rol_24" refersTo="#role-yor">יו"ר</role> איגוד מנהלי מח' חינוך</p>
+      <p>מר <person eId="pers_27" refersTo="#p_6f9e1f28" as="#role-yor">שי חג'ג'</person>, <role eId="rol_25" refersTo="#role-yor">יו"ר</role> <organization eId="org_26" refersTo="#regional-councils-centre">מרכז המועצות האיזוריות</organization>
       </p>
-      <p><role eId="rol_30" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      <p><role eId="rol_30" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      </p>
+      <p><role eId="rol_31" refersTo="#office_987a4a52">חשבי המחוזות</role>
       </p>
     </conclusions>
   </doc>

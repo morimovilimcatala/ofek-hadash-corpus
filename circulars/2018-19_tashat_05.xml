@@ -256,7 +256,9 @@
       </article>
       <article eId="art_6" repo:prose="same-source">
         <num>6</num>
-        <heading>ניסיון בהוראה לתלמידים בעלי צרכים ייחודיים</heading>
+        <content>
+          <p>ניסיון בהוראה לתלמידים בעלי צרכים ייחודיים</p>
+        </content>
       </article>
       <article eId="art_7" repo:prose="same-source">
         <num>7</num>
@@ -280,7 +282,9 @@
       </article>
       <article eId="art_10" repo:prose="same-source">
         <num>10</num>
-        <heading>כושר מינהלי: כושר בניהול משרד, חשבונות וכספים של מוסד חינוכי</heading>
+        <content>
+          <p>כושר מינהלי: כושר בניהול משרד, חשבונות וכספים של מוסד חינוכי</p>
+        </content>
       </article>
       <article eId="art_11" repo:prose="same-source">
         <num>11</num>

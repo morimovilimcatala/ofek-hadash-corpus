@@ -1010,8 +1010,10 @@
         </article>
         <article eId="art_21" repo:prose="same-source">
           <num>21</num>
-          <heading>מצ"ב קישור <a href="http://cms.education.gov.il/EducationCMS/Units/Sherut/TavlaOfek/Tavlaot.htm">לנספחים לטבלאות שכר</a>
-          </heading>
+          <content>
+            <p>מצ"ב קישור <a href="http://cms.education.gov.il/EducationCMS/Units/Sherut/TavlaOfek/Tavlaot.htm">לנספחים לטבלאות שכר</a>
+            </p>
+          </content>
         </article>
         <article eId="art_22" repo:prose="same-source">
           <num>22</num>

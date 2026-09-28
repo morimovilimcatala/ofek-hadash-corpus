@@ -5,7 +5,7 @@
  },
  "name": "מאגר אופק חדש — Ofek Hadash legal corpus — ontology",
  "url": "https://morimovilimcatala.github.io/ofek-hadash-corpus/ontology.html",
- "entityCount": 1036,
+ "entityCount": 1038,
  "concept": [
   {
    "@type": "skos:Concept",
@@ -3771,8 +3771,8 @@
    "page": "ontology/e-66471e04b748.html",
    "tlcKind": "TLCPerson",
    "kindLabel": "אנשים",
-   "documentCount": 100,
-   "markCount": 125,
+   "documentCount": 101,
+   "markCount": 126,
    "honorificPrefix": [
     "מר"
    ],
@@ -3811,6 +3811,11 @@
      "path": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.xml",
      "title": "הסכם קיבוצי כללי — שינוי מבנה שבוע העבודה",
      "html": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -16030,6 +16035,67 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "יעקב אגמון",
+   "uri": "/ontology/person/il/b7e59ed3",
+   "html": "ontology.html#e-68146ae64d19",
+   "page": "ontology/e-68146ae64d19.html",
+   "tlcKind": "TLCPerson",
+   "kindLabel": "אנשים",
+   "documentCount": 9,
+   "markCount": 9,
+   "honorificPrefix": [
+    "מר"
+   ],
+   "inDocuments": [
+    {
+     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
+     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.xml",
+     "title": "הסכם קיבוצי (שטר בוררות) — שיעור השחיקה ודרך חישובה",
+     "html": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
+     "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
+    },
+    {
+     "path": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל, הסתדרות המורים",
+     "html": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.xml",
+     "title": "הסכם קיבוצי — פסק בוררות בעניין שחיקת שכר עובדי הוראה",
+     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.html"
+    },
+    {
+     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
+     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
+     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.xml",
+     "title": "הסכם קיבוצי — שכר ותנאי עבודה ורפורמה בחינוך העל-יסודי",
+     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.html"
+    },
+    {
+     "path": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.xml",
+     "title": "הסכם קיבוצי — תשלום בגין שחיקת שכר עובדי הוראה מול שכר המהנדסים לשנים 2002 - 2007",
+     "html": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "יפעת לוי",
    "uri": "/ontology/person/il/97807776",
    "html": "ontology.html#e-cd11311ae21d",
@@ -16264,62 +16330,6 @@
   },
   {
    "@type": "skos:Concept",
-   "skos:prefLabel": "יעקב אגמון",
-   "uri": "/ontology/person/il/b7e59ed3",
-   "html": "ontology.html#e-68146ae64d19",
-   "page": "ontology/e-68146ae64d19.html",
-   "tlcKind": "TLCPerson",
-   "kindLabel": "אנשים",
-   "documentCount": 8,
-   "markCount": 8,
-   "honorificPrefix": [
-    "מר"
-   ],
-   "inDocuments": [
-    {
-     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
-     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.xml",
-     "title": "הסכם קיבוצי (שטר בוררות) — שיעור השחיקה ודרך חישובה",
-     "html": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.html"
-    },
-    {
-     "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
-     "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
-     "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
-    },
-    {
-     "path": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.xml",
-     "title": "הסכם קיבוצי — הפרשה לקופת גמל, הסתדרות המורים",
-     "html": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.xml",
-     "title": "הסכם קיבוצי — פסק בוררות בעניין שחיקת שכר עובדי הוראה",
-     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.html"
-    },
-    {
-     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
-     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
-     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.xml",
-     "title": "הסכם קיבוצי — שכר ותנאי עבודה ורפורמה בחינוך העל-יסודי",
-     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.html"
-    },
-    {
-     "path": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.xml",
-     "title": "הסכם קיבוצי — תשלום בגין שחיקת שכר עובדי הוראה מול שכר המהנדסים לשנים 2002 - 2007",
-     "html": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
    "skos:prefLabel": "מיכל אוריאל",
    "uri": "/ontology/person/il/ebde7b57",
    "html": "ontology.html#e-940ca33d93dd",
@@ -16539,6 +16549,57 @@
      "path": "circulars/2013-14_tashad_05.xml",
      "title": "חוזר לבעלויות תשע\"ד/5 - עדכון תעריף דמי שתיה לעובדי הוראה בחטיבה העליונה",
      "html": "circulars/2013-14_tashad_05.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "אילן שדות",
+   "uri": "/ontology/person/il/d1872f2f",
+   "html": "ontology.html#e-185753eac2f7",
+   "page": "ontology/e-185753eac2f7.html",
+   "tlcKind": "TLCPerson",
+   "kindLabel": "אנשים",
+   "documentCount": 7,
+   "markCount": 13,
+   "honorificPrefix": [
+    "מר"
+   ],
+   "inDocuments": [
+    {
+     "path": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.xml",
+     "title": "הסכם קיבוצי (שטר בוררות) — שיעור השחיקה ודרך חישובה",
+     "html": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
+     "title": "הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\" בחטיבות העליונות",
+     "html": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.xml",
+     "title": "הסכם קיבוצי — פסק בוררות בעניין שחיקת שכר עובדי הוראה",
+     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.xml",
+     "title": "הסכם קיבוצי — שכר ותנאי עבודה ורפורמה בחינוך העל-יסודי",
+     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml",
+     "title": "הסכם קיבוצי — תיקונים והתאמות בהסכם עוז לתמורה בעקבות הרפורמה בבחינות הבגרות",
+     "html": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.html"
+    },
+    {
+     "path": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.xml",
+     "title": "הסכם קיבוצי — תשלום בגין שחיקת שכר עובדי הוראה מול שכר המהנדסים לשנים 2002 - 2007",
+     "html": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.html"
     }
    ]
   },
@@ -16846,52 +16907,6 @@
      "path": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml",
      "title": "הסכם קיבוצי — תיקונים והתאמות בהסכם עוז לתמורה בעקבות הרפורמה בבחינות הבגרות",
      "html": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "אילן שדות",
-   "uri": "/ontology/person/il/d1872f2f",
-   "html": "ontology.html#e-185753eac2f7",
-   "page": "ontology/e-185753eac2f7.html",
-   "tlcKind": "TLCPerson",
-   "kindLabel": "אנשים",
-   "documentCount": 6,
-   "markCount": 12,
-   "honorificPrefix": [
-    "מר"
-   ],
-   "inDocuments": [
-    {
-     "path": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.xml",
-     "title": "הסכם קיבוצי (שטר בוררות) — שיעור השחיקה ודרך חישובה",
-     "html": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
-     "title": "הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\" בחטיבות העליונות",
-     "html": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.xml",
-     "title": "הסכם קיבוצי — פסק בוררות בעניין שחיקת שכר עובדי הוראה",
-     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.xml",
-     "title": "הסכם קיבוצי — שכר ותנאי עבודה ורפורמה בחינוך העל-יסודי",
-     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml",
-     "title": "הסכם קיבוצי — תיקונים והתאמות בהסכם עוז לתמורה בעקבות הרפורמה בבחינות הבגרות",
-     "html": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.html"
-    },
-    {
-     "path": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.xml",
-     "title": "הסכם קיבוצי — תשלום בגין שחיקת שכר עובדי הוראה מול שכר המהנדסים לשנים 2002 - 2007",
-     "html": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.html"
     }
    ]
   },
@@ -18234,6 +18249,37 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "גיורא רוזנטל",
+   "uri": "/ontology/person/il/f9d9468f",
+   "html": "ontology.html#e-da598350ec59",
+   "page": "ontology/e-da598350ec59.html",
+   "tlcKind": "TLCPerson",
+   "kindLabel": "אנשים",
+   "documentCount": 3,
+   "markCount": 3,
+   "honorificPrefix": [
+    "מר"
+   ],
+   "inDocuments": [
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
+     "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
+    },
+    {
+     "path": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל, הסתדרות המורים",
+     "html": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "דב דומברוביץ'",
    "uri": "/ontology/person/il/629fda14",
    "html": "ontology.html#e-9c23ba5ec484",
@@ -18690,32 +18736,6 @@
   },
   {
    "@type": "skos:Concept",
-   "skos:prefLabel": "גיורא רוזנטל",
-   "uri": "/ontology/person/il/f9d9468f",
-   "html": "ontology.html#e-da598350ec59",
-   "page": "ontology/e-da598350ec59.html",
-   "tlcKind": "TLCPerson",
-   "kindLabel": "אנשים",
-   "documentCount": 2,
-   "markCount": 2,
-   "honorificPrefix": [
-    "מר"
-   ],
-   "inDocuments": [
-    {
-     "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
-     "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
-     "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
-    },
-    {
-     "path": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.xml",
-     "title": "הסכם קיבוצי — הפרשה לקופת גמל, הסתדרות המורים",
-     "html": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
    "skos:prefLabel": "הלית בורובסקי טופז",
    "uri": "/ontology/person/il/87e2316e",
    "html": "ontology.html#e-a47b6e45a1df",
@@ -18815,6 +18835,32 @@
      "path": "agreements/framework/2023-07-17_framework-agreement_public-sector.xml",
      "title": "הסכם קיבוצי (מסגרת) — המגזר הציבורי 2023",
      "html": "agreements/framework/2023-07-17_framework-agreement_public-sector.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "יובל רכלבסקי",
+   "uri": "/ontology/person/il/c9327b2c",
+   "html": "ontology.html#e-e0b08b318fef",
+   "page": "ontology/e-e0b08b318fef.html",
+   "tlcKind": "TLCPerson",
+   "kindLabel": "אנשים",
+   "documentCount": 2,
+   "markCount": 3,
+   "honorificPrefix": [
+    "מר"
+   ],
+   "inDocuments": [
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
+     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
+     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
     }
    ]
   },
@@ -20784,27 +20830,6 @@
   },
   {
    "@type": "skos:Concept",
-   "skos:prefLabel": "יובל רכלבסקי",
-   "uri": "/ontology/person/il/c9327b2c",
-   "html": "ontology.html#e-e0b08b318fef",
-   "page": "ontology/e-e0b08b318fef.html",
-   "tlcKind": "TLCPerson",
-   "kindLabel": "אנשים",
-   "documentCount": 1,
-   "markCount": 2,
-   "honorificPrefix": [
-    "מר"
-   ],
-   "inDocuments": [
-    {
-     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
-     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
-     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
    "skos:prefLabel": "יוחנן שטסמן",
    "uri": "/ontology/person/il/c96e3ae0",
    "html": "ontology.html#e-43ec26ba0048",
@@ -22085,6 +22110,27 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "רונית תירוש",
+   "uri": "/ontology/person/il/bdad42bc",
+   "html": "ontology.html#e-6261299deb88",
+   "page": "ontology/e-6261299deb88.html",
+   "tlcKind": "TLCPerson",
+   "kindLabel": "אנשים",
+   "documentCount": 1,
+   "markCount": 1,
+   "honorificPrefix": [
+    "גב'"
+   ],
+   "inDocuments": [
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "רמי דיין",
    "uri": "/ontology/person/il/c0a6723f",
    "html": "ontology.html#e-6071ada853f7",
@@ -22442,8 +22488,8 @@
    "page": "ontology/e-09d3be608936.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 278,
-   "markCount": 2061,
+   "documentCount": 279,
+   "markCount": 2064,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -22554,6 +22600,11 @@
      "path": "agreements/ofek-hadash/2021-06-17_ofek-hadash_gan-cluster-managers_special-education.xml",
      "title": "הסכם קיבוצי מיוחד — החלת רפורמת אופק חדש על מנהלות אשכולות גנים בחינוך המיוחד",
      "html": "agreements/ofek-hadash/2021-06-17_ofek-hadash_gan-cluster-managers_special-education.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -23845,8 +23896,8 @@
    "page": "ontology/e-7b69d420f47f.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 253,
-   "markCount": 719,
+   "documentCount": 254,
+   "markCount": 720,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -24062,6 +24113,11 @@
      "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
      "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
      "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.xml",
@@ -25123,8 +25179,8 @@
    "page": "ontology/e-85c4ea89759b.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 244,
-   "markCount": 425,
+   "documentCount": 245,
+   "markCount": 426,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -25230,6 +25286,11 @@
      "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
      "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
      "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/ofek-hadash/2013-07-22_ofek-hadash_last-phase-deferral.xml",
@@ -26356,8 +26417,8 @@
    "page": "ontology/e-c91969348841.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 203,
-   "markCount": 641,
+   "documentCount": 204,
+   "markCount": 642,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -26413,6 +26474,11 @@
      "path": "agreements/ofek-hadash/2021-06-17_ofek-hadash_gan-cluster-managers.xml",
      "title": "הסכם קיבוצי מיוחד — גמול ניהול אשכולות גנים",
      "html": "agreements/ofek-hadash/2021-06-17_ofek-hadash_gan-cluster-managers.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/ofek-hadash/2012-02-29_ofek-hadash_amendment_hascam-hashlama.xml",
@@ -27384,8 +27450,8 @@
    "page": "ontology/e-7cf53b3439c9.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 160,
-   "markCount": 440,
+   "documentCount": 161,
+   "markCount": 448,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -27461,6 +27527,11 @@
      "path": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.xml",
      "title": "הסכם קיבוצי מיוחד בדבר שאילת והשאלת מורים בבית-ספר על-יסודי שש-שנתי",
      "html": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -28198,7 +28269,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 137,
-   "markCount": 409,
+   "markCount": 424,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -28256,6 +28327,11 @@
      "html": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.html"
     },
     {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
      "title": "הסכם קיבוצי מיום 14.3.2018 בין מרכז השלטון המקומי, שלוש הערים הגדולות ומרכז המועצות האזוריות לבין ארגון המורים",
      "html": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.html"
@@ -28274,11 +28350,6 @@
      "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
      "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
      "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
-     "title": "הסכם קיבוצי — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
-     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2008-01-24_oz-latmura_agreed-reform-implementation-start.xml",
@@ -32031,7 +32102,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 78,
-   "markCount": 85,
+   "markCount": 87,
    "inDocuments": [
     {
      "path": "takam/2019-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v13.xml",
@@ -32137,6 +32208,11 @@
      "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
      "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
      "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/teachers-general/2020-03-31_histadrut-hamorim_michlalot-covid-emergency.xml",
@@ -32252,11 +32328,6 @@
      "path": "agreements/teachers-general/2011-10-10_teachers_maonot-childcare-reimbursement.xml",
      "title": "הסכם קיבוצי — זכויות הוריות – תוספת מעונות",
      "html": "agreements/teachers-general/2011-10-10_teachers_maonot-childcare-reimbursement.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
-     "title": "הסכם קיבוצי — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
-     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/ofek-hadash/2008-08-31_ofek-hadash_pension-arrangement.xml",
@@ -33850,8 +33921,8 @@
    "page": "ontology/e-92b98a8f0b2f.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 63,
-   "markCount": 137,
+   "documentCount": 64,
+   "markCount": 140,
    "inDocuments": [
     {
      "path": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.xml",
@@ -33902,6 +33973,11 @@
      "path": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.xml",
      "title": "הסכם קיבוצי מיוחד בדבר שאילת והשאלת מורים בבית-ספר על-יסודי שש-שנתי",
      "html": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -38870,6 +38946,69 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "נציבות שירות המדינה",
+   "uri": "/ontology/organization/il/civil-service-commission",
+   "html": "ontology.html#e-1f2edc010db9",
+   "page": "ontology/e-1f2edc010db9.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 10,
+   "markCount": 28,
+   "inDocuments": [
+    {
+     "path": "takam/2008-08-01_takam_H-13-4-7_telefon-kavi-ishi_v1.xml",
+     "title": "הוראת תכ\"ם H.13.4.7 — החזר הוצאות טלפון קווי אישי (גרסה 1)",
+     "html": "takam/2008-08-01_takam_H-13-4-7_telefon-kavi-ishi_v1.html"
+    },
+    {
+     "path": "takam/2018-01-01_takam_H-13-4-7_telefon-kavi-ishi_v2.xml",
+     "title": "הוראת תכ\"ם H.13.4.7 — החזר הוצאות טלפון קווי אישי (גרסה 2)",
+     "html": "takam/2018-01-01_takam_H-13-4-7_telefon-kavi-ishi_v2.html"
+    },
+    {
+     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
+     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
+     "title": "הסכם קיבוצי מאושר — הפחתת שכר 2025-2026, כקבוע בחוק",
+     "html": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
+     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
+     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
+    },
+    {
+     "path": "circulars/2018-19_tashat_02.xml",
+     "title": "חוזר לבעלויות תשע\"ט/2 - הסכם בענין הרפורמות במכללות להכשרת עובדי הוראה -מתוקן",
+     "html": "circulars/2018-19_tashat_02.html"
+    },
+    {
+     "path": "circulars/2020-21_tashpa_03.xml",
+     "title": "חוזר לבעלויות תשפ\"א/3 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות -נוסח מעודכן נוהל זה מבטל את חוזר תשפ 8/",
+     "html": "circulars/2020-21_tashpa_03.html"
+    },
+    {
+     "path": "circulars/2019-20_tashaf_08.xml",
+     "title": "חוזר לבעלויות תשפ/8 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות",
+     "html": "circulars/2019-20_tashaf_08.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "תחום ארגון ותהליכים",
    "uri": "/ontology/organization/il/unit/d8f4bdc9",
    "html": "ontology.html#e-c2163801c81a",
@@ -39102,64 +39241,6 @@
      "path": "circulars/2013-14_tashad_07.xml",
      "title": "חוזר לבעלויות תשע\"ד/7 - תשלום דמי הבראה ומענק יובל לשנת הלימודים תשע\"ד",
      "html": "circulars/2013-14_tashad_07.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "נציבות שירות המדינה",
-   "uri": "/ontology/organization/il/civil-service-commission",
-   "html": "ontology.html#e-1f2edc010db9",
-   "page": "ontology/e-1f2edc010db9.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 9,
-   "markCount": 27,
-   "inDocuments": [
-    {
-     "path": "takam/2008-08-01_takam_H-13-4-7_telefon-kavi-ishi_v1.xml",
-     "title": "הוראת תכ\"ם H.13.4.7 — החזר הוצאות טלפון קווי אישי (גרסה 1)",
-     "html": "takam/2008-08-01_takam_H-13-4-7_telefon-kavi-ishi_v1.html"
-    },
-    {
-     "path": "takam/2018-01-01_takam_H-13-4-7_telefon-kavi-ishi_v2.xml",
-     "title": "הוראת תכ\"ם H.13.4.7 — החזר הוצאות טלפון קווי אישי (גרסה 2)",
-     "html": "takam/2018-01-01_takam_H-13-4-7_telefon-kavi-ishi_v2.html"
-    },
-    {
-     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
-     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
-     "title": "הסכם קיבוצי מאושר — הפחתת שכר 2025-2026, כקבוע בחוק",
-     "html": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.html"
-    },
-    {
-     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
-     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
-     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
-    },
-    {
-     "path": "circulars/2018-19_tashat_02.xml",
-     "title": "חוזר לבעלויות תשע\"ט/2 - הסכם בענין הרפורמות במכללות להכשרת עובדי הוראה -מתוקן",
-     "html": "circulars/2018-19_tashat_02.html"
-    },
-    {
-     "path": "circulars/2020-21_tashpa_03.xml",
-     "title": "חוזר לבעלויות תשפ\"א/3 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות -נוסח מעודכן נוהל זה מבטל את חוזר תשפ 8/",
-     "html": "circulars/2020-21_tashpa_03.html"
-    },
-    {
-     "path": "circulars/2019-20_tashaf_08.xml",
-     "title": "חוזר לבעלויות תשפ/8 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות",
-     "html": "circulars/2019-20_tashaf_08.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
@@ -39989,6 +40070,39 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "המחלקה לתנאי שירות",
+   "uri": "/ontology/organization/il/unit/109d839e",
+   "html": "ontology.html#e-7ca353098a1e",
+   "page": "ontology/e-7ca353098a1e.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 4,
+   "markCount": 31,
+   "inDocuments": [
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_07.xml",
+     "title": "חוזר לבעלויות תשע\"ב/7 - יישום רפורמת \"עוז לתמורה\" ביישום חלקי וביישום מלא",
+     "html": "circulars/2011-12_tashab_07.html"
+    },
+    {
+     "path": "circulars/2008-09_tashsat_02.xml",
+     "title": "חוזר תשס\"ט/2 - עדכון פרטי בעלויות תשס\"ט",
+     "html": "circulars/2008-09_tashsat_02.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "חברת דואר ישראל בע\"מ",
    "uri": "/ontology/organization/il/israel-post",
    "html": "ontology.html#e-7e5b017c1716",
@@ -40228,34 +40342,6 @@
      "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
      "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
      "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "המחלקה לתנאי שירות",
-   "uri": "/ontology/organization/il/unit/109d839e",
-   "html": "ontology.html#e-7ca353098a1e",
-   "page": "ontology/e-7ca353098a1e.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 3,
-   "markCount": 30,
-   "inDocuments": [
-    {
-     "path": "circulars/2011-12_tashab_07.xml",
-     "title": "חוזר לבעלויות תשע\"ב/7 - יישום רפורמת \"עוז לתמורה\" ביישום חלקי וביישום מלא",
-     "html": "circulars/2011-12_tashab_07.html"
-    },
-    {
-     "path": "circulars/2008-09_tashsat_02.xml",
-     "title": "חוזר תשס\"ט/2 - עדכון פרטי בעלויות תשס\"ט",
-     "html": "circulars/2008-09_tashsat_02.html"
     },
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -40668,8 +40754,8 @@
    "page": "ontology/e-d9cf10d9b315.html",
    "tlcKind": "TLCRole",
    "kindLabel": "תפקידים",
-   "documentCount": 232,
-   "markCount": 529,
+   "documentCount": 233,
+   "markCount": 530,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -40810,6 +40896,11 @@
      "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
      "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
      "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.xml",
@@ -41841,8 +41932,8 @@
    "page": "ontology/e-e83bf727c47b.html",
    "tlcKind": "TLCRole",
    "kindLabel": "תפקידים",
-   "documentCount": 193,
-   "markCount": 459,
+   "documentCount": 194,
+   "markCount": 461,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -41978,6 +42069,11 @@
      "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
      "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
      "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -43547,8 +43643,8 @@
    "page": "ontology/e-3870fc0168e0.html",
    "tlcKind": "TLCRole",
    "kindLabel": "תפקידים",
-   "documentCount": 132,
-   "markCount": 392,
+   "documentCount": 133,
+   "markCount": 395,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -43614,6 +43710,11 @@
      "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
      "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
      "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -46537,8 +46638,8 @@
    "page": "ontology/e-ac32deebd30f.html",
    "tlcKind": "TLCRole",
    "kindLabel": "תפקידים",
-   "documentCount": 105,
-   "markCount": 125,
+   "documentCount": 106,
+   "markCount": 126,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -46674,6 +46775,11 @@
      "path": "circulars/2015-16_tashav_10.xml",
      "title": "חוזר לבעלויות תשע\"ו/10 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ו",
      "html": "circulars/2015-16_tashav_10.html"
+    },
+    {
+     "path": "circulars/2015-16_tashav_02.xml",
+     "title": "חוזר לבעלויות תשע\"ו/2",
+     "html": "circulars/2015-16_tashav_02.html"
     },
     {
      "path": "circulars/2015-16_tashav_03.xml",
@@ -51557,8 +51663,8 @@
    "page": "ontology/e-d6fb44906f7c.html",
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
-   "documentCount": 218,
-   "markCount": 9024,
+   "documentCount": 219,
+   "markCount": 9025,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -51689,6 +51795,11 @@
      "path": "agreements/ofek-hadash/2021-06-17_ofek-hadash_gan-cluster-managers_special-education.xml",
      "title": "הסכם קיבוצי מיוחד — החלת רפורמת אופק חדש על מנהלות אשכולות גנים בחינוך המיוחד",
      "html": "agreements/ofek-hadash/2021-06-17_ofek-hadash_gan-cluster-managers_special-education.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -55946,8 +56057,8 @@
    "page": "ontology/e-dd2cacadc10b.html",
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
-   "documentCount": 81,
-   "markCount": 490,
+   "documentCount": 82,
+   "markCount": 493,
    "inDocuments": [
     {
      "path": "takam/2017-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v11.xml",
@@ -56028,6 +56139,11 @@
      "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
      "title": "הסכם קיבוצי מאושר — הפחתת שכר 2025-2026, כקבוע בחוק",
      "html": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -56727,8 +56843,8 @@
    "page": "ontology/e-a51d746622c4.html",
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
-   "documentCount": 58,
-   "markCount": 222,
+   "documentCount": 59,
+   "markCount": 224,
    "inDocuments": [
     {
      "path": "takam/2019-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v13.xml",
@@ -56819,6 +56935,11 @@
      "path": "agreements/ofek-hadash/2021-06-17_ofek-hadash_gan-cluster-managers_special-education.xml",
      "title": "הסכם קיבוצי מיוחד — החלת רפורמת אופק חדש על מנהלות אשכולות גנים בחינוך המיוחד",
      "html": "agreements/ofek-hadash/2021-06-17_ofek-hadash_gan-cluster-managers_special-education.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/ofek-hadash/2016-02-22_ofek-hadash_hascam-2016_tables-and-sheklit.xml",
@@ -61501,8 +61622,8 @@
    "page": "ontology/e-dff50f93d35e.html",
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
-   "documentCount": 52,
-   "markCount": 1241,
+   "documentCount": 53,
+   "markCount": 1247,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2022-10-19_ofek-hadash_wage-agreement.xml",
@@ -61543,6 +61664,11 @@
      "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
      "title": "הסכם קיבוצי מאושר — הפחתת שכר 2025-2026, כקבוע בחוק",
      "html": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.xml",
@@ -62432,8 +62558,8 @@
    "page": "ontology/e-d2493052ff97.html",
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
-   "documentCount": 20,
-   "markCount": 195,
+   "documentCount": 21,
+   "markCount": 201,
    "standsFor": [
     "/ontology/organization/il/bar-ilan-university",
     "/ontology/organization/il/ben-gurion-university",
@@ -62499,6 +62625,11 @@
      "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
      "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
      "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -62988,6 +63119,77 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "ארגון המורים",
+   "uri": "/ontology/term/il/60a200b2",
+   "html": "ontology.html#e-789259a5306d",
+   "page": "ontology/e-789259a5306d.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 11,
+   "markCount": 11,
+   "standsFor": [
+    "/ontology/organization/il/irgun-hamorim"
+   ],
+   "inDocuments": [
+    {
+     "path": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.xml",
+     "title": "הסכם קיבוצי (שטר בוררות) — שיעור השחיקה ודרך חישובה",
+     "html": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
+     "title": "הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\" בחטיבות העליונות",
+     "html": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.xml",
+     "title": "הסכם קיבוצי כללי — שינוי מבנה שבוע העבודה",
+     "html": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
+     "title": "הסכם קיבוצי מיום 14.3.2018 בין מרכז השלטון המקומי, שלוש הערים הגדולות ומרכז המועצות האזוריות לבין ארגון המורים",
+     "html": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.xml",
+     "title": "הסכם קיבוצי מיום 23.3.2017 בין מרכז השלטון המקומי ושלוש הערים הגדולות לבין ארגון המורים",
+     "html": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.html"
+    },
+    {
+     "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
+     "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.xml",
+     "title": "הסכם קיבוצי — פסק בוררות בעניין שחיקת שכר עובדי הוראה",
+     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.xml",
+     "title": "הסכם קיבוצי — שכר ותנאי עבודה ורפורמה בחינוך העל-יסודי",
+     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.html"
+    },
+    {
+     "path": "agreements/oz-latmura/1998-09-08_oz-latmura_out-of-school-activity_livui-tiyulim-gmul.xml",
+     "title": "הסכם קיבוצי — תגמול בגין ליווי טיולים ופעילות חוץ בית ספרית",
+     "html": "agreements/oz-latmura/1998-09-08_oz-latmura_out-of-school-activity_livui-tiyulim-gmul.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml",
+     "title": "הסכם קיבוצי — תיקונים והתאמות בהסכם עוז לתמורה בעקבות הרפורמה בבחינות הבגרות",
+     "html": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "רפורמת דרך שווה",
    "uri": "/ontology/term/il/cd8b4422",
    "html": "ontology.html#e-5b63f6b9173b",
@@ -63051,72 +63253,6 @@
      "path": "takam/2024-08-08_takam_H-13-4-2_kitzuvat-nesia_v9.xml",
      "title": "הוראת תכ\"ם H.13.4.2 — תשלום קצובת נסיעה (גרסה 9)",
      "html": "takam/2024-08-08_takam_H-13-4-2_kitzuvat-nesia_v9.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "ארגון המורים",
-   "uri": "/ontology/term/il/60a200b2",
-   "html": "ontology.html#e-789259a5306d",
-   "page": "ontology/e-789259a5306d.html",
-   "tlcKind": "TLCTerm",
-   "kindLabel": "מונחים מוגדרים",
-   "documentCount": 10,
-   "markCount": 10,
-   "standsFor": [
-    "/ontology/organization/il/irgun-hamorim"
-   ],
-   "inDocuments": [
-    {
-     "path": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.xml",
-     "title": "הסכם קיבוצי (שטר בוררות) — שיעור השחיקה ודרך חישובה",
-     "html": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
-     "title": "הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\" בחטיבות העליונות",
-     "html": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.xml",
-     "title": "הסכם קיבוצי כללי — שינוי מבנה שבוע העבודה",
-     "html": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
-     "title": "הסכם קיבוצי מיום 14.3.2018 בין מרכז השלטון המקומי, שלוש הערים הגדולות ומרכז המועצות האזוריות לבין ארגון המורים",
-     "html": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.xml",
-     "title": "הסכם קיבוצי מיום 23.3.2017 בין מרכז השלטון המקומי ושלוש הערים הגדולות לבין ארגון המורים",
-     "html": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.html"
-    },
-    {
-     "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
-     "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
-     "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.xml",
-     "title": "הסכם קיבוצי — פסק בוררות בעניין שחיקת שכר עובדי הוראה",
-     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.xml",
-     "title": "הסכם קיבוצי — שכר ותנאי עבודה ורפורמה בחינוך העל-יסודי",
-     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.html"
-    },
-    {
-     "path": "agreements/oz-latmura/1998-09-08_oz-latmura_out-of-school-activity_livui-tiyulim-gmul.xml",
-     "title": "הסכם קיבוצי — תגמול בגין ליווי טיולים ופעילות חוץ בית ספרית",
-     "html": "agreements/oz-latmura/1998-09-08_oz-latmura_out-of-school-activity_livui-tiyulim-gmul.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml",
-     "title": "הסכם קיבוצי — תיקונים והתאמות בהסכם עוז לתמורה בעקבות הרפורמה בבחינות הבגרות",
-     "html": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.html"
     }
    ]
   },
@@ -67106,6 +67242,29 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "הקרן",
+   "uri": "/ontology/term/il/10fa2e35",
+   "html": "ontology.html#e-56d6eee6babe",
+   "page": "ontology/e-56d6eee6babe.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 2,
+   "markCount": 73,
+   "inDocuments": [
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "התוכנית",
    "uri": "/ontology/term/il/f13d5efc",
    "html": "ontology.html#e-fd5f34f9ffe8",
@@ -70204,6 +70363,24 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "הסכם ימי מחלה",
+   "uri": "/ontology/term/il/febbbd4b",
+   "html": "ontology.html#e-85b18e8aa509",
+   "page": "ontology/e-85b18e8aa509.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 1,
+   "inDocuments": [
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "הסכם מיום 31.8.2016",
    "uri": "/ontology/term/il/58af0621",
    "html": "ontology.html#e-2981f3c7794e",
@@ -70554,24 +70731,6 @@
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
    "markCount": 9,
-   "inDocuments": [
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "הקרן",
-   "uri": "/ontology/term/il/10fa2e35",
-   "html": "ontology.html#e-56d6eee6babe",
-   "page": "ontology/e-56d6eee6babe.html",
-   "tlcKind": "TLCTerm",
-   "kindLabel": "מונחים מוגדרים",
-   "documentCount": 1,
-   "markCount": 50,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
