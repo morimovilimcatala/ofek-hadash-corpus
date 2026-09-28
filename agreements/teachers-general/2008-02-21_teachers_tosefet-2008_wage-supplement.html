@@ -393,6 +393,9 @@
   }
 
   function place(op, showDiff){
+    // Two instruments of one day replacing one clause differently (MMS-306):
+    // which applies to whom is a reading, not a composition.
+    if(op.clash) return false;
     const at = doc.querySelector('[id="' + CSS.escape(op.eid) + '"]') || byLabel(op);
     if(!at) return false;
     if(op.type === 'renumbering') return renumber(at, op, showDiff);
@@ -586,6 +589,10 @@
   // sub-clause the amendment names — §140 prints (א) to (ה) and the 29.2.2012
   // amendment inserts a (ז) "after (ו)".
   function whyMissing(op){
+    if(op.clash){
+      return op.label + ' — שני מסמכים מאותו יום מחליפים אותו בנוסחים שונים, ' +
+             'והנוסח המוצג אינו מכריע ביניהם.';
+    }
     const art = op.eid.split('__')[0];
     const node = doc.querySelector('[id="' + CSS.escape(art) + '"]');
     const name = art.replace(/^art_/, 'סעיף ');
