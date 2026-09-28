@@ -9,7 +9,7 @@
 - **חוזרים** (circular): 210
 - **הסכמים קיבוציים** (collectiveAgreement): 87
 - **טבלאות שכר** (salaryTable): 32
-- **instruction** (instruction): 21
+- **הוראות תכ"ם** (instruction): 21
 - **תקנון שירות עובדי הוראה** (takanon): 7
 - **חוקים** (act): 1
 - **letter** (letter): 1

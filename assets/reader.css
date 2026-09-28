@@ -227,6 +227,12 @@ a{color:var(--accent);}
 .sub>summary .count{margin-inline-start:auto;}
 .sub>summary .count{margin-inline-start:auto; font-variant-numeric:tabular-nums;}
 .sub>summary .lbl{font-variant-numeric:tabular-nums;}
+/* A LONG FOLDER NAME WRAPS inside the rail rather than running past its
+   edge: a תכ"ם instruction's sub-folder is named by its subject (2026-09-28),
+   and "HOD.13.4.7.1 — סכום לתשלום החזר הוצאות טלפון קווי אישי בהתאם לרמת
+   זכאות" was cut off at the rail's left edge with its count pushed out. */
+.sub>summary .lbl{white-space:normal; flex:1; min-width:0;
+  overflow-wrap:anywhere;}
 .folder li a{
   display:flex; align-items:flex-start; gap:8px; padding:6px 8px;
   border-radius:4px; text-decoration:none; color:var(--ink);
