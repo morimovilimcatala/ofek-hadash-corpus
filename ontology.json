@@ -7754,8 +7754,8 @@
    "page": "ontology/e-29c6c41839f1.html",
    "tlcKind": "TLCPerson",
    "kindLabel": "אנשים",
-   "documentCount": 47,
-   "markCount": 51,
+   "documentCount": 48,
+   "markCount": 52,
    "honorificPrefix": [
     "מר"
    ],
@@ -7779,6 +7779,11 @@
      "path": "agreements/framework/2023-07-17_framework-agreement_public-sector.xml",
      "title": "הסכם קיבוצי (מסגרת) — המגזר הציבורי 2023",
      "html": "agreements/framework/2023-07-17_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
+     "title": "הסכם קיבוצי מאושר — הפחתת שכר 2025-2026, כקבוע בחוק",
+     "html": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.html"
     },
     {
      "path": "agreements/ofek-hadash/2023-08-06_ofek-hadash_ulpan-teachers-application.xml",
@@ -8503,7 +8508,7 @@
    "tlcKind": "TLCPerson",
    "kindLabel": "אנשים",
    "documentCount": 46,
-   "markCount": 49,
+   "markCount": 50,
    "honorificPrefix": [
     "גב'"
    ],
@@ -11092,7 +11097,7 @@
    "tlcKind": "TLCPerson",
    "kindLabel": "אנשים",
    "documentCount": 34,
-   "markCount": 35,
+   "markCount": 36,
    "honorificPrefix": [
     "מר"
    ],
@@ -29559,7 +29564,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 131,
-   "markCount": 378,
+   "markCount": 383,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -32026,7 +32031,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 78,
-   "markCount": 84,
+   "markCount": 85,
    "inDocuments": [
     {
      "path": "takam/2019-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v13.xml",
@@ -39107,6 +39112,64 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "נציבות שירות המדינה",
+   "uri": "/ontology/organization/il/civil-service-commission",
+   "html": "ontology.html#e-1f2edc010db9",
+   "page": "ontology/e-1f2edc010db9.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 9,
+   "markCount": 27,
+   "inDocuments": [
+    {
+     "path": "takam/2008-08-01_takam_H-13-4-7_telefon-kavi-ishi_v1.xml",
+     "title": "הוראת תכ\"ם H.13.4.7 — החזר הוצאות טלפון קווי אישי (גרסה 1)",
+     "html": "takam/2008-08-01_takam_H-13-4-7_telefon-kavi-ishi_v1.html"
+    },
+    {
+     "path": "takam/2018-01-01_takam_H-13-4-7_telefon-kavi-ishi_v2.xml",
+     "title": "הוראת תכ\"ם H.13.4.7 — החזר הוצאות טלפון קווי אישי (גרסה 2)",
+     "html": "takam/2018-01-01_takam_H-13-4-7_telefon-kavi-ishi_v2.html"
+    },
+    {
+     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
+     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
+     "title": "הסכם קיבוצי מאושר — הפחתת שכר 2025-2026, כקבוע בחוק",
+     "html": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.html"
+    },
+    {
+     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
+     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
+     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
+    },
+    {
+     "path": "circulars/2018-19_tashat_02.xml",
+     "title": "חוזר לבעלויות תשע\"ט/2 - הסכם בענין הרפורמות במכללות להכשרת עובדי הוראה -מתוקן",
+     "html": "circulars/2018-19_tashat_02.html"
+    },
+    {
+     "path": "circulars/2020-21_tashpa_03.xml",
+     "title": "חוזר לבעלויות תשפ\"א/3 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות -נוסח מעודכן נוהל זה מבטל את חוזר תשפ 8/",
+     "html": "circulars/2020-21_tashpa_03.html"
+    },
+    {
+     "path": "circulars/2019-20_tashaf_08.xml",
+     "title": "חוזר לבעלויות תשפ/8 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות",
+     "html": "circulars/2019-20_tashaf_08.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "שירות התעסוקה",
    "uri": "/ontology/organization/il/employment-service",
    "html": "ontology.html#e-1755185e944c",
@@ -39377,59 +39440,6 @@
      "path": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.xml",
      "title": "תוספת מעונות (זכויות הוריות), על פי הסכם המסגרת מיום 12.1.2011",
      "html": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "נציבות שירות המדינה",
-   "uri": "/ontology/organization/il/civil-service-commission",
-   "html": "ontology.html#e-1f2edc010db9",
-   "page": "ontology/e-1f2edc010db9.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 8,
-   "markCount": 26,
-   "inDocuments": [
-    {
-     "path": "takam/2008-08-01_takam_H-13-4-7_telefon-kavi-ishi_v1.xml",
-     "title": "הוראת תכ\"ם H.13.4.7 — החזר הוצאות טלפון קווי אישי (גרסה 1)",
-     "html": "takam/2008-08-01_takam_H-13-4-7_telefon-kavi-ishi_v1.html"
-    },
-    {
-     "path": "takam/2018-01-01_takam_H-13-4-7_telefon-kavi-ishi_v2.xml",
-     "title": "הוראת תכ\"ם H.13.4.7 — החזר הוצאות טלפון קווי אישי (גרסה 2)",
-     "html": "takam/2018-01-01_takam_H-13-4-7_telefon-kavi-ishi_v2.html"
-    },
-    {
-     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
-     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
-     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
-     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
-    },
-    {
-     "path": "circulars/2018-19_tashat_02.xml",
-     "title": "חוזר לבעלויות תשע\"ט/2 - הסכם בענין הרפורמות במכללות להכשרת עובדי הוראה -מתוקן",
-     "html": "circulars/2018-19_tashat_02.html"
-    },
-    {
-     "path": "circulars/2020-21_tashpa_03.xml",
-     "title": "חוזר לבעלויות תשפ\"א/3 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות -נוסח מעודכן נוהל זה מבטל את חוזר תשפ 8/",
-     "html": "circulars/2020-21_tashpa_03.html"
-    },
-    {
-     "path": "circulars/2019-20_tashaf_08.xml",
-     "title": "חוזר לבעלויות תשפ/8 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות",
-     "html": "circulars/2019-20_tashaf_08.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
@@ -41842,7 +41852,7 @@
    "tlcKind": "TLCRole",
    "kindLabel": "תפקידים",
    "documentCount": 193,
-   "markCount": 458,
+   "markCount": 459,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -45442,7 +45452,7 @@
    "tlcKind": "TLCRole",
    "kindLabel": "תפקידים",
    "documentCount": 107,
-   "markCount": 157,
+   "markCount": 158,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -50440,7 +50450,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 223,
-   "markCount": 45207,
+   "markCount": 45216,
    "inDocuments": [
     {
      "path": "circulars/2022-23_tashpag_09_clarif.xml",
@@ -51568,7 +51578,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 218,
-   "markCount": 9022,
+   "markCount": 9024,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -55961,8 +55971,8 @@
    "page": "ontology/e-dd2cacadc10b.html",
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
-   "documentCount": 81,
-   "markCount": 491,
+   "documentCount": 82,
+   "markCount": 492,
    "inDocuments": [
     {
      "path": "takam/2017-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v11.xml",
@@ -56038,6 +56048,11 @@
      "path": "agreements/ofek-hadash/2007-09-10_ofek-hadash_reform-founding-agreement.xml",
      "title": "הסכם קיבוצי לתחילת יישום הרפורמה במערכת החינוך",
      "html": "agreements/ofek-hadash/2007-09-10_ofek-hadash_reform-founding-agreement.html"
+    },
+    {
+     "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
+     "title": "הסכם קיבוצי מאושר — הפחתת שכר 2025-2026, כקבוע בחוק",
+     "html": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.html"
     },
     {
      "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
@@ -61522,7 +61537,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 52,
-   "markCount": 1239,
+   "markCount": 1241,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2022-10-19_ofek-hadash_wage-agreement.xml",
@@ -61795,7 +61810,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 34,
-   "markCount": 742,
+   "markCount": 745,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
@@ -61978,7 +61993,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 31,
-   "markCount": 243,
+   "markCount": 244,
    "standsFor": [
     "/ontology/organization/il/government",
     "/ontology/organization/il/state"
@@ -64298,7 +64313,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 5,
-   "markCount": 5,
+   "markCount": 6,
    "inDocuments": [
     {
      "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
@@ -73283,7 +73298,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 3,
+   "markCount": 4,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
@@ -74385,7 +74400,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 2,
+   "markCount": 5,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",

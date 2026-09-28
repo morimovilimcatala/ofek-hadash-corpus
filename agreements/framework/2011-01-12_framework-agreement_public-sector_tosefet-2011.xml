@@ -1744,7 +1744,7 @@
                         <clause eId="att_2__att_2__hc_1__para_5__subpara_a__cls_1">
                           <num>1.</num>
                           <content>
-                            <p>בסעיף 1.א. לחוזרנו הע 2010-1-47 מיום <date date="2010-11-15">15.11.2010</date> נאמר "עובד בשירות המדינה, אשר משכורתו מחושבת לפי ההסכמים הקיבוציים החלים על הדירוגים המיוצגים על-ידי <organization eId="org_101" refersTo="#histadrut">ההסתדרות הכללית</organization> ואשר מפורטים בנספח א', ואשר היה מועסק בשירות המדינה ביום <date date="2010-07-01">1.7.2010</date> ומועסק ברצף ועד ליום <date date="2010-11-01">1.11.2010</date>, יהא זכאי למענק חד פעמי בסכום של <quantity eId="qty_62" refersTo="#ILS" normalized="2000">2,000 ₪</quantity> בהתאם למפורט להלן".</p>
+                            <p>בסעיף 1.א. לחוזרנו הע 2010-1-47 מיום <date date="2010-11-15">15.11.2010</date> נאמר "עובד בשירות המדינה, אשר משכורתו מחושבת לפי ההסכמים הקיבוציים החלים על הדירוגים המיוצגים על-ידי <organization eId="org_101" refersTo="#histadrut">ההסתדרות הכללית</organization> ואשר מפורטים <ref href="#att_1">בנספח א'</ref>, ואשר היה מועסק בשירות המדינה ביום <date date="2010-07-01">1.7.2010</date> ומועסק ברצף ועד ליום <date date="2010-11-01">1.11.2010</date>, יהא זכאי למענק חד פעמי בסכום של <quantity eId="qty_62" refersTo="#ILS" normalized="2000">2,000 ₪</quantity> בהתאם למפורט להלן".</p>
                           </content>
                         </clause>
                         <clause eId="att_2__att_2__hc_1__para_5__subpara_a__cls_2">
