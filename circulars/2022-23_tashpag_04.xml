@@ -46,11 +46,15 @@
             <destination href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement/!main#art_6__para_d__subpara_3" pos="after" />
             <new href="#art_12__para_12-2__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_4" type="substitution">
+          <textualMod eId="amod_4" type="insertion" repo:adds="art_36__para_g">
+            <source href="#art_15__para_15-1__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_36" pos="end" />
+          </textualMod>
+          <textualMod eId="amod_5" type="substitution">
             <source href="#art_17__para_17-1__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_c" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_5" type="substitution">
+          <textualMod eId="amod_6" type="substitution">
             <source href="#art_17__para_17-1__mod_2" />
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_c" pos="unspecified" />
           </textualMod>
@@ -544,7 +548,7 @@
             <subparagraph eId="art_9__para_9-1__subpara_9-1-2">
               <num>9.1.2</num>
               <content>
-                <p>סעיף 4 ח. <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul">להסכם הטיולים</ref> וסעיף 40 (ד) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (שתוקן בסעיף 29 להסכם ההשלמה), יתוקנו כך שבמקום "פחות מ- <quantity eId="qty_32" refersTo="#hour" normalized="4">4 שעות</quantity>" ייכתב בהם "פחות מ- <quantity eId="qty_33" refersTo="#hour" normalized="7">7 שעות</quantity>".</p>
+                <p>סעיף 4 ח. <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul">להסכם הטיולים</ref> וסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_40__para_d">40 (ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (שתוקן בסעיף 29 להסכם ההשלמה), יתוקנו כך שבמקום "פחות מ- <quantity eId="qty_32" refersTo="#hour" normalized="4">4 שעות</quantity>" ייכתב בהם "פחות מ- <quantity eId="qty_33" refersTo="#hour" normalized="7">7 שעות</quantity>".</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_9__para_9-1__subpara_9-1-3">
@@ -768,10 +772,13 @@
           <paragraph eId="art_15__para_15-1">
             <num>15.1</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יתווסף סעיף 36 (ז) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> :</p>
-              <p>"36(ז) באותם מקרים חריגים וקצובים בזמן מוגדר בהם מאשר <organization eId="org_33" refersTo="#moe">משרד החינוך</organization> שיבוץ להעסקת מורה חדש אשר אינו אקדמאי ואשר אינו זכאי לשכר מתמחה בהוראה על פי הוראות סעיפים <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_145">145</ref>- <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_148">148</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, ישובץ המורה בטבלאות השכר <quantity eId="qty_55" refersTo="#grade" normalized="1">בדרגה 1</quantity> <quantity eId="qty_56" refersTo="#seniority" normalized="1">ובותק 1</quantity>.</p>
-              <p>מורה חדש שאינו אקדמאי בעל ותק מוכר משירות בצה"ל בהוראה או משירות לאומי בהוראה, כאמור בסעיף 37 להלן, ישובץ בהתאם לוותקו האמור.</p>
-              <p>טבלת השכר בה ישובץ המורה (בכיר, מוסמך או בלתי מוסמך) תקבע בהתאם להשכלתו."</p>
+              <p><mod eId="art_15__para_15-1__mod_1">החל מיום <date date="2023-09-01">1.9.2023</date> יתווסף סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_36__para_g">36 (ז)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> :<quotedStructure eId="art_15__para_15-1__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                    <p>36(ז) באותם מקרים חריגים וקצובים בזמן מוגדר בהם מאשר <organization eId="org_33" refersTo="#moe">משרד החינוך</organization> שיבוץ להעסקת מורה חדש אשר אינו אקדמאי ואשר אינו זכאי לשכר מתמחה בהוראה על פי הוראות סעיפים <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_145">145</ref>- <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_148">148</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, ישובץ המורה בטבלאות השכר <quantity eId="qty_55" refersTo="#grade" normalized="1">בדרגה 1</quantity> <quantity eId="qty_56" refersTo="#seniority" normalized="1">ובותק 1</quantity>.</p>
+                    <p>מורה חדש שאינו אקדמאי בעל ותק מוכר משירות בצה"ל בהוראה או משירות לאומי בהוראה, כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_37">37</ref> להלן, ישובץ בהתאם לוותקו האמור.</p>
+                    <p>טבלת השכר בה ישובץ המורה (בכיר, מוסמך או בלתי מוסמך) תקבע בהתאם להשכלתו.</p>
+                  </quotedStructure>
+                </mod>
+              </p>
             </content>
           </paragraph>
           <paragraph eId="art_15__para_15-2">

@@ -1042,6 +1042,24 @@
   // A clause that already HAS a number is given another in its place:
   // "האמור בסעיף-קטן (טז) יסומן "(טו)"".
   // Only the number is marked as changed; the words are the signed text's.
+  // THE PARAGRAPH A RENUMBERING MAKES HAS THE ADDRESS THE ENCODER WOULD
+  // GIVE IT (MMS-305): "האמור בסעיף 40 יסומן "(א)"" makes §40's (א), and
+  // (ב)-(ד) are inserted after it, so a link to §40(ד) needs the (א) found.
+  // tools/akn_composed.py's `renumbered` is the same rule.
+  const LATIN = {'א':'a','ב':'b','ג':'c','ד':'d','ה':'e','ו':'f','ז':'g',
+                 'ח':'h','ט':'i','י':'j','כ':'k','ל':'l','מ':'m','נ':'n',
+                 'ס':'o','ע':'p','פ':'q','צ':'r','ק':'s','ר':'t','ש':'u',
+                 'ת':'v'};
+  function renumberedId(at, op){
+    const steps = (at.id || '').split('__');
+    const token = [...(op.num || '').replace(/[()\s"״“”'׳.]/g, '')]
+      .map(ch => LATIN[ch] || (/\d/.test(ch) ? ch : 'x')).join('');
+    if(!at.id || !token || steps.length > LEVELS.length) return null;
+    if(steps.length > 1 && !op.words) return null;
+    const id = at.id + '__' + LEVELS[steps.length - 1] + '_' + token;
+    return document.getElementById(id) ? null : id;
+  }
+
   function renumber(at, op, showDiff){
     const number = document.createElement('span');
     number.className = 'amended' + (showDiff ? ' ins' : '');
@@ -1074,6 +1092,8 @@
       if(numbered(body[0]) === op.num) return body[0];
       body[0].before(para);
       para.append(...body);
+      const id = renumberedId(at, op);
+      if(id) para.id = id;
       return para;
     }
     // THE WORDS ARE THE INSTRUMENT'S, not this repository's: a transcriber's
@@ -1113,6 +1133,8 @@
     if(!container.children.length && !container.textContent.trim()){
       container.remove();
     }
+    const id = renumberedId(at, op);
+    if(id) para.id = id;
     return para;
   }
 
@@ -1243,6 +1265,11 @@
     }
     if(op.pos === 'end') at.append(holder); else at.after(holder);
     if(op.type === 'insertion') mint(op, holder);
+    // A clause the formula adds by name, "יתווסף סעיף 36 (ז)" (MMS-305):
+    // its quotation prints no marker, so the holder takes the address.
+    if(op.adds && !holder.id && !document.getElementById(op.adds)){
+      holder.id = op.adds;
+    }
     if(!holder.id) holder.id = 'chg_' + (++landed);
     return holder;
   }
