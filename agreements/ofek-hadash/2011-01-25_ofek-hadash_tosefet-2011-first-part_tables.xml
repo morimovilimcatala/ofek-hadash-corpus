@@ -190,8 +190,8 @@
             <num>(1)</num>
             <content>
               <p>לגבי עובדי ההוראה המועסקים בתנאי הרפורמה, ולגבי <term eId="trm_11" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתפקידי פיקוח ומטה בהתאם להסכם הקיבוצי מיום <date date="2010-07-05">5.7.2010</date>, יעודכנו טבלאות השכר בשיעור של <quantity eId="qty_3" refersTo="#percentage" normalized="2.25">2.25%</quantity>.</p>
-              <p>טבלאות השכר המעודכנות החלות לגבי <term eId="trm_12" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתנאי הרפורמה מצורפות <ref href="#att_1">כנספחים א1'</ref> עד א22' להסכם זה.</p>
-              <p>טבלאות השכר המעודכנות החלות לגבי <term eId="trm_13" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתפקידי פיקוח ומטה מצורפות <ref href="#att_23">כנספחים ב1'</ref> עד ב8' להסכם זה.</p>
+              <p>טבלאות השכר המעודכנות החלות לגבי <term eId="trm_12" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתנאי הרפורמה מצורפות <ref href="#att_1">כנספחים א1'</ref> עד <ref href="#att_22">א22'</ref> להסכם זה.</p>
+              <p>טבלאות השכר המעודכנות החלות לגבי <term eId="trm_13" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתפקידי פיקוח ומטה מצורפות <ref href="#att_23">כנספחים ב1'</ref> עד <ref href="#att_30">ב8'</ref> להסכם זה.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_4__para_b__subpara_2">

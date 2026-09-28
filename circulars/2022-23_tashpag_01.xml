@@ -297,7 +297,7 @@
                 <p>כתב ההתחייבות יועבר <organization eId="org_36" refersTo="#moe">למשרד החינוך</organization> אך ורק באמצעות פורטל רשויות ובעלויות בקישור להלן:</p>
                 <p><a href="https://pob.education.gov.il/Talmidim/kindergartens/Pages/kindergarten-ofek.aspx">https://pob.education.gov.il/Talmidim/kindergartens/Pages/kindergarten-ofek.aspx</a>
                 </p>
-                <p><ref href="#att_1">נספחים א'</ref> וב' לא ישלחו <organization eId="org_37" refersTo="#moe">למשרד החינוך</organization>, אלא ישמרו אצל <term eId="trm_26" refersTo="#term_43cffbce">הבעלות</term> לצרכי ניהול וכן בקרה עתידית של המשרד.</p>
+                <p><ref href="#att_1">נספחים א'</ref> ו<ref href="#att_2">ב'</ref> לא ישלחו <organization eId="org_37" refersTo="#moe">למשרד החינוך</organization>, אלא ישמרו אצל <term eId="trm_26" refersTo="#term_43cffbce">הבעלות</term> לצרכי ניהול וכן בקרה עתידית של המשרד.</p>
                 <p>המועד האחרון להעברת כתב ההתחייבות להצטרפות לרפורמת <concept eId="con_38" refersTo="#reform_ofek">אופק חדש</concept> בשנה"ל תשפ"ג הוא .<date date="2022-08-15">15.8.2022</date>
                 </p>
                 <p>פתיחת תיקים כאמור בפרק א' לעיל.             .2</p>
@@ -1519,7 +1519,7 @@
             <clause eId="art_f__para_13-3__subpara_14__cls_5">
               <num>5.</num>
               <content>
-                <p>להחתים כל עובד/ת הוראה שאינו/ה עומד/ת בתנאי ההשכלה הנדרשת – תואר אקדמי  /דרגת שכר שוות ערך לתואר אקדמי ו/או תעודת הוראה ("תנאי כשירות" כנדרש <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>) ומבקש/ת להיות מועסק/ת בתנאי <concept eId="con_150" refersTo="#reform_ofek">אופק חדש</concept>, להשלים את השכלתו/ה בהתאם למפורט <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref> ולהעביר כתב התחייבות זה <organization eId="org_151" refersTo="#moe">למשרד החינוך</organization> בקישור להלן (<a href="https://meyda.education.gov.il/files/PortalBaaluyot/POB/kindergarten-ofek-c.pdf">נוסח כתב ההתחייבות להשלמת השכלה אקדמית מצורף כנספח ג</a>'; נוסח התחייבות להשלמת תעודת הוראה מצ"ב <ref href="#att_4">כנספח ד'</ref>);</p>
+                <p>להחתים כל עובד/ת הוראה שאינו/ה עומד/ת בתנאי ההשכלה הנדרשת – תואר אקדמי  /דרגת שכר שוות ערך לתואר אקדמי ו/או תעודת הוראה ("תנאי כשירות" כנדרש <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>) ומבקש/ת להיות מועסק/ת בתנאי <concept eId="con_150" refersTo="#reform_ofek">אופק חדש</concept>, להשלים את השכלתו/ה בהתאם למפורט <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref> ולהעביר כתב התחייבות זה <organization eId="org_151" refersTo="#moe">למשרד החינוך</organization> בקישור להלן (<a href="https://meyda.education.gov.il/files/PortalBaaluyot/POB/kindergarten-ofek-c.pdf">נוסח כתב ההתחייבות להשלמת השכלה</a> אקדמית מצורף <ref href="#att_3">כנספח ג'</ref>; נוסח התחייבות להשלמת תעודת הוראה מצ"ב <ref href="#att_4">כנספח ד'</ref>);</p>
               </content>
             </clause>
             <clause eId="art_f__para_13-3__subpara_14__cls_6">

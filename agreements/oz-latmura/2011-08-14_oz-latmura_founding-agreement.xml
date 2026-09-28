@@ -621,7 +621,7 @@
           <paragraph eId="art_11__para_b">
             <num>(ב)</num>
             <content>
-              <p>במקרה בו מורה אם ממשיכה להיות מועסקת לפי מבנה שבוע העבודה אשר היה חל לגביה אילולא היתה מורה אם (אותו מספר שעות מכל סוג), בהתאם להוראות ההסכמים הקיבוציים החלים בעניין זה, אזי משכורתה תחושב לפי היקף משרה הגדול ב – <quantity eId="qty_18" refersTo="#percentage" normalized="7">7%</quantity> משיעורו בפועל, כמפורט בנספח א' להסכם זה.</p>
+              <p>במקרה בו מורה אם ממשיכה להיות מועסקת לפי מבנה שבוע העבודה אשר היה חל לגביה אילולא היתה מורה אם (אותו מספר שעות מכל סוג), בהתאם להוראות ההסכמים הקיבוציים החלים בעניין זה, אזי משכורתה תחושב לפי היקף משרה הגדול ב – <quantity eId="qty_18" refersTo="#percentage" normalized="7">7%</quantity> משיעורו בפועל, כמפורט <ref href="#att_1">בנספח א'</ref> להסכם זה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_11__para_c">
@@ -1505,7 +1505,7 @@
           <paragraph eId="art_21__para_b">
             <num>(ב)</num>
             <intro>
-              <p>במקום האמור בנספח א' <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-oz-latmura-out-of-school-activity-livui-tiyulim-gmul">להסכם הקיבוצי מיום 8.9.98</ref> יבוא האמור להלן:</p>
+              <p>במקום האמור בנספח <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-oz-latmura-out-of-school-activity-livui-tiyulim-gmul/!main#att_1">א'</ref> <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-oz-latmura-out-of-school-activity-livui-tiyulim-gmul">להסכם הקיבוצי מיום 8.9.98</ref> יבוא האמור להלן:</p>
               <p>עובד הוראה המלווה טיול או משתתף בפעילות חוץ בית ספרית, ביום החופשי שלו או ביום בו אינו משובץ ביום עבודה מלא (<quantity eId="qty_74" refersTo="#hour" normalized="8">8 שעות</quantity>), יהיה זכאי לתשלום עבור שעות, לפי ערך שעת מילוי מקום, בהתאם למפורט להלן:</p>
             </intro>
             <subparagraph eId="art_21__para_b__subpara_1">
@@ -1769,7 +1769,7 @@
           <paragraph eId="art_26__para_b">
             <num>(ב)</num>
             <content>
-              <p>מורה המועסק במשרה חלקית, ביישום חלקי של <term eId="trm_117" refersTo="#term_0d75357b">הרפורמה</term>, יועסק בהתאם למבנה שבוע העבודה המפורט <ref href="#att_10">בנספחים ג'1</ref> עד ג'3 להסכם זה.</p>
+              <p>מורה המועסק במשרה חלקית, ביישום חלקי של <term eId="trm_117" refersTo="#term_0d75357b">הרפורמה</term>, יועסק בהתאם למבנה שבוע העבודה המפורט <ref href="#att_10">בנספחים ג'1</ref> עד <ref href="#att_12">ג'3</ref> להסכם זה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_26__para_c">
@@ -1781,7 +1781,7 @@
           <paragraph eId="art_26__para_d">
             <num>(ד)</num>
             <content>
-              <p>מבנה שבוע העבודה של מורה אם ושל מורה הזכאי למלוא הפחתת השעות בשל גיל יהיה בהתאם למפורט <ref href="#att_2">בנספחים א'1</ref> עד א'3 ו – ב'1 עד ב'3 בהתאמה.</p>
+              <p>מבנה שבוע העבודה של מורה אם ושל מורה הזכאי למלוא הפחתת השעות בשל גיל יהיה בהתאם למפורט <ref href="#att_2">בנספחים א'1</ref> עד <ref href="#att_4">א'3</ref> ו – <ref href="#att_6">ב'1</ref> עד <ref href="#att_8">ב'3</ref> בהתאמה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_26__para_e">

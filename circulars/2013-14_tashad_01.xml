@@ -163,7 +163,7 @@
         <num>4</num>
         <content>
           <p>הבעלות תבצע את הפעולות הבאות לצורך קביעת דרגת שכר ראשונית לעו"ה :</p>
-          <p>לצורך קביעת דרגת <concept eId="con_25" refersTo="#reform_ofek">אופק חדש</concept> לעובדי הוראה שצורפו <concept eId="con_26" refersTo="#reform_ofek">לאופק חדש</concept>, הבעלות נדרשת לשלוח ממשק נתוני שכר למוקד המרות <concept eId="con_27" refersTo="#reform_ofek">אופק חדש</concept> (חברת יוניק), בהתאם למפורט בחוזר ההוראות לבניית קובץ נתוני שכר להמרה עבור הבעליות, שנשלח מאת אגף הכספים, <organization eId="org_28" refersTo="#moe">במשרד החינוך</organization> ומצורף כנספח ב'. בהתאם לכך יקבע <organization eId="org_29" refersTo="#moe">משרד החינוך</organization> את דרגת ההמרה לכל עו"ה.</p>
+          <p>לצורך קביעת דרגת <concept eId="con_25" refersTo="#reform_ofek">אופק חדש</concept> לעובדי הוראה שצורפו <concept eId="con_26" refersTo="#reform_ofek">לאופק חדש</concept>, הבעלות נדרשת לשלוח ממשק נתוני שכר למוקד המרות <concept eId="con_27" refersTo="#reform_ofek">אופק חדש</concept> (חברת יוניק), בהתאם למפורט בחוזר ההוראות לבניית קובץ נתוני שכר להמרה עבור הבעליות, שנשלח מאת אגף הכספים, <organization eId="org_28" refersTo="#moe">במשרד החינוך</organization> ומצורף <ref href="#att_2">כנספח ב'</ref>. בהתאם לכך יקבע <organization eId="org_29" refersTo="#moe">משרד החינוך</organization> את דרגת ההמרה לכל עו"ה.</p>
           <p>לתשומת לבך, עו"ה שלא ישובץ כנדרש במערכת שיבוץ כאמור לעיל, לא ניתן יהיה לבצע עבורו המרת שכר לצורך קביעת דרגת אופק ולא ניתן יהיה לקדמו בוותק, דרגות וכד'.</p>
         </content>
       </article>

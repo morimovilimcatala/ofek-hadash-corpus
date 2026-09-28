@@ -247,7 +247,7 @@
           <paragraph eId="art_4__para_4-1">
             <num>4.1</num>
             <content>
-              <p>החל מיום <date date="2022-09-01">1.9.2022</date> טבלאות השכר המשולב החדשות הקבועות <ref href="#att_1">בנספחים א1</ref> עד א8 יבואו במקום טבלאות השכר המשולב החלות ערב חתימת הסכם זה לגבי <term eId="trm_25" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתנאי <concept eId="con_24" refersTo="#reform_ofek">אופק חדש</concept>. התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
+              <p>החל מיום <date date="2022-09-01">1.9.2022</date> טבלאות השכר המשולב החדשות הקבועות <ref href="#att_1">בנספחים א1</ref> עד <ref href="#att_22">א8</ref> יבואו במקום טבלאות השכר המשולב החלות ערב חתימת הסכם זה לגבי <term eId="trm_25" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בתנאי <concept eId="con_24" refersTo="#reform_ofek">אופק חדש</concept>. התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_4__para_4-2">
@@ -267,13 +267,13 @@
           <paragraph eId="art_5__para_5-1">
             <num>5.1</num>
             <content>
-              <p>החל מיום <date date="2022-09-01">1.9.2022</date> יהיו עובדי ההוראה עליהם חל סעיף זה אשר מועסקים במשרה מלאה (<quantity eId="qty_1" refersTo="#percentage" normalized="100">100%</quantity>), במוסדות חינוך <organization eId="org_25" refersTo="#moe">במשרד החינוך</organization> זכאים לתוספת שקלית בהתאם לדרגתם כמפורט בטבלאות המצורפות <ref href="#att_2">כנספחים ב1</ref> עד ב7 להסכם זה, בכפוף לכללים המפורטים בסעיפים קטנים 5.3 עד 5.5 (להלן: "<def refersTo="#term_5502ffde #comp_ofek-2022">תוספת אופק 2022</def>"). התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
+              <p>החל מיום <date date="2022-09-01">1.9.2022</date> יהיו עובדי ההוראה עליהם חל סעיף זה אשר מועסקים במשרה מלאה (<quantity eId="qty_1" refersTo="#percentage" normalized="100">100%</quantity>), במוסדות חינוך <organization eId="org_25" refersTo="#moe">במשרד החינוך</organization> זכאים לתוספת שקלית בהתאם לדרגתם כמפורט בטבלאות המצורפות <ref href="#att_2">כנספחים ב1</ref> עד <ref href="#att_20">ב7</ref> להסכם זה, בכפוף לכללים המפורטים בסעיפים קטנים 5.3 עד 5.5 (להלן: "<def refersTo="#term_5502ffde #comp_ofek-2022">תוספת אופק 2022</def>"). התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_5__para_5-2">
             <num>5.2</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> <term eId="trm_27" refersTo="#term_5502ffde">תוספת אופק 2022</term> תהיה כמפורט <ref href="#att_3">בנספחים ג1</ref> עד ג7 להסכם זה.</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> <term eId="trm_27" refersTo="#term_5502ffde">תוספת אופק 2022</term> תהיה כמפורט <ref href="#att_3">בנספחים ג1</ref> עד <ref href="#att_21">ג7</ref> להסכם זה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_5__para_5-3">
@@ -615,7 +615,7 @@
             <subparagraph eId="art_13__para_13-1__subpara_13-1-3">
               <num>13.1.3</num>
               <content>
-                <p>נספח א' <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul">להסכם הטיולים</ref> (אשר מתייחס לתגמול המשולם, על בסיס שעות מילוי מקום, לעובד הוראה אשר מלווה טיולים ביום החופשי שלו או ביום בו הנו מועסק במשך פחות מ -<quantity eId="qty_39" refersTo="#hour" normalized="4">4 שעות</quantity>), יבוטל ויוחלף בנספח ה' להסכם זה (אשר מתייחס לתגמול המשולם, על בסיס שעות מילוי מקום, לעובד הוראה אשר מלווה טיולים ביום החופשי שלו או ביום בו הנו מועסק במשך פחות מ - <quantity eId="qty_40" refersTo="#hour" normalized="7">7 שעות</quantity>).</p>
+                <p>נספח <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul/!main#att_1">א'</ref> <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul">להסכם הטיולים</ref> (אשר מתייחס לתגמול המשולם, על בסיס שעות מילוי מקום, לעובד הוראה אשר מלווה טיולים ביום החופשי שלו או ביום בו הנו מועסק במשך פחות מ -<quantity eId="qty_39" refersTo="#hour" normalized="4">4 שעות</quantity>), יבוטל ויוחלף בנספח ה' להסכם זה (אשר מתייחס לתגמול המשולם, על בסיס שעות מילוי מקום, לעובד הוראה אשר מלווה טיולים ביום החופשי שלו או ביום בו הנו מועסק במשך פחות מ - <quantity eId="qty_40" refersTo="#hour" normalized="7">7 שעות</quantity>).</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -4380,7 +4380,7 @@
           <mainBody>
             <hcontainer eId="att_5__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
                 <p><term eId="trm_118" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_81" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
                 <table>
                   <tr>
@@ -4574,7 +4574,7 @@
                 </table>
                 <p>מעודכן החל מיום <date date="2023-09-01">1.9.2023</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -7514,7 +7514,7 @@
                 </table>
                 <p>טבלה מעודכנת החל מיום <date date="2022-09-01">1.9.2022</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -7857,7 +7857,7 @@
                 </table>
                 <p>מעודכן החל מיום <date date="2023-01-01">1.1.2023</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -10795,7 +10795,7 @@
                     </td>
                   </tr>
                 </table>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
                 <p>טבלה מעודכנת החל מיום <date date="2022-09-01">1.9.2022</date>
                 </p>
               </content>
@@ -11140,7 +11140,7 @@
                 </table>
                 <p>מעודכן החל מיום <date date="2023-09-01">1.9.2023</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -14080,7 +14080,7 @@
                 </table>
                 <p>טבלה מעודכנת החל מיום <date date="2022-09-01">1.9.2022</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -14423,7 +14423,7 @@
                 </table>
                 <p>מעודכן החל מיום <date date="2023-09-01">1.9.2023</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -17363,7 +17363,7 @@
                 </table>
                 <p>טבלה מעודכנת החל מיום <date date="2022-09-01">1.9.2022</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -17706,7 +17706,7 @@
                 </table>
                 <p>מעודכן החל מיום <date date="2023-09-01">1.9.2023</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -20646,7 +20646,7 @@
                 </table>
                 <p>טבלה מעודכנת החל מיום <date date="2022-09-01">1.9.2022</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -20989,7 +20989,7 @@
                 </table>
                 <p>מעודכן החל מיום <date date="2023-09-01">1.9.2023</date>
                 </p>
-                <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
+                <p><ref href="#att_1">נספחים א1</ref>-<ref href="#att_23">א9</ref>, <ref href="#att_2">ב1</ref>-<ref href="#att_20">ב7</ref> מוסכמים</p>
               </content>
             </hcontainer>
           </mainBody>
