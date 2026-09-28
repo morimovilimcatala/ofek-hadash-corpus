@@ -39,6 +39,20 @@
         <eventRef eId="e_signature" date="2021-06-17" source="#repo-generator" type="generation" />
         <eventRef eId="e_entryIntoForce" date="2021-09-01" source="#repo-generator" type="generation" />
       </lifecycle>
+      <analysis source="#repo-generator">
+        <activeModifications>
+          <textualMod eId="amod_1" type="substitution">
+            <source href="#part_4__para_1__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_144ג__para_a" pos="unspecified" />
+            <new href="#part_4__para_1__mod_1__qstr_1" />
+          </textualMod>
+          <textualMod eId="amod_2" type="insertion">
+            <source href="#art_6__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_144ד" pos="after" />
+            <new href="#art_6__mod_1__qstr_1" />
+          </textualMod>
+        </activeModifications>
+      </analysis>
       <temporalData source="#repo-generator">
         <temporalGroup eId="tg_inForce">
           <timeInterval eId="ti_inForce" start="#e_entryIntoForce" refersTo="#inForce" />

@@ -39,6 +39,15 @@
         <eventRef eId="e_signature" date="2021-06-17" source="#repo-generator" type="generation" />
         <eventRef eId="e_entryIntoForce" date="2021-09-01" source="#repo-generator" type="generation" />
       </lifecycle>
+      <analysis source="#repo-generator">
+        <activeModifications>
+          <textualMod eId="amod_1" type="substitution">
+            <source href="#art_6__para_b__subpara_2__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_144ג__para_a" pos="unspecified" />
+            <new href="#art_6__para_b__subpara_2__mod_1__qstr_1" />
+          </textualMod>
+        </activeModifications>
+      </analysis>
       <temporalData source="#repo-generator">
         <temporalGroup eId="tg_inForce">
           <timeInterval eId="ti_inForce" start="#e_entryIntoForce" refersTo="#inForce" />
@@ -221,7 +230,7 @@
             <subparagraph eId="art_6__para_b__subpara_2">
               <num>(2)</num>
               <content>
-                <p><mod eId="art_6__para_b__subpara_2__mod_1" repo:amends="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">במקום האמור בסעיף קטן 144ג.(א) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק</ref> (הכלול בסעיף <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama/!main#art_82">82</ref> <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">להסכם ההשלמה</ref>) יבוא:<quotedStructure eId="art_6__para_b__subpara_2__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                <p><mod eId="art_6__para_b__subpara_2__mod_1">במקום האמור בסעיף קטן 144ג.(א) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק</ref> (הכלול בסעיף <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama/!main#art_82">82</ref> <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">להסכם ההשלמה</ref>) יבוא:<quotedStructure eId="art_6__para_b__subpara_2__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
                       <paragraph eId="art_6__para_b__subpara_2__mod_1__qstr_1__para_a">
                         <num>(א)</num>
                         <intro>

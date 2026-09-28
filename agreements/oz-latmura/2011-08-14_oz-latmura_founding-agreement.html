@@ -1139,9 +1139,29 @@
     // holds: "אחרי פרק מ … יבוא: מ1. … 144א." Only an article-numbered
     // clause is an address there.
     const tops = [];
+    // A QUOTED CHAPTER AFTER A CHAPTER (MMS-306) takes that chapter's
+    // address and its own sub-number: "מ2" after chapter מ (part_40) is
+    // part_40-2, where "אחרי פרק מ2" lands.
+    const chapter = /^(part|chp)_(\d{1,3})$/.exec(op.eid);
+    const HEB = {'א':1,'ב':2,'ג':3,'ד':4,'ה':5,'ו':6,'ז':7,'ח':8,'ט':9,'י':10,
+                 'כ':20,'ל':30,'מ':40,'נ':50,'ס':60,'ע':70,'פ':80,'צ':90,
+                 'ק':100,'ר':200,'ש':300,'ת':400};
     const collect = (kids, grouped) => {
       for(const kid of kids){
-        if(/__hc_[^_]+$/.test(kid.id || '')) collect(kid.children, true);
+        if(/__hc_[^_]+$/.test(kid.id || '')){
+          const num = kid.querySelector(':scope > .akn-num');
+          const own = num && /^([א-ת]{1,3})(\d)$/.exec(
+            num.textContent.replace(/[.\s]/g, ''));
+          const id = chapter && own ? op.eid + '-' + own[2] : null;
+          if(id && [...own[1]].reduce((n, ch) => n + (HEB[ch] || 0), 0)
+                     === Number(chapter[2])
+             && !document.getElementById(id)){
+            kid.id = id;
+            const shown = kid.querySelector(':scope > .eid');
+            if(shown) shown.textContent = id;
+          }
+          collect(kid.children, true);
+        }
         else tops.push([kid, grouped]);
       }
     };
