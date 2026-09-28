@@ -94,6 +94,10 @@
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_36__para_f" pos="unspecified" />
             <new href="#art_34__para_c__mod_1__qstr_1" />
           </textualMod>
+          <textualMod eId="amod_12" type="insertion" repo:rows="true">
+            <source href="#art_35__para_a__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_20__para_a__subpara_1" pos="inside" />
+          </textualMod>
         </activeModifications>
       </analysis>
       <references source="#repo-generator">
@@ -1563,72 +1567,75 @@
           <paragraph eId="art_35__para_a">
             <num>(א)</num>
             <content>
-              <p>החל מיום <date date="2025-09-01">01.09.2025</date>, בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_20__para_a__subpara_1">20(א)(1)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, יתווספו לטבלת התפקידים המזכים בנקודות זכות, התפקידים הבאים:</p>
+              <p><mod eId="art_35__para_a__mod_1">החל מיום <date date="2025-09-01">01.09.2025</date>, בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_20__para_a__subpara_1">20(א)(1)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, יתווספו לטבלת התפקידים המזכים בנקודות זכות, התפקידים הבאים:<quotedStructure eId="art_35__para_a__mod_1__qstr_1" startQuote="">
+                    <table>
+                      <tr>
+                        <th>
+                          <p>רכז פדגוגי</p>
+                        </th>
+                        <th>
+                          <p>2.5</p>
+                        </th>
+                      </tr>
+                      <tr>
+                        <td>
+                          <p>רכז השתלבות האוכלוסיות המיוחדות</p>
+                        </td>
+                        <td>
+                          <p><quantity eId="qty_114" refersTo="#ILS" normalized="2.5">2.5</quantity>
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <p>רכז תקשוב וטכנולוגיות</p>
+                        </td>
+                        <td>
+                          <p><quantity eId="qty_115" refersTo="#ILS" normalized="2.5">2.5</quantity>
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <p>רכז בגרות</p>
+                        </td>
+                        <td>
+                          <p><quantity eId="qty_116" refersTo="#ILS" normalized="2.5">2.5</quantity>
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <p>רכז משמעת ואקלים חינוכי</p>
+                        </td>
+                        <td>
+                          <p><quantity eId="qty_117" refersTo="#ILS" normalized="2.5">2.5</quantity>
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <p>רכז ייעוץ</p>
+                        </td>
+                        <td>
+                          <p><quantity eId="qty_118" refersTo="#ILS" normalized="2.5">2.5</quantity>
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <p>רכז מערכת</p>
+                        </td>
+                        <td>
+                          <p><quantity eId="qty_119" refersTo="#ILS" normalized="2.5">2.5</quantity>
+                          </p>
+                        </td>
+                      </tr>
+                    </table>
+                  </quotedStructure>
+                </mod>
+              </p>
               <p>[טבלה: התפקיד | נקודות זכות]</p>
-              <table>
-                <tr>
-                  <th>
-                    <p>רכז פדגוגי</p>
-                  </th>
-                  <th>
-                    <p>2.5</p>
-                  </th>
-                </tr>
-                <tr>
-                  <td>
-                    <p>רכז השתלבות האוכלוסיות המיוחדות</p>
-                  </td>
-                  <td>
-                    <p><quantity eId="qty_114" refersTo="#ILS" normalized="2.5">2.5</quantity>
-                    </p>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p>רכז תקשוב וטכנולוגיות</p>
-                  </td>
-                  <td>
-                    <p><quantity eId="qty_115" refersTo="#ILS" normalized="2.5">2.5</quantity>
-                    </p>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p>רכז בגרות</p>
-                  </td>
-                  <td>
-                    <p><quantity eId="qty_116" refersTo="#ILS" normalized="2.5">2.5</quantity>
-                    </p>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p>רכז משמעת ואקלים חינוכי</p>
-                  </td>
-                  <td>
-                    <p><quantity eId="qty_117" refersTo="#ILS" normalized="2.5">2.5</quantity>
-                    </p>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p>רכז ייעוץ</p>
-                  </td>
-                  <td>
-                    <p><quantity eId="qty_118" refersTo="#ILS" normalized="2.5">2.5</quantity>
-                    </p>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p>רכז מערכת</p>
-                  </td>
-                  <td>
-                    <p><quantity eId="qty_119" refersTo="#ILS" normalized="2.5">2.5</quantity>
-                    </p>
-                  </td>
-                </tr>
-              </table>
             </content>
           </paragraph>
           <paragraph eId="art_35__para_b">

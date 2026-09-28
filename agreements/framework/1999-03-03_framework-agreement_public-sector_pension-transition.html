@@ -546,6 +546,29 @@
     // one is meant is a question and not a composition.
     // AFTER THE CLAUSE'S TABLE (MMS-245): "בסעיף קטן (ב), אחרי הטבלה יבוא:"
     // puts its matter after the one table the clause holds, inside it.
+    // ROWS ADDED TO THE CLAUSE'S TABLE (MMS-308): "יתווספו לטבלת התפקידים
+    // … התפקידים הבאים:" over a quoted table. Its rows join the clause's
+    // one table, as data rows, rather than standing after it as a second.
+    if(op.type === 'insertion' && op.pos === 'inside' && op.rows){
+      const tables = at.querySelectorAll('table');
+      const quoted = holder.querySelector('table');
+      if(tables.length !== 1 || !quoted) return false;
+      const body = tables[0].tBodies[0] || tables[0];
+      let first = null;
+      for(const row of [...quoted.rows]){
+        for(const cell of [...row.cells]){
+          if(cell.tagName !== 'TH') continue;
+          const td = document.createElement('td');
+          td.append(...cell.childNodes);
+          cell.replaceWith(td);
+        }
+        row.classList.add('amended');
+        if(showDiff) row.classList.add('ins');
+        body.append(row);
+        first = first || row;
+      }
+      return first || false;
+    }
     if(op.type === 'insertion' && op.pos === 'inside'){
       const tables = at.querySelectorAll('table');
       if(tables.length !== 1) return false;
