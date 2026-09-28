@@ -330,7 +330,7 @@
         <paragraph eId="art_5__para_5-2">
           <num>5.2</num>
           <content>
-            <p>מובהר כי מקור העלות האמורה בסעיף 5.1, בשיעור <quantity eId="qty_4" refersTo="#percentage" normalized="1.2">1.2%</quantity>, נובע מסעיף 5 <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם הקיבוצי עם ארגון המורים מיום 31.8.94</ref>.</p>
+            <p>מובהר כי מקור העלות האמורה בסעיף 5.1, בשיעור <quantity eId="qty_4" refersTo="#percentage" normalized="1.2">1.2%</quantity>, נובע מסעיף <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994/!main#art_5">5</ref> <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם הקיבוצי עם ארגון המורים מיום 31.8.94</ref>.</p>
           </content>
         </paragraph>
       </article>
@@ -389,13 +389,13 @@
         <paragraph eId="art_10__para_10-4">
           <num>10.4</num>
           <content>
-            <p>מוסכם כי מקור העלות האמורה בסעיף 10.3 נובע מסעיף 5 <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם הקיבוצי עם ארגון המורים מיום 31.8.94</ref>.</p>
+            <p>מוסכם כי מקור העלות האמורה בסעיף 10.3 נובע מסעיף <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994/!main#art_5">5</ref> <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם הקיבוצי עם ארגון המורים מיום 31.8.94</ref>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_10__para_10-5">
           <num>10.5</num>
           <content>
-            <p>מוסכם בין הצדדים, כי האמור בסעיף זה מהווה מיצוי מלא ומוחלט של האמור בסעיף 5 <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם עם ארגון המורים מיום 31.8.94</ref>.</p>
+            <p>מוסכם בין הצדדים, כי האמור בסעיף זה מהווה מיצוי מלא ומוחלט של האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994/!main#art_5">5</ref> <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם עם ארגון המורים מיום 31.8.94</ref>.</p>
             <p><organization eId="org_16" refersTo="#irgun-hamorim">ארגון המורים</organization> מתחייב לא להעלות כל תביעה מכל מין וסוג שהוא בעניין הפרשה לקופת גמל או לפנסיה, בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים על בסיס הסעיף האמור.</p>
           </content>
         </paragraph>
@@ -404,7 +404,7 @@
         <num>11</num>
         <heading>חוזים אישיים:</heading>
         <content>
-          <p>הוראותיו של סעיף 21 <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם הקיבוצי מיום 31.8.94</ref>, לרבות בעניין המכסה, יהיו בתוקף גם בהסכם הנוכחי (1998), בשינויים המפורטים להלן:</p>
+          <p>הוראותיו של סעיף <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994/!main#art_21">21</ref> <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם הקיבוצי מיום 31.8.94</ref>, לרבות בעניין המכסה, יהיו בתוקף גם בהסכם הנוכחי (1998), בשינויים המפורטים להלן:</p>
           <p>לחוזים האישיים יהיו זכאים <term eId="trm_5" refersTo="#term_2db30064">עובדי הוראה</term> שענו על הקריטריונים שנקבעו בעבר וכן <term eId="trm_6" refersTo="#term_2db30064">עובדי הוראה</term> המלמדים בישובים נוספים עם צרכים חינוכיים מיוחדים עליהם יוחלט בועדה שתוקם <organization eId="org_17" refersTo="#moe">במשרד החינוך</organization>, בשיתוף עם <organization eId="org_18" refersTo="#mof">משרד האוצר</organization>, לצורך זה. הועדה תחליט על רשימת הישובים בתוך חודש מחתימת הסכם זה.</p>
           <p>הזכאים לקבלת החוזים האישיים יהיו כל אותם <term eId="trm_7" refersTo="#term_2db30064">עובדי הוראה</term> העונים על הקריטריונים שפורסמו בחוזר <role eId="rol_19" refersTo="#role-mankal">המנהל הכללי</role> נ"ט/1(א') ספטמבר 1998.</p>
           <p repo:note="fax-banner">[כותרת פקס: 19 OCT '98 14:34]</p>
