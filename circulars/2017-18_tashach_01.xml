@@ -212,14 +212,14 @@
         <paragraph eId="art_3__para_a">
           <num>(א)</num>
           <content>
-            <p>בסעיף קטן (20ד) להסכם <concept eId="con_15" refersTo="#reform_oz">עוז לתמורה</concept>, במקום " <quantity eId="qty_11" refersTo="#percentage" normalized="2">2%</quantity>מהשכר המשולב (בלבד)" יבוא: החל מיום <date date="2017-09-01">1.9.2017</date> בשיעור של "  <quantity eId="qty_12" refersTo="#percentage" normalized="1.69">1.69%</quantity>מהשכר המשולב (בלבד) (לפי סעיף  3 להסכם מיום  )<date date="2017-09-05">5.9.17</date> והחל מיום ,<date date="2018-12-01">1.12.2018</date> בשיעור של  <quantity eId="qty_13" refersTo="#percentage" normalized="1.67">1.67%</quantity>מהשכר המשולב (בלבד) (לפי סעיף  3 להסכם מיום. ")<date date="2017-09-05">5.9.17</date>
+            <p>בסעיף קטן (20ד) <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, במקום " <quantity eId="qty_11" refersTo="#percentage" normalized="2">2%</quantity>מהשכר המשולב (בלבד)" יבוא: החל מיום <date date="2017-09-01">1.9.2017</date> בשיעור של "  <quantity eId="qty_12" refersTo="#percentage" normalized="1.69">1.69%</quantity>מהשכר המשולב (בלבד) (לפי סעיף  3 להסכם מיום  )<date date="2017-09-05">5.9.17</date> והחל מיום ,<date date="2018-12-01">1.12.2018</date> בשיעור של  <quantity eId="qty_13" refersTo="#percentage" normalized="1.67">1.67%</quantity>מהשכר המשולב (בלבד) (לפי סעיף  3 להסכם מיום. ")<date date="2017-09-05">5.9.17</date>
             </p>
           </content>
         </paragraph>
         <paragraph eId="art_3__para_b">
           <num>(ב)</num>
           <content>
-            <p>במקום הטבלה המופיעה בסעיף קטן (20 יא) להסכם <concept eId="con_16" refersTo="#reform_oz">עוז לתמורה</concept>, תבוא הטבלה שלהלן:</p>
+            <p>במקום הטבלה המופיעה בסעיף קטן (20 יא) <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, תבוא הטבלה שלהלן:</p>
             <p>שיעור מצטבר תוספת             שיעור מצטבר תוספת</p>
             <table>
               <tr>
@@ -358,7 +358,7 @@
         <paragraph eId="art_3__para_c">
           <num>(ג)</num>
           <content>
-            <p>למען הסר ספק מובהר כי יתר הכללים וההוראות לעניין דרגות קידום כאמור בסעיף  20 להסכם <concept eId="con_17" refersTo="#reform_oz">עוז לתמורה</concept>, כנוסחו לפי סעיף  10 להחלטת ועדת המעקב מיום, <date date="2013-05-28">28.5.2013</date> אשר לא שונו במפורש לפי הסכם זה, יישארו ללא שינוי.</p>
+            <p>למען הסר ספק מובהר כי יתר הכללים וההוראות לעניין דרגות קידום כאמור בסעיף  <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_20">20</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, כנוסחו לפי סעיף  <ref href="/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision/!main#art_10">10</ref> <ref href="/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision">להחלטת ועדת המעקב מיום, 28.5.2013</ref> אשר לא שונו במפורש לפי הסכם זה, יישארו ללא שינוי.</p>
           </content>
         </paragraph>
         <paragraph eId="art_3__para_d">
@@ -376,11 +376,11 @@
           <content>
             <p>לאור האמור בסעיפים ( 1 עדכון טבלאות השכר המשולב לעובדי הוראה) ו( 2-הגדלת תוספת שקלית )2016 לעיל, החל מיום, <date date="2017-09-01">1.9.2017</date> ועל אף האמור בכל הסכם, הסדר או נוהג הקיים ערב חתימת הסכם זה, יבוטל תשלומן של תוספות השכר הבאות אשר משולמות ערב חתימת הסכם זה בשכרם של עובדי ההוראה והם לא יהיו זכאים להן עוד, לרבות לכל זכות אשר נבעה מתשלומן:</p>
             <p>(" )1 תוספת  - "'87 מכוח סעיף  3 להסכם הקיבוצי בין הצדדים שמיום, <date date="1988-01-24">24.1.1988</date> וכפי שעודכנה מעת לעת.</p>
-            <p>(" )2 תוספת "( "'94 תוספת תגבור הוראה")  -מכוח סעיף  6 להסכם הקיבוצי בין הצדדים שמיום ,<date date="1994-08-31">31.8.1994</date> וכפי שעודכנה מעת לעת.</p>
+            <p>(" )2 תוספת "( "'94 תוספת תגבור הוראה")  -מכוח סעיף  6 <ref href="/akn/il/act/collectiveAgreement/1994-08-31/1994-08-31-oz-latmura-wage-supplements-1994">להסכם הקיבוצי בין הצדדים שמיום ,31.8.1994</ref> וכפי שעודכנה מעת לעת.</p>
             <p>(" )3 תוספת  - "2001 מכוח סעיף  5 להסכם הקיבוצי בין הצדדים שמיום, <date date="2001-12-18">18.12.2001</date> וכפי שעודכנה מעת לעת.</p>
             <p>(" )4 תוספת  - "2008 מכוח סעיף  4 להסכם הקיבוצי בין הצדדים שמיום, <date date="2008-01-24">24.1.2008</date> וכפי שעודכנה מעת לעת.</p>
-            <p>(" )5 תוספת  - "2011 מכוח סעיף  38 להסכם <concept eId="con_18" refersTo="#reform_oz">עוז לתמורה</concept>, וכפי שעודכנה מעת לעת.</p>
-            <p>(" )6 תוספת שחיקה  - "2011 מכוח סעיף  39 להסכם <concept eId="con_19" refersTo="#reform_oz">עוז לתמורה</concept>, וכפי שעודכנה מעת לעת.</p>
+            <p>(" )5 תוספת  - "2011 מכוח סעיף  <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_38">38</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, וכפי שעודכנה מעת לעת.</p>
+            <p>(" )6 תוספת שחיקה  - "2011 מכוח סעיף  <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_39">39</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, וכפי שעודכנה מעת לעת.</p>
             <p>(" )7 תוספת אחוזית  - "2016 מכוח סעיף  5 להסכם הקיבוצי בין הצדדים שמיום .<date date="2017-03-23">23.3.2017</date> (תוספות השכר יכונו להלן ובמאוחד – "<def refersTo="#term_5b2b29f9">התוספות המאוחדות</def>")</p>
           </content>
         </paragraph>
@@ -393,14 +393,14 @@
         <paragraph eId="art_4__para_c">
           <num>(ג)</num>
           <content>
-            <p><term eId="trm_4" refersTo="#term_5b2b29f9">התוספות המאוחדות</term> שיבוטלו כאמור בסעיף זה לא יהוו עוד בסיס לתוספות אחרות המשולמות לעובדי ההוראה על אף האמור בכל הסכם, הסדר או נוהג הקיים ערב חתימת הסכם זה. כך למשל "תוספת מעבר לרפורמה" כמשמעה בסעיף  24 להסכם <concept eId="con_20" refersTo="#reform_oz">עוז לתמורה</concept> (כנוסחו לפי החלטת ועדת ההיגוי</p>
+            <p><term eId="trm_4" refersTo="#term_5b2b29f9">התוספות המאוחדות</term> שיבוטלו כאמור בסעיף זה לא יהוו עוד בסיס לתוספות אחרות המשולמות לעובדי ההוראה על אף האמור בכל הסכם, הסדר או נוהג הקיים ערב חתימת הסכם זה. כך למשל "תוספת מעבר לרפורמה" כמשמעה בסעיף  <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_24">24</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref> (כנוסחו לפי החלטת ועדת ההיגוי</p>
             <p>מיום, )<date date="2013-05-28">28.5.2013</date> תחושב החל מיום  <date date="2017-09-01">1.9.2017</date> על בסיס השכר המשולב (לפי סעיף  <ref href="#art_3">3</ref> לעיל) בלבד (ללא התוספות הבאות": תוספת ", "'94 תוספת ","2001 תוספת ", "2008 תוספת  "2011ו"-תוספת שחיקה .)"2011</p>
           </content>
         </paragraph>
         <paragraph eId="art_4__para_d">
           <num>(ד)</num>
           <intro>
-            <p>על אף האמור בכל הסכם, לגבי "תוספת  - '87 מעבר לרפורמה" (המשולמת למנהלים קיימים בהתאם לסעיף (24ג )1 להסכם <concept eId="con_21" refersTo="#reform_oz">עוז לתמורה</concept> כנוסחו לפי סעיף  11 להחלטת ועדת ההיגוי מיום <date date="2013-05-28">28.5.2013</date> (להלן": <def refersTo="#term_ce56fdf7">החלטת וועדת ההיגוי</def>"), והמשולמת למנהלים חדשים בהתאם לסעיף <ref href="/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision/!main#art_12">12</ref> <ref href="/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision">להחלטת וועדת ההיגוי</ref>), ינהגו החל מיום, <date date="2017-09-01">1.9.2017</date> כדלקמן:</p>
+            <p>על אף האמור בכל הסכם, לגבי "תוספת  - '87 מעבר לרפורמה" (המשולמת למנהלים קיימים בהתאם לסעיף (24ג )1 <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref> כנוסחו לפי סעיף  <ref href="/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision/!main#art_11">11</ref> <ref href="/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision">להחלטת ועדת ההיגוי מיום 28.5.2013</ref> (להלן": <def refersTo="#term_ce56fdf7">החלטת וועדת ההיגוי</def>"), והמשולמת למנהלים חדשים בהתאם לסעיף <ref href="/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision/!main#art_12">12</ref> <ref href="/akn/il/act/collectiveAgreement/2013-05-28/2013-05-28-oz-latmura-vaadat-higui-decision">להחלטת וועדת ההיגוי</ref>), ינהגו החל מיום, <date date="2017-09-01">1.9.2017</date> כדלקמן:</p>
           </intro>
           <subparagraph eId="art_4__para_d__subpara_1">
             <num>(1)</num>
@@ -460,7 +460,7 @@
         <paragraph eId="art_5__para_g">
           <num>(ז)</num>
           <content>
-            <p><organization eId="org_22" refersTo="#irgun-hamorim">ארגון המורים</organization> מודיע כי אין באמור בסעיף זה כדי להוות הודאה בקיומה של טעות בשכר ששולם לעובד הוראה כלשהו.</p>
+            <p><organization eId="org_15" refersTo="#irgun-hamorim">ארגון המורים</organization> מודיע כי אין באמור בסעיף זה כדי להוות הודאה בקיומה של טעות בשכר ששולם לעובד הוראה כלשהו.</p>
           </content>
         </paragraph>
       </article>
@@ -470,15 +470,15 @@
       <p><person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person>                                                                              <person eId="pers_2" refersTo="#p_88bb0a53">תמר כהן</person>
       </p>
       <p>סמנכ"לית ומנהלת                                                                     מנהלת תחום בכיר</p>
-      <p><organization eId="org_23" refersTo="#unit_f2a5318d">אגף בכיר כוח אדם בהוראה</organization>                                                        תאום משכורות לעובדי הוראה</p>
+      <p><organization eId="org_16" refersTo="#unit_f2a5318d">אגף בכיר כוח אדם בהוראה</organization>                                                        תאום משכורות לעובדי הוראה</p>
       <p>העתקים:</p>
-      <p>מר <person eId="pers_3" refersTo="#p_4b203808">שמואל אבואב</person>, <role eId="rol_24" refersTo="#role-mankal">המנהל הכללי</role>
+      <p>מר <person eId="pers_3" refersTo="#p_4b203808">שמואל אבואב</person>, <role eId="rol_17" refersTo="#role-mankal">המנהל הכללי</role>
       </p>
-      <p>מר <person eId="pers_4" refersTo="#p_8962711c" as="#role-memuneh-sachar">ערן יעקב</person>, <role eId="rol_25" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_26" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_4" refersTo="#p_8962711c" as="#role-memuneh-sachar">ערן יעקב</person>, <role eId="rol_18" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_19" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_5" refersTo="#p_adcb72bb" as="#role-segan-bakhir">קובי בר נתן</person>, <role eId="hed_1" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_27" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_28" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_5" refersTo="#p_adcb72bb" as="#role-segan-bakhir">קובי בר נתן</person>, <role eId="hed_1" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_20" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_21" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_6" refersTo="#p_5c443ad9">יוסי שטראוס</person>, <role eId="rol_29" refersTo="#role-chashav">חשב המשרד</role>
+      <p>מר <person eId="pers_6" refersTo="#p_5c443ad9">יוסי שטראוס</person>, <role eId="rol_22" refersTo="#role-chashav">חשב המשרד</role>
       </p>
       <p>גב' <person eId="pers_7" refersTo="#p_2b906c4d">מירי נבון</person>, מ"מ מנהל <organization eId="unt_1" refersTo="#unit_12732fdd">המינהל הפדגוגי</organization>
       </p>
@@ -488,9 +488,9 @@
       </p>
       <p>עו"ד <person eId="pers_10" refersTo="#p_4f19a187">איריס שלו-טל</person>, <organization eId="unt_4" refersTo="#unit_78decc8c">הלשכה המשפטית</organization>
       </p>
-      <p>מר <person eId="pers_11" refersTo="#p_4b7467e5" as="#role-yor">רן ארז</person>, <role eId="rol_30" refersTo="#role-yor">יו"ר</role> <organization eId="org_31" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>
+      <p>מר <person eId="pers_11" refersTo="#p_4b7467e5" as="#role-yor">רן ארז</person>, <role eId="rol_23" refersTo="#role-yor">יו"ר</role> <organization eId="org_24" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>
       </p>
-      <p><role eId="rol_40" refersTo="#office_4ed2f902">מנהלי ומנהלות המחוזות</role>
+      <p><role eId="rol_33" refersTo="#office_4ed2f902">מנהלי ומנהלות המחוזות</role>
       </p>
       <p>גב' <person eId="pers_12" refersTo="#p_e03b783f" as="#role-menahel">דסי בארי</person>, <role eId="hed_5" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_5" refersTo="#unit_0eb7e54a">אגף א' חינוך על-יסודי</organization>
       </p>
@@ -498,25 +498,25 @@
       </p>
       <p>מר <person eId="pers_14" refersTo="#p_1653fdf7" as="#role-menahel">מנחם מזרחי</person>, <role eId="hed_6" refersTo="#role-menahel">מנהל</role> <organization eId="unt_7" refersTo="#unit_9e119240">אגף א', ארגון מוסדות חינוך</organization>, <organization eId="unt_8" refersTo="#unit_12732fdd">המינהל הפדגוגי</organization>
       </p>
-      <p><organization eId="unt_9" refersTo="#unit_b6527b49">תחום תשלומים</organization> <organization eId="org_32" refersTo="#local-government">למרכז השלטון המקומי</organization>, <organization eId="unt_10" refersTo="#unit_cc8f2238">חשבות המשרד</organization>
+      <p><organization eId="unt_9" refersTo="#unit_b6527b49">תחום תשלומים</organization> <organization eId="org_25" refersTo="#local-government">למרכז השלטון המקומי</organization>, <organization eId="unt_10" refersTo="#unit_cc8f2238">חשבות המשרד</organization>
       </p>
-      <p>מר <person eId="pers_15" refersTo="#p_69b3f2ff">אסף שירמן</person>, מנהל תחום, שכר והסכמי עבודה, <organization eId="org_33" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_15" refersTo="#p_69b3f2ff">אסף שירמן</person>, מנהל תחום, שכר והסכמי עבודה, <organization eId="org_26" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_16" refersTo="#p_73257817">אבי פרידמן</person>, מרכז בכיר חינוך <organization eId="org_34" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_16" refersTo="#p_73257817">אבי פרידמן</person>, מרכז בכיר חינוך <organization eId="org_27" refersTo="#mof">משרד האוצר</organization>
       </p>
       <p>גב' <person eId="pers_17" refersTo="#p_f71cee61" as="#role-menahel">רחל טייטלבום</person>, <role eId="hed_7" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_11" refersTo="#unit_2d161a3e">תחום תנאי שירות עובדי הוראה</organization>
       </p>
-      <p>גב' <person eId="pers_18" refersTo="#p_bca8a4ab">חגית מגן</person>, ממונה על יחסי עבודה ושכר, <organization eId="org_35" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>גב' <person eId="pers_18" refersTo="#p_bca8a4ab">חגית מגן</person>, ממונה על יחסי עבודה ושכר, <organization eId="org_28" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>מר <person eId="pers_19" refersTo="#p_4572337a" as="#role-yor">אבי קמינסקי</person>, <role eId="rol_36" refersTo="#role-yor">יו"ר</role> <organization eId="unt_12" refersTo="#unit_ccbc3766">איגוד מנהלי אגפי החינוך ברשויות המקומיות</organization>
+      <p>מר <person eId="pers_19" refersTo="#p_4572337a" as="#role-yor">אבי קמינסקי</person>, <role eId="rol_29" refersTo="#role-yor">יו"ר</role> <organization eId="unt_12" refersTo="#unit_ccbc3766">איגוד מנהלי אגפי החינוך ברשויות המקומיות</organization>
       </p>
-      <p>עו"ד <person eId="pers_20" refersTo="#p_bfdd3a7b" as="#office_293a6da2">עידית ורונין</person>, <role eId="rol_43" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_37" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>עו"ד <person eId="pers_20" refersTo="#p_bfdd3a7b" as="#office_293a6da2">עידית ורונין</person>, <role eId="rol_36" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_30" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>מר <person eId="pers_21" refersTo="#p_22148ae1" as="#role-mankal">שמואל ריפמן</person>, <role eId="rol_38" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_39" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
+      <p>מר <person eId="pers_21" refersTo="#p_22148ae1" as="#role-mankal">שמואל ריפמן</person>, <role eId="rol_31" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_32" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
       </p>
-      <p><role eId="rol_41" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      <p><role eId="rol_34" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
       </p>
-      <p><role eId="rol_42" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      <p><role eId="rol_35" refersTo="#office_987a4a52">חשבי המחוזות</role>
       </p>
     </conclusions>
     <attachments>
@@ -1316,13 +1316,13 @@
                     </td>
                   </tr>
                 </table>
-                <p repo:role="running-head"><organization eId="org_44" refersTo="#state-israel">מדינת ישראל</organization>
+                <p repo:role="running-head"><organization eId="org_37" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_45" refersTo="#moe">משרד החינוך</organization>
+                <p repo:role="running-head"><organization eId="org_38" refersTo="#moe">משרד החינוך</organization>
                 </p>
-                <p><organization eId="org_46" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                                  <organization eId="org_47" refersTo="#unit_545210c4">לשכת חשב</organization>
+                <p><organization eId="org_39" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                                  <organization eId="org_40" refersTo="#unit_545210c4">לשכת חשב</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_48" refersTo="#unit_5887eb3f">תחום משכורות עובדי הוראה</organization>
+                <p repo:role="running-head"><organization eId="org_41" refersTo="#unit_5887eb3f">תחום משכורות עובדי הוראה</organization>
                 </p>
                 <p>טבלאות השכר החל מיום <date date="2018-12-01">1.12.2018</date>
                 </p>

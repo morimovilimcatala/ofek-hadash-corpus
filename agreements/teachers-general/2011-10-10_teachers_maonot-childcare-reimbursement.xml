@@ -48,7 +48,6 @@
         <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
         <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
         <TLCConcept eId="year" href="/ontology/concept/quantity/year" showAs="שנה" />
-        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
         <TLCTerm eId="term_2db30064" href="/ontology/term/il/2db30064" showAs="עובדי הוראה" />
         <TLCTerm eId="term_6212c8fd" href="/ontology/term/il/6212c8fd" showAs="הסתדרות המורים" />
         <TLCTerm eId="term_79dfe769" href="/ontology/term/il/79dfe769" showAs="המדד החדש" />
@@ -106,10 +105,10 @@
       <p repo:role="party-marker">מצד שני</p>
       <recitals eId="recitals_1">
         <recital eId="rec_1">
-          <p>הואיל: ובהסכם הקיבוצי הכולל בעניין רפורמת "<concept eId="con_10" refersTo="#reform_ofek">אופק חדש</concept>", אשר נחתם בין הצדדים ביום <date date="2008-12-25">25.12.08</date> (להלן: "<def refersTo="#term_803966ea">ההסכם הכולל</def>), הוסכם כי הצדדים ינהלו משא ומתן על יישום, לגבי <term eId="trm_2" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בשירות <term eId="trm_3" refersTo="#term_ddf2350a">המדינה</term>, של עלות הסכמי או הסדרי המסגרת, אשר ייחתמו, בכל תקופה, בין <organization eId="org_11" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization> לבין <term eId="trm_4" refersTo="#term_ddf2350a">המדינה</term> ו/או המעסיקים במגזר הציבורי, לאחר חתימתו ובמהלך תקופת תוקפו של ההסכם הכולל ;</p>
+          <p>הואיל: <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">ובהסכם הקיבוצי הכולל בעניין רפורמת "אופק חדש", אשר נחתם בין הצדדים ביום 25.12.08</ref> (להלן: "<def refersTo="#term_803966ea">ההסכם הכולל</def>), הוסכם כי הצדדים ינהלו משא ומתן על יישום, לגבי <term eId="trm_2" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בשירות <term eId="trm_3" refersTo="#term_ddf2350a">המדינה</term>, של עלות הסכמי או הסדרי המסגרת, אשר ייחתמו, בכל תקופה, בין <organization eId="org_10" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization> לבין <term eId="trm_4" refersTo="#term_ddf2350a">המדינה</term> ו/או המעסיקים במגזר הציבורי, לאחר חתימתו ובמהלך תקופת תוקפו של ההסכם הכולל ;</p>
         </recital>
         <recital eId="rec_2">
-          <p>והואיל: וביום <date date="2011-01-12">12.1.2011</date> נחתם הסכם קיבוצי (מסגרת) בין <organization eId="org_12" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization> לבין <term eId="trm_5" refersTo="#term_ddf2350a">המדינה</term> ומעסיקים אחרים במגזר הציבורי (להלן: "<def refersTo="#term_9960c931">הסכם המסגרת</def>");</p>
+          <p>והואיל: וביום <date date="2011-01-12">12.1.2011</date> נחתם הסכם קיבוצי (מסגרת) בין <organization eId="org_11" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization> לבין <term eId="trm_5" refersTo="#term_ddf2350a">המדינה</term> ומעסיקים אחרים במגזר הציבורי (להלן: "<def refersTo="#term_9960c931">הסכם המסגרת</def>");</p>
         </recital>
         <recital eId="rec_3">
           <p>והואיל: ובסעיף <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011/!main#art_11">11</ref> <ref href="/akn/il/act/collectiveAgreement/2011-01-12/2011-01-12-framework-agreement-public-sector-tosefet-2011">להסכם המסגרת</ref> הוסכם על תשלום החזר הוצאות בעד החזקת ילד במעון (<term eId="trm_6" refersTo="#term_ec42742b">תוספת מעונות</term>) ;</p>
@@ -203,7 +202,7 @@
           <content>
             <p>החל מחודש ינואר 2012 יעודכנו סכומי <term eId="trm_14" refersTo="#term_ec42742b">תוספת מעונות</term>, אחת לשנה, במשכורת חודש ינואר, בהתאם לשיעור השינוי בין <term eId="trm_15" refersTo="#term_79dfe769">המדד החדש</term> לעומת <term eId="trm_16" refersTo="#term_9cca023e">המדד הקודם</term>.</p>
             <p>לעניין זה:</p>
-            <p>"<def refersTo="#term_e702a626">מדד</def>" – מדד המחירים לצרכן המתפרסם על ידי <organization eId="org_13" refersTo="#cbs">הלשכה המרכזית לסטטיסטיקה</organization>.</p>
+            <p>"<def refersTo="#term_e702a626">מדד</def>" – מדד המחירים לצרכן המתפרסם על ידי <organization eId="org_12" refersTo="#cbs">הלשכה המרכזית לסטטיסטיקה</organization>.</p>
             <p>"<def refersTo="#term_79dfe769">המדד החדש</def>" - מדד חודש דצמבר של השנה שקדמה לחודש העדכון;</p>
             <p>"<def refersTo="#term_9cca023e">המדד הקודם</def>" - מדד חודש דצמבר של השנה שקדמה לחודש העדכון הקודם, ולעניין העדכון הראשון – מדד חודש דצמבר 2010 (המתפרסם בינואר 2011).</p>
             <p repo:note="fax-banner">[כותרת תחתונה של פקס: 10.Oct. 2011 10:28 No.9467 P. 2]</p>
@@ -270,11 +269,11 @@
       <table>
         <tr>
           <th>
-            <p>בשם <organization eId="org_14" refersTo="#state-israel">מדינת ישראל</organization>
+            <p>בשם <organization eId="org_13" refersTo="#state-israel">מדינת ישראל</organization>
             </p>
           </th>
           <th>
-            <p>בשם <organization eId="org_15" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+            <p>בשם <organization eId="org_14" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
             </p>
           </th>
         </tr>

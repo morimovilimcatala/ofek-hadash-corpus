@@ -37,6 +37,15 @@
       <lifecycle source="#repo-generator">
         <eventRef eId="e_signature" date="2008-02-24" source="#repo-generator" type="generation" />
       </lifecycle>
+      <analysis source="#repo-generator">
+        <activeModifications>
+          <textualMod eId="amod_1" type="substitution">
+            <source href="#art_1__para_a__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-01-10/2008-01-10-pre-ofek-stage-a-individual-hour-supplement/!main#art_3__para_b" pos="unspecified" />
+            <new href="#art_1__para_a__mod_1__qstr_1" />
+          </textualMod>
+        </activeModifications>
+      </analysis>
       <references source="#repo-generator">
         <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
         <TLCConcept eId="hour" href="/ontology/concept/quantity/hour" showAs="שעה" />
@@ -89,11 +98,11 @@
         <paragraph eId="art_1__para_a">
           <num>(א)</num>
           <content>
-            <p><mod eId="art_1__para_a__mod_1">בשינוי לאמור בסעיף 3 להסכם הקיבוצי בעניין יישום שלב א' ברפורמה במערכת החינוך, שנחתם בין הצדדים ביום <date date="2008-01-10">10.1.08</date>, מוסכם, כי במקום סעיף-קטן 3 (ב) יבוא האמור להלן:<quotedStructure eId="art_1__para_a__mod_1__qstr_1" startQuote="&quot;">
+            <p><mod eId="art_1__para_a__mod_1">בשינוי לאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-01-10/2008-01-10-pre-ofek-stage-a-individual-hour-supplement/!main#art_3">3</ref> <ref href="/akn/il/act/collectiveAgreement/2008-01-10/2008-01-10-pre-ofek-stage-a-individual-hour-supplement">להסכם הקיבוצי בעניין יישום שלב א' ברפורמה במערכת החינוך, שנחתם בין הצדדים ביום 10.1.08</ref>, מוסכם, כי במקום סעיף-קטן <ref href="/akn/il/act/collectiveAgreement/2008-01-10/2008-01-10-pre-ofek-stage-a-individual-hour-supplement/!main#art_3__para_b">3 (ב)</ref> יבוא האמור להלן:<quotedStructure eId="art_1__para_a__mod_1__qstr_1" startQuote="&quot;">
                   <paragraph eId="art_1__para_a__mod_1__qstr_1__para_b">
                     <num>(ב)</num>
                     <content>
-                      <p>האמור בסעיף-קטן (א) מתייחס לעובד הוראה המועסק בהיקף משרה של <quantity eId="qty_1" refersTo="#percentage" normalized="90">90%</quantity> לפחות, והוא יחול על עובדי הוראה המועסקים בהיקף משרה נמוך יותר בשינויים הבאים לעניין היקף העבודה הפרטנית:</p>
+                      <p>האמור ב<ref href="/akn/il/act/collectiveAgreement/2008-01-10/2008-01-10-pre-ofek-stage-a-individual-hour-supplement/!main#art_3__para_a">סעיף-קטן (א)</ref> מתייחס לעובד הוראה המועסק בהיקף משרה של <quantity eId="qty_1" refersTo="#percentage" normalized="90">90%</quantity> לפחות, והוא יחול על עובדי הוראה המועסקים בהיקף משרה נמוך יותר בשינויים הבאים לעניין היקף העבודה הפרטנית:</p>
                       <table>
                         <tr>
                           <th>

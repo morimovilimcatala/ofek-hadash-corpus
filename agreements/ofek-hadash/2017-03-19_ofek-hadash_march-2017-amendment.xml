@@ -109,7 +109,6 @@
         <TLCConcept eId="ILS" href="/ontology/concept/currency/ILS" showAs="שקל חדש" />
         <TLCConcept eId="grade" href="/ontology/concept/quantity/grade" showAs="דרגה" />
         <TLCConcept eId="percentage" href="/ontology/concept/quantity/percentage" showAs="אחוז" />
-        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
         <TLCTerm eId="term_162af98a" href="/ontology/term/il/162af98a" showAs="החודש לתשלום" />
         <TLCTerm eId="term_3a01aaf8" href="/ontology/term/il/3a01aaf8" showAs="המשכורת הקובעת" />
         <TLCTerm eId="term_4acb78b9" href="/ontology/term/il/4acb78b9" showAs="החודש העוקב" />
@@ -242,7 +241,7 @@
                     <subparagraph eId="art_2__para_b__mod_1__qstr_1__para_c1__subpara_2">
                       <num>(2)</num>
                       <content>
-                        <p>מילאו את פרק זמן השהיה הדרוש לקידום <quantity eId="qty_8" refersTo="#grade" normalized="7">לדרגה 7</quantity>, <quantity eId="qty_9" refersTo="#grade" normalized="8">דרגה 8</quantity> או <quantity eId="qty_10" refersTo="#grade" normalized="9">דרגה 9</quantity>, לפי העניין, על פי הוראות סעיף 38(ו) להסכם רפורמת <concept eId="con_12" refersTo="#reform_ofek">אופק חדש</concept> (כנוסחו על פי החלטת ועדת המעקב 2015), עד יום <date date="2016-09-30">30.9.2016</date>."</p>
+                        <p>מילאו את פרק זמן השהיה הדרוש לקידום <quantity eId="qty_8" refersTo="#grade" normalized="7">לדרגה 7</quantity>, <quantity eId="qty_9" refersTo="#grade" normalized="8">דרגה 8</quantity> או <quantity eId="qty_10" refersTo="#grade" normalized="9">דרגה 9</quantity>, לפי העניין, על פי הוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_38__para_f">38(ו)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> (כנוסחו על פי החלטת ועדת המעקב 2015), עד יום <date date="2016-09-30">30.9.2016</date>."</p>
                       </content>
                     </subparagraph>
                   </paragraph>
@@ -254,13 +253,13 @@
                     <subparagraph eId="art_2__para_b__mod_1__qstr_1__para_c2__subpara_1">
                       <num>(1)</num>
                       <content>
-                        <p>רכשו את שעות הפיתוח המקצועי הנדרש לצורך קידום <quantity eId="qty_15" refersTo="#grade" normalized="7">לדרגה 7</quantity>, <quantity eId="qty_16" refersTo="#grade" normalized="8">דרגה 8</quantity> או <quantity eId="qty_17" refersTo="#grade" normalized="9">לדרגה 9</quantity>, לפי העניין, כמפורט במכתב <organization eId="org_13" refersTo="#moe">משרד החינוך</organization> <organization eId="org_14" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> מיום <date date="2008-12-25">25.12.2008</date>, ומילאו תנאי זה עד ליום <date date="2016-12-31">31.12.2016</date>;</p>
+                        <p>רכשו את שעות הפיתוח המקצועי הנדרש לצורך קידום <quantity eId="qty_15" refersTo="#grade" normalized="7">לדרגה 7</quantity>, <quantity eId="qty_16" refersTo="#grade" normalized="8">דרגה 8</quantity> או <quantity eId="qty_17" refersTo="#grade" normalized="9">לדרגה 9</quantity>, לפי העניין, כמפורט במכתב <organization eId="org_12" refersTo="#moe">משרד החינוך</organization> <organization eId="org_13" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> מיום <date date="2008-12-25">25.12.2008</date>, ומילאו תנאי זה עד ליום <date date="2016-12-31">31.12.2016</date>;</p>
                       </content>
                     </subparagraph>
                     <subparagraph eId="art_2__para_b__mod_1__qstr_1__para_c2__subpara_2">
                       <num>(2)</num>
                       <content>
-                        <p>מילאו את פרק זמן השהיה הדרוש לקידום <quantity eId="qty_18" refersTo="#grade" normalized="7">לדרגה 7</quantity>, <quantity eId="qty_19" refersTo="#grade" normalized="8">דרגה 8</quantity> או <quantity eId="qty_20" refersTo="#grade" normalized="9">דרגה 9</quantity>, לפי העניין, על פי הוראות סעיף 38(ו) להסכם רפורמת <concept eId="con_15" refersTo="#reform_ofek">אופק חדש</concept> (כנוסחו על פי החלטת ועדת המעקב 2015), עד יום <date date="2016-12-31">31.12.2016</date>.</p>
+                        <p>מילאו את פרק זמן השהיה הדרוש לקידום <quantity eId="qty_18" refersTo="#grade" normalized="7">לדרגה 7</quantity>, <quantity eId="qty_19" refersTo="#grade" normalized="8">דרגה 8</quantity> או <quantity eId="qty_20" refersTo="#grade" normalized="9">דרגה 9</quantity>, לפי העניין, על פי הוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_38__para_f">38(ו)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> (כנוסחו על פי החלטת ועדת המעקב 2015), עד יום <date date="2016-12-31">31.12.2016</date>.</p>
                       </content>
                     </subparagraph>
                   </paragraph>
@@ -368,25 +367,25 @@
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_2__cls_a">
                         <num>(א)</num>
                         <content>
-                          <p><quantity eId="qty_23" refersTo="#ILS" normalized="340.17">340.17 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_24" refersTo="#grade" normalized="1">בדרגה 1</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי הסכם רפורמת <concept eId="con_16" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="340.17" eId="qty_25">שלוש מאות ארבעים ש"ח ושבע עשרה אגורות</quantity>);</p>
+                          <p><quantity eId="qty_23" refersTo="#ILS" normalized="340.17">340.17 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_24" refersTo="#grade" normalized="1">בדרגה 1</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="340.17" eId="qty_25">שלוש מאות ארבעים ש"ח ושבע עשרה אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_2__cls_b">
                         <num>(ב)</num>
                         <content>
-                          <p><quantity eId="qty_26" refersTo="#ILS" normalized="319.78">319.78 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_27" refersTo="#grade" normalized="1.5">בדרגה 1.5</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי הסכם רפורמת <concept eId="con_17" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="319.78" eId="qty_28">שלוש מאות ותשע עשר ש"ח ושבעים ושמונה אגורות</quantity>);</p>
+                          <p><quantity eId="qty_26" refersTo="#ILS" normalized="319.78">319.78 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_27" refersTo="#grade" normalized="1.5">בדרגה 1.5</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="319.78" eId="qty_28">שלוש מאות ותשע עשר ש"ח ושבעים ושמונה אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_2__cls_c">
                         <num>(ג)</num>
                         <content>
-                          <p><quantity eId="qty_29" refersTo="#ILS" normalized="299.39">299.39 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_30" refersTo="#grade" normalized="2">בדרגה 2</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי הסכם רפורמת <concept eId="con_18" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="299.39" eId="qty_31">מאתיים תשעים ותשעה ש"ח ושלושים ותשע אגורות</quantity>);</p>
+                          <p><quantity eId="qty_29" refersTo="#ILS" normalized="299.39">299.39 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_30" refersTo="#grade" normalized="2">בדרגה 2</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="299.39" eId="qty_31">מאתיים תשעים ותשעה ש"ח ושלושים ותשע אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_2__cls_d">
                         <num>(ד)</num>
                         <content>
-                          <p><quantity eId="qty_32" refersTo="#ILS" normalized="246.52">246.52 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_33" refersTo="#grade" normalized="2.5">בדרגה 2.5</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי הסכם רפורמת <concept eId="con_19" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="246.52" eId="qty_34">מאתיים ארבעים ושישה ש"ח וחמישים ושתיים אגורות</quantity>).</p>
+                          <p><quantity eId="qty_32" refersTo="#ILS" normalized="246.52">246.52 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_33" refersTo="#grade" normalized="2.5">בדרגה 2.5</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="246.52" eId="qty_34">מאתיים ארבעים ושישה ש"ח וחמישים ושתיים אגורות</quantity>).</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_2__cls_e">
@@ -404,25 +403,25 @@
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_3__cls_a">
                         <num>(א)</num>
                         <content>
-                          <p><quantity eId="qty_37" refersTo="#ILS" normalized="648.48">648.48 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_38" refersTo="#grade" normalized="1">בדרגה 1</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי הסכם רפורמת <concept eId="con_20" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="648.48" eId="qty_39">שש מאות ארבעים ושמונה ש"ח וארבעים ושמונה אגורות</quantity>);</p>
+                          <p><quantity eId="qty_37" refersTo="#ILS" normalized="648.48">648.48 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_38" refersTo="#grade" normalized="1">בדרגה 1</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="648.48" eId="qty_39">שש מאות ארבעים ושמונה ש"ח וארבעים ושמונה אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_3__cls_b">
                         <num>(ב)</num>
                         <content>
-                          <p><quantity eId="qty_40" refersTo="#ILS" normalized="628.09">628.09 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_41" refersTo="#grade" normalized="1.5">בדרגה 1.5</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי הסכם רפורמת <concept eId="con_21" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="628.09" eId="qty_42">שש מאות עשרים ושמונה ש"ח ותשע אגורות</quantity>);</p>
+                          <p><quantity eId="qty_40" refersTo="#ILS" normalized="628.09">628.09 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_41" refersTo="#grade" normalized="1.5">בדרגה 1.5</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="628.09" eId="qty_42">שש מאות עשרים ושמונה ש"ח ותשע אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_3__cls_c">
                         <num>(ג)</num>
                         <content>
-                          <p><quantity eId="qty_43" refersTo="#ILS" normalized="607.70">607.70 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_44" refersTo="#grade" normalized="2">בדרגה 2</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי הסכם רפורמת <concept eId="con_22" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="607.70" eId="qty_45">שש מאות ושבעה ש"ח ושבעים אגורות</quantity>);</p>
+                          <p><quantity eId="qty_43" refersTo="#ILS" normalized="607.70">607.70 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_44" refersTo="#grade" normalized="2">בדרגה 2</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="607.70" eId="qty_45">שש מאות ושבעה ש"ח ושבעים אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_3__cls_d">
                         <num>(ד)</num>
                         <content>
-                          <p><quantity eId="qty_46" refersTo="#ILS" normalized="554.83">554.83 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_47" refersTo="#grade" normalized="2.5">בדרגה 2.5</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי הסכם רפורמת <concept eId="con_23" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="554.83" eId="qty_48">חמש מאות חמישים וארבעה ש"ח ושמונים ושלוש אגורות</quantity>).</p>
+                          <p><quantity eId="qty_46" refersTo="#ILS" normalized="554.83">554.83 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_47" refersTo="#grade" normalized="2.5">בדרגה 2.5</quantity> בטבלאות השכר המשולב למורים אקדמאים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="554.83" eId="qty_48">חמש מאות חמישים וארבעה ש"ח ושמונים ושלוש אגורות</quantity>).</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_3__cls_e">
@@ -440,49 +439,49 @@
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_a">
                         <num>(א)</num>
                         <content>
-                          <p><quantity eId="qty_51" refersTo="#ILS" normalized="730.83">730.83 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_52" refersTo="#grade" normalized="1">בדרגה 1</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_24" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="730.83" eId="qty_53">שבע מאות ושלושים ש"ח ושמונים ושלוש אגורות</quantity>);</p>
+                          <p><quantity eId="qty_51" refersTo="#ILS" normalized="730.83">730.83 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_52" refersTo="#grade" normalized="1">בדרגה 1</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="730.83" eId="qty_53">שבע מאות ושלושים ש"ח ושמונים ושלוש אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_b">
                         <num>(ב)</num>
                         <content>
-                          <p><quantity eId="qty_54" refersTo="#ILS" normalized="703.73">703.73 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_55" refersTo="#grade" normalized="1.5">בדרגה 1.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_25" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="703.73" eId="qty_56">שבע מאות ושלוש ש"ח ושבעים ושלוש אגורות</quantity>);</p>
+                          <p><quantity eId="qty_54" refersTo="#ILS" normalized="703.73">703.73 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_55" refersTo="#grade" normalized="1.5">בדרגה 1.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="703.73" eId="qty_56">שבע מאות ושלוש ש"ח ושבעים ושלוש אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_c">
                         <num>(ג)</num>
                         <content>
-                          <p><quantity eId="qty_57" refersTo="#ILS" normalized="676.64">676.64 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_58" refersTo="#grade" normalized="2">בדרגה 2</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_26" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="676.64" eId="qty_59">שש מאות שבעים ושישה ש"ח ושישים וארבע אגורות</quantity>);</p>
+                          <p><quantity eId="qty_57" refersTo="#ILS" normalized="676.64">676.64 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_58" refersTo="#grade" normalized="2">בדרגה 2</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="676.64" eId="qty_59">שש מאות שבעים ושישה ש"ח ושישים וארבע אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_d">
                         <num>(ד)</num>
                         <content>
-                          <p><quantity eId="qty_60" refersTo="#ILS" normalized="643.85">643.85 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_61" refersTo="#grade" normalized="2.5">בדרגה 2.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_27" refersTo="#reform_ofek">אופק חדש</concept> (במילים: ארבע מאות ארבעים ושלושה ש"ח ושמונים וחמש אגורות);</p>
+                          <p><quantity eId="qty_60" refersTo="#ILS" normalized="643.85">643.85 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_61" refersTo="#grade" normalized="2.5">בדרגה 2.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: ארבע מאות ארבעים ושלושה ש"ח ושמונים וחמש אגורות);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_e">
                         <num>(ה)</num>
                         <content>
-                          <p><quantity eId="qty_62" refersTo="#ILS" normalized="611.07">611.07 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_63" refersTo="#grade" normalized="3">בדרגה 3</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_28" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="611.07" eId="qty_64">שש מאות ואחד עשר ש"ח ושבע אגורות</quantity>);</p>
+                          <p><quantity eId="qty_62" refersTo="#ILS" normalized="611.07">611.07 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_63" refersTo="#grade" normalized="3">בדרגה 3</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="611.07" eId="qty_64">שש מאות ואחד עשר ש"ח ושבע אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_f">
                         <num>(ו)</num>
                         <content>
-                          <p><quantity eId="qty_65" refersTo="#ILS" normalized="593.51">593.51 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_66" refersTo="#grade" normalized="3.5">בדרגה 3.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="593.51" eId="qty_67">חמש מאות תשעים ושלושה ש"ח וחמישים ואחת אגורות</quantity>);</p>
+                          <p><quantity eId="qty_65" refersTo="#ILS" normalized="593.51">593.51 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_66" refersTo="#grade" normalized="3.5">בדרגה 3.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="593.51" eId="qty_67">חמש מאות תשעים ושלושה ש"ח וחמישים ואחת אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_g">
                         <num>(ז)</num>
                         <content>
-                          <p><quantity eId="qty_68" refersTo="#ILS" normalized="575.96">575.96 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_69" refersTo="#grade" normalized="4">בדרגה 4</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="575.96" eId="qty_70">חמש מאות שבעים וחמישה ש"ח ותשעים ושש אגורות</quantity>);</p>
+                          <p><quantity eId="qty_68" refersTo="#ILS" normalized="575.96">575.96 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_69" refersTo="#grade" normalized="4">בדרגה 4</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="575.96" eId="qty_70">חמש מאות שבעים וחמישה ש"ח ותשעים ושש אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_h">
                         <num>(ח)</num>
                         <content>
-                          <p><quantity eId="qty_71" refersTo="#ILS" normalized="538.96">538.96 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_72" refersTo="#grade" normalized="4.5">בדרגה 4.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_31" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="538.96" eId="qty_73">חמש מאות שלושים ושמונה ש"ח ותשעים ושש אגורות</quantity>);</p>
+                          <p><quantity eId="qty_71" refersTo="#ILS" normalized="538.96">538.96 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_72" refersTo="#grade" normalized="4.5">בדרגה 4.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="538.96" eId="qty_73">חמש מאות שלושים ושמונה ש"ח ותשעים ושש אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_4__cls_i">
@@ -500,49 +499,49 @@
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_a">
                         <num>(א)</num>
                         <content>
-                          <p><quantity eId="qty_76" refersTo="#ILS" normalized="1074.37">1,074.37 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_77" refersTo="#grade" normalized="1">בדרגה 1</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_32" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="1074.37" eId="qty_78">אלף שבעים וארבע ש"ח ושלושים ושבע אגורות</quantity>);</p>
+                          <p><quantity eId="qty_76" refersTo="#ILS" normalized="1074.37">1,074.37 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_77" refersTo="#grade" normalized="1">בדרגה 1</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="1074.37" eId="qty_78">אלף שבעים וארבע ש"ח ושלושים ושבע אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_b">
                         <num>(ב)</num>
                         <content>
-                          <p><quantity eId="qty_79" refersTo="#ILS" normalized="1011.48">1,011.48 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_80" refersTo="#grade" normalized="1.5">בדרגה 1.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_33" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="1011.48" eId="qty_81">אלף ואחד עשר ש"ח וארבעים ושמונה אגורות</quantity>);</p>
+                          <p><quantity eId="qty_79" refersTo="#ILS" normalized="1011.48">1,011.48 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_80" refersTo="#grade" normalized="1.5">בדרגה 1.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="1011.48" eId="qty_81">אלף ואחד עשר ש"ח וארבעים ושמונה אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_c">
                         <num>(ג)</num>
                         <content>
-                          <p><quantity eId="qty_82" refersTo="#ILS" normalized="948.59">948.59 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_83" refersTo="#grade" normalized="2">בדרגה 2</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_34" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="948.59" eId="qty_84">תשע מאות ארבעים ושמונה ש"ח וחמישים ותשע אגורות</quantity>);</p>
+                          <p><quantity eId="qty_82" refersTo="#ILS" normalized="948.59">948.59 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_83" refersTo="#grade" normalized="2">בדרגה 2</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="948.59" eId="qty_84">תשע מאות ארבעים ושמונה ש"ח וחמישים ותשע אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_d">
                         <num>(ד)</num>
                         <content>
-                          <p><quantity eId="qty_85" refersTo="#ILS" normalized="872.47">872.47 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_86" refersTo="#grade" normalized="2.5">בדרגה 2.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_35" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="872.47" eId="qty_87">שמונה מאות שבעים ושניים ש"ח וארבעים ושבע אגורות</quantity>);</p>
+                          <p><quantity eId="qty_85" refersTo="#ILS" normalized="872.47">872.47 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_86" refersTo="#grade" normalized="2.5">בדרגה 2.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="872.47" eId="qty_87">שמונה מאות שבעים ושניים ש"ח וארבעים ושבע אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_e">
                         <num>(ה)</num>
                         <content>
-                          <p><quantity eId="qty_88" refersTo="#ILS" normalized="796.36">796.36 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_89" refersTo="#grade" normalized="3">בדרגה 3</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_36" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="796.36" eId="qty_90">שבע מאות תשעים ושישה ש"ח ושלושים ושש אגורות</quantity>);</p>
+                          <p><quantity eId="qty_88" refersTo="#ILS" normalized="796.36">796.36 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_89" refersTo="#grade" normalized="3">בדרגה 3</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="796.36" eId="qty_90">שבע מאות תשעים ושישה ש"ח ושלושים ושש אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_f">
                         <num>(ו)</num>
                         <content>
-                          <p><quantity eId="qty_91" refersTo="#ILS" normalized="755.61">755.61 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_92" refersTo="#grade" normalized="3.5">בדרגה 3.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_37" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="755.61" eId="qty_93">שבע מאות חמישים וחמישה ש"ח ושישים ואחת אגורות</quantity>);</p>
+                          <p><quantity eId="qty_91" refersTo="#ILS" normalized="755.61">755.61 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_92" refersTo="#grade" normalized="3.5">בדרגה 3.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="755.61" eId="qty_93">שבע מאות חמישים וחמישה ש"ח ושישים ואחת אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_g">
                         <num>(ז)</num>
                         <content>
-                          <p><quantity eId="qty_94" refersTo="#ILS" normalized="714.86">714.86 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_95" refersTo="#grade" normalized="4">בדרגה 4</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_38" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="714.86" eId="qty_96">שבע מאות וארבעה עשר ש"ח ושמונים ושש אגורות</quantity>);</p>
+                          <p><quantity eId="qty_94" refersTo="#ILS" normalized="714.86">714.86 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_95" refersTo="#grade" normalized="4">בדרגה 4</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="714.86" eId="qty_96">שבע מאות וארבעה עשר ש"ח ושמונים ושש אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_h">
                         <num>(ח)</num>
                         <content>
-                          <p><quantity eId="qty_97" refersTo="#ILS" normalized="628.96">628.96 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_98" refersTo="#grade" normalized="4.5">בדרגה 4.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי הסכם רפורמת <concept eId="con_39" refersTo="#reform_ofek">אופק חדש</concept> (במילים: <quantity refersTo="#ILS" normalized="628.96" eId="qty_99">שש מאות עשרים ושמונה ש"ח ותשעים ושש אגורות</quantity>);</p>
+                          <p><quantity eId="qty_97" refersTo="#ILS" normalized="628.96">628.96 ש"ח</quantity> לעובד הוראה המשובץ <quantity eId="qty_98" refersTo="#grade" normalized="4.5">בדרגה 4.5</quantity> בטבלאות השכר המשולב למורים (אקדמאים או לא אקדמאים) לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> (במילים: <quantity refersTo="#ILS" normalized="628.96" eId="qty_99">שש מאות עשרים ושמונה ש"ח ותשעים ושש אגורות</quantity>);</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_e__mod_1__qstr_1__para_b__subpara_5__cls_i">
@@ -627,7 +626,7 @@
                     <subparagraph eId="art_2__para_i__mod_1__qstr_1__para_10__subpara_a">
                       <num>(א)</num>
                       <intro>
-                        <p><organization eId="org_40" refersTo="#mof">משרד האוצר</organization> מודיע כי בכוונתו להפיץ תזכיר חוק לתיקון חוק שירות המדינה (גמלאות)[נוסח משולב], התש"ל-1970 (להלן: "<def refersTo="#term_8b90bde1">חוק הגמלאות</def>"), לפי העקרונות הבאים:</p>
+                        <p><organization eId="org_14" refersTo="#mof">משרד האוצר</organization> מודיע כי בכוונתו להפיץ תזכיר חוק לתיקון חוק שירות המדינה (גמלאות)[נוסח משולב], התש"ל-1970 (להלן: "<def refersTo="#term_8b90bde1">חוק הגמלאות</def>"), לפי העקרונות הבאים:</p>
                       </intro>
                       <clause eId="art_2__para_i__mod_1__qstr_1__para_10__subpara_a__cls_1">
                         <num>(1)</num>
@@ -654,18 +653,18 @@
                     <subparagraph eId="art_2__para_i__mod_1__qstr_1__para_10__subpara_b">
                       <num>(ב)</num>
                       <intro>
-                        <p><organization eId="org_41" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> מודיעה כדלקמן:</p>
+                        <p><organization eId="org_15" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> מודיעה כדלקמן:</p>
                       </intro>
                       <clause eId="art_2__para_i__mod_1__qstr_1__para_10__subpara_b__cls_1">
                         <num>(1)</num>
                         <content>
-                          <p>עקרונות תיקון חקיקה הנזכר בסעיף קטן 10(א) לעיל, מקובלים על <organization eId="org_42" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> והיא תתמוך בהליכי החקיקה, ככל שהדבר יידרש.</p>
+                          <p>עקרונות תיקון חקיקה הנזכר בסעיף קטן 10(א) לעיל, מקובלים על <organization eId="org_16" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> והיא תתמוך בהליכי החקיקה, ככל שהדבר יידרש.</p>
                         </content>
                       </clause>
                       <clause eId="art_2__para_i__mod_1__qstr_1__para_10__subpara_b__cls_2">
                         <num>(2)</num>
                         <content>
-                          <p>לאחר שתיקון החקיקה הנזכר בסעיף קטן 10(א) לעיל יתקבל בכנסת, לא תהא <organization eId="org_43" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> כל דרישה להגדלת המשכורת הקובעת, או לתשלום תוספת או הטבה אחרת, בשל העלויות או הטבות עליהם הוסכם בהסכם זה, או בגין התקופה שעד יום <date date="2019-06-30">30.6.2019</date>.</p>
+                          <p>לאחר שתיקון החקיקה הנזכר בסעיף קטן 10(א) לעיל יתקבל בכנסת, לא תהא <organization eId="org_17" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> כל דרישה להגדלת המשכורת הקובעת, או לתשלום תוספת או הטבה אחרת, בשל העלויות או הטבות עליהם הוסכם בהסכם זה, או בגין התקופה שעד יום <date date="2019-06-30">30.6.2019</date>.</p>
                         </content>
                       </clause>
                     </subparagraph>
@@ -694,7 +693,7 @@
         <paragraph eId="art_2__para_ja">
           <num>(יא)</num>
           <content>
-            <p><organization eId="org_44" refersTo="#histadrut-hamorim">ההסתדרות המורים</organization> מבהירה כי הודעתה כאמור בסעיף קטן 10(ב) להסכם ספטמבר 16 כנוסחו בהסכם זה, היא בשל כך שתיקון החקיקה הנזכר בסעיף <ref href="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement/!main#art_10__para_a">10(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement">להסכם ספטמבר 2016</ref> נועד להביא להגדלה של המשכורת הקובעת לתשלום הקצבה לפורש זכאי או לשאירו.</p>
+            <p><organization eId="org_18" refersTo="#histadrut-hamorim">ההסתדרות המורים</organization> מבהירה כי הודעתה כאמור בסעיף קטן 10(ב) להסכם ספטמבר 16 כנוסחו בהסכם זה, היא בשל כך שתיקון החקיקה הנזכר בסעיף <ref href="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement/!main#art_10__para_a">10(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2016-09-30/2016-09-30-ofek-hadash-september-2016-agreement">להסכם ספטמבר 2016</ref> נועד להביא להגדלה של המשכורת הקובעת לתשלום הקצבה לפורש זכאי או לשאירו.</p>
           </content>
         </paragraph>
         <paragraph eId="art_2__para_jb">
@@ -722,7 +721,7 @@
         <paragraph eId="art_3__para_a">
           <num>(א)</num>
           <content>
-            <p><mod eId="art_3__para_a__mod_1">החל מיום <date date="2017-09-01">1.9.2017</date>, אחרי סעיף 39א להסכם רפורמת <concept eId="con_45" refersTo="#reform_ofek">אופק חדש</concept> כנוסחו לפי <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">ההסכם הקיבוצי מיום 29.2.2012</ref> ולפי <ref href="/akn/il/act/collectiveAgreement/2013-09-15/2013-09-15-ofek-hadash-vaadat-maakav-248-2013-rikuz-tikshuv-gmul">החלטת ועדת המעקב מיום 15.9.2013</ref>, יבוא:<quotedStructure eId="art_3__para_a__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+            <p><mod eId="art_3__para_a__mod_1">החל מיום <date date="2017-09-01">1.9.2017</date>, אחרי סעיף 39א <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> כנוסחו לפי <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">ההסכם הקיבוצי מיום 29.2.2012</ref> ולפי <ref href="/akn/il/act/collectiveAgreement/2013-09-15/2013-09-15-ofek-hadash-vaadat-maakav-248-2013-rikuz-tikshuv-gmul">החלטת ועדת המעקב מיום 15.9.2013</ref>, יבוא:<quotedStructure eId="art_3__para_a__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
                   <paragraph eId="art_3__para_a__mod_1__qstr_1__para_39b">
                     <num>39ב.</num>
                     <intro>
@@ -773,13 +772,13 @@
         <paragraph eId="art_3__para_b">
           <num>(ב)</num>
           <content>
-            <p>עובד הוראה הממלא תפקיד של רכז השתלבות ואוכלוסיות מיוחדות, של מעריך תפקודי למידה, של רכז טיולים או של מורה חונך או גננת הממלאת תפקיד של גננת חונכת, במוסד חינוך כהגדרתו בסעיף 3 להסכם <concept eId="con_46" refersTo="#reform_ofek">אופק חדש</concept> בלבד, אשר אינו מועסק לפי תנאי הרפורמה, יהיה זכאי לגמול תפקיד, בשיעורים הקבועים לגבי גמול זה בהעסקה בתנאי הרפורמה. כללי החישוב והתשלום החלים לגבי גמול זה יהיו זהים לכללי התשלום והחישוב החלים לגבי גמול התפקיד המשולם לרכז מקצוע המועסק שלא על פי תנאי הרפורמה.</p>
+            <p>עובד הוראה הממלא תפקיד של רכז השתלבות ואוכלוסיות מיוחדות, של מעריך תפקודי למידה, של רכז טיולים או של מורה חונך או גננת הממלאת תפקיד של גננת חונכת, במוסד חינוך כהגדרתו בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_3">3</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> בלבד, אשר אינו מועסק לפי תנאי הרפורמה, יהיה זכאי לגמול תפקיד, בשיעורים הקבועים לגבי גמול זה בהעסקה בתנאי הרפורמה. כללי החישוב והתשלום החלים לגבי גמול זה יהיו זהים לכללי התשלום והחישוב החלים לגבי גמול התפקיד המשולם לרכז מקצוע המועסק שלא על פי תנאי הרפורמה.</p>
           </content>
         </paragraph>
         <paragraph eId="art_3__para_c">
           <num>(ג)</num>
           <content>
-            <p><mod eId="art_3__para_c__mod_1">החל מיום <date date="2019-09-01">1.9.2019</date>, אחרי סעיף <ref href="#art_3__para_a__mod_1__qstr_1__para_39b">39ב</ref> להסכם רפורמת <concept eId="con_47" refersTo="#reform_ofek">אופק חדש</concept> כנוסחו לפי <ref href="#art_3__para_a">סעיף-קטן (א)</ref> לעיל, יבוא:<quotedStructure eId="art_3__para_c__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+            <p><mod eId="art_3__para_c__mod_1">החל מיום <date date="2019-09-01">1.9.2019</date>, אחרי סעיף <ref href="#art_3__para_a__mod_1__qstr_1__para_39b">39ב</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> כנוסחו לפי <ref href="#art_3__para_a">סעיף-קטן (א)</ref> לעיל, יבוא:<quotedStructure eId="art_3__para_c__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
                   <paragraph eId="art_3__para_c__mod_1__qstr_1__para_39c">
                     <num>39ג.</num>
                     <intro>
@@ -812,7 +811,7 @@
         <paragraph eId="art_3__para_d">
           <num>(ד)</num>
           <content>
-            <p>עובד הוראה הממלא תפקיד של רכז פדגוגי (תכנון לימודים) במוסד חינוך כהגדרתו בסעיף 3 להסכם <concept eId="con_48" refersTo="#reform_ofek">אופק חדש</concept> בלבד אשר אינו מועסק לפי תנאי הרפורמה, יהיה זכאי לגמול תפקיד, בשיעורים הקבועים לגבי גמול זה בהעסקה בתנאי הרפורמה. כללי החישוב והתשלום החלים לגבי גמול זה יהיו זהים לכללי התשלום והחישוב החלים לגבי גמול התפקיד המשולם לרכז מקצוע המועסק שלא על פי תנאי הרפורמה.</p>
+            <p>עובד הוראה הממלא תפקיד של רכז פדגוגי (תכנון לימודים) במוסד חינוך כהגדרתו בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_3">3</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> בלבד אשר אינו מועסק לפי תנאי הרפורמה, יהיה זכאי לגמול תפקיד, בשיעורים הקבועים לגבי גמול זה בהעסקה בתנאי הרפורמה. כללי החישוב והתשלום החלים לגבי גמול זה יהיו זהים לכללי התשלום והחישוב החלים לגבי גמול התפקיד המשולם לרכז מקצוע המועסק שלא על פי תנאי הרפורמה.</p>
           </content>
         </paragraph>
       </article>
@@ -822,7 +821,7 @@
         <paragraph eId="art_4__para_a">
           <num>(א)</num>
           <intro>
-            <p>החל מיום <date date="2019-09-01">1.9.2019</date>, בסעיף 131 להסכם רפורמת <concept eId="con_49" refersTo="#reform_ofek">אופק חדש</concept>, כנוסחו לפי <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">ההסכם הקיבוצי מיום 29.2.2012</ref>, יחולו השינויים כדלקמן:</p>
+            <p>החל מיום <date date="2019-09-01">1.9.2019</date>, בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_131">131</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref>, כנוסחו לפי <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">ההסכם הקיבוצי מיום 29.2.2012</ref>, יחולו השינויים כדלקמן:</p>
           </intro>
           <subparagraph eId="art_4__para_a__subpara_1">
             <num>(1)</num>
@@ -858,11 +857,11 @@
       <table>
         <tr>
           <th>
-            <p><organization eId="org_50" refersTo="#state-israel">מדינת ישראל</organization>
+            <p><organization eId="org_19" refersTo="#state-israel">מדינת ישראל</organization>
             </p>
           </th>
           <th>
-            <p><organization eId="org_51" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+            <p><organization eId="org_20" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
             </p>
           </th>
         </tr>

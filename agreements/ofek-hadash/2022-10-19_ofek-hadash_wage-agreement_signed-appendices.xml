@@ -221,7 +221,7 @@
           <heading>תחולה</heading>
           <content>
             <p>הסכם זה יחול לגבי העובדים בשירות <term eId="trm_13" refersTo="#term_ddf2350a">המדינה</term>, <organization eId="org_15" refersTo="#moe">במשרד החינוך</organization>, המדורגים בדירוג <term eId="trm_14" refersTo="#term_2db30064">עובדי הוראה</term>, המועסקים במוסדות החינוך בתנאי <concept eId="con_16" refersTo="#reform_ofek">אופק חדש</concept> וכן לגבי העובדים בשירות <term eId="trm_15" refersTo="#term_ddf2350a">המדינה</term>, <organization eId="org_17" refersTo="#moe">במשרד החינוך</organization>, המדורגים בדירוג <term eId="trm_16" refersTo="#term_2db30064">עובדי הוראה</term>, המועסקים במוסדות החינוך <term eId="trm_17" refersTo="#term_1e1da49b">בתנאי העסקה טרום רפורמה</term>, למעט עובדים כאמור אשר תנאי העסקתם נקבעו לפי האמור במכתבים שבין <role eId="rol_18" refersTo="#role-memuneh-sachar">הממונה על השכר</role> לבין <role eId="rol_19" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_20" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> מיום <date date="2013-11-11">11.11.2013</date>, לגבי חלק העסקתם אשר לגביו חלות ההוראות עליהן הוסכם במכתבים האמורים ולמעט <term eId="trm_18" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים באולפנים (להלן: "<def refersTo="#term_2db30064">עובדי הוראה</def>").</p>
-            <p>למען הסר כל ספק מובהר כי הסכם זה יחול לגבי העובדים בשירות <term eId="trm_19" refersTo="#term_ddf2350a">המדינה</term>, <organization eId="org_21" refersTo="#moe">במשרד החינוך</organization>, המדורגים בדירוג <term eId="trm_20" refersTo="#term_2db30064">עובדי הוראה</term>, המועסקים בתפקידי הדרכה אשר בהתאם <ref href="/akn/il/act/collectiveAgreement/2016-11-09/2016-11-09-ofek-hadash-madrichim-reform">להסכם הקיבוצי אשר נחתם בין הצדדים ביום 9.11.2016</ref> (להלן — "<def refersTo="#term_9aa26499">הסכם המדריכים</def>") שכרם משולם לפי תנאי רפורמת <concept eId="con_22" refersTo="#reform_ofek">אופק חדש</concept> או לפי האמור בסעיפים 12(ג) או 12(ב) <ref href="/akn/il/act/collectiveAgreement/2016-11-09/2016-11-09-ofek-hadash-madrichim-reform">להסכם המדריכים</ref> בלבד.</p>
+            <p>למען הסר כל ספק מובהר כי הסכם זה יחול לגבי העובדים בשירות <term eId="trm_19" refersTo="#term_ddf2350a">המדינה</term>, <organization eId="org_21" refersTo="#moe">במשרד החינוך</organization>, המדורגים בדירוג <term eId="trm_20" refersTo="#term_2db30064">עובדי הוראה</term>, המועסקים בתפקידי הדרכה אשר בהתאם <ref href="/akn/il/act/collectiveAgreement/2016-11-09/2016-11-09-ofek-hadash-madrichim-reform">להסכם הקיבוצי אשר נחתם בין הצדדים ביום 9.11.2016</ref> (להלן — "<def refersTo="#term_9aa26499">הסכם המדריכים</def>") שכרם משולם לפי תנאי רפורמת <concept eId="con_22" refersTo="#reform_ofek">אופק חדש</concept> או לפי האמור בסעיפים <ref href="/akn/il/act/collectiveAgreement/2016-11-09/2016-11-09-ofek-hadash-madrichim-reform/!main#art_12__para_c">12(ג)</ref> או <ref href="/akn/il/act/collectiveAgreement/2016-11-09/2016-11-09-ofek-hadash-madrichim-reform/!main#art_12__para_b">12(ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2016-11-09/2016-11-09-ofek-hadash-madrichim-reform">להסכם המדריכים</ref> בלבד.</p>
             <p>למען הסר כל ספק מובהר כי הסכם זה לא יחול לגבי עובדים המועסקים בשירות <term eId="trm_21" refersTo="#term_ddf2350a">המדינה</term> במכללות להכשרת <term eId="trm_22" refersTo="#term_2db30064">עובדי הוראה</term>, המדורגים בדירוג <term eId="trm_23" refersTo="#term_2db30064">עובדי הוראה</term> אשר חל לגביהם <ref href="/akn/il/act/collectiveAgreement/2015-05-07/2015-05-07-teachers-michlalot-reform">ההסכם הקיבוצי אשר נחתם בין הצדדים ביום 7.5.2015</ref> או <ref href="/akn/il/act/collectiveAgreement/2019-01-21/2019-01-21-teachers-michlalot-reform-amendment">ההסכם הקיבוצי אשר נחתם בין הצדדים ביום 21.1.2019</ref>.</p>
           </content>
         </article>
@@ -285,7 +285,7 @@
           <paragraph eId="art_5__para_5-4">
             <num>5.4</num>
             <content>
-              <p><term eId="trm_29" refersTo="#term_5502ffde">תוספת אופק 2022</term> תהווה שכר לכל דבר ועניין, והיא תובא בחשבון לעניין חישוב תוספות אחוזיות המחושבות על בסיס השכר המשולב, לעניין חישוב ערך שעה לעניין חישוב התמורה עבור ביצוע "שעות מילוי מקום" או עבור ביצוע "פעילויות בית ספריות", לעניין הפחתת שכר בשל שעת היעדרות, ולעניין חישוב התמורה המשולמת כאמור בסעיף 33(ד) להסכם רפורמת <concept eId="con_26" refersTo="#reform_ofek">אופק חדש</concept>, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה (עבור עובד הוראה המבוטח בפנסיה צוברת בגין המשכורת הקובעת) ולעניין הפרשות לקרן השתלמות וכל הפרשה או ניכוי אחרים הנהוגים לעניין שכר משולב.</p>
+              <p><term eId="trm_29" refersTo="#term_5502ffde">תוספת אופק 2022</term> תהווה שכר לכל דבר ועניין, והיא תובא בחשבון לעניין חישוב תוספות אחוזיות המחושבות על בסיס השכר המשולב, לעניין חישוב ערך שעה לעניין חישוב התמורה עבור ביצוע "שעות מילוי מקום" או עבור ביצוע "פעילויות בית ספריות", לעניין הפחתת שכר בשל שעת היעדרות, ולעניין חישוב התמורה המשולמת כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_d">33(ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref>, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה (עבור עובד הוראה המבוטח בפנסיה צוברת בגין המשכורת הקובעת) ולעניין הפרשות לקרן השתלמות וכל הפרשה או ניכוי אחרים הנהוגים לעניין שכר משולב.</p>
             </content>
           </paragraph>
           <paragraph eId="art_5__para_5-5">
@@ -305,7 +305,7 @@
           <num>6</num>
           <heading>תוספת אישית אחוזית למנהלים</heading>
           <intro>
-            <p>בכל אחד מן המועדים בהם תעודכנה טבלאות השכר המשולב כמפורט בסעיפים קטנים 4.1 עד 4.2 יעודכן שיעור התוספת האישית האחוזית למנהלים הזכאים לה מכוח הוראות סעיף 72 להסכם <concept eId="con_27" refersTo="#reform_ofek">אופק חדש</concept>, כך שסכומה השקלי ישמר.</p>
+            <p>בכל אחד מן המועדים בהם תעודכנה טבלאות השכר המשולב כמפורט בסעיפים קטנים 4.1 עד 4.2 יעודכן שיעור התוספת האישית האחוזית למנהלים הזכאים לה מכוח הוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_72">72</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, כך שסכומה השקלי ישמר.</p>
             <p>השיעור המעודכן של התוספות האישית למנהלים לה זכאי <term eId="trm_33" refersTo="#term_e63066d9">המנהל</term> (C) יחושב על פי הנוסחה הבאה —</p>
             <p>A = הסכום השקלי של התוספת האישית ששולמה למנהל ערב עדכון טבלת השכר (להלן: "<def refersTo="#term_d471f2e0">סכום שקלי לתוספת אישית למנהלים</def>").</p>
             <p>B = השכר הטבלאי החדש של <term eId="trm_34" refersTo="#term_e63066d9">המנהל</term>, בהתאם לדרגתו ולרמת המורכבות לאחר עדכון טבלת השכר.</p>
@@ -321,14 +321,14 @@
               <p>2,499.6 = <quantity eId="qty_7" refersTo="#percentage" normalized="12.23">12.23%</quantity>
               </p>
               <p>20,436.7</p>
-              <p>למען הסר כל ספק מובהר כי עדכון שיעור התוספת האישית (C) לפי סעיף זה בא במקום אופן חישוב שיעור התוספת האישית למנהלים הקבוע בסעיף 72 להסכם <concept eId="con_28" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>למען הסר כל ספק מובהר כי עדכון שיעור התוספת האישית (C) לפי סעיף זה בא במקום אופן חישוב שיעור התוספת האישית למנהלים הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_72">72</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>.</p>
               <p>למען הסר כל ספק מובהר כי אין באמור בהסכם זה כדי לשנות מן הכללים החלים לגבי <concept eId="cmp_2" refersTo="#comp_sheklit-2016">תוספת שקלית 2016</concept>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_6__para_2">
             <num>(2)</num>
             <content>
-              <p>למעט שינוי שיעור התוספת האישית למנהלים לפי סעיף 72 להסכם <concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept> כמפורט בסעיף זה לא יחול כל שינוי ביתר הכללים החלים לעניין התוספת האישית למנהלים כאמור.</p>
+              <p>למעט שינוי שיעור התוספת האישית למנהלים לפי סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_72">72</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> כמפורט בסעיף זה לא יחול כל שינוי ביתר הכללים החלים לעניין התוספת האישית למנהלים כאמור.</p>
             </content>
           </paragraph>
         </article>
@@ -338,7 +338,7 @@
           <paragraph eId="art_7__para_7-1">
             <num>7.1</num>
             <intro>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול ייעוץ חינוכי הקבוע בסעיף 131 להסכם רפורמת <concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן מעת לעת לרבות בסעיף <ref href="/akn/il/act/collectiveAgreement/2017-03-19/2017-03-19-ofek-hadash-march-2017-amendment/!main#art_4">4</ref> <ref href="/akn/il/act/collectiveAgreement/2017-03-19/2017-03-19-ofek-hadash-march-2017-amendment">להסכם הקיבוצי מיום 19.3.2017</ref>) באופן הבא:</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול ייעוץ חינוכי הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_131">131</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> (כפי שתוקן מעת לעת לרבות בסעיף <ref href="/akn/il/act/collectiveAgreement/2017-03-19/2017-03-19-ofek-hadash-march-2017-amendment/!main#art_4">4</ref> <ref href="/akn/il/act/collectiveAgreement/2017-03-19/2017-03-19-ofek-hadash-march-2017-amendment">להסכם הקיבוצי מיום 19.3.2017</ref>) באופן הבא:</p>
             </intro>
             <subparagraph eId="art_7__para_7-1__subpara_7-1-1">
               <num>7.1.1</num>
@@ -356,7 +356,7 @@
           <paragraph eId="art_7__para_7-2">
             <num>7.2</num>
             <content>
-              <p>למען הסר ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים בקשר לגמול הייעוץ ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור גמול הייעוץ לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_31" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>למען הסר ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים בקשר לגמול הייעוץ ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור גמול הייעוץ לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_26" refersTo="#reform_ofek">אופק חדש</concept>.</p>
             </content>
           </paragraph>
         </article>
@@ -366,13 +366,13 @@
           <paragraph eId="art_8__para_8-1">
             <num>8.1</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול סגנות הקבוע בסעיף 117(ב) להסכם רפורמת <concept eId="con_32" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן מעת לעת), משיעור של <quantity eId="qty_12" refersTo="#percentage" normalized="13">13%</quantity> לשיעור של <quantity eId="qty_13" refersTo="#percentage" normalized="20">20%</quantity>.</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול סגנות הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_117__para_b">117(ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> (כפי שתוקן מעת לעת), משיעור של <quantity eId="qty_12" refersTo="#percentage" normalized="13">13%</quantity> לשיעור של <quantity eId="qty_13" refersTo="#percentage" normalized="20">20%</quantity>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_8__para_8-2">
             <num>8.2</num>
             <content>
-              <p>למען הסר ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לגבי גמול סגנות ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור גמול הסגנות לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_33" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>למען הסר ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לגבי גמול סגנות ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור גמול הסגנות לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_27" refersTo="#reform_ofek">אופק חדש</concept>.</p>
             </content>
           </paragraph>
         </article>
@@ -382,7 +382,7 @@
           <paragraph eId="art_9__para_9-1">
             <num>9.1</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול ניהול חטיבה צעירה הקבוע בסעיף 124 (ב) להסכם רפורמת <concept eId="con_34" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן מזמן לזמן), משיעור של <quantity eId="qty_14" refersTo="#percentage" normalized="13">13%</quantity> לשיעור של <quantity eId="qty_15" refersTo="#percentage" normalized="20">20%</quantity>. עוד מובהר כי לא יחול כל שינוי בשיעור גמול ניהול חטיבה צעירה לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_35" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול ניהול חטיבה צעירה הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_124__para_b">124 (ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> (כפי שתוקן מזמן לזמן), משיעור של <quantity eId="qty_14" refersTo="#percentage" normalized="13">13%</quantity> לשיעור של <quantity eId="qty_15" refersTo="#percentage" normalized="20">20%</quantity>. עוד מובהר כי לא יחול כל שינוי בשיעור גמול ניהול חטיבה צעירה לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_28" refersTo="#reform_ofek">אופק חדש</concept>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_9__para_9-2">
@@ -403,7 +403,7 @@
             <subparagraph eId="art_10__para_10-1__subpara_10-1-1">
               <num>10.1.1</num>
               <intro>
-                <p>על אף האמור בסעיפים 39(א)(1) ו- 39(א)(2) להסכם <concept eId="con_36" refersTo="#reform_ofek">אופק חדש</concept>, החל מיום <date date="2023-09-01">1.9.2023</date> גמול חינוך כיתה יהיה הסכום הגבוה מבין שני אלו:</p>
+                <p>על אף האמור בסעיפים <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_1">39(א)(1)</ref> ו- <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_2">39(א)(2)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, החל מיום <date date="2023-09-01">1.9.2023</date> גמול חינוך כיתה יהיה הסכום הגבוה מבין שני אלו:</p>
               </intro>
               <clause eId="art_10__para_10-1__subpara_10-1-1__cls_10-1-1-1">
                 <num>10.1.1.1</num>
@@ -433,7 +433,7 @@
             <subparagraph eId="art_10__para_10-2__subpara_10-2-1">
               <num>10.2.1</num>
               <intro>
-                <p>על אף האמור בסעיף 39(א)(9) להסכם <concept eId="con_37" refersTo="#reform_ofek">אופק חדש</concept>, החל מיום <date date="2023-09-01">1.9.2023</date> גמול ממונה (רכז) שכבה יהיה הסכום הגבוה מבין שני אלו:</p>
+                <p>על אף האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_9">39(א)(9)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, החל מיום <date date="2023-09-01">1.9.2023</date> גמול ממונה (רכז) שכבה יהיה הסכום הגבוה מבין שני אלו:</p>
               </intro>
               <clause eId="art_10__para_10-2__subpara_10-2-1__cls_10-2-1-1">
                 <num>10.2.1.1</num>
@@ -463,7 +463,7 @@
             <subparagraph eId="art_10__para_10-3__subpara_10-3-1">
               <num>10.3.1</num>
               <intro>
-                <p>על אף האמור בסעיף 124(ב) להסכם <concept eId="con_38" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן בסעיף 9 בפרק זה ויתוקן מזמן לזמן), החל מיום <date date="2023-09-01">1.9.2023</date> גמול ניהול חטיבה צעירה, יהיה הסכום הגבוה מבין שני אלו:</p>
+                <p>על אף האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_124__para_b">124(ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (כפי שתוקן בסעיף 9 בפרק זה ויתוקן מזמן לזמן), החל מיום <date date="2023-09-01">1.9.2023</date> גמול ניהול חטיבה צעירה, יהיה הסכום הגבוה מבין שני אלו:</p>
               </intro>
               <clause eId="art_10__para_10-3__subpara_10-3-1__cls_10-3-1-1">
                 <num>10.3.1.1</num>
@@ -493,7 +493,7 @@
             <subparagraph eId="art_10__para_10-4__subpara_10-4-1">
               <num>10.4.1</num>
               <intro>
-                <p>על אף האמור בסעיף 117(ב) להסכם <concept eId="con_39" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן בסעיף 8 בפרק זה ויתוקן מזמן לזמן), החל מיום <date date="2023-09-01">1.9.2023</date> גמול סגנות יהיה הסכום הגבוה מבין שני אלו:</p>
+                <p>על אף האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_117__para_b">117(ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (כפי שתוקן בסעיף 8 בפרק זה ויתוקן מזמן לזמן), החל מיום <date date="2023-09-01">1.9.2023</date> גמול סגנות יהיה הסכום הגבוה מבין שני אלו:</p>
               </intro>
               <clause eId="art_10__para_10-4__subpara_10-4-1__cls_10-4-1-1">
                 <num>10.4.1.1</num>
@@ -523,12 +523,12 @@
             <subparagraph eId="art_10__para_10-5__subpara_10-5-1">
               <num>10.5.1</num>
               <intro>
-                <p>על אף האמור בסעיף 138(א)(1) להסכם <concept eId="con_40" refersTo="#reform_ofek">אופק חדש</concept>, החל מיום <date date="2023-09-01">1.9.2023</date> גמול ניהול גן יהיה הסכום הגבוה מבין שני אלו:</p>
+                <p>על אף האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_138__para_a__subpara_1">138(א)(1)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, החל מיום <date date="2023-09-01">1.9.2023</date> גמול ניהול גן יהיה הסכום הגבוה מבין שני אלו:</p>
               </intro>
               <clause eId="art_10__para_10-5__subpara_10-5-1__cls_10-5-1-1">
                 <num>10.5.1.1</num>
                 <content>
-                  <p>שיעור הגמול מהשכר המשולב הקבוע בהוראות סעיף 138 (א) (1) להסכם <concept eId="con_41" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                  <p>שיעור הגמול מהשכר המשולב הקבוע בהוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_138__para_a__subpara_1">138 (א) (1)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>.</p>
                 </content>
               </clause>
               <clause eId="art_10__para_10-5__subpara_10-5-1__cls_10-5-1-2">
@@ -549,7 +549,7 @@
             <num>10.6</num>
             <content>
               <p>למען הסר כל ספק מובהר כי כל הכללים אשר יחולו על הגמול השקלי שבסעיפים קטנים 10.1 עד 10.5 לעיל יהיו זהים לכללים החלים ערב החתימה על הסכם זה על הגמול האחוזי שבסעיפים קטנים 10.1 עד 10.5 לעיל.</p>
-              <p>למען הסר כל ספק מובהר כי הוראות סעיף <ref href="#art_10">10</ref> זה לא חלות לגבי עובד הוראה המועסק שלא בתנאי <concept eId="con_42" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>למען הסר כל ספק מובהר כי הוראות סעיף <ref href="#art_10">10</ref> זה לא חלות לגבי עובד הוראה המועסק שלא בתנאי <concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept>.</p>
             </content>
           </paragraph>
         </article>
@@ -559,7 +559,7 @@
           <paragraph eId="art_11__para_11-1">
             <num>11.1</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול רכז חינוך חברתי <concept eId="dom_1" refersTo="#stage_yesodi">בבית ספר יסודי</concept> הקבוע בסעיף 39(א)(8) להסכם רפורמת <concept eId="con_43" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן מעת לעת), משיעור של <quantity eId="qty_31" refersTo="#percentage" normalized="6">6%</quantity> לשיעור של <quantity eId="qty_32" refersTo="#percentage" normalized="8">8%</quantity>.</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול רכז חינוך חברתי <concept eId="dom_1" refersTo="#stage_yesodi">בבית ספר יסודי</concept> הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_8">39(א)(8)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> (כפי שתוקן מעת לעת), משיעור של <quantity eId="qty_31" refersTo="#percentage" normalized="6">6%</quantity> לשיעור של <quantity eId="qty_32" refersTo="#percentage" normalized="8">8%</quantity>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_11__para_11-2">
@@ -571,7 +571,7 @@
           <paragraph eId="art_11__para_11-3">
             <num>11.3</num>
             <content>
-              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול רכז חינוך חברתי ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור גמול רכז חברתי לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_44" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול רכז חינוך חברתי ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור גמול רכז חברתי לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept>.</p>
             </content>
           </paragraph>
         </article>
@@ -581,13 +581,13 @@
           <paragraph eId="art_12__para_12-1">
             <num>12.1</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול תפקיד לרכז פדגוגי (תכנון לימודים) הקבוע בסעיף 39ג להסכם <concept eId="con_45" refersTo="#reform_ofek">אופק חדש</concept> (כפי שנקבע בסעיף <ref href="/akn/il/act/collectiveAgreement/2017-03-19/2017-03-19-ofek-hadash-march-2017-amendment/!main#art_3__para_c">3 (ג)</ref> <ref href="/akn/il/act/collectiveAgreement/2017-03-19/2017-03-19-ofek-hadash-march-2017-amendment">להסכם הקיבוצי מיום 19.3.2017</ref>) משיעור של <quantity eId="qty_34" refersTo="#percentage" normalized="6">6%</quantity> לשיעור של <quantity eId="qty_35" refersTo="#percentage" normalized="8">8%</quantity>.</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול תפקיד לרכז פדגוגי (תכנון לימודים) הקבוע בסעיף 39ג <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (כפי שנקבע בסעיף <ref href="/akn/il/act/collectiveAgreement/2017-03-19/2017-03-19-ofek-hadash-march-2017-amendment/!main#art_3__para_c">3 (ג)</ref> <ref href="/akn/il/act/collectiveAgreement/2017-03-19/2017-03-19-ofek-hadash-march-2017-amendment">להסכם הקיבוצי מיום 19.3.2017</ref>) משיעור של <quantity eId="qty_34" refersTo="#percentage" normalized="6">6%</quantity> לשיעור של <quantity eId="qty_35" refersTo="#percentage" normalized="8">8%</quantity>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_12__para_12-2">
             <num>12.2</num>
             <content>
-              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול רכז פדגוגי ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור גמול רכז פדגוגי לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_46" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול רכז פדגוגי ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור גמול רכז פדגוגי לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_31" refersTo="#reform_ofek">אופק חדש</concept>.</p>
             </content>
           </paragraph>
         </article>
@@ -609,7 +609,7 @@
             <subparagraph eId="art_13__para_13-1__subpara_13-1-2">
               <num>13.1.2</num>
               <content>
-                <p>סעיף <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul/!main#art_4__para_h">4.ח</ref> <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul">להסכם הטיולים</ref> וסעיף 40 (ד) להסכם <concept eId="con_47" refersTo="#reform_ofek">אופק חדש</concept> (שתוקן בסעיף 29 להסכם ההשלמה), יתוקנו כך שבמקום "פחות מ- <quantity eId="qty_37" refersTo="#hour" normalized="4">4 שעות</quantity>" ייכתב בהם "פחות מ- <quantity eId="qty_38" refersTo="#hour" normalized="7">7 שעות</quantity>".</p>
+                <p>סעיף <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul/!main#art_4__para_h">4.ח</ref> <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul">להסכם הטיולים</ref> וסעיף 40 (ד) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (שתוקן בסעיף 29 להסכם ההשלמה), יתוקנו כך שבמקום "פחות מ- <quantity eId="qty_37" refersTo="#hour" normalized="4">4 שעות</quantity>" ייכתב בהם "פחות מ- <quantity eId="qty_38" refersTo="#hour" normalized="7">7 שעות</quantity>".</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_13__para_13-1__subpara_13-1-3">
@@ -638,13 +638,13 @@
             <subparagraph eId="art_14__para_14-1__subpara_14-1-1">
               <num>14.1.1</num>
               <content>
-                <p>עד שעתיים פרטניות במהלך השבוע הראשון לעבודתו בשנת הלימודים, בהתאם להנחיות שיקבע <organization eId="org_48" refersTo="#moe">משרד החינוך</organization>;</p>
+                <p>עד שעתיים פרטניות במהלך השבוע הראשון לעבודתו בשנת הלימודים, בהתאם להנחיות שיקבע <organization eId="org_32" refersTo="#moe">משרד החינוך</organization>;</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_14__para_14-1__subpara_14-1-2">
               <num>14.1.2</num>
               <content>
-                <p>עד <quantity eId="qty_42" refersTo="#hour" normalized="4">ארבע שעות</quantity> שהייה במהלך שני חודשי עבודתו הראשונים בשנת הלימודים, המוקדשות לישיבות עבודה, (ולמען הסר ספק סך הכל <quantity eId="qty_43" refersTo="#hour" normalized="4">ארבע שעות</quantity> יחידות בחודשיים), בהתאם להנחיות שיקבע <organization eId="org_49" refersTo="#moe">משרד החינוך</organization> ;</p>
+                <p>עד <quantity eId="qty_42" refersTo="#hour" normalized="4">ארבע שעות</quantity> שהייה במהלך שני חודשי עבודתו הראשונים בשנת הלימודים, המוקדשות לישיבות עבודה, (ולמען הסר ספק סך הכל <quantity eId="qty_43" refersTo="#hour" normalized="4">ארבע שעות</quantity> יחידות בחודשיים), בהתאם להנחיות שיקבע <organization eId="org_33" refersTo="#moe">משרד החינוך</organization> ;</p>
               </content>
             </subparagraph>
             <wrapUp>
@@ -678,31 +678,31 @@
             <subparagraph eId="art_15__para_15-1__subpara_15-1-1">
               <num>15.1.1</num>
               <content>
-                <p>גמול ניהול גן הקבוע בסעיף 138(א) להסכם <concept eId="con_50" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                <p>גמול ניהול גן הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_138__para_a">138(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_15__para_15-1__subpara_15-1-2">
               <num>15.1.2</num>
               <content>
-                <p>גמול חינוך הקבוע בסעיף 138(ב) להסכם <concept eId="con_51" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                <p>גמול חינוך הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_138__para_b">138(ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_15__para_15-1__subpara_15-1-3">
               <num>15.1.3</num>
               <content>
-                <p>גמול ניהול נגרר או גמול ייעוץ נגרר הקבועים בסעיפים 50א ו-140(ו) להסכם <concept eId="con_52" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                <p>גמול ניהול נגרר או גמול ייעוץ נגרר הקבועים בסעיפים 50א ו-140(ו) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_15__para_15-1__subpara_15-1-4">
               <num>15.1.4</num>
               <content>
-                <p>גמול ניהול אשכול גנים (בחינוך הרגיל או בחינוך המיוחד) הקבוע בסעיף 144ג(א) להסכם <concept eId="con_53" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן בהסכמים הקיבוציים שנחתמו בין הצדדים ביום <date date="2021-06-17">17.6.2021</date>).</p>
+                <p>גמול ניהול אשכול גנים (בחינוך הרגיל או בחינוך המיוחד) הקבוע בסעיף 144ג(א) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (כפי שתוקן בהסכמים הקיבוציים שנחתמו בין הצדדים ביום <date date="2021-06-17">17.6.2021</date>).</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_15__para_15-1__subpara_15-1-5">
               <num>15.1.5</num>
               <content>
-                <p>כל רכיב שמירת שכר לרבות רכיב כאמור הקבוע בהוראות 38ב ו-38ג, להסכם <concept eId="con_54" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                <p>כל רכיב שמירת שכר לרבות רכיב כאמור הקבוע בהוראות 38ב ו-38ג, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>.</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -715,13 +715,13 @@
           <paragraph eId="art_15__para_15-3">
             <num>15.3</num>
             <content>
-              <p>בסמוך לאחר מועד החתימה על ההסכם, <organization eId="org_55" refersTo="#state-israel">מדינת ישראל</organization> תפעל להכרה בתוספת לגננת עמיתה כתוספת קבועה לעניין חוק שירות <term eId="trm_40" refersTo="#term_ddf2350a">המדינה</term> [גמלאות] [נוסח משולב], התש"ל — 1970.</p>
+              <p>בסמוך לאחר מועד החתימה על ההסכם, <organization eId="org_34" refersTo="#state-israel">מדינת ישראל</organization> תפעל להכרה בתוספת לגננת עמיתה כתוספת קבועה לעניין חוק שירות <term eId="trm_40" refersTo="#term_ddf2350a">המדינה</term> [גמלאות] [נוסח משולב], התש"ל — 1970.</p>
             </content>
           </paragraph>
           <paragraph eId="art_15__para_15-4">
             <num>15.4</num>
             <content>
-              <p>תוספת לגננת עמיתה תובא בחשבון לעניין חישוב ערך שעה, לעניין חישוב פיצויי פיטורים כמשמעותם בחוק פיצוי פיטורים, התשכ"ג — 1963, לעניין חישוב התמורה עבור ביצוע "שעות מילוי מקום" או עבור ביצוע "פעילויות בית ספריות", לעניין הפחתת שכר בשל שעת היעדרות, לעניין חישוב התמורה המשולמת כאמור בסעיף 33(ד) להסכם רפורמת <concept eId="con_56" refersTo="#reform_ofek">אופק חדש</concept>, לעניין הפרשות לקרן השתלמות ולגבי <term eId="trm_41" refersTo="#term_fc21412c">גננת עמיתה זכאית</term> המבוטחת בפנסיה צוברת תבוצענה הפרשות לקופת גמל לקצבה בהתאם לשיעורים החלים לפי הוראת סעיף קטן 1(ב) ל<ref href="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/!main#chp_6">פרק ו'</ref> <ref href="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative">להסכם הקיבוצי מיום 30.12.2009</ref>. למען הסר ספק מובהר כי תוספת לגננת עמיתה אינה חלק מהשכר המשולב ולא תבוא בבסיס לחישוב תוספות שכר אחרות (שקליות או אחוזיות).</p>
+              <p>תוספת לגננת עמיתה תובא בחשבון לעניין חישוב ערך שעה, לעניין חישוב פיצויי פיטורים כמשמעותם בחוק פיצוי פיטורים, התשכ"ג — 1963, לעניין חישוב התמורה עבור ביצוע "שעות מילוי מקום" או עבור ביצוע "פעילויות בית ספריות", לעניין הפחתת שכר בשל שעת היעדרות, לעניין חישוב התמורה המשולמת כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_d">33(ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref>, לעניין הפרשות לקרן השתלמות ולגבי <term eId="trm_41" refersTo="#term_fc21412c">גננת עמיתה זכאית</term> המבוטחת בפנסיה צוברת תבוצענה הפרשות לקופת גמל לקצבה בהתאם לשיעורים החלים לפי הוראת סעיף קטן 1(ב) ל<ref href="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/!main#chp_6">פרק ו'</ref> <ref href="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative">להסכם הקיבוצי מיום 30.12.2009</ref>. למען הסר ספק מובהר כי תוספת לגננת עמיתה אינה חלק מהשכר המשולב ולא תבוא בבסיס לחישוב תוספות שכר אחרות (שקליות או אחוזיות).</p>
             </content>
           </paragraph>
         </article>
@@ -731,7 +731,7 @@
           <paragraph eId="art_16__para_16-1">
             <num>16.1</num>
             <intro>
-              <p>סעיף 30(ג) להסכם <concept eId="con_57" refersTo="#reform_ofek">אופק חדש</concept> יתוקן באופן הבא:</p>
+              <p>סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_30__para_c">30(ג)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> יתוקן באופן הבא:</p>
             </intro>
             <subparagraph eId="art_16__para_16-1__subpara_16-1-1">
               <num>16.1.1</num>
@@ -753,7 +753,7 @@
               <num>16.1.3</num>
               <content>
                 <p><mod eId="art_16__para_16-1__subpara_16-1-3__mod_1">לאחר סעיף קטן 30(ג)(4) יבוא סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_30__para_c">30(ג)</ref>א כדלהלן:<quotedStructure eId="art_16__para_16-1__subpara_16-1-3__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
-                      <p>30(ג)א- אופן חלוקת שעות הפעילות כאמור לעיל בין הפעילויות המפורטות בסעיף 30(ג) להסכם <concept eId="con_58" refersTo="#reform_ofek">אופק חדש</concept> ייקבע על ידי המנהל בהתאם לצרכי בית הספר</p>
+                      <p>30(ג)א- אופן חלוקת שעות הפעילות כאמור לעיל בין הפעילויות המפורטות בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_30__para_c">30(ג)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> ייקבע על ידי המנהל בהתאם לצרכי בית הספר</p>
                     </quotedStructure>
                   </mod>
                 </p>
@@ -774,7 +774,7 @@
           <paragraph eId="art_16__para_16-3">
             <num>16.3</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יוגדל מספר שעות הפעילות המרבי כמפורט בסעיפים 30 (ב) להסכם <concept eId="con_59" refersTo="#reform_ofek">אופק חדש</concept> או בסעיף <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement/!main#art_6">6</ref> <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">להסכם בעלי תפקידים וגננות</ref>, מ- <quantity eId="qty_51" refersTo="#hour" normalized="18">18 שעות</quantity> בכל מחצית של שנת הלימודים ל- <quantity eId="qty_52" refersTo="#hour" normalized="40">40 שעות</quantity> פעילות בית ספרית לכל שנת הלימודים לטובת פעילויות המפורטות בסעיף 30(ג) להסכם <concept eId="con_60" refersTo="#reform_ofek">אופק חדש</concept> או לטובת הפעילויות המפורטות בסעיף <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement/!main#art_6__para_d">6(ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">להסכם בעלי תפקידים וגננות</ref>, לפי העניין. למען הסר כל ספק מובהר כי חלוקת שעות הפעילות בהתאם למחציות שנת הלימודים מבוטלת.</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יוגדל מספר שעות הפעילות המרבי כמפורט בסעיפים <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_30__para_b">30 (ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> או בסעיף <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement/!main#art_6">6</ref> <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">להסכם בעלי תפקידים וגננות</ref>, מ- <quantity eId="qty_51" refersTo="#hour" normalized="18">18 שעות</quantity> בכל מחצית של שנת הלימודים ל- <quantity eId="qty_52" refersTo="#hour" normalized="40">40 שעות</quantity> פעילות בית ספרית לכל שנת הלימודים לטובת פעילויות המפורטות בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_30__para_c">30(ג)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> או לטובת הפעילויות המפורטות בסעיף <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement/!main#art_6__para_d">6(ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2013-09-17/2013-09-17-ofek-hadash-september-2013-agreement">להסכם בעלי תפקידים וגננות</ref>, לפי העניין. למען הסר כל ספק מובהר כי חלוקת שעות הפעילות בהתאם למחציות שנת הלימודים מבוטלת.</p>
             </content>
           </paragraph>
           <paragraph eId="art_16__para_16-4">
@@ -790,7 +790,7 @@
           <paragraph eId="art_17__para_17-1">
             <num>17.1</num>
             <intro>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול חינוך מיוחד הקבוע בסעיף 39(א)(3) להסכם רפורמת <concept eId="con_61" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן מעת לעת), באופן הבא:</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול חינוך מיוחד הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_3">39(א)(3)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> (כפי שתוקן מעת לעת), באופן הבא:</p>
             </intro>
             <subparagraph eId="art_17__para_17-1__subpara_17-1-1">
               <num>17.1.1</num>
@@ -807,26 +807,26 @@
             <subparagraph eId="art_17__para_17-1__subpara_17-1-3">
               <num>17.1.3</num>
               <content>
-                <p>על אף האמור בסעיף קטן 17.1.2 לעיל, לגבי עובד הוראה המלמד בכיתה שהוגדרה על ידי <organization eId="org_62" refersTo="#moe">משרד החינוך</organization> ככיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_63" refersTo="#moe">משרד החינוך</organization> נח/8(ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date>, <date date="1998-04-01">1 באפריל 1998</date> וכפי שעודכן ויעודכן מזמן לזמן, יגדל שיעור גמול חינוך מיוחד, בגין שעות הלימוד בכיתות אלו, מ-<quantity eId="qty_57" refersTo="#percentage" normalized="14">14%</quantity> לשיעור של <quantity eId="qty_58" refersTo="#percentage" normalized="17">17%</quantity>. למען הסר כל ספק סעיף זה לא יחול לגבי מורים במתי"אות אשר לגביהם יחול סעיף קטן 17.1.5 להלן.</p>
+                <p>על אף האמור בסעיף קטן 17.1.2 לעיל, לגבי עובד הוראה המלמד בכיתה שהוגדרה על ידי <organization eId="org_35" refersTo="#moe">משרד החינוך</organization> ככיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_36" refersTo="#moe">משרד החינוך</organization> נח/8(ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date>, <date date="1998-04-01">1 באפריל 1998</date> וכפי שעודכן ויעודכן מזמן לזמן, יגדל שיעור גמול חינוך מיוחד, בגין שעות הלימוד בכיתות אלו, מ-<quantity eId="qty_57" refersTo="#percentage" normalized="14">14%</quantity> לשיעור של <quantity eId="qty_58" refersTo="#percentage" normalized="17">17%</quantity>. למען הסר כל ספק סעיף זה לא יחול לגבי מורים במתי"אות אשר לגביהם יחול סעיף קטן 17.1.5 להלן.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_17__para_17-1__subpara_17-1-4">
               <num>17.1.4</num>
               <content>
-                <p>החל מיום <date date="2023-09-01">1.9.2023</date>, מורים המועסקים במסגרת מוסד מתי"א (מרכז תמיכה יישובי אזורי) אשר לא זכאים לגמול מחנך כיתה הקבוע בהוראות סעיף 50 להסכם <concept eId="con_64" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן בסעיף <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama/!main#art_37">37</ref> <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">להסכם הקיבוצי מיום 29.2.2012</ref>), ואשר זכאים לגמול חינוך מיוחד בשיעור של <quantity eId="qty_59" refersTo="#percentage" normalized="9">9%</quantity> לפי הקבוע בסעיף 39(א)(3) להסכם <concept eId="con_65" refersTo="#reform_ofek">אופק חדש</concept> או לגמול בשיעור <quantity eId="qty_60" refersTo="#percentage" normalized="9">9%</quantity> לפי הקבוע בסעיף 39(א)(4) להסכם <concept eId="con_66" refersTo="#reform_ofek">אופק חדש</concept> (להלן — "<def refersTo="#term_cfffc673">מורי מתי"א זכאים</def>" או "<def refersTo="#term_7e6f90c0">מורה מתי"א זכאי</def>" לפי העניין), יהיו זכאים לגמול האמור בשיעור של <quantity eId="qty_61" refersTo="#percentage" normalized="15">15%</quantity> (במקום <quantity eId="qty_62" refersTo="#percentage" normalized="9">9%</quantity>).</p>
+                <p>החל מיום <date date="2023-09-01">1.9.2023</date>, מורים המועסקים במסגרת מוסד מתי"א (מרכז תמיכה יישובי אזורי) אשר לא זכאים לגמול מחנך כיתה הקבוע בהוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_50">50</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (כפי שתוקן בסעיף <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama/!main#art_37">37</ref> <ref href="/akn/il/act/collectiveAgreement/2012-02-29/2012-02-29-ofek-hadash-amendment-hascam-hashlama">להסכם הקיבוצי מיום 29.2.2012</ref>), ואשר זכאים לגמול חינוך מיוחד בשיעור של <quantity eId="qty_59" refersTo="#percentage" normalized="9">9%</quantity> לפי הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_3">39(א)(3)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> או לגמול בשיעור <quantity eId="qty_60" refersTo="#percentage" normalized="9">9%</quantity> לפי הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_a__subpara_4">39(א)(4)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> (להלן — "<def refersTo="#term_cfffc673">מורי מתי"א זכאים</def>" או "<def refersTo="#term_7e6f90c0">מורה מתי"א זכאי</def>" לפי העניין), יהיו זכאים לגמול האמור בשיעור של <quantity eId="qty_61" refersTo="#percentage" normalized="15">15%</quantity> (במקום <quantity eId="qty_62" refersTo="#percentage" normalized="9">9%</quantity>).</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_17__para_17-1__subpara_17-1-5">
               <num>17.1.5</num>
               <content>
-                <p>על אף האמור בסעיף 17.1.4 לעיל, החל מיום <date date="2023-09-01">1.9.2023</date> לגבי <term eId="trm_42" refersTo="#term_7e6f90c0">מורה מתי"א זכאי</term> המלמד בכיתה שהוגדרה על ידי <organization eId="org_67" refersTo="#moe">משרד החינוך</organization> ככיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_68" refersTo="#moe">משרד החינוך</organization> נח/8(ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date>, <date date="1998-04-01">1 באפריל 1998</date> וכפי שעודכן ויעודכן מזמן לזמן, יגדל שיעור גמול חינוך מיוחד, בגין שעות הלימוד בכיתות אלו, מ-<quantity eId="qty_63" refersTo="#percentage" normalized="9">9%</quantity> לשיעור של <quantity eId="qty_64" refersTo="#percentage" normalized="17">17%</quantity>.</p>
+                <p>על אף האמור בסעיף 17.1.4 לעיל, החל מיום <date date="2023-09-01">1.9.2023</date> לגבי <term eId="trm_42" refersTo="#term_7e6f90c0">מורה מתי"א זכאי</term> המלמד בכיתה שהוגדרה על ידי <organization eId="org_37" refersTo="#moe">משרד החינוך</organization> ככיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_38" refersTo="#moe">משרד החינוך</organization> נח/8(ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date>, <date date="1998-04-01">1 באפריל 1998</date> וכפי שעודכן ויעודכן מזמן לזמן, יגדל שיעור גמול חינוך מיוחד, בגין שעות הלימוד בכיתות אלו, מ-<quantity eId="qty_63" refersTo="#percentage" normalized="9">9%</quantity> לשיעור של <quantity eId="qty_64" refersTo="#percentage" normalized="17">17%</quantity>.</p>
               </content>
             </subparagraph>
           </paragraph>
           <paragraph eId="art_17__para_17-2">
             <num>17.2</num>
             <content>
-              <p>למען הסר ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים בקשר לגמול חינוך מיוחד או לגמול לפי סעיף 39(א)(4) כפי שהיו ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_69" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>למען הסר ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים בקשר לגמול חינוך מיוחד או לגמול לפי סעיף 39(א)(4) כפי שהיו ערב החתימה על הסכם זה ואלו ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_39" refersTo="#reform_ofek">אופק חדש</concept>.</p>
             </content>
           </paragraph>
         </article>
@@ -834,7 +834,7 @@
           <num>18</num>
           <heading>ביגוד</heading>
           <intro>
-            <p>לעניין סעיף זה "<def refersTo="#term_7048f31c">פיזיותרפיסט</def>" — עובד הוראה ממקצועות הבריאות כמשמעותם בסעיף 20 להסכם <concept eId="con_70" refersTo="#reform_ofek">אופק חדש</concept> בעל תעודה מקצוע בפיזיותרפיה אשר במסגרת תפקידו מטפל באמצעות פיזיותרפיה.</p>
+            <p>לעניין סעיף זה "<def refersTo="#term_7048f31c">פיזיותרפיסט</def>" — עובד הוראה ממקצועות הבריאות כמשמעותם בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_20">20</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> בעל תעודה מקצוע בפיזיותרפיה אשר במסגרת תפקידו מטפל באמצעות פיזיותרפיה.</p>
           </intro>
           <paragraph eId="art_18__para_18-1">
             <num>18.1</num>
@@ -855,8 +855,8 @@
           <paragraph eId="art_19__para_19-1">
             <num>19.1</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יתווסף סעיף 36 (ז) להסכם <concept eId="con_71" refersTo="#reform_ofek">אופק חדש</concept>:</p>
-              <p>"36(ז) באותם מקרים חריגים וקצובים בזמן מוגדר בהם <organization eId="org_72" refersTo="#moe">משרד החינוך</organization> מאשר שיבוץ להעסקת מורה חדש אשר אינו אקדמאי ואשר אינו זכאי לשכר מתמחה בהוראה על פי הוראות סעיפים 145- 148 להסכם <concept eId="con_73" refersTo="#reform_ofek">אופק חדש</concept>, ישובץ המורה בטבלאות השכר <quantity eId="qty_66" refersTo="#grade" normalized="1">בדרגה 1</quantity> <quantity eId="qty_67" refersTo="#seniority" normalized="1">ובותק 1</quantity>.</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> יתווסף סעיף 36 (ז) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>:</p>
+              <p>"36(ז) באותם מקרים חריגים וקצובים בזמן מוגדר בהם <organization eId="org_40" refersTo="#moe">משרד החינוך</organization> מאשר שיבוץ להעסקת מורה חדש אשר אינו אקדמאי ואשר אינו זכאי לשכר מתמחה בהוראה על פי הוראות סעיפים <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_145">145</ref>- <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_148">148</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, ישובץ המורה בטבלאות השכר <quantity eId="qty_66" refersTo="#grade" normalized="1">בדרגה 1</quantity> <quantity eId="qty_67" refersTo="#seniority" normalized="1">ובותק 1</quantity>.</p>
               <p>מורה חדש שאינו אקדמאי בעל ותק מוכר משירות בצה"ל בהוראה או משירות לאומי בהוראה, כאמור בסעיף 37 להלן, ישובץ בהתאם לויתקו האמור.</p>
               <p>טבלת השכר בה ישובץ המורה (בכיר, מוסמך או בלתי מוסמך) תקבע בהתאם להשכלתו."</p>
             </content>
@@ -864,18 +864,18 @@
           <paragraph eId="art_19__para_19-2">
             <num>19.2</num>
             <content>
-              <p>החל מיום <date date="2023-09-01">1.9.2023</date> סעיפים 51, 59, 60 ו- 61 להסכם <concept eId="con_74" refersTo="#reform_ofek">אופק חדש</concept> מבוטלים למעט לגבי אותם <term eId="trm_43" refersTo="#term_2db30064">עובדי הוראה</term> אשר חתמו קודם ליום <date date="2023-06-30">30.6.2023</date> על כתב התחייבות לפיו התחייבו להשלים השכלה אקדמאית בתוך <quantity eId="qty_68" refersTo="#year" normalized="4">ארבע שנים</quantity> כמפורט בסעיפים האמורים.</p>
+              <p>החל מיום <date date="2023-09-01">1.9.2023</date> סעיפים <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_51">51</ref>, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_59">59</ref>, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_60">60</ref> ו- <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_61">61</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> מבוטלים למעט לגבי אותם <term eId="trm_43" refersTo="#term_2db30064">עובדי הוראה</term> אשר חתמו קודם ליום <date date="2023-06-30">30.6.2023</date> על כתב התחייבות לפיו התחייבו להשלים השכלה אקדמאית בתוך <quantity eId="qty_68" refersTo="#year" normalized="4">ארבע שנים</quantity> כמפורט בסעיפים האמורים.</p>
             </content>
           </paragraph>
         </article>
         <article eId="art_20" repo:prose="same-source">
           <num>20</num>
-          <heading>היקף העסקה מקסימלי— תיקון סעיף 33(ד) להסכם <concept eId="con_75" refersTo="#reform_ofek">אופק חדש</concept>
+          <heading>היקף העסקה מקסימלי— תיקון סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_d">33(ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>
           </heading>
           <paragraph eId="art_20__para_20-1">
             <num>20.1</num>
             <content>
-              <p>בסעיף 33(ד) להסכם <concept eId="con_76" refersTo="#reform_ofek">אופק חדש</concept> לאחר המילים "מנהלי כוח אדם בהוראה במחוזות" יבוא "או מנהלי בתי הספר". התיקון המפורט בסעיף זה יחול לקראת שנת הלימודים תשפ"ד ואילך.</p>
+              <p>בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_d">33(ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> לאחר המילים "מנהלי כוח אדם בהוראה במחוזות" יבוא "או מנהלי בתי הספר". התיקון המפורט בסעיף זה יחול לקראת שנת הלימודים תשפ"ד ואילך.</p>
             </content>
           </paragraph>
           <paragraph eId="art_20__para_20-2">
@@ -889,7 +889,7 @@
           <num>21</num>
           <heading>מענק שימור</heading>
           <intro>
-            <p>עובד הוראה אשר עומד בכל תנאי הזכאות המפורטים להלן במצטבר יהיה זכאי למענק חד פעמי בסכום כולל של <quantity eId="qty_69" refersTo="#ILS" normalized="10000">10,000 ₪</quantity> (להלן — "<def refersTo="#term_3e53ed76">המענק</def>"), אשר ישולם בחודש מאי הסמוך לאחר מועד כניסתו למעמד <term eId="trm_44" refersTo="#term_4f9e1fc2">עובד קבוע</term> בהתאם להוראות <organization eId="org_77" refersTo="#moe">משרד החינוך</organization> כפי שיהיו מזמן לזמן (להלן — "<def refersTo="#term_4f9e1fc2">עובד קבוע</def>"):</p>
+            <p>עובד הוראה אשר עומד בכל תנאי הזכאות המפורטים להלן במצטבר יהיה זכאי למענק חד פעמי בסכום כולל של <quantity eId="qty_69" refersTo="#ILS" normalized="10000">10,000 ₪</quantity> (להלן — "<def refersTo="#term_3e53ed76">המענק</def>"), אשר ישולם בחודש מאי הסמוך לאחר מועד כניסתו למעמד <term eId="trm_44" refersTo="#term_4f9e1fc2">עובד קבוע</term> בהתאם להוראות <organization eId="org_41" refersTo="#moe">משרד החינוך</organization> כפי שיהיו מזמן לזמן (להלן — "<def refersTo="#term_4f9e1fc2">עובד קבוע</def>"):</p>
           </intro>
           <paragraph eId="art_21__para_21-1">
             <num>21.1</num>
@@ -900,31 +900,31 @@
             <subparagraph eId="art_21__para_21-1__subpara_21-1-1">
               <num>21.1.1</num>
               <content>
-                <p>העסקתו כעובד ההוראה בשירות <term eId="trm_45" refersTo="#term_ddf2350a">המדינה</term> על ידי <organization eId="org_78" refersTo="#moe">משרד החינוך</organization> החלה בתקופה שמיום <date date="2023-09-01">1.9.2023</date> ואילך.</p>
+                <p>העסקתו כעובד ההוראה בשירות <term eId="trm_45" refersTo="#term_ddf2350a">המדינה</term> על ידי <organization eId="org_42" refersTo="#moe">משרד החינוך</organization> החלה בתקופה שמיום <date date="2023-09-01">1.9.2023</date> ואילך.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_21__para_21-1__subpara_21-1-2">
               <num>21.1.2</num>
               <content>
-                <p>עובד ההוראה מועסק בתנאי <concept eId="con_79" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                <p>עובד ההוראה מועסק בתנאי <concept eId="con_43" refersTo="#reform_ofek">אופק חדש</concept>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_21__para_21-1__subpara_21-1-3">
               <num>21.1.3</num>
               <content>
-                <p>העובד אינו בעל ותק בהוראה בפועל ערב תחילת העסקתו כעובד הוראה בשירות <term eId="trm_46" refersTo="#term_ddf2350a">המדינה</term> <organization eId="org_80" refersTo="#moe">במשרד החינוך</organization> ולמעט מי שתקופת שירותו בצבא ההגנה לישראל או במסגרת השירות הלאומי הוכרה כוותק בהוראה בפועל בהתאם לכללים החלים לעניין זה, כפי שיהיו מזמן לזמן.</p>
+                <p>העובד אינו בעל ותק בהוראה בפועל ערב תחילת העסקתו כעובד הוראה בשירות <term eId="trm_46" refersTo="#term_ddf2350a">המדינה</term> <organization eId="org_44" refersTo="#moe">במשרד החינוך</organization> ולמעט מי שתקופת שירותו בצבא ההגנה לישראל או במסגרת השירות הלאומי הוכרה כוותק בהוראה בפועל בהתאם לכללים החלים לעניין זה, כפי שיהיו מזמן לזמן.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_21__para_21-1__subpara_21-1-4">
               <num>21.1.4</num>
               <content>
-                <p>העובד הועסק ברצף כעובד הוראה <organization eId="org_81" refersTo="#moe">במשרד החינוך</organization> עד לקבלת מעמד של <term eId="trm_47" refersTo="#term_4f9e1fc2">עובד קבוע</term>. לעניין סעיף קטן זה רציפות ההעסקה תיקטע בכל מקרה בו שנת הלימודים לא מוכרת כשנת ותק בהוראה לצורך קבלת מעמד של <term eId="trm_48" refersTo="#term_4f9e1fc2">עובד קבוע</term> בהתאם לכללים החלים בעניין זה כפי שיהיו מזמן לזמן ולמעט תקופת לידה והורות כמשמעותה בחוק עבודת נשים, התשי"ד-1954 שלא תקטע את הרצף (למרות שאינה מוכרת לקביעת מעמד).</p>
+                <p>העובד הועסק ברצף כעובד הוראה <organization eId="org_45" refersTo="#moe">במשרד החינוך</organization> עד לקבלת מעמד של <term eId="trm_47" refersTo="#term_4f9e1fc2">עובד קבוע</term>. לעניין סעיף קטן זה רציפות ההעסקה תיקטע בכל מקרה בו שנת הלימודים לא מוכרת כשנת ותק בהוראה לצורך קבלת מעמד של <term eId="trm_48" refersTo="#term_4f9e1fc2">עובד קבוע</term> בהתאם לכללים החלים בעניין זה כפי שיהיו מזמן לזמן ולמעט תקופת לידה והורות כמשמעותה בחוק עבודת נשים, התשי"ד-1954 שלא תקטע את הרצף (למרות שאינה מוכרת לקביעת מעמד).</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_21__para_21-1__subpara_21-1-5">
               <num>21.1.5</num>
               <content>
-                <p>חלקיות משרתו במועד כניסתו למעמד <term eId="trm_49" refersTo="#term_4f9e1fc2">עובד קבוע</term> היא <quantity eId="qty_70" refersTo="#percentage" normalized="70">70%</quantity> משרה ומעלה, למעט <term eId="trm_50" refersTo="#term_2db30064">עובדי הוראה</term> כאמור בסעיפים קטנים 27(ד) ו- 27(ה) להסכם <concept eId="con_82" refersTo="#reform_ofek">אופק חדש</concept> אשר תנאי זה לא יחול לגביהם.</p>
+                <p>חלקיות משרתו במועד כניסתו למעמד <term eId="trm_49" refersTo="#term_4f9e1fc2">עובד קבוע</term> היא <quantity eId="qty_70" refersTo="#percentage" normalized="70">70%</quantity> משרה ומעלה, למעט <term eId="trm_50" refersTo="#term_2db30064">עובדי הוראה</term> כאמור בסעיפים קטנים 27(ד) ו- 27(ה) <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> אשר תנאי זה לא יחול לגביהם.</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -963,7 +963,7 @@
           <paragraph eId="art_21__para_21-7">
             <num>21.7</num>
             <content>
-              <p><term eId="trm_61" refersTo="#term_3e53ed76">המענק</term> לפי סעיף זה לא יהווה שכר לכל דבר ועניין, לא יובא בחשבון לעניין חישוב ערך שעה, לעניין חישוב התמורה עבור ביצוע שעות מילוי מקום ושעות פעילות בית ספרית, לעניין הפחתת שכר בשל שעת היעדרות, לעניין חישוב התמורה המשולמת כאמור בסעיף 33(ד) להסכם רפורמת <concept eId="con_83" refersTo="#reform_ofek">אופק חדש</concept>, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג — 1963, ולא יבוצעו בגינו הפרשות כלשהן לקופת גמל (לרבות לקרן השתלמות ולקופת גמל לקצבה).</p>
+              <p><term eId="trm_61" refersTo="#term_3e53ed76">המענק</term> לפי סעיף זה לא יהווה שכר לכל דבר ועניין, לא יובא בחשבון לעניין חישוב ערך שעה, לעניין חישוב התמורה עבור ביצוע שעות מילוי מקום ושעות פעילות בית ספרית, לעניין הפחתת שכר בשל שעת היעדרות, לעניין חישוב התמורה המשולמת כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_d">33(ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref>, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג — 1963, ולא יבוצעו בגינו הפרשות כלשהן לקופת גמל (לרבות לקרן השתלמות ולקופת גמל לקצבה).</p>
             </content>
           </paragraph>
           <paragraph eId="art_21__para_21-8">
@@ -1011,7 +1011,7 @@
           <paragraph eId="art_21__para_21-11">
             <num>21.11</num>
             <content>
-              <p>לדוגמא - עובד הוראה הועסק כעובד הוראה <organization eId="org_84" refersTo="#moe">במשרד החינוך</organization> החל מיום <date date="2025-09-01">1.9.2025</date> בחלקיות משרה של <quantity eId="qty_79" refersTo="#percentage" normalized="80">80%</quantity>. ביום <date date="2027-12-01">1.12.2027</date> שהה העובד בתקופת לידה והורות וביום <date date="2028-03-01">1.3.2028</date> חזר לעבודה בפועל בחלקיות העסקה של <quantity eId="qty_80" refersTo="#percentage" normalized="80">80%</quantity>. ביום <date date="2028-09-01">1.9.2028</date> נכנס למעמד <term eId="trm_66" refersTo="#term_4f9e1fc2">עובד קבוע</term> בחלקיות משרה של <quantity eId="qty_81" refersTo="#percentage" normalized="90">90%</quantity>. למען הסר ספק מובהר כי הנתונים המובאים כאן הינם לשם הדוגמא בלבד ואין בהם כדי ללמד על כללים והוראות שאינם בקשר למענק השימור לפי סעיף זה או על פרשנותם של אלו.</p>
+              <p>לדוגמא - עובד הוראה הועסק כעובד הוראה <organization eId="org_46" refersTo="#moe">במשרד החינוך</organization> החל מיום <date date="2025-09-01">1.9.2025</date> בחלקיות משרה של <quantity eId="qty_79" refersTo="#percentage" normalized="80">80%</quantity>. ביום <date date="2027-12-01">1.12.2027</date> שהה העובד בתקופת לידה והורות וביום <date date="2028-03-01">1.3.2028</date> חזר לעבודה בפועל בחלקיות העסקה של <quantity eId="qty_80" refersTo="#percentage" normalized="80">80%</quantity>. ביום <date date="2028-09-01">1.9.2028</date> נכנס למעמד <term eId="trm_66" refersTo="#term_4f9e1fc2">עובד קבוע</term> בחלקיות משרה של <quantity eId="qty_81" refersTo="#percentage" normalized="90">90%</quantity>. למען הסר ספק מובהר כי הנתונים המובאים כאן הינם לשם הדוגמא בלבד ואין בהם כדי ללמד על כללים והוראות שאינם בקשר למענק השימור לפי סעיף זה או על פרשנותם של אלו.</p>
               <p>"<term eId="trm_67" refersTo="#term_f648c147">התקופה הרלוונטית לחישוב המענק</term>": <date date="2026-04-01">1.4.2026</date> עד <date date="2029-03-31">31.3.2029</date>.</p>
               <p>חלקיות העסקה החל מיום <date date="2026-04-01">1.4.2026</date> ועד ליום 31.11.2027 [כך במקור]: <quantity eId="qty_82" refersTo="#percentage" normalized="80">80%</quantity> במשך <quantity eId="qty_83" refersTo="#month" normalized="20">20 חודשים</quantity>.</p>
               <p>תקופת לידה והורות מיום <date date="2027-12-01">1.12.2027</date> ועד ליום <date date="2028-02-28">28.2.2028</date>: משך <quantity eId="qty_84" refersTo="#month" normalized="3">3 חודשים</quantity> שלא מובאים בחשבון.</p>
@@ -1032,20 +1032,20 @@
           <paragraph eId="art_22__para_22-1">
             <num>22.1</num>
             <content>
-              <p>החל משנת הלימודים תשפ"ו (המתחילה ביום <date date="2025-09-01">1.9.2025</date>) ומדי שנה, מנהל <concept eId="dom_5" refersTo="#stage_yesodi">בית ספר יסודי</concept>, <concept eId="dom_6" refersTo="#stage_chativat_beinayim">חטיבת ביניים</concept>, בית ספר בחינוך המיוחד, מרכז מחוננים, חווה חקלאית או מרכז ימי (להלן בסעיף זה — "<def refersTo="#term_e63066d9">המנהל</def>" או "<def refersTo="#term_bf9f906a">בית הספר</def>" לפי העניין) יהיה רשאי לקבוע מספר תפקידים מוגדרים אותם ימלא מורה <term eId="trm_69" refersTo="#term_bf9f906a">בבית הספר</term> (להלן — "<def refersTo="#term_a3f28267">תפקידים בית-ספריים</def>"), בהתחשב בצרכי <term eId="trm_70" refersTo="#term_bf9f906a">בית הספר</term> לשנת הלימודים הרלוונטית ובהתאם להנחיות <organization eId="org_85" refersTo="#moe">משרד החינוך</organization>.</p>
+              <p>החל משנת הלימודים תשפ"ו (המתחילה ביום <date date="2025-09-01">1.9.2025</date>) ומדי שנה, מנהל <concept eId="dom_5" refersTo="#stage_yesodi">בית ספר יסודי</concept>, <concept eId="dom_6" refersTo="#stage_chativat_beinayim">חטיבת ביניים</concept>, בית ספר בחינוך המיוחד, מרכז מחוננים, חווה חקלאית או מרכז ימי (להלן בסעיף זה — "<def refersTo="#term_e63066d9">המנהל</def>" או "<def refersTo="#term_bf9f906a">בית הספר</def>" לפי העניין) יהיה רשאי לקבוע מספר תפקידים מוגדרים אותם ימלא מורה <term eId="trm_69" refersTo="#term_bf9f906a">בבית הספר</term> (להלן — "<def refersTo="#term_a3f28267">תפקידים בית-ספריים</def>"), בהתחשב בצרכי <term eId="trm_70" refersTo="#term_bf9f906a">בית הספר</term> לשנת הלימודים הרלוונטית ובהתאם להנחיות <organization eId="org_47" refersTo="#moe">משרד החינוך</organization>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_22__para_22-2">
             <num>22.2</num>
             <content>
               <p>לגבי כל תפקיד בית ספרי שקבע כאמור לעיל, יקבע <term eId="trm_71" refersTo="#term_e63066d9">המנהל</term> את מספר יחידות הגמול להן יהיה זכאי עובד ההוראה הממלא את התפקיד. מספר יחידות הגמול אשר יקבע <term eId="trm_72" refersTo="#term_e63066d9">המנהל</term> יהיה בין שתי יחידות גמול לחמש יחידות גמול, ביחידות שלמות (להלן — "<def refersTo="#term_4adbe1b7">גמול תפקיד בית ספרי</def>").</p>
-              <p>קביעת מספר יחידות הגמול לכל תפקיד תבוצע בכפוף למכסת יחידות הגמול אשר תוקצה <term eId="trm_73" refersTo="#term_bf9f906a">לבית הספר</term> על ידי <organization eId="org_86" refersTo="#moe">משרד החינוך</organization>, בהתאם לסדר העדיפויות הבית ספרי כפי שייקבע על ידי <term eId="trm_74" refersTo="#term_e63066d9">המנהל</term> מדי שנת לימודים ובשים לב לקריטריונים מנחים שיעביר <organization eId="org_87" refersTo="#moe">משרד החינוך</organization>.</p>
+              <p>קביעת מספר יחידות הגמול לכל תפקיד תבוצע בכפוף למכסת יחידות הגמול אשר תוקצה <term eId="trm_73" refersTo="#term_bf9f906a">לבית הספר</term> על ידי <organization eId="org_48" refersTo="#moe">משרד החינוך</organization>, בהתאם לסדר העדיפויות הבית ספרי כפי שייקבע על ידי <term eId="trm_74" refersTo="#term_e63066d9">המנהל</term> מדי שנת לימודים ובשים לב לקריטריונים מנחים שיעביר <organization eId="org_49" refersTo="#moe">משרד החינוך</organization>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_22__para_22-3">
             <num>22.3</num>
             <content>
-              <p>למען הסר כל ספק גמול התפקיד הבית ספרי לא מחליף את גמולי התפקיד הקיימים ערב החתימה על הסכם זה <term eId="trm_75" refersTo="#term_e63066d9">והמנהל</term> לא יקבע כתפקיד בית ספרי תפקיד אשר נקבע בגינו גמול בהסכם <concept eId="con_88" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+              <p>למען הסר כל ספק גמול התפקיד הבית ספרי לא מחליף את גמולי התפקיד הקיימים ערב החתימה על הסכם זה <term eId="trm_75" refersTo="#term_e63066d9">והמנהל</term> לא יקבע כתפקיד בית ספרי תפקיד אשר נקבע בגינו גמול <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_22__para_22-4">
@@ -1064,7 +1064,7 @@
           <paragraph eId="art_22__para_22-6">
             <num>22.6</num>
             <content>
-              <p><term eId="trm_78" refersTo="#term_4adbe1b7">לגמול תפקיד בית ספרי</term> יהיה זכאי מורה המועסק בחלקיות של שליש משרה ומעלה <organization eId="org_89" refersTo="#moe">במשרד החינוך</organization> אשר ימלא את התפקיד הבית ספרי במהלך שנת הלימודים לפי קביעת <term eId="trm_79" refersTo="#term_e63066d9">המנהל</term> וכל עוד המורה ממלא את התפקיד האמור במהלך שנת הלימודים האמורה. למען הסר ספק מובהר כי הן התפקיד הבית ספרי והן גמול התפקיד הבית ספרי נקבעים על ידי <term eId="trm_80" refersTo="#term_e63066d9">המנהל</term> מדי שנת לימודים מחדש ואין למורה אשר מילא תפקיד מסוים בשנת לימודים מסוימת זכאות להמשיך במילוי התפקיד עם תום שנת הלימודים.</p>
+              <p><term eId="trm_78" refersTo="#term_4adbe1b7">לגמול תפקיד בית ספרי</term> יהיה זכאי מורה המועסק בחלקיות של שליש משרה ומעלה <organization eId="org_50" refersTo="#moe">במשרד החינוך</organization> אשר ימלא את התפקיד הבית ספרי במהלך שנת הלימודים לפי קביעת <term eId="trm_79" refersTo="#term_e63066d9">המנהל</term> וכל עוד המורה ממלא את התפקיד האמור במהלך שנת הלימודים האמורה. למען הסר ספק מובהר כי הן התפקיד הבית ספרי והן גמול התפקיד הבית ספרי נקבעים על ידי <term eId="trm_80" refersTo="#term_e63066d9">המנהל</term> מדי שנת לימודים מחדש ואין למורה אשר מילא תפקיד מסוים בשנת לימודים מסוימת זכאות להמשיך במילוי התפקיד עם תום שנת הלימודים.</p>
             </content>
           </paragraph>
           <paragraph eId="art_22__para_22-7">
@@ -1094,7 +1094,7 @@
           <paragraph eId="art_22__para_22-11">
             <num>22.11</num>
             <content>
-              <p>גמול תפקיד בית - ספרי יובא בחשבון לעניין חישוב ערך שעה לעניין חישוב התמורה עבור ביצוע "שעות מילוי מקום" או עבור ביצוע "פעילויות בית ספריות", לעניין הפחתת שכר בשל שעת היעדרות, ולעניין חישוב התמורה המשולמת כאמור בסעיף 33(ד) להסכם רפורמת <concept eId="con_90" refersTo="#reform_ofek">אופק חדש</concept>, לעניין חישוב פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג — 1963, וכן לעניין הפרשות לקופת גמל לקצבה (בהתאם לשיעורים החלים לפי הוראות סעיפים קטנים (1)(א) או 1(ב) ב<ref href="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/!main#chp_6">פרק ו'</ref> <ref href="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative">להסכם הקיבוצי מיום 30.12.2009</ref> - לפי העניין). למען הסר ספק מובהר כי גמול התפקיד הבית ספרי אינו חלק מהשכר המשולב ולא יבוא בבסיס לחישוב תוספות שכר אחרת (שקליות או אחוזיות).</p>
+              <p>גמול תפקיד בית - ספרי יובא בחשבון לעניין חישוב ערך שעה לעניין חישוב התמורה עבור ביצוע "שעות מילוי מקום" או עבור ביצוע "פעילויות בית ספריות", לעניין הפחתת שכר בשל שעת היעדרות, ולעניין חישוב התמורה המשולמת כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_33__para_d">33(ד)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref>, לעניין חישוב פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג — 1963, וכן לעניין הפרשות לקופת גמל לקצבה (בהתאם לשיעורים החלים לפי הוראות סעיפים קטנים (1)(א) או 1(ב) ב<ref href="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative/!main#chp_6">פרק ו'</ref> <ref href="/akn/il/act/collectiveAgreement/2009-12-30/2009-12-30-teachers-pension-transfer-cumulative">להסכם הקיבוצי מיום 30.12.2009</ref> - לפי העניין). למען הסר ספק מובהר כי גמול התפקיד הבית ספרי אינו חלק מהשכר המשולב ולא יבוא בבסיס לחישוב תוספות שכר אחרת (שקליות או אחוזיות).</p>
             </content>
           </paragraph>
           <paragraph eId="art_22__para_22-12">
@@ -1106,19 +1106,19 @@
           <paragraph eId="art_22__para_22-13">
             <num>22.13</num>
             <content>
-              <p>המגבלה הקבועה בסעיף 39(ב) להסכם <concept eId="con_91" refersTo="#reform_ofek">אופק חדש</concept> תחול לגבי גמול תפקיד בית — ספרי ואולם ככל שהמורה ממלא שלושה תפקידים המזכים בגמול תפקיד ואחד מהתפקידים האמורים הוא "תפקיד בית ספרי", לא יידרש אישור מנהל המחוז לתשלום שלושה גמולי תפקיד.</p>
+              <p>המגבלה הקבועה בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_39__para_b">39(ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> תחול לגבי גמול תפקיד בית — ספרי ואולם ככל שהמורה ממלא שלושה תפקידים המזכים בגמול תפקיד ואחד מהתפקידים האמורים הוא "תפקיד בית ספרי", לא יידרש אישור מנהל המחוז לתשלום שלושה גמולי תפקיד.</p>
             </content>
           </paragraph>
           <paragraph eId="art_22__para_22-14">
             <num>22.14</num>
             <content>
-              <p><organization eId="org_92" refersTo="#moe">משרד החינוך</organization> יקבע את מפתח הקצאת יחידות הגמול לכל בית ספר מדי שנת לימודים.</p>
+              <p><organization eId="org_51" refersTo="#moe">משרד החינוך</organization> יקבע את מפתח הקצאת יחידות הגמול לכל בית ספר מדי שנת לימודים.</p>
             </content>
           </paragraph>
         </article>
         <article eId="art_23" repo:prose="same-source">
           <num>23</num>
-          <heading>שימור רמת מורכבות למנהל שהועבר ביוזמת <organization eId="org_93" refersTo="#moe">משרד החינוך</organization> לבית ספר המתמודד עם קושי</heading>
+          <heading>שימור רמת מורכבות למנהל שהועבר ביוזמת <organization eId="org_52" refersTo="#moe">משרד החינוך</organization> לבית ספר המתמודד עם קושי</heading>
           <paragraph eId="art_23__para_23-1">
             <num>23.1</num>
             <intro>
@@ -1127,13 +1127,13 @@
             <subparagraph eId="art_23__para_23-1__subpara_23-1-1">
               <num>23.1.1</num>
               <content>
-                <p><organization eId="org_94" refersTo="#moe">משרד החינוך</organization> יזם את העברת <term eId="trm_84" refersTo="#term_e63066d9">המנהל</term> <term eId="trm_85" refersTo="#term_bf9f906a">מבית הספר</term> אותו ניהל לבית ספר אחר על בסיס חוות דעת חיובית לגבי תפקודו הניהולי וניסיונו הניהולי, זאת לשם חיזוק בית ספר המתמודד עם קושי.</p>
+                <p><organization eId="org_53" refersTo="#moe">משרד החינוך</organization> יזם את העברת <term eId="trm_84" refersTo="#term_e63066d9">המנהל</term> <term eId="trm_85" refersTo="#term_bf9f906a">מבית הספר</term> אותו ניהל לבית ספר אחר על בסיס חוות דעת חיובית לגבי תפקודו הניהולי וניסיונו הניהולי, זאת לשם חיזוק בית ספר המתמודד עם קושי.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_23__para_23-1__subpara_23-1-2">
               <num>23.1.2</num>
               <content>
-                <p><term eId="trm_86" refersTo="#term_e63066d9">המנהל</term> הינו במעמד "מנהל קבוע" <organization eId="org_95" refersTo="#moe">במשרד החינוך</organization> ערב המעבר <term eId="trm_87" refersTo="#term_514b8014">לבית הספר אליו מיועד</term>, זאת בהתאם לכללים החלים לעניין קביעת מעמד של מנהל כקבוע וכפי שיהיו מזמן לזמן.</p>
+                <p><term eId="trm_86" refersTo="#term_e63066d9">המנהל</term> הינו במעמד "מנהל קבוע" <organization eId="org_54" refersTo="#moe">במשרד החינוך</organization> ערב המעבר <term eId="trm_87" refersTo="#term_514b8014">לבית הספר אליו מיועד</term>, זאת בהתאם לכללים החלים לעניין קביעת מעמד של מנהל כקבוע וכפי שיהיו מזמן לזמן.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_23__para_23-1__subpara_23-1-3">
@@ -1208,7 +1208,7 @@
           <paragraph eId="art_26__para_26-1">
             <num>26.1</num>
             <content>
-              <p>סעיף 27 (ג) להסכם <concept eId="con_96" refersTo="#reform_ofek">אופק חדש</concept> יתוקן כמפורט להלן:</p>
+              <p>סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_27__para_c">27 (ג)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> יתוקן כמפורט להלן:</p>
               <p>החל מיום <date date="2023-09-01">1.9.2023</date> <mod eId="art_26__para_26-1__mod_1">במקום המילים <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_26__para_26-1__mod_1__qtxt_1">חלקיות משרה הנמוכה מ- <quantity eId="qty_99" refersTo="#percentage" normalized="50">50%</quantity></quotedText> יבוא <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_26__para_26-1__mod_1__qtxt_2">חלקיות משרה הנמוכה מ- <quantity eId="qty_100" refersTo="#percentage" normalized="70">70%</quantity></quotedText></mod>.</p>
               <p>החל מיום <date date="2024-09-01">1.9.2024</date> <mod eId="art_26__para_26-1__mod_2">במקום המילים <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_26__para_26-1__mod_2__qtxt_1">חלקיות משרה הנמוכה מ- <quantity eId="qty_101" refersTo="#percentage" normalized="70">70%</quantity></quotedText> יבוא <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_26__para_26-1__mod_2__qtxt_2">חלקיות משרה הנמוכה מ- <quantity eId="qty_102" refersTo="#percentage" normalized="80">80%</quantity></quotedText></mod>.</p>
             </content>
@@ -1230,7 +1230,7 @@
         </intro>
         <article eId="art_27" repo:prose="same-source">
           <num>27</num>
-          <heading>תוספת שקלית אחידה <term eId="trm_103" refersTo="#term_2db30064">לעובדי הוראה</term> שאינם ברפורמת <concept eId="con_97" refersTo="#reform_ofek">אופק חדש</concept> ("עולם ישן")</heading>
+          <heading>תוספת שקלית אחידה <term eId="trm_103" refersTo="#term_2db30064">לעובדי הוראה</term> שאינם ברפורמת <concept eId="con_55" refersTo="#reform_ofek">אופק חדש</concept> ("עולם ישן")</heading>
           <paragraph eId="art_27__para_27-1">
             <num>27.1</num>
             <content>
@@ -1280,29 +1280,29 @@
           <num>29</num>
           <heading>ימי חופשה</heading>
           <intro>
-            <p>לעניין סעיף זה "<def refersTo="#term_190ccc3c">שעות המערכת</def>"- השעות שנקבעו לעובד הוראה על ידי <organization eId="org_98" refersTo="#moe">משרד החינוך</organization> כשעות עבודה, בהתאם לימות השבוע בחודש קלנדרי מסוים, בכלל מוסדות החינוך. למען הסר ספק מובהר כי שעות עבודה כאמור כוללות שעות מכלל הסוגים, לרבות שעות פרונטאליות, שהייה, שעות פרטניות ושעות ניהול, ולמעט שעות בודדות כדוגמת: שעות פעילות בית ספרית, שעות פעילות גן ושעות מילוי מקום, אשר אינן כלולות בהגדרה זו של שעות מערכת.</p>
+            <p>לעניין סעיף זה "<def refersTo="#term_190ccc3c">שעות המערכת</def>"- השעות שנקבעו לעובד הוראה על ידי <organization eId="org_56" refersTo="#moe">משרד החינוך</organization> כשעות עבודה, בהתאם לימות השבוע בחודש קלנדרי מסוים, בכלל מוסדות החינוך. למען הסר ספק מובהר כי שעות עבודה כאמור כוללות שעות מכלל הסוגים, לרבות שעות פרונטאליות, שהייה, שעות פרטניות ושעות ניהול, ולמעט שעות בודדות כדוגמת: שעות פעילות בית ספרית, שעות פעילות גן ושעות מילוי מקום, אשר אינן כלולות בהגדרה זו של שעות מערכת.</p>
           </intro>
           <paragraph eId="art_29__para_29-1">
             <num>29.1</num>
             <intro>
-              <p>כמפורט במכתבה של <role eId="rol_99" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_100" refersTo="#moe">משרד החינוך</organization> מיום [בכתב יד: <date date="2022-10-19">19/10/22</date>], החל משנת הלימודים תשפ"ד יחולו בחינוך הרשמי שינויים <term eId="trm_109" refersTo="#term_ae19a1ba">בלוח החופשות</term> הקבוע בחוזר מנכ"ל <organization eId="org_101" refersTo="#moe">משרד החינוך</organization>, כפי שמעודכן מזמן לזמן (להלן: "<def refersTo="#term_ae19a1ba">לוח החופשות</def>"). בין היתר פורט כי עובד הוראה המשובץ לעבודה במוסד חינוך במשרה מלאה ואשר ימי חופשתו נקבעים לפי <term eId="trm_110" refersTo="#term_ae19a1ba">לוח החופשות</term> יהיה זכאי לשני ימי חופשה במהלך שנת לימודים. לגבי שני ימי החופשה האמורים יחולו הכללים המפורטים להלן:</p>
+              <p>כמפורט במכתבה של <role eId="rol_57" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_58" refersTo="#moe">משרד החינוך</organization> מיום [בכתב יד: <date date="2022-10-19">19/10/22</date>], החל משנת הלימודים תשפ"ד יחולו בחינוך הרשמי שינויים <term eId="trm_109" refersTo="#term_ae19a1ba">בלוח החופשות</term> הקבוע בחוזר מנכ"ל <organization eId="org_59" refersTo="#moe">משרד החינוך</organization>, כפי שמעודכן מזמן לזמן (להלן: "<def refersTo="#term_ae19a1ba">לוח החופשות</def>"). בין היתר פורט כי עובד הוראה המשובץ לעבודה במוסד חינוך במשרה מלאה ואשר ימי חופשתו נקבעים לפי <term eId="trm_110" refersTo="#term_ae19a1ba">לוח החופשות</term> יהיה זכאי לשני ימי חופשה במהלך שנת לימודים. לגבי שני ימי החופשה האמורים יחולו הכללים המפורטים להלן:</p>
             </intro>
             <subparagraph eId="art_29__para_29-1__subpara_29-1-1">
               <num>29.1.1</num>
               <content>
-                <p>עובד הוראה אשר שובץ לעבודה <organization eId="org_102" refersTo="#moe">במשרד החינוך</organization> במוסד/מוסדות חינוך לשנת לימודים מלאה יהיה זכאי לשני ימי חופשה כאמור בסעיף זה בגין עבודתו במשך כל שנת הלימודים.</p>
+                <p>עובד הוראה אשר שובץ לעבודה <organization eId="org_60" refersTo="#moe">במשרד החינוך</organization> במוסד/מוסדות חינוך לשנת לימודים מלאה יהיה זכאי לשני ימי חופשה כאמור בסעיף זה בגין עבודתו במשך כל שנת הלימודים.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_29__para_29-1__subpara_29-1-2">
               <num>29.1.2</num>
               <content>
-                <p>עובד הוראה אשר שובץ לעבודה <organization eId="org_103" refersTo="#moe">במשרד החינוך</organization> במוסד/מוסדות חינוך שלא לשנת לימודים מלאה ובהתאם לשיבוץ <term eId="trm_111" refersTo="#term_190ccc3c">ולשעות המערכת</term> הקבועות בעניינו עליו לעבוד ביום י"ג באדר (תענית אסתר) או ביום הראשון לחופשת החורף, לפי העניין, יהיה זכאי ליום חופשה אחד כאמור בסעיף זה בגין עבודתו באותה שנת לימודים.</p>
+                <p>עובד הוראה אשר שובץ לעבודה <organization eId="org_61" refersTo="#moe">במשרד החינוך</organization> במוסד/מוסדות חינוך שלא לשנת לימודים מלאה ובהתאם לשיבוץ <term eId="trm_111" refersTo="#term_190ccc3c">ולשעות המערכת</term> הקבועות בעניינו עליו לעבוד ביום י"ג באדר (תענית אסתר) או ביום הראשון לחופשת החורף, לפי העניין, יהיה זכאי ליום חופשה אחד כאמור בסעיף זה בגין עבודתו באותה שנת לימודים.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_29__para_29-1__subpara_29-1-3">
               <num>29.1.3</num>
               <content>
-                <p>עובד הוראה אשר שובץ לעבודה <organization eId="org_104" refersTo="#moe">במשרד החינוך</organization> במוסד/מוסדות חינוך שלא לשנת לימודים מלאה ובהתאם לשיבוץ <term eId="trm_112" refersTo="#term_190ccc3c">ולשעות המערכת</term> הקבועות בעניינו עליו לעבוד ביום י"ח באייר (ל"ג בעומר) או ביום הראשון לחופשת האביב, לפי העניין, יהיה זכאי ליום חופשה אחד כאמור בסעיף זה (בנוסף ליום החופשה לו זכאי בהתאם לסעיף קטן 29.1.2 לעיל, ככל שזכאי) בגין עבודתו באותה שנת לימודים.</p>
+                <p>עובד הוראה אשר שובץ לעבודה <organization eId="org_62" refersTo="#moe">במשרד החינוך</organization> במוסד/מוסדות חינוך שלא לשנת לימודים מלאה ובהתאם לשיבוץ <term eId="trm_112" refersTo="#term_190ccc3c">ולשעות המערכת</term> הקבועות בעניינו עליו לעבוד ביום י"ח באייר (ל"ג בעומר) או ביום הראשון לחופשת האביב, לפי העניין, יהיה זכאי ליום חופשה אחד כאמור בסעיף זה (בנוסף ליום החופשה לו זכאי בהתאם לסעיף קטן 29.1.2 לעיל, ככל שזכאי) בגין עבודתו באותה שנת לימודים.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_29__para_29-1__subpara_29-1-4">
@@ -1352,8 +1352,8 @@
           <num>30</num>
           <heading>חוזים מיוחדים</heading>
           <content>
-            <p>מוסכם כי על העובדים אשר יועסקו בחוזה מיוחד, בהתאם למפורט במכתבה של <role eId="rol_105" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_106" refersTo="#moe">משרד החינוך</organization> אל <role eId="rol_107" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_108" refersTo="#mof">במשרד האוצר</organization> מיום [בכתב יד: <date date="2022-10-19">19/10/22</date>], לרבות בהתאם למגבלות המפורטות במכתב האמור, לא יחולו הוראות ההסכמים הקיבוציים אשר נחתמו בין הצדדים להסכם זה, וכן לא יחולו לגביהם ההסדרים, הנהגים או הוראות מכל מקור אחר אשר חלים על עובדי ההוראה.</p>
-            <p>עוד מוסכם כי מדי שנה בחודש ינואר יועברו <organization eId="org_109" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> נתונים בקשר לשיעור העובדים המועסקים בחוזה מיוחד ברמת המחוזות וברמת מוסדות החינוך.</p>
+            <p>מוסכם כי על העובדים אשר יועסקו בחוזה מיוחד, בהתאם למפורט במכתבה של <role eId="rol_63" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_64" refersTo="#moe">משרד החינוך</organization> אל <role eId="rol_65" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_66" refersTo="#mof">במשרד האוצר</organization> מיום [בכתב יד: <date date="2022-10-19">19/10/22</date>], לרבות בהתאם למגבלות המפורטות במכתב האמור, לא יחולו הוראות ההסכמים הקיבוציים אשר נחתמו בין הצדדים להסכם זה, וכן לא יחולו לגביהם ההסדרים, הנהגים או הוראות מכל מקור אחר אשר חלים על עובדי ההוראה.</p>
+            <p>עוד מוסכם כי מדי שנה בחודש ינואר יועברו <organization eId="org_67" refersTo="#histadrut-hamorim">להסתדרות המורים</organization> נתונים בקשר לשיעור העובדים המועסקים בחוזה מיוחד ברמת המחוזות וברמת מוסדות החינוך.</p>
           </content>
         </article>
         <article eId="art_31" repo:prose="same-source">
@@ -1368,7 +1368,7 @@
           <paragraph eId="art_31__para_31-2">
             <num>31.2</num>
             <content>
-              <p>מוסכם כי <organization eId="org_110" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> לא תעלה כל תביעה או טענה בקשר לנושא המפורט בסעיף זה.</p>
+              <p>מוסכם כי <organization eId="org_68" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> לא תעלה כל תביעה או טענה בקשר לנושא המפורט בסעיף זה.</p>
             </content>
           </paragraph>
         </article>
@@ -1409,14 +1409,14 @@
           <num>34</num>
           <heading>ביטול סכסוכי עבודה</heading>
           <content>
-            <p>כל סכסוכי העבודה אשר הוכרזו על ידי <organization eId="org_111" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> עד למועד החתימה על הסכם זה בטלים ובכלל זאת הודעת <organization eId="org_112" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> על סכסוך העבודה מיום <date date="2022-05-15">15.5.2022</date>.</p>
+            <p>כל סכסוכי העבודה אשר הוכרזו על ידי <organization eId="org_69" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> עד למועד החתימה על הסכם זה בטלים ובכלל זאת הודעת <organization eId="org_70" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> על סכסוך העבודה מיום <date date="2022-05-15">15.5.2022</date>.</p>
           </content>
         </article>
         <article eId="art_35" repo:prose="same-source">
           <num>35</num>
           <heading>יישוב חילוקי דעות</heading>
           <content>
-            <p>ועדת מעקב בהשתתפות <role eId="rol_113" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <role eId="rol_114" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_115" refersTo="#moe">משרד החינוך</organization> <role eId="rol_116" refersTo="#role-mazkir-klali">ומזכ"לית</role> <organization eId="org_117" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> תעקוב אחר ביצועו של הסכם זה ותכריע בחילוקי דעות הנוגעים לו. החלטותיה של ועדת המעקב תהיינה סופיות ותחייבנה את הצדדים.</p>
+            <p>ועדת מעקב בהשתתפות <role eId="rol_71" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <role eId="rol_72" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_73" refersTo="#moe">משרד החינוך</organization> <role eId="rol_74" refersTo="#role-mazkir-klali">ומזכ"לית</role> <organization eId="org_75" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> תעקוב אחר ביצועו של הסכם זה ותכריע בחילוקי דעות הנוגעים לו. החלטותיה של ועדת המעקב תהיינה סופיות ותחייבנה את הצדדים.</p>
           </content>
         </article>
       </chapter>
@@ -1433,7 +1433,7 @@
             <p>שר האוצר</p>
           </th>
           <th>
-            <p><organization eId="org_118" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+            <p><organization eId="org_76" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
             </p>
           </th>
         </tr>
@@ -1472,7 +1472,7 @@
           <mainBody>
             <hcontainer eId="att_1__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלת השכר למורים בעלי תואר BA (<concept eId="con_119" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
+                <p>טבלת השכר למורים בעלי תואר BA (<concept eId="con_77" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -2811,7 +2811,7 @@
           <mainBody>
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_116" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר BA (<concept eId="con_120" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
+                <p><term eId="trm_116" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר BA (<concept eId="con_78" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -2926,7 +2926,7 @@
           <mainBody>
             <hcontainer eId="att_3__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_117" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר BA (<concept eId="con_121" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
+                <p><term eId="trm_117" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר BA (<concept eId="con_79" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -3041,7 +3041,7 @@
           <mainBody>
             <hcontainer eId="att_4__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלת השכר למורים בעלי תואר MA (<concept eId="con_122" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
+                <p>טבלת השכר למורים בעלי תואר MA (<concept eId="con_80" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -4381,7 +4381,7 @@
             <hcontainer eId="att_5__hc_1" name="text" repo:structure="flat">
               <content>
                 <p><ref href="#att_1">נספחים א1</ref>-א9, ב1-ב7 מוסכמים</p>
-                <p><term eId="trm_118" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_123" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
+                <p><term eId="trm_118" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_81" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -4496,7 +4496,7 @@
           <mainBody>
             <hcontainer eId="att_6__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_119" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_124" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
+                <p><term eId="trm_119" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_82" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -4612,7 +4612,7 @@
           <mainBody>
             <hcontainer eId="att_7__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלת המרה לשכר מורים קיימים - תואר B.A (<concept eId="con_125" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
+                <p>טבלת המרה לשכר מורים קיימים - תואר B.A (<concept eId="con_83" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -7552,7 +7552,7 @@
           <mainBody>
             <hcontainer eId="att_8__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_120" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר BA (<concept eId="con_126" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
+                <p><term eId="trm_120" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר BA (<concept eId="con_84" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -7723,7 +7723,7 @@
           <mainBody>
             <hcontainer eId="att_9__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_121" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר BA (<concept eId="con_127" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
+                <p><term eId="trm_121" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר BA (<concept eId="con_85" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -7895,7 +7895,7 @@
           <mainBody>
             <hcontainer eId="att_10__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלת המרה לשכר מורים קיימים - תואר M.A (<concept eId="con_128" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
+                <p>טבלת המרה לשכר מורים קיימים - תואר M.A (<concept eId="con_86" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -10835,7 +10835,7 @@
           <mainBody>
             <hcontainer eId="att_11__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_122" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_129" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
+                <p><term eId="trm_122" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_87" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -11006,7 +11006,7 @@
           <mainBody>
             <hcontainer eId="att_12__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_123" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_130" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
+                <p><term eId="trm_123" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים בעלי תואר MA (<concept eId="con_88" refersTo="#dirug_102">קוד דירוג 102</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -11178,7 +11178,7 @@
           <mainBody>
             <hcontainer eId="att_13__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלת המרה לשכר מורים קיימים בדרגת 'בכיר' (<concept eId="con_131" refersTo="#dirug_104">קוד דירוג 104</concept>)</p>
+                <p>טבלת המרה לשכר מורים קיימים בדרגת 'בכיר' (<concept eId="con_89" refersTo="#dirug_104">קוד דירוג 104</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -14118,7 +14118,7 @@
           <mainBody>
             <hcontainer eId="att_14__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_124" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'בכיר' (<concept eId="con_132" refersTo="#dirug_104">קוד דירוג 104</concept>)</p>
+                <p><term eId="trm_124" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'בכיר' (<concept eId="con_90" refersTo="#dirug_104">קוד דירוג 104</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -14289,7 +14289,7 @@
           <mainBody>
             <hcontainer eId="att_15__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_125" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'בכיר' (<concept eId="con_133" refersTo="#dirug_104">קוד דירוג 104</concept>)</p>
+                <p><term eId="trm_125" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'בכיר' (<concept eId="con_91" refersTo="#dirug_104">קוד דירוג 104</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -14461,7 +14461,7 @@
           <mainBody>
             <hcontainer eId="att_16__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלת המרה לשכר מורים קיימים בדרגת 'מוסמך' (<concept eId="con_134" refersTo="#dirug_105">קוד דירוג 105</concept>)</p>
+                <p>טבלת המרה לשכר מורים קיימים בדרגת 'מוסמך' (<concept eId="con_92" refersTo="#dirug_105">קוד דירוג 105</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -17401,7 +17401,7 @@
           <mainBody>
             <hcontainer eId="att_17__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_126" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'מוסמך' (<concept eId="con_135" refersTo="#dirug_105">קוד דירוג 105</concept>)</p>
+                <p><term eId="trm_126" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'מוסמך' (<concept eId="con_93" refersTo="#dirug_105">קוד דירוג 105</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -17572,7 +17572,7 @@
           <mainBody>
             <hcontainer eId="att_18__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_127" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'מוסמך' (<concept eId="con_136" refersTo="#dirug_105">קוד דירוג 105</concept>)</p>
+                <p><term eId="trm_127" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'מוסמך' (<concept eId="con_94" refersTo="#dirug_105">קוד דירוג 105</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -17744,7 +17744,7 @@
           <mainBody>
             <hcontainer eId="att_19__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלת המרה לשכר מורים קיימים בדרגת 'בלתי מוסמך' (<concept eId="con_137" refersTo="#dirug_106">קוד דירוג 106</concept>)</p>
+                <p>טבלת המרה לשכר מורים קיימים בדרגת 'בלתי מוסמך' (<concept eId="con_95" refersTo="#dirug_106">קוד דירוג 106</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -20684,7 +20684,7 @@
           <mainBody>
             <hcontainer eId="att_20__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_128" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'בלתי מוסמך' (<concept eId="con_138" refersTo="#dirug_106">קוד דירוג 106</concept>)</p>
+                <p><term eId="trm_128" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'בלתי מוסמך' (<concept eId="con_96" refersTo="#dirug_106">קוד דירוג 106</concept>)</p>
                 <table>
                   <tr>
                     <th>
@@ -20855,7 +20855,7 @@
           <mainBody>
             <hcontainer eId="att_21__hc_1" name="text" repo:structure="flat">
               <content>
-                <p><term eId="trm_129" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'בלתי מוסמך' (<concept eId="con_139" refersTo="#dirug_106">קוד דירוג 106</concept>)</p>
+                <p><term eId="trm_129" refersTo="#term_5502ffde">תוספת אופק 2022</term> למורים קיימים בדרגת 'בלתי מוסמך' (<concept eId="con_97" refersTo="#dirug_106">קוד דירוג 106</concept>)</p>
                 <table>
                   <tr>
                     <th>

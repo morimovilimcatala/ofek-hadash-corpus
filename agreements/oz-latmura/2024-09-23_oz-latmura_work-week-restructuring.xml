@@ -41,41 +41,54 @@
       </lifecycle>
       <analysis source="#repo-generator">
         <activeModifications>
-          <textualMod eId="amod_1" type="insertion">
+          <textualMod eId="amod_1" type="substitution">
+            <source href="#art_8__para_a__subpara_1__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_9__para_a" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_2" type="substitution">
+            <source href="#art_8__para_a__subpara_2__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_9__para_d" pos="unspecified" />
+          </textualMod>
+          <textualMod eId="amod_3" type="substitution">
+            <source href="#art_8__para_a__subpara_3__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_9__para_f" pos="unspecified" />
+            <new href="#art_8__para_a__subpara_3__mod_1__qstr_1" />
+          </textualMod>
+          <textualMod eId="amod_4" type="insertion">
             <source href="#art_9__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_6__para_b" pos="after" />
             <new href="#art_9__para_a__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_2" type="insertion">
+          <textualMod eId="amod_5" type="insertion">
             <source href="#art_9__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_7__para_h" pos="after" />
             <new href="#art_9__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_3" type="insertion">
+          <textualMod eId="amod_6" type="insertion">
             <source href="#art_10__para_j__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022/!main#art_14__para_14-2" pos="end" />
             <new href="#art_10__para_j__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_4" type="substitution">
+          <textualMod eId="amod_7" type="substitution">
             <source href="#art_33__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_14__para_d" pos="unspecified" />
             <new href="#art_33__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_5" type="substitution" repo:every="true" repo:outside="table">
+          <textualMod eId="amod_8" type="substitution" repo:every="true" repo:outside="table">
             <source href="#art_34__para_a__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_36" pos="unspecified" />
           </textualMod>
-          <textualMod eId="amod_6" type="insertion">
+          <textualMod eId="amod_9" type="insertion">
             <source href="#art_34__para_b__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_36__para_b" pos="inside" />
             <new href="#art_34__para_b__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_7" type="substitution">
+          <textualMod eId="amod_10" type="substitution">
             <source href="#art_34__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_36__para_d" pos="unspecified" />
             <new href="#art_34__para_c__mod_1__qstr_1" />
           </textualMod>
-          <textualMod eId="amod_8" type="repeal">
+          <textualMod eId="amod_11" type="repeal">
             <source href="#art_34__para_c__mod_1" />
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_36__para_e" pos="unspecified" />
             <destination href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_36__para_f" pos="unspecified" />
@@ -243,7 +256,7 @@
           <num>2</num>
           <heading>תחולה</heading>
           <content>
-            <p>הסכם זה יחול על כל העובדים המדורגים בדירוג <term eId="trm_3" refersTo="#term_2db30064">עובדי הוראה</term> המיוצגים על-ידי <organization eId="org_15" refersTo="#irgun-hamorim">ארגון המורים</organization>, ואשר עליהם חל הסכם רפורמת <concept eId="con_16" refersTo="#reform_oz">עוז לתמורה</concept> (כהגדרתו להלן), בין אם מועסקים על פי תנאי הרפורמה ובין אם לאו (להלן: "<def refersTo="#term_2db30064">עובדי הוראה</def>");</p>
+            <p>הסכם זה יחול על כל העובדים המדורגים בדירוג <term eId="trm_3" refersTo="#term_2db30064">עובדי הוראה</term> המיוצגים על-ידי <organization eId="org_15" refersTo="#irgun-hamorim">ארגון המורים</organization>, ואשר עליהם חל <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">הסכם רפורמת עוז לתמורה</ref> (כהגדרתו להלן), בין אם מועסקים על פי תנאי הרפורמה ובין אם לאו (להלן: "<def refersTo="#term_2db30064">עובדי הוראה</def>");</p>
           </content>
         </article>
         <article eId="art_3" repo:prose="same-source">
@@ -257,10 +270,10 @@
           <num>4</num>
           <heading>הגדרות</heading>
           <content>
-            <p>"<def refersTo="#term_0b8f1947">הסכם רפורמת עוז לתמורה</def>" - <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">ההסכם הקיבוצי שנחתם בין הצדדים ביום 14.08.2011</ref> ליישום רפורמת "<concept eId="con_17" refersTo="#reform_oz">עוז לתמורה</concept>", כפי שתוקן בהסכמים קיבוציים נוספים בין הצדדים.</p>
-            <p>"<def refersTo="#term_f7dd342b">עובדי הוראה ברפורמה</def>" - מורים ומנהלים המועסקים לפי תנאי רפורמת <concept eId="con_18" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
-            <p>"<def refersTo="#term_7ed6cd1e">עובדי הוראה שאינם ברפורמה</def>" - מורים ומנהלים המועסקים שלא לפי תנאי <concept eId="con_19" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
-            <p>"<def refersTo="#term_a2dd78b6">מורים ברפורמה</def>" - מורים המועסקים לפי תנאי רפורמת <concept eId="con_20" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+            <p>"<def refersTo="#term_0b8f1947">הסכם רפורמת עוז לתמורה</def>" - <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">ההסכם הקיבוצי שנחתם בין הצדדים ביום 14.08.2011</ref> ליישום רפורמת "<concept eId="con_16" refersTo="#reform_oz">עוז לתמורה</concept>", כפי שתוקן בהסכמים קיבוציים נוספים בין הצדדים.</p>
+            <p>"<def refersTo="#term_f7dd342b">עובדי הוראה ברפורמה</def>" - מורים ומנהלים המועסקים לפי תנאי רפורמת <concept eId="con_17" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+            <p>"<def refersTo="#term_7ed6cd1e">עובדי הוראה שאינם ברפורמה</def>" - מורים ומנהלים המועסקים שלא לפי תנאי <concept eId="con_18" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+            <p>"<def refersTo="#term_a2dd78b6">מורים ברפורמה</def>" - מורים המועסקים לפי תנאי רפורמת <concept eId="con_19" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
           </content>
         </article>
         <article eId="art_5" repo:prose="same-source">
@@ -333,7 +346,7 @@
           <paragraph eId="art_5__para_ja">
             <num>(יא)</num>
             <content>
-              <p>לגבי <term eId="trm_14" refersTo="#term_2db30064">עובדי הוראה</term> אשר שולמה להם מקדמה בהתאם להוראות ההסכם הקיבוצי שנחתם בין הצדדים ביום <date date="2023-09-12">12.9.2023</date>, תנוכה יתרת המקדמה האמורה אשר נותרה לאחר ניכוי חלק המקדמה לאור הודעת <role eId="rol_21" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מיום <date date="2024-04-09">9.4.2024</date> (בהתאם להוראות סעיף 3 להסכם הקיבוצי האמור), מהמשכורת שבה יבוצע תשלום המענק לפי סעיף זה.</p>
+              <p>לגבי <term eId="trm_14" refersTo="#term_2db30064">עובדי הוראה</term> אשר שולמה להם מקדמה בהתאם להוראות ההסכם הקיבוצי שנחתם בין הצדדים ביום <date date="2023-09-12">12.9.2023</date>, תנוכה יתרת המקדמה האמורה אשר נותרה לאחר ניכוי חלק המקדמה לאור הודעת <role eId="rol_20" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מיום <date date="2024-04-09">9.4.2024</date> (בהתאם להוראות סעיף 3 להסכם הקיבוצי האמור), מהמשכורת שבה יבוצע תשלום המענק לפי סעיף זה.</p>
             </content>
           </paragraph>
         </article>
@@ -472,7 +485,7 @@
           <paragraph eId="art_7__para_d">
             <num>(ד)</num>
             <content>
-              <p><term eId="trm_20" refersTo="#term_5270568c">תוספת שקלית עוז 2023</term> תהווה שכר לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף 46 להסכם רפורמת <concept eId="con_22" refersTo="#reform_oz">עוז לתמורה</concept> ולעניין הפרשות לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה). מובהר כי אין באזכור רכיב מסוים כדי לקבוע זכאות לו.</p>
+              <p><term eId="trm_20" refersTo="#term_5270568c">תוספת שקלית עוז 2023</term> תהווה שכר לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46">46</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref> ולעניין הפרשות לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה). מובהר כי אין באזכור רכיב מסוים כדי לקבוע זכאות לו.</p>
             </content>
           </paragraph>
           <paragraph eId="art_7__para_e">
@@ -503,12 +516,12 @@
           <paragraph eId="art_8__para_a">
             <num>(א)</num>
             <intro>
-              <p>האמור בסעיף 9 להסכם רפורמת <concept eId="con_23" refersTo="#reform_oz">עוז לתמורה</concept>, כפי שתוקן בסעיף <ref href="/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments/!main#art_8">8</ref> <ref href="/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments">להסכם הקיבוצי שנחתם בין הצדדים ביום 26.6.2014</ref> (להלן: "<def refersTo="#term_422f94c3">הסכם 2014</def>") יתוקן כך:</p>
+              <p>האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_9">9</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>, כפי שתוקן בסעיף <ref href="/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments/!main#art_8">8</ref> <ref href="/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments">להסכם הקיבוצי שנחתם בין הצדדים ביום 26.6.2014</ref> (להלן: "<def refersTo="#term_422f94c3">הסכם 2014</def>") יתוקן כך:</p>
             </intro>
             <subparagraph eId="art_8__para_a__subpara_1">
               <num>(1)</num>
               <content>
-                <p><mod eId="art_8__para_a__subpara_1__mod_1">במקום האמור בסעיף 9(א) יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_8__para_a__subpara_1__mod_1__qtxt_1">בסיס המשרה של מורה המועסק בהיקף משרה של <quantity eId="qty_19" refersTo="#percentage" normalized="100">100%</quantity> יהיה <quantity eId="qty_20" refersTo="#hour" normalized="38">38 שעות</quantity> שבועיות (ש"ש)</quotedText></mod>.</p>
+                <p><mod eId="art_8__para_a__subpara_1__mod_1">במקום האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_9__para_a">9(א)</ref> יבוא: <quotedText startQuote="&quot;" endQuote="&quot;" eId="art_8__para_a__subpara_1__mod_1__qtxt_1">בסיס המשרה של מורה המועסק בהיקף משרה של <quantity eId="qty_19" refersTo="#percentage" normalized="100">100%</quantity> יהיה <quantity eId="qty_20" refersTo="#hour" normalized="38">38 שעות</quantity> שבועיות (ש"ש)</quotedText></mod>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_8__para_a__subpara_2">
@@ -520,12 +533,12 @@
             <subparagraph eId="art_8__para_a__subpara_3">
               <num>(3)</num>
               <content>
-                <p><mod eId="art_8__para_a__subpara_3__mod_1">במקום האמור בסעיף 9(ו) יבוא:<quotedStructure eId="art_8__para_a__subpara_3__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+                <p><mod eId="art_8__para_a__subpara_3__mod_1">במקום האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_9__para_f">9(ו)</ref> יבוא:<quotedStructure eId="art_8__para_a__subpara_3__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
                       <p>הרכב של <quantity eId="qty_23" refersTo="#hour" normalized="38">38 השעות</quantity> השבועיות יהיה כדלהלן:</p>
                       <paragraph eId="art_8__para_a__subpara_3__mod_1__qstr_1__para_1">
                         <num>(1)</num>
                         <content>
-                          <p><quantity eId="qty_24" refersTo="#hour" normalized="25">25 שעות</quantity> הוראה פרונטאלית בפני כיתה (בכפוף לאמור בסעיפים <ref href="#art_10">10</ref>, <ref href="#art_11">11</ref> ו- <ref href="#art_12">12</ref> להלן)</p>
+                          <p><quantity eId="qty_24" refersTo="#hour" normalized="25">25 שעות</quantity> הוראה פרונטאלית בפני כיתה (בכפוף לאמור בסעיפים <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_10">10</ref>, <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_11">11</ref> ו- <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_12">12</ref> להלן)</p>
                         </content>
                       </paragraph>
                       <paragraph eId="art_8__para_a__subpara_3__mod_1__qstr_1__para_2">
@@ -574,19 +587,19 @@
           <paragraph eId="art_8__para_b">
             <num>(ב)</num>
             <content>
-              <p>מורה המועסק בתנאי הרפורמה במשרה חלקית יועסק לפי טבלת שבוע עבודה למורים המועסקים במשרה חלקית המצורפת <ref href="#att_1">כנספח א'</ref> להסכם זה. טבלה זו תחליף את הטבלה המצורפת כנספח ג' להסכם רפורמת <concept eId="con_24" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              <p>מורה המועסק בתנאי הרפורמה במשרה חלקית יועסק לפי טבלת שבוע עבודה למורים המועסקים במשרה חלקית המצורפת <ref href="#att_1">כנספח א'</ref> להסכם זה. טבלה זו תחליף את הטבלה המצורפת כנספח ג' <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_8__para_c">
             <num>(ג)</num>
             <content>
-              <p>במקום נספח א' להסכם רפורמת <concept eId="con_25" refersTo="#reform_oz">עוז לתמורה</concept> (שבוע עבודה למורות אמהות) יבוא נספח ב' להסכם זה.</p>
+              <p>במקום נספח א' <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref> (שבוע עבודה למורות אמהות) יבוא נספח ב' להסכם זה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_8__para_d">
             <num>(ד)</num>
             <content>
-              <p>במקום נספח ב' להסכם רפורמת <concept eId="con_26" refersTo="#reform_oz">עוז לתמורה</concept> (שבוע העבודה למורים הזכאים להפחתת שעות בשל גיל) יבוא נספח ב' להסכם זה.</p>
+              <p>במקום נספח ב' <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref> (שבוע העבודה למורים הזכאים להפחתת שעות בשל גיל) יבוא נספח ב' להסכם זה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_8__para_e">
@@ -603,7 +616,7 @@
             <num>(א)</num>
             <content>
               <p><term eId="trm_24" refersTo="#term_2db30064">עובדי הוראה</term> חדשים:</p>
-              <p><mod eId="art_9__para_a__mod_1">החל מיום <date date="2024-09-01">1.9.2024</date>, בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_6">6</ref> להסכם רפורמת <concept eId="con_27" refersTo="#reform_oz">עוז לתמורה</concept>, לאחר סעיף קטן <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_6__para_b">(ב)</ref>, יבוא:<quotedStructure eId="art_9__para_a__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+              <p><mod eId="art_9__para_a__mod_1">החל מיום <date date="2024-09-01">1.9.2024</date>, בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_6">6</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>, לאחר סעיף קטן <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_6__para_b">(ב)</ref>, יבוא:<quotedStructure eId="art_9__para_a__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
                     <paragraph eId="art_9__para_a__mod_1__qstr_1__para_c">
                       <num>(ג)</num>
                       <content>
@@ -619,7 +632,7 @@
             <num>(ב)</num>
             <content>
               <p><term eId="trm_25" refersTo="#term_2db30064">עובדי הוראה</term> קיימים:</p>
-              <p><mod eId="art_9__para_b__mod_1">החל מיום <date date="2024-09-01">1.9.2024</date> בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_7">7</ref> להסכם רפורמת <concept eId="con_28" refersTo="#reform_oz">עוז לתמורה</concept>, לאחר סעיף קטן <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_7__para_h">(ח)</ref>, יבוא:<quotedStructure eId="art_9__para_b__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+              <p><mod eId="art_9__para_b__mod_1">החל מיום <date date="2024-09-01">1.9.2024</date> בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_7">7</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>, לאחר סעיף קטן <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_7__para_h">(ח)</ref>, יבוא:<quotedStructure eId="art_9__para_b__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
                     <paragraph eId="art_9__para_b__mod_1__qstr_1__para_h1">
                       <num>(ח1)</num>
                       <content>
@@ -675,12 +688,12 @@
             <num>(ב)</num>
             <intro>
               <p>גמול תפקיד לרכז מיומנויות</p>
-              <p>החל מיום <date date="2024-09-01">1.9.2024</date>, לרשימת התפקידים המזכים <term eId="trm_26" refersTo="#term_a2dd78b6">מורים ברפורמה</term> בגמול תפקיד, כאמור בסעיף 17(א) להסכם רפורמת <concept eId="con_29" refersTo="#reform_oz">עוז לתמורה</concept>, יתוסף תפקיד של רכז מיומנויות, אשר יזכה בגמול המפורט להלן:</p>
+              <p>החל מיום <date date="2024-09-01">1.9.2024</date>, לרשימת התפקידים המזכים <term eId="trm_26" refersTo="#term_a2dd78b6">מורים ברפורמה</term> בגמול תפקיד, כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_17__para_a">17(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>, יתוסף תפקיד של רכז מיומנויות, אשר יזכה בגמול המפורט להלן:</p>
             </intro>
             <subparagraph eId="art_10__para_b__subpara_1">
               <num>(1)</num>
               <content>
-                <p>גמול תפקיד אחוזי בשיעור של <quantity eId="qty_38" refersTo="#percentage" normalized="6">6%</quantity> המחושב על בסיס השכר המשולב ותוספת <concept eId="con_30" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+                <p>גמול תפקיד אחוזי בשיעור של <quantity eId="qty_38" refersTo="#percentage" normalized="6">6%</quantity> המחושב על בסיס השכר המשולב ותוספת <concept eId="con_21" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_10__para_b__subpara_2">
@@ -692,7 +705,7 @@
             <subparagraph eId="art_10__para_b__subpara_3">
               <num>(3)</num>
               <content>
-                <p>כללי החישוב והתשלום החלים לגבי גמול זה יהיו זהים לכללי החישוב והתשלום החלים לגבי גמול התפקיד המשולם לרכז מקצוע, הקבוע בסעיף 17(א) להסכם רפורמת <concept eId="con_31" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+                <p>כללי החישוב והתשלום החלים לגבי גמול זה יהיו זהים לכללי החישוב והתשלום החלים לגבי גמול התפקיד המשולם לרכז מקצוע, הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_17__para_a">17(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>.</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -706,7 +719,7 @@
             <num>(ד)</num>
             <intro>
               <p>גמול מחנך כיתה</p>
-              <p>על אף האמור בסעיף 17(א) להסכם רפורמת <concept eId="con_32" refersTo="#reform_oz">עוז לתמורה</concept>, החל מיום <date date="2024-09-01">1.9.2024</date>, שיעור הגמול למחנך כיתה, המועסק בתנאי הרפורמה, יעמוד על הגבוה מבין שני אלו:</p>
+              <p>על אף האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_17__para_a">17(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>, החל מיום <date date="2024-09-01">1.9.2024</date>, שיעור הגמול למחנך כיתה, המועסק בתנאי הרפורמה, יעמוד על הגבוה מבין שני אלו:</p>
             </intro>
             <subparagraph eId="art_10__para_d__subpara_1">
               <num>(1)</num>
@@ -721,7 +734,7 @@
               </content>
             </subparagraph>
             <wrapUp>
-              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול חינוך כיתה ערב החתימה על הסכם זה והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_33" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול חינוך כיתה ערב החתימה על הסכם זה והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_22" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
             </wrapUp>
           </paragraph>
           <paragraph eId="art_10__para_e">
@@ -756,7 +769,7 @@
             <subparagraph eId="art_10__para_e__subpara_3">
               <num>(3)</num>
               <content>
-                <p>למען הסר ספק מובהר, כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים בקשר לגמול ייעוץ ליועץ חינוכי ערב החתימה על הסכם זה, לרבות לעניין אופן החישוב של גמול ייעוץ ליועץ חינוכי, והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_34" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+                <p>למען הסר ספק מובהר, כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים בקשר לגמול ייעוץ ליועץ חינוכי ערב החתימה על הסכם זה, לרבות לעניין אופן החישוב של גמול ייעוץ ליועץ חינוכי, והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_23" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -764,7 +777,7 @@
             <num>(ו)</num>
             <intro>
               <p>גמול רכז שכבה</p>
-              <p>על אף האמור בסעיף 17(א) להסכם <concept eId="con_35" refersTo="#reform_oz">עוז לתמורה</concept>, החל מיום <date date="2025-09-01">1.9.2025</date>, שיעור הגמול לרכז שכבה, המועסק בתנאי הרפורמה, יעמוד על הגבוה מבין שני אלו:</p>
+              <p>על אף האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_17__para_a">17(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, החל מיום <date date="2025-09-01">1.9.2025</date>, שיעור הגמול לרכז שכבה, המועסק בתנאי הרפורמה, יעמוד על הגבוה מבין שני אלו:</p>
             </intro>
             <subparagraph eId="art_10__para_f__subpara_1">
               <num>(1)</num>
@@ -779,7 +792,7 @@
               </content>
             </subparagraph>
             <wrapUp>
-              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול ריכוז שכבה ערב חתימה על הסכם זה והם ימשיכו לחול. עוד יובהר כי לא יחול שינוי לגבי שעות התפקיד השבועיות כמפורט לגבי גמול זה בטבלה בסעיף 17(א) להסכם <concept eId="con_36" refersTo="#reform_oz">עוז לתמורה</concept>. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_37" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול ריכוז שכבה ערב חתימה על הסכם זה והם ימשיכו לחול. עוד יובהר כי לא יחול שינוי לגבי שעות התפקיד השבועיות כמפורט לגבי גמול זה בטבלה בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_17__para_a">17(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_24" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
             </wrapUp>
           </paragraph>
           <paragraph eId="art_10__para_g">
@@ -790,13 +803,13 @@
             <subparagraph eId="art_10__para_g__subpara_1">
               <num>(1)</num>
               <content>
-                <p>החל מיום <date date="2024-09-01">1.9.2024</date> שיעור גמול תפקיד לרכז חינוך חברתי המועסק בתנאי הרפורמה, הקבוע בסעיף 17(א) להסכם <concept eId="con_38" refersTo="#reform_oz">עוז לתמורה</concept>, יגדל משיעור של <quantity eId="qty_46" refersTo="#percentage" normalized="6">6%</quantity> לשיעור של <quantity eId="qty_47" refersTo="#percentage" normalized="10">10%</quantity>.</p>
+                <p>החל מיום <date date="2024-09-01">1.9.2024</date> שיעור גמול תפקיד לרכז חינוך חברתי המועסק בתנאי הרפורמה, הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_17__para_a">17(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, יגדל משיעור של <quantity eId="qty_46" refersTo="#percentage" normalized="6">6%</quantity> לשיעור של <quantity eId="qty_47" refersTo="#percentage" normalized="10">10%</quantity>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_10__para_g__subpara_2">
               <num>(2)</num>
               <content>
-                <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול רכז חינוך חברתי ערב החתימה על הסכם זה והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_39" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+                <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול רכז חינוך חברתי ערב החתימה על הסכם זה והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_25" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_10__para_g__subpara_3">
@@ -811,7 +824,7 @@
             <content>
               <p>גמול רכז פדגוגי</p>
               <p>החל מיום <date date="2025-09-01">1.9.2025</date>, שיעור גמול תפקיד רכז פדגוגי המועסק בתנאי הרפורמה, הקבוע בסעיף <ref href="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022">להסכם 2018</ref>, יגדל משיעור של <quantity eId="qty_48" refersTo="#percentage" normalized="6">6%</quantity> לשיעור של <quantity eId="qty_49" refersTo="#percentage" normalized="8">8%</quantity>.</p>
-              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול רכז פדגוגי ערב החתימה על הסכם זה והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_40" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול רכז פדגוגי ערב החתימה על הסכם זה והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_26" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_10__para_i">
@@ -852,8 +865,8 @@
             </content>
           </paragraph>
           <wrapUp>
-            <p>החל מיום <date date="2025-09-01">1.9.2025</date>, שיעור הגמול לרכז מקצוע המועסק בתנאי רפורמת <concept eId="con_41" refersTo="#reform_oz">עוז לתמורה</concept>, במקצועות שאינם אנגלית ומתמטיקה, יהיה <quantity eId="qty_52" refersTo="#percentage" normalized="8">8%</quantity>.</p>
-            <p>למען הסר ספק מובהר כי יתר הכללים החלים לגבי רכז מקצוע ימשיכו לחול ללא שינוי, והשינוי הקבוע בסעיף זה הוא בשיעור הגמול בלבד. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי רפורמת <concept eId="con_42" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+            <p>החל מיום <date date="2025-09-01">1.9.2025</date>, שיעור הגמול לרכז מקצוע המועסק בתנאי רפורמת <concept eId="con_27" refersTo="#reform_oz">עוז לתמורה</concept>, במקצועות שאינם אנגלית ומתמטיקה, יהיה <quantity eId="qty_52" refersTo="#percentage" normalized="8">8%</quantity>.</p>
+            <p>למען הסר ספק מובהר כי יתר הכללים החלים לגבי רכז מקצוע ימשיכו לחול ללא שינוי, והשינוי הקבוע בסעיף זה הוא בשיעור הגמול בלבד. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי רפורמת <concept eId="con_28" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
           </wrapUp>
         </article>
         <article eId="art_11" repo:prose="same-source">
@@ -862,7 +875,7 @@
           <paragraph eId="art_11__para_a">
             <num>(א)</num>
             <content>
-              <p>החל מיום <date date="2024-09-01">1.9.2024</date> שיעור גמול חינוך מיוחד לעובד הוראה בעל הסמכה לחינוך מיוחד, המועסק בתנאי רפורמת <concept eId="con_43" refersTo="#reform_oz">עוז לתמורה</concept>, יגדל באופן הבא:</p>
+              <p>החל מיום <date date="2024-09-01">1.9.2024</date> שיעור גמול חינוך מיוחד לעובד הוראה בעל הסמכה לחינוך מיוחד, המועסק בתנאי רפורמת <concept eId="con_29" refersTo="#reform_oz">עוז לתמורה</concept>, יגדל באופן הבא:</p>
               <p>[טבלה: שיעור הגמול ערב ההסכם (בהתאם לכללי הזכאות הקיימים ערב חתימת הסכם זה) | שיעור הגמול בעקבות ההסכם (ללא שינוי בכללי הזכאות הקיימים ערב חתימת הסכם זה)]</p>
               <table>
                 <tr>
@@ -891,13 +904,13 @@
           <paragraph eId="art_11__para_b">
             <num>(ב)</num>
             <content>
-              <p>על אף האמור בטבלה שב<ref href="#art_11__para_a">סעיף קטן (א)</ref> לעיל, לגבי עובד הוראה בעל הסמכה לחינוך מיוחד, המועסק בתנאי <concept eId="con_44" refersTo="#reform_oz">עוז לתמורה</concept>, המלמד בכיתה שהוגדרה על ידי <organization eId="org_45" refersTo="#moe">משרד החינוך</organization> כיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_46" refersTo="#moe">משרד החינוך</organization> נח/8(ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date>, <date date="1998-04-01">1 באפריל 1998</date> וכפי שעודכן ויעודכן מזמן לזמן, יגדל שיעור גמול חינוך מיוחד, בגין שעות הלימוד בכיתות אלו, מ-<quantity eId="qty_57" refersTo="#percentage" normalized="14">14%</quantity> לשיעור של <quantity eId="qty_58" refersTo="#percentage" normalized="17">17%</quantity>.</p>
+              <p>על אף האמור בטבלה שב<ref href="#art_11__para_a">סעיף קטן (א)</ref> לעיל, לגבי עובד הוראה בעל הסמכה לחינוך מיוחד, המועסק בתנאי <concept eId="con_30" refersTo="#reform_oz">עוז לתמורה</concept>, המלמד בכיתה שהוגדרה על ידי <organization eId="org_31" refersTo="#moe">משרד החינוך</organization> כיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_32" refersTo="#moe">משרד החינוך</organization> נח/8(ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date>, <date date="1998-04-01">1 באפריל 1998</date> וכפי שעודכן ויעודכן מזמן לזמן, יגדל שיעור גמול חינוך מיוחד, בגין שעות הלימוד בכיתות אלו, מ-<quantity eId="qty_57" refersTo="#percentage" normalized="14">14%</quantity> לשיעור של <quantity eId="qty_58" refersTo="#percentage" normalized="17">17%</quantity>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_11__para_c">
             <num>(ג)</num>
             <content>
-              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול חינוך מיוחד ערב החתימה על הסכם זה והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_47" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              <p>למען הסר כל ספק מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים החלים לעניין גמול חינוך מיוחד ערב החתימה על הסכם זה והם ימשיכו לחול. עוד מובהר כי לא יחול כל שינוי בשיעור הגמול לו זכאי עובד הוראה המועסק שלא בתנאי <concept eId="con_33" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
             </content>
           </paragraph>
         </article>
@@ -922,7 +935,7 @@
           <paragraph eId="art_12__para_c">
             <num>(ג)</num>
             <content>
-              <p>הכללים בעניין הגמול שישולם, לרבות מספר <term eId="trm_28" refersTo="#term_e67e76d0">התלמידים המשולבים</term> בכתה המהווה תנאי לזכאות לגמול, ייקבעו בין הצדדים עד ליום <date date="2025-09-01">01.09.2025</date> ולא יאוחר מיום <date date="2025-12-31">31.12.2025</date>, וזאת בהתאם למסגרת התקציבית אשר הוקצתה לכך כאמור במכתבו של נציג <organization eId="unt_2" refersTo="#unit_40995b12">אגף התקציבים</organization> <organization eId="org_48" refersTo="#mof">במשרד האוצר</organization> <role eId="rol_49" refersTo="#role-mankal">למנכ"ל</role> <organization eId="org_50" refersTo="#moe">משרד החינוך</organization> מיום <date date="2024-09-23">23.09.2024</date>.</p>
+              <p>הכללים בעניין הגמול שישולם, לרבות מספר <term eId="trm_28" refersTo="#term_e67e76d0">התלמידים המשולבים</term> בכתה המהווה תנאי לזכאות לגמול, ייקבעו בין הצדדים עד ליום <date date="2025-09-01">01.09.2025</date> ולא יאוחר מיום <date date="2025-12-31">31.12.2025</date>, וזאת בהתאם למסגרת התקציבית אשר הוקצתה לכך כאמור במכתבו של נציג <organization eId="unt_2" refersTo="#unit_40995b12">אגף התקציבים</organization> <organization eId="org_34" refersTo="#mof">במשרד האוצר</organization> <role eId="rol_35" refersTo="#role-mankal">למנכ"ל</role> <organization eId="org_36" refersTo="#moe">משרד החינוך</organization> מיום <date date="2024-09-23">23.09.2024</date>.</p>
             </content>
           </paragraph>
           <wrapUp>
@@ -939,18 +952,18 @@
         </article>
         <article eId="art_14" repo:prose="same-source">
           <num>14</num>
-          <heading><term eId="trm_29" refersTo="#term_4adbe1b7">גמול תפקיד בית ספרי</term> – <concept eId="con_51" refersTo="#reform_oz">עוז לתמורה</concept>
+          <heading><term eId="trm_29" refersTo="#term_4adbe1b7">גמול תפקיד בית ספרי</term> – <concept eId="con_37" refersTo="#reform_oz">עוז לתמורה</concept>
           </heading>
           <paragraph eId="art_14__para_a">
             <num>(א)</num>
             <content>
-              <p>החל משנת הלימודים תשפ"ז ומדי שנה, מנהל בית הספר יהיה רשאי לקבוע מספר תפקידים מוגדרים <concept eId="dom_5" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> אותם ימלא מורה בבית הספר, בכפוף להסכמתו של המורה (להלן – "<def refersTo="#term_a3f28267">תפקידים בית-ספריים</def>"), בהתחשב בצרכי בית הספר לשנת הלימודים הרלוונטית ובהתאם לקריטריונים שיפורטו בהנחיות <organization eId="org_52" refersTo="#moe">משרד החינוך</organization>, כפי שיהיו מעת לעת.</p>
+              <p>החל משנת הלימודים תשפ"ז ומדי שנה, מנהל בית הספר יהיה רשאי לקבוע מספר תפקידים מוגדרים <concept eId="dom_5" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> אותם ימלא מורה בבית הספר, בכפוף להסכמתו של המורה (להלן – "<def refersTo="#term_a3f28267">תפקידים בית-ספריים</def>"), בהתחשב בצרכי בית הספר לשנת הלימודים הרלוונטית ובהתאם לקריטריונים שיפורטו בהנחיות <organization eId="org_38" refersTo="#moe">משרד החינוך</organization>, כפי שיהיו מעת לעת.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_b">
             <num>(ב)</num>
             <content>
-              <p>לגבי כל תפקיד בית ספרי שנקבע כאמור לעיל, יקבע מנהל בית הספר את מספר יחידות הגמול להן יהיה זכאי המורה הממלא את התפקיד. קביעת מספר יחידות הגמול לכל תפקיד כאמור תבוצע בהתאם לסדר העדיפויות הבית ספרי כפי שייקבע על ידי מנהל בית הספר מדי שנת לימודים ובשים לב לקריטריונים מנחים שיעביר <organization eId="org_53" refersTo="#moe">משרד החינוך</organization>. זאת, בכפוף למכסת יחידות הגמול אשר תוקצה לבית הספר על ידי <organization eId="org_54" refersTo="#moe">משרד החינוך</organization> מידי שנת לימודים, בהתאם לכללי הקצאה שייקבעו על-ידו.</p>
+              <p>לגבי כל תפקיד בית ספרי שנקבע כאמור לעיל, יקבע מנהל בית הספר את מספר יחידות הגמול להן יהיה זכאי המורה הממלא את התפקיד. קביעת מספר יחידות הגמול לכל תפקיד כאמור תבוצע בהתאם לסדר העדיפויות הבית ספרי כפי שייקבע על ידי מנהל בית הספר מדי שנת לימודים ובשים לב לקריטריונים מנחים שיעביר <organization eId="org_39" refersTo="#moe">משרד החינוך</organization>. זאת, בכפוף למכסת יחידות הגמול אשר תוקצה לבית הספר על ידי <organization eId="org_40" refersTo="#moe">משרד החינוך</organization> מידי שנת לימודים, בהתאם לכללי הקצאה שייקבעו על-ידו.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_c">
@@ -962,7 +975,7 @@
           <paragraph eId="art_14__para_d">
             <num>(ד)</num>
             <content>
-              <p>מובהר כי תפקיד אשר מפורט בסעיף 17(א) להסכם רפורמת <concept eId="con_55" refersTo="#reform_oz">עוז לתמורה</concept> או בסעיף <ref href="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022">להסכם הקיבוצי מיום 14.3.2018</ref> (כפי שתוקן בהסכם זה) וכן תפקיד רוחבי אשר נדרש על-ידי <organization eId="org_56" refersTo="#moe">משרד החינוך</organization> לאיישו בכלל בתי הספר – לא יוגדרו כתפקיד בית-ספרי. כן מובהר, למען הסר כל ספק, כי גמול התפקיד הבית ספרי לא מחליף את גמולי התפקיד הקיימים.</p>
+              <p>מובהר כי תפקיד אשר מפורט בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_17__para_a">17(א)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref> או בסעיף <ref href="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022">להסכם הקיבוצי מיום 14.3.2018</ref> (כפי שתוקן בהסכם זה) וכן תפקיד רוחבי אשר נדרש על-ידי <organization eId="org_41" refersTo="#moe">משרד החינוך</organization> לאיישו בכלל בתי הספר – לא יוגדרו כתפקיד בית-ספרי. כן מובהר, למען הסר כל ספק, כי גמול התפקיד הבית ספרי לא מחליף את גמולי התפקיד הקיימים.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_e">
@@ -986,7 +999,7 @@
           <paragraph eId="art_14__para_h">
             <num>(ח)</num>
             <content>
-              <p><term eId="trm_34" refersTo="#term_4adbe1b7">לגמול תפקיד בית ספרי</term> יוכל להיות זכאי רק מורה המועסק בתנאי רפורמת <concept eId="con_57" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              <p><term eId="trm_34" refersTo="#term_4adbe1b7">לגמול תפקיד בית ספרי</term> יוכל להיות זכאי רק מורה המועסק בתנאי רפורמת <concept eId="con_42" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_i">
@@ -1004,7 +1017,7 @@
           <paragraph eId="art_14__para_ja">
             <num>(יא)</num>
             <content>
-              <p><term eId="trm_38" refersTo="#term_4adbe1b7">לגמול תפקיד בית ספרי</term> יהיה זכאי מורה אשר ימלא את התפקיד הבית ספרי במהלך שנת הלימודים לפי קביעת <term eId="trm_39" refersTo="#term_409634c7">המנהל</term> וכל עוד המורה ממלא את התפקיד האמור במהלך שנת הלימודים האמורה. למען הסר ספק מובהר כי הן התפקיד הבית ספרי והן גמול התפקיד הבית ספרי נקבעים על ידי <term eId="trm_40" refersTo="#term_409634c7">המנהל</term> מדי שנת לימודים מחדש, בהתאם להנחיות <organization eId="org_58" refersTo="#moe">משרד החינוך</organization> כאמור, ואין למורה אשר מילא תפקיד מסוים בשנת לימודים מסוימת זכאות להמשיך במילוי התפקיד עם תום שנת הלימודים.</p>
+              <p><term eId="trm_38" refersTo="#term_4adbe1b7">לגמול תפקיד בית ספרי</term> יהיה זכאי מורה אשר ימלא את התפקיד הבית ספרי במהלך שנת הלימודים לפי קביעת <term eId="trm_39" refersTo="#term_409634c7">המנהל</term> וכל עוד המורה ממלא את התפקיד האמור במהלך שנת הלימודים האמורה. למען הסר ספק מובהר כי הן התפקיד הבית ספרי והן גמול התפקיד הבית ספרי נקבעים על ידי <term eId="trm_40" refersTo="#term_409634c7">המנהל</term> מדי שנת לימודים מחדש, בהתאם להנחיות <organization eId="org_43" refersTo="#moe">משרד החינוך</organization> כאמור, ואין למורה אשר מילא תפקיד מסוים בשנת לימודים מסוימת זכאות להמשיך במילוי התפקיד עם תום שנת הלימודים.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_jb">
@@ -1034,13 +1047,13 @@
           <paragraph eId="art_14__para_ig">
             <num>(טז)</num>
             <content>
-              <p>מנהל בית הספר יפרסם למורים את ההנחיות והקריטריונים שקבע <organization eId="org_59" refersTo="#moe">משרד החינוך</organization> כאמור בסעיפים קטנים <ref href="#art_14__para_a">(א)</ref> ו – <ref href="#art_14__para_c">(ג)</ref> וכן את התפקידים הבית ספריים שנקבעו, יחידות הגמול שנקבעו לכל תפקיד ופירוט של המשימות האמורות בסעיף קטן ט"ו. פרסום כאמור ייעשה בסמוך לתחילת שנת הלימודים, ובטרם ימונו מורים לתפקידים הבית-ספריים. לאחר המינוי, יפרסם מנהל בית הספר את שמות עובדי ההוראה שמונו לתפקידים הבית-ספריים.</p>
+              <p>מנהל בית הספר יפרסם למורים את ההנחיות והקריטריונים שקבע <organization eId="org_44" refersTo="#moe">משרד החינוך</organization> כאמור בסעיפים קטנים <ref href="#art_14__para_a">(א)</ref> ו – <ref href="#art_14__para_c">(ג)</ref> וכן את התפקידים הבית ספריים שנקבעו, יחידות הגמול שנקבעו לכל תפקיד ופירוט של המשימות האמורות בסעיף קטן ט"ו. פרסום כאמור ייעשה בסמוך לתחילת שנת הלימודים, ובטרם ימונו מורים לתפקידים הבית-ספריים. לאחר המינוי, יפרסם מנהל בית הספר את שמות עובדי ההוראה שמונו לתפקידים הבית-ספריים.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_jg">
             <num>(יז)</num>
             <content>
-              <p>גמול תפקיד בית - ספרי יובא בחשבון לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל היעדרות, לעניין היעדרות שבגינה משולם שכר, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963 ולעניין הפרשות לקופת גמל לקצבה כאמור בסעיף 46 להסכם רפורמת <concept eId="con_60" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              <p>גמול תפקיד בית - ספרי יובא בחשבון לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל היעדרות, לעניין היעדרות שבגינה משולם שכר, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963 ולעניין הפרשות לקופת גמל לקצבה כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46">46</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_jh">
@@ -1058,13 +1071,13 @@
         </article>
         <article eId="art_15" repo:prose="same-source">
           <num>15</num>
-          <heading>קצובת ביגוד לפיזיותרפיסטים המועסקים בתנאי רפורמת <concept eId="con_61" refersTo="#reform_oz">עוז לתמורה</concept>
+          <heading>קצובת ביגוד לפיזיותרפיסטים המועסקים בתנאי רפורמת <concept eId="con_45" refersTo="#reform_oz">עוז לתמורה</concept>
           </heading>
           <content>
             <p>לעניין סעיף זה: "<def refersTo="#term_7048f31c">פיזיותרפיסט</def>"- עובד הוראה במקצועות הבריאות בעל תעודת מקצוע בפיזיותרפיה אשר במסגרת תפקידו כעובד הוראה מטפל באמצעות פיזיותרפיה.</p>
-            <p>החל מיום <date date="2024-09-01">01.09.2024</date>, פיזיותרפיסט במשרה מלאה, המועסק בתנאי רפורמת <concept eId="con_62" refersTo="#reform_oz">עוז לתמורה</concept>, יהיה זכאי, אחת לשנה, במשכורת חודש יולי, ל"קצובת ביגוד לפיזיותרפיסטים" בסך של <quantity eId="qty_64" refersTo="#ILS" normalized="800">800 ₪</quantity> בלבד, זאת בנוסף לקצובת הביגוד לה הוא זכאי בהתאם לסעיף 43 להסכם רפורמת <concept eId="con_63" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
-            <p>לגבי קצובת ביגוד לפיזיותרפיסטים יחולו הכללים החלים לגבי עדכון קצובת ביגוד למורים לחינוך גופני כאמור בסעיף 45(ב) להסכם רפורמת <concept eId="con_64" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
-            <p>בגין קצובת ביגוד לפיזיותרפיסטים יבוצעו הפרשות לקופת גמל לקצבה בהתאם לשיעורים החלים לגבי קצובת ביגוד כאמור בסעיף 46(ג) להסכם רפורמת <concept eId="con_65" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+            <p>החל מיום <date date="2024-09-01">01.09.2024</date>, פיזיותרפיסט במשרה מלאה, המועסק בתנאי רפורמת <concept eId="con_46" refersTo="#reform_oz">עוז לתמורה</concept>, יהיה זכאי, אחת לשנה, במשכורת חודש יולי, ל"קצובת ביגוד לפיזיותרפיסטים" בסך של <quantity eId="qty_64" refersTo="#ILS" normalized="800">800 ₪</quantity> בלבד, זאת בנוסף לקצובת הביגוד לה הוא זכאי בהתאם לסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_43">43</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>.</p>
+            <p>לגבי קצובת ביגוד לפיזיותרפיסטים יחולו הכללים החלים לגבי עדכון קצובת ביגוד למורים לחינוך גופני כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_45__para_b">45(ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>.</p>
+            <p>בגין קצובת ביגוד לפיזיותרפיסטים יבוצעו הפרשות לקופת גמל לקצבה בהתאם לשיעורים החלים לגבי קצובת ביגוד כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46__para_c">46(ג)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref>.</p>
           </content>
         </article>
       </chapter>
@@ -1096,7 +1109,7 @@
           <paragraph eId="art_17__para_a">
             <num>(א)</num>
             <content>
-              <p>מועסק במסגרת תנאי רפורמת '<concept eId="con_66" refersTo="#reform_oz">עוז לתמורה</concept>';</p>
+              <p>מועסק במסגרת תנאי רפורמת '<concept eId="con_47" refersTo="#reform_oz">עוז לתמורה</concept>';</p>
             </content>
           </paragraph>
           <paragraph eId="art_17__para_b">
@@ -1126,7 +1139,7 @@
           <paragraph eId="art_18__para_a">
             <num>(א)</num>
             <content>
-              <p>מועסק במסגרת תנאי רפורמת '<concept eId="con_67" refersTo="#reform_oz">עוז לתמורה</concept>';</p>
+              <p>מועסק במסגרת תנאי רפורמת '<concept eId="con_48" refersTo="#reform_oz">עוז לתמורה</concept>';</p>
             </content>
           </paragraph>
           <paragraph eId="art_18__para_b">
@@ -1156,7 +1169,7 @@
           <paragraph eId="art_19__para_a">
             <num>(א)</num>
             <content>
-              <p>מועסק במסגרת תנאי רפורמת '<concept eId="con_68" refersTo="#reform_oz">עוז לתמורה</concept>';</p>
+              <p>מועסק במסגרת תנאי רפורמת '<concept eId="con_49" refersTo="#reform_oz">עוז לתמורה</concept>';</p>
             </content>
           </paragraph>
           <paragraph eId="art_19__para_b">
@@ -1179,7 +1192,7 @@
         <article eId="art_20" repo:prose="same-source">
           <num>20</num>
           <content>
-            <p><term eId="trm_66" refersTo="#term_47fc433c">תוספת מנהל</term>, <term eId="trm_67" refersTo="#term_557c76fb">תוספת מנהל חטיבה עליונה</term> <term eId="trm_68" refersTo="#term_8654a3d8">ותוספת סגן מנהל</term> יהוו שכר לכל דבר ועניין, ויובאו בחשבון לעניין חישוב ערך שעה לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף 46 להסכם רפורמת <concept eId="con_69" refersTo="#reform_oz">עוז לתמורה</concept> ולעניין הפרשות לקרן השתלמות. מובהר כי אין באזכור רכיב מסוים כדי לקבוע זכאות לו.</p>
+            <p><term eId="trm_66" refersTo="#term_47fc433c">תוספת מנהל</term>, <term eId="trm_67" refersTo="#term_557c76fb">תוספת מנהל חטיבה עליונה</term> <term eId="trm_68" refersTo="#term_8654a3d8">ותוספת סגן מנהל</term> יהוו שכר לכל דבר ועניין, ויובאו בחשבון לעניין חישוב ערך שעה לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46">46</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref> ולעניין הפרשות לקרן השתלמות. מובהר כי אין באזכור רכיב מסוים כדי לקבוע זכאות לו.</p>
           </content>
         </article>
         <article eId="art_21" repo:prose="same-source">
@@ -1191,7 +1204,7 @@
         <article eId="art_22" repo:prose="same-source">
           <num>22</num>
           <content>
-            <p>מוסכם ומובהר כי השכר לו זכאים המנהלים, מנהלי <concept eId="dom_7" refersTo="#stage_chativa_elyona">החטיבות העליונות</concept> וסגני המנהלים, בהתאם להוראות וההסכמים הקיבוציים אשר נחתמו בין הצדדים, מהווה תגמול כולל ומלא עבור כל העבודה וכלל המשימות הכלולות במילוי תפקידם הניהולי במועדים בהם הן מבוצעות. כן מוסכם כי <organization eId="org_70" refersTo="#irgun-hamorim">ארגון המורים</organization> לא יעלה כל תביעה או טענה בקשר לנושא המפורט בסעיף זה.</p>
+            <p>מוסכם ומובהר כי השכר לו זכאים המנהלים, מנהלי <concept eId="dom_7" refersTo="#stage_chativa_elyona">החטיבות העליונות</concept> וסגני המנהלים, בהתאם להוראות וההסכמים הקיבוציים אשר נחתמו בין הצדדים, מהווה תגמול כולל ומלא עבור כל העבודה וכלל המשימות הכלולות במילוי תפקידם הניהולי במועדים בהם הן מבוצעות. כן מוסכם כי <organization eId="org_50" refersTo="#irgun-hamorim">ארגון המורים</organization> לא יעלה כל תביעה או טענה בקשר לנושא המפורט בסעיף זה.</p>
           </content>
         </article>
       </chapter>
@@ -1230,7 +1243,7 @@
           <paragraph eId="art_24__para_d">
             <num>(ד)</num>
             <content>
-              <p><term eId="trm_78" refersTo="#term_1f1fab73">תוספת שקלית 2023</term> תהווה שכר לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף 46 להסכם רפורמת <concept eId="con_71" refersTo="#reform_oz">עוז לתמורה</concept> ולעניין הפרשות לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה). מובהר כי אין באזכור רכיב מסוים כדי לקבוע זכאות לו.</p>
+              <p><term eId="trm_78" refersTo="#term_1f1fab73">תוספת שקלית 2023</term> תהווה שכר לכל דבר ועניין, ותובא בחשבון לעניין חישוב ערך שעה לצורך חישוב התמורה עבור ביצוע "שעות מילוי מקום" (בין אם במקום שעה תומכת הוראה ובין אם לאו), לעניין הפחתת שכר בשל שעת היעדרות, לעניין פיצויי פיטורים כמשמעותם בחוק פיצויי פיטורים, התשכ"ג-1963, לעניין הפרשות לקופת גמל לקצבה כאמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_46">46</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref> ולעניין הפרשות לקרן השתלמות ולקרן דפנה (או לקופה אחרת שבאה במקומה). מובהר כי אין באזכור רכיב מסוים כדי לקבוע זכאות לו.</p>
             </content>
           </paragraph>
           <paragraph eId="art_24__para_e">
@@ -1317,7 +1330,7 @@
           <paragraph eId="art_28__para_a">
             <num>(א)</num>
             <content>
-              <p>החל משנת הלימודים תשפ"ו, <term eId="trm_84" refersTo="#term_88a5098d">המעסיקים</term> יוכלו להעסיק <concept eId="dom_8" refersTo="#stage_chativa_elyona">בחטיבות העליונות</concept> בחוזה מיוחד, עמיתי הוראה וכן מנהלים, שקיבלו אישור העסקה לפי חוק הפיקוח על בתי הספר תשכ"ט-1969 <organization eId="org_72" refersTo="#moe">ממשרד החינוך</organization> ואשר הם בעלי מומחיות, כישורים, ידע או ניסיון מיוחדים בתחומי הדעת הרלוונטיים, שיוגדרו על ידי <organization eId="org_73" refersTo="#moe">משרד החינוך</organization> ויועברו <organization eId="org_74" refersTo="#irgun-hamorim">לארגון המורים</organization> <term eId="trm_85" refersTo="#term_88a5098d">ולמעסיקים</term>. זאת בהתאם ובכפוף למגבלות ולתנאים המצטברים המפורטים במכתב <term eId="trm_86" refersTo="#term_88a5098d">המעסיקים</term> <role eId="rol_75" refersTo="#role-yor">ליו"ר</role> הנהלת <organization eId="org_76" refersTo="#irgun-hamorim">ארגון המורים</organization> מיום <date date="2024-09-23">23.09.2024</date>.</p>
+              <p>החל משנת הלימודים תשפ"ו, <term eId="trm_84" refersTo="#term_88a5098d">המעסיקים</term> יוכלו להעסיק <concept eId="dom_8" refersTo="#stage_chativa_elyona">בחטיבות העליונות</concept> בחוזה מיוחד, עמיתי הוראה וכן מנהלים, שקיבלו אישור העסקה לפי חוק הפיקוח על בתי הספר תשכ"ט-1969 <organization eId="org_51" refersTo="#moe">ממשרד החינוך</organization> ואשר הם בעלי מומחיות, כישורים, ידע או ניסיון מיוחדים בתחומי הדעת הרלוונטיים, שיוגדרו על ידי <organization eId="org_52" refersTo="#moe">משרד החינוך</organization> ויועברו <organization eId="org_53" refersTo="#irgun-hamorim">לארגון המורים</organization> <term eId="trm_85" refersTo="#term_88a5098d">ולמעסיקים</term>. זאת בהתאם ובכפוף למגבלות ולתנאים המצטברים המפורטים במכתב <term eId="trm_86" refersTo="#term_88a5098d">המעסיקים</term> <role eId="rol_54" refersTo="#role-yor">ליו"ר</role> הנהלת <organization eId="org_55" refersTo="#irgun-hamorim">ארגון המורים</organization> מיום <date date="2024-09-23">23.09.2024</date>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_28__para_b">
@@ -1335,13 +1348,13 @@
           <paragraph eId="art_28__para_d">
             <num>(ד)</num>
             <content>
-              <p>עוד מוסכם כי מדי שנה בחודש ינואר יעבירו <term eId="trm_88" refersTo="#term_88a5098d">המעסיקים</term> <organization eId="org_77" refersTo="#irgun-hamorim">לארגון המורים</organization> מסמך המפרט את היקף החוזים המיוחדים, בחלוקה למנהלים ולעמיתי הוראה בנפרד.</p>
+              <p>עוד מוסכם כי מדי שנה בחודש ינואר יעבירו <term eId="trm_88" refersTo="#term_88a5098d">המעסיקים</term> <organization eId="org_56" refersTo="#irgun-hamorim">לארגון המורים</organization> מסמך המפרט את היקף החוזים המיוחדים, בחלוקה למנהלים ולעמיתי הוראה בנפרד.</p>
             </content>
           </paragraph>
           <paragraph eId="art_28__para_e">
             <num>(ה)</num>
             <content>
-              <p>מוסכם, כי תוקפו של סעיף זה ושל מכתב <term eId="trm_89" refersTo="#term_88a5098d">המעסיקים</term> <role eId="rol_78" refersTo="#role-yor">ליו"ר</role> הנהלת <organization eId="org_79" refersTo="#irgun-hamorim">ארגון המורים</organization> מיום <date date="2024-09-23">23.09.2024</date> (להלן: "<def refersTo="#term_ec652951">מכתב המעסיקים</def>") יפוג ביום <date date="2029-08-31">31.08.2029</date> (להלן: "<def refersTo="#term_d21f77e3">מועד התפוגה</def>"). מובהר כי תקופת העסקתו של עמית הוראה או של מנהל, אשר העסקתו בחוזה מיוחד כאמור החלה לפני <term eId="trm_90" refersTo="#term_d21f77e3">מועד התפוגה</term>, תהיה כמפורט במכתב <term eId="trm_91" refersTo="#term_88a5098d">המעסיקים</term>.</p>
+              <p>מוסכם, כי תוקפו של סעיף זה ושל מכתב <term eId="trm_89" refersTo="#term_88a5098d">המעסיקים</term> <role eId="rol_57" refersTo="#role-yor">ליו"ר</role> הנהלת <organization eId="org_58" refersTo="#irgun-hamorim">ארגון המורים</organization> מיום <date date="2024-09-23">23.09.2024</date> (להלן: "<def refersTo="#term_ec652951">מכתב המעסיקים</def>") יפוג ביום <date date="2029-08-31">31.08.2029</date> (להלן: "<def refersTo="#term_d21f77e3">מועד התפוגה</def>"). מובהר כי תקופת העסקתו של עמית הוראה או של מנהל, אשר העסקתו בחוזה מיוחד כאמור החלה לפני <term eId="trm_90" refersTo="#term_d21f77e3">מועד התפוגה</term>, תהיה כמפורט במכתב <term eId="trm_91" refersTo="#term_88a5098d">המעסיקים</term>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_28__para_f">
@@ -1359,7 +1372,7 @@
           <paragraph eId="art_28__para_h">
             <num>(ח)</num>
             <content>
-              <p>למען הסר ספק, החוזה המיוחד כאמור בסעיף זה אינו חוזה אישי מיוחד (תמריצים) האמור בסעיף 53 בהסכם רפורמת <concept eId="con_80" refersTo="#reform_oz">עוז לתמורה</concept>.</p>
+              <p>למען הסר ספק, החוזה המיוחד כאמור בסעיף זה אינו חוזה אישי מיוחד (תמריצים) האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_53">53</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">בהסכם רפורמת עוז לתמורה</ref>.</p>
             </content>
           </paragraph>
         </article>
@@ -1369,7 +1382,7 @@
           <paragraph eId="art_29__para_a">
             <num>(א)</num>
             <content>
-              <p><organization eId="org_81" refersTo="#irgun-hamorim">ארגון המורים</organization> מודיע כי הוא מתחייב לשתף פעולה באופן מלא בכל הקשור ליישומה של תוכנית הבגרויות הגמישה במקצועות הרוח, החברה והמורשת, כפי שנקבעה על ידי <organization eId="org_82" refersTo="#moe">משרד החינוך</organization>, כמפורט במכתבים של <organization eId="org_83" refersTo="#moe">משרד החינוך</organization> בעניין זה מיום <date date="2024-04-03">03.04.2024</date> ומיום <date date="2024-09-23">23.09.2024</date>, ובין היתר, לעניין משימות הביצוע כחלק מההוראה והערכת התלמיד במקצוע (לרבות הנחייה, מישוב לתלמידים והכוונה של תלמידים לביצוע משימות אלו) וכן בפיתוח מקצועי אשר יכשיר את עובדי ההוראה לתוכנית זו.</p>
+              <p><organization eId="org_59" refersTo="#irgun-hamorim">ארגון המורים</organization> מודיע כי הוא מתחייב לשתף פעולה באופן מלא בכל הקשור ליישומה של תוכנית הבגרויות הגמישה במקצועות הרוח, החברה והמורשת, כפי שנקבעה על ידי <organization eId="org_60" refersTo="#moe">משרד החינוך</organization>, כמפורט במכתבים של <organization eId="org_61" refersTo="#moe">משרד החינוך</organization> בעניין זה מיום <date date="2024-04-03">03.04.2024</date> ומיום <date date="2024-09-23">23.09.2024</date>, ובין היתר, לעניין משימות הביצוע כחלק מההוראה והערכת התלמיד במקצוע (לרבות הנחייה, מישוב לתלמידים והכוונה של תלמידים לביצוע משימות אלו) וכן בפיתוח מקצועי אשר יכשיר את עובדי ההוראה לתוכנית זו.</p>
             </content>
           </paragraph>
           <paragraph eId="art_29__para_b">
@@ -1415,7 +1428,7 @@
           <paragraph eId="art_30__para_a">
             <num>(א)</num>
             <content>
-              <p><organization eId="org_84" refersTo="#irgun-hamorim">ארגון המורים</organization> מודיע כי הוא מתחייב לשתף פעולה באופן מלא בכל הקשור ליישומה של תוכנית האקדמיזציה כפי שנקבעה על ידי <organization eId="org_85" refersTo="#moe">משרד החינוך</organization>.</p>
+              <p><organization eId="org_62" refersTo="#irgun-hamorim">ארגון המורים</organization> מודיע כי הוא מתחייב לשתף פעולה באופן מלא בכל הקשור ליישומה של תוכנית האקדמיזציה כפי שנקבעה על ידי <organization eId="org_63" refersTo="#moe">משרד החינוך</organization>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_30__para_b">
@@ -1461,7 +1474,7 @@
           <num>33</num>
           <heading>העסקה מעבר ל- <quantity eId="qty_103" refersTo="#percentage" normalized="100">100%</quantity> משרה</heading>
           <content>
-            <p><mod eId="art_33__mod_1">החל מיום <date date="2024-09-01">01.09.2024</date>, במקום האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_14__para_d">14 (ד)</ref>, (ה) ו- (ז) להסכם רפורמת <concept eId="con_86" refersTo="#reform_oz">עוז לתמורה</concept> יבוא:<quotedStructure eId="art_33__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
+            <p><mod eId="art_33__mod_1">החל מיום <date date="2024-09-01">01.09.2024</date>, במקום האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_14__para_d">14 (ד)</ref>, (ה) ו- (ז) <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם רפורמת עוז לתמורה</ref> יבוא:<quotedStructure eId="art_33__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
                   <paragraph eId="art_33__mod_1__qstr_1__para_d">
                     <num>(ד)</num>
                     <content>
@@ -1479,7 +1492,7 @@
           <num>34</num>
           <heading>תגמול <term eId="trm_96" refersTo="#term_2db30064">עובדי הוראה</term> בגין הישגי בית הספר</heading>
           <intro>
-            <p>החל משנת הלימודים תשפ"ו, סעיף 36 להסכם <concept eId="con_87" refersTo="#reform_oz">עוז לתמורה</concept> יתוקן כך:</p>
+            <p>החל משנת הלימודים תשפ"ו, סעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_36">36</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref> יתוקן כך:</p>
           </intro>
           <paragraph eId="art_34__para_a">
             <num>(א)</num>
@@ -1540,7 +1553,7 @@
           <paragraph eId="art_34__para_d">
             <num>(ד)</num>
             <content>
-              <p>למען הסר ספק, כל יתר הכללים הקבועים בסעיף 36 להסכם <concept eId="con_88" refersTo="#reform_oz">עוז לתמורה</concept>, אשר לא שונו במפורש בסעיף זה, ימשיכו לחול ללא שינוי.</p>
+              <p>למען הסר ספק, כל יתר הכללים הקבועים בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_36">36</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, אשר לא שונו במפורש בסעיף זה, ימשיכו לחול ללא שינוי.</p>
             </content>
           </paragraph>
         </article>
@@ -1550,7 +1563,7 @@
           <paragraph eId="art_35__para_a">
             <num>(א)</num>
             <content>
-              <p>החל מיום <date date="2025-09-01">01.09.2025</date>, בסעיף 20(א)(1) להסכם <concept eId="con_89" refersTo="#reform_oz">עוז לתמורה</concept>, יתווספו לטבלת התפקידים המזכים בנקודות זכות, התפקידים הבאים:</p>
+              <p>החל מיום <date date="2025-09-01">01.09.2025</date>, בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_20__para_a__subpara_1">20(א)(1)</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, יתווספו לטבלת התפקידים המזכים בנקודות זכות, התפקידים הבאים:</p>
               <p>[טבלה: התפקיד | נקודות זכות]</p>
               <table>
                 <tr>
@@ -1651,7 +1664,7 @@
           </paragraph>
           <wrapUp>
             <p>(להלן- "<def refersTo="#term_adf45201">הפורש הזכאי</def>")</p>
-            <p>לעניין זה "<def refersTo="#term_e0e8ac66">מכסת הפרישה לפנסיה מוקדמת</def>"– המכסה הקבועה בסעיף 28(ד) להסכם הקיבוצי שנחתם בין הצדדים ביום <date date="1993-05-11">11.05.1993</date> כפי שעודכנה במכתבו של <role eId="rol_90" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מיום <date date="2008-11-04">4.11.2008</date>.</p>
+            <p>לעניין זה "<def refersTo="#term_e0e8ac66">מכסת הפרישה לפנסיה מוקדמת</def>"– המכסה הקבועה בסעיף 28(ד) להסכם הקיבוצי שנחתם בין הצדדים ביום <date date="1993-05-11">11.05.1993</date> כפי שעודכנה במכתבו של <role eId="rol_64" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מיום <date date="2008-11-04">4.11.2008</date>.</p>
           </wrapUp>
         </article>
         <article eId="art_37" repo:prose="same-source">
@@ -1662,7 +1675,7 @@
           <paragraph eId="art_37__para_a">
             <num>(א)</num>
             <content>
-              <p>מענק הפרישה ישולם על-ידי המעסיק תוך <quantity eId="qty_122" refersTo="#day" normalized="30">30 יום</quantity> ממועד קבלת שיפוי בגין התשלום <organization eId="org_91" refersTo="#moe">ממשרד החינוך</organization>.</p>
+              <p>מענק הפרישה ישולם על-ידי המעסיק תוך <quantity eId="qty_122" refersTo="#day" normalized="30">30 יום</quantity> ממועד קבלת שיפוי בגין התשלום <organization eId="org_65" refersTo="#moe">ממשרד החינוך</organization>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_37__para_b">
@@ -1706,7 +1719,7 @@
         <article eId="art_39" repo:prose="same-source">
           <num>39</num>
           <content>
-            <p><organization eId="org_92" refersTo="#irgun-hamorim">ארגון המורים</organization> מצהיר כי לא יתמוך בתביעות המנוגדות לאמור בסעיף זה.</p>
+            <p><organization eId="org_66" refersTo="#irgun-hamorim">ארגון המורים</organization> מצהיר כי לא יתמוך בתביעות המנוגדות לאמור בסעיף זה.</p>
           </content>
         </article>
         <article eId="art_40" repo:prose="same-source">
@@ -1731,13 +1744,13 @@
           <paragraph eId="art_42__para_a">
             <num>(א)</num>
             <content>
-              <p>החל משנת 2024, יוגדל הסכום השנתי המוקצה לקרן הרווחה, שהוקמה בהתאם להוראות סעיף 51 להסכם <concept eId="con_93" refersTo="#reform_oz">עוז לתמורה</concept>, לטובת רווחת עובדי ההוראה, ואשר עמד ערב חתימת הסכם זה על סכום שנתי של 13.5 מיליון ₪, בסכום של 15 מיליון ₪, ויעמוד על סכום של 28.5 מיליון ₪ (להלן: "<def refersTo="#term_d80d4b75">הסכום השנתי המוגדל</def>").</p>
+              <p>החל משנת 2024, יוגדל הסכום השנתי המוקצה לקרן הרווחה, שהוקמה בהתאם להוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_51">51</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, לטובת רווחת עובדי ההוראה, ואשר עמד ערב חתימת הסכם זה על סכום שנתי של 13.5 מיליון ₪, בסכום של 15 מיליון ₪, ויעמוד על סכום של 28.5 מיליון ₪ (להלן: "<def refersTo="#term_d80d4b75">הסכום השנתי המוגדל</def>").</p>
             </content>
           </paragraph>
           <paragraph eId="art_42__para_b">
             <num>(ב)</num>
             <content>
-              <p>מובהר כי <term eId="trm_100" refersTo="#term_d80d4b75">הסכום השנתי המוגדל</term> ישמש גם למטרת שי לחג לעובדי ההוראה, וכי הגדלת הסכום כאמור ממצה כל טענה ודרישה של <organization eId="org_94" refersTo="#irgun-hamorim">ארגון המורים</organization> בעניין תשלומי שי לחג לעובדי ההוראה.</p>
+              <p>מובהר כי <term eId="trm_100" refersTo="#term_d80d4b75">הסכום השנתי המוגדל</term> ישמש גם למטרת שי לחג לעובדי ההוראה, וכי הגדלת הסכום כאמור ממצה כל טענה ודרישה של <organization eId="org_67" refersTo="#irgun-hamorim">ארגון המורים</organization> בעניין תשלומי שי לחג לעובדי ההוראה.</p>
             </content>
           </paragraph>
           <paragraph eId="art_42__para_c">
@@ -1760,7 +1773,7 @@
           <paragraph eId="art_42__para_e">
             <num>(ה)</num>
             <content>
-              <p>מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים הקבועים בסעיף 51 להסכם <concept eId="con_95" refersTo="#reform_oz">עוז לתמורה</concept>, והם ימשיכו לחול גם לגבי הסכום המוגדל כאמור לעיל.</p>
+              <p>מובהר כי אין באמור בסעיף זה כדי לשנות מיתר הכללים הקבועים בסעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_51">51</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>, והם ימשיכו לחול גם לגבי הסכום המוגדל כאמור לעיל.</p>
             </content>
           </paragraph>
         </article>
@@ -1775,13 +1788,13 @@
             <subparagraph eId="art_43__para_a__subpara_1">
               <num>(1)</num>
               <content>
-                <p>עד שעתיים פרטניות במהלך החודש הראשון לעבודתו בשנת הלימודים, בהתאם להנחיות שיקבע <organization eId="org_96" refersTo="#moe">משרד החינוך</organization>;</p>
+                <p>עד שעתיים פרטניות במהלך החודש הראשון לעבודתו בשנת הלימודים, בהתאם להנחיות שיקבע <organization eId="org_68" refersTo="#moe">משרד החינוך</organization>;</p>
               </content>
             </subparagraph>
             <subparagraph eId="art_43__para_a__subpara_2">
               <num>(2)</num>
               <content>
-                <p>עד <quantity eId="qty_130" refersTo="#hour" normalized="4">ארבע שעות</quantity> תומכות הוראה במהלך שני חודשי עבודתו הראשונים בשנת הלימודים, המוקדשות לישיבות עבודה, (ולמען הסר ספק סך הכל <quantity eId="qty_131" refersTo="#hour" normalized="4">ארבע שעות</quantity> יחידות בחודשיים), בהתאם להנחיות שיקבע <organization eId="org_97" refersTo="#moe">משרד החינוך</organization>;</p>
+                <p>עד <quantity eId="qty_130" refersTo="#hour" normalized="4">ארבע שעות</quantity> תומכות הוראה במהלך שני חודשי עבודתו הראשונים בשנת הלימודים, המוקדשות לישיבות עבודה, (ולמען הסר ספק סך הכל <quantity eId="qty_131" refersTo="#hour" normalized="4">ארבע שעות</quantity> יחידות בחודשיים), בהתאם להנחיות שיקבע <organization eId="org_69" refersTo="#moe">משרד החינוך</organization>;</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -1803,7 +1816,7 @@
           <num>45</num>
           <heading>החזר ימי לימודים בשל שביתה</heading>
           <content>
-            <p>בהמשך להודעתו של <role eId="rol_98" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_99" refersTo="#moe">משרד החינוך</organization> מיום <date date="2024-09-23">23.09.2024</date> בעניין החזר ימי לימודים ושעות לימודים <concept eId="dom_19" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> בשל ימי שביתה (להלן: "<def refersTo="#term_386a9d04">הודעת המנכ"ל</def>"), <term eId="trm_102" refersTo="#term_2db30064">עובדי הוראה</term> יחזירו חמישה ימי לימודים שהוחסרו בשל השביתה כמפורט <term eId="trm_103" refersTo="#term_386a9d04">בהודעת המנכ"ל</term>. שני ימי השביתה הנותרים ייחשבו כהיעדרות שאינה מזכה בשכר ויחולו בעניינן ההוראות המפורטות <term eId="trm_104" refersTo="#term_386a9d04">בהודעת המנכ"ל</term>.</p>
+            <p>בהמשך להודעתו של <role eId="rol_70" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_71" refersTo="#moe">משרד החינוך</organization> מיום <date date="2024-09-23">23.09.2024</date> בעניין החזר ימי לימודים ושעות לימודים <concept eId="dom_19" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> בשל ימי שביתה (להלן: "<def refersTo="#term_386a9d04">הודעת המנכ"ל</def>"), <term eId="trm_102" refersTo="#term_2db30064">עובדי הוראה</term> יחזירו חמישה ימי לימודים שהוחסרו בשל השביתה כמפורט <term eId="trm_103" refersTo="#term_386a9d04">בהודעת המנכ"ל</term>. שני ימי השביתה הנותרים ייחשבו כהיעדרות שאינה מזכה בשכר ויחולו בעניינן ההוראות המפורטות <term eId="trm_104" refersTo="#term_386a9d04">בהודעת המנכ"ל</term>.</p>
             <p>בכל הנוגע לתשלום משכורת חודש ספטמבר 2024 לעובדים ששבתו בספטמבר 2024, יחולו ההוראות המפורטות <term eId="trm_105" refersTo="#term_386a9d04">בהודעת המנכ"ל</term>.</p>
           </content>
         </article>
@@ -1811,7 +1824,7 @@
           <num>46</num>
           <heading>ביטול סכסוכי עבודה</heading>
           <content>
-            <p>כל סכסוכי העבודה שהוכרזו על-ידי <organization eId="org_100" refersTo="#irgun-hamorim">ארגון המורים</organization>, עד ליום חתימת הסכם זה, בטלים עם החתימה על הסכם זה. זאת למעט סכסוכי עבודה מקומיים הנוגעים לדרישות שאינן כרוכות בתוספת עלות כספית לעומת המצב הנוהג בפועל טרם הדרישה כאמור ושאין להם השלכות לגבי יתר <term eId="trm_106" refersTo="#term_88a5098d">המעסיקים</term>.</p>
+            <p>כל סכסוכי העבודה שהוכרזו על-ידי <organization eId="org_72" refersTo="#irgun-hamorim">ארגון המורים</organization>, עד ליום חתימת הסכם זה, בטלים עם החתימה על הסכם זה. זאת למעט סכסוכי עבודה מקומיים הנוגעים לדרישות שאינן כרוכות בתוספת עלות כספית לעומת המצב הנוהג בפועל טרם הדרישה כאמור ושאין להם השלכות לגבי יתר <term eId="trm_106" refersTo="#term_88a5098d">המעסיקים</term>.</p>
           </content>
         </article>
         <article eId="art_47" repo:prose="same-source">
@@ -1832,7 +1845,7 @@
           <paragraph eId="art_47__para_c">
             <num>(ג)</num>
             <content>
-              <p>הסכם זה מהווה מיצוי מלא ומוחלט של כל תביעות <organization eId="org_101" refersTo="#irgun-hamorim">ארגון המורים</organization> בשל ההשלכות של תוכנית הבגרויות הגמישה כמפורט בסעיף <ref href="#art_29">29</ref> לעיל, בקשר להשלכות תוכנית האקדמיזציה כמפורט בסעיף <ref href="#art_30">30</ref> לעיל, ובקשר להשלכות שינוי לוח החופשות כפי שפורט במכתבו של <role eId="rol_102" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_103" refersTo="#moe">משרד החינוך</organization> מיום <date date="2024-09-23">23.09.2024</date>.</p>
+              <p>הסכם זה מהווה מיצוי מלא ומוחלט של כל תביעות <organization eId="org_73" refersTo="#irgun-hamorim">ארגון המורים</organization> בשל ההשלכות של תוכנית הבגרויות הגמישה כמפורט בסעיף <ref href="#art_29">29</ref> לעיל, בקשר להשלכות תוכנית האקדמיזציה כמפורט בסעיף <ref href="#art_30">30</ref> לעיל, ובקשר להשלכות שינוי לוח החופשות כפי שפורט במכתבו של <role eId="rol_74" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_75" refersTo="#moe">משרד החינוך</organization> מיום <date date="2024-09-23">23.09.2024</date>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_47__para_d">
@@ -1860,7 +1873,7 @@
           <paragraph eId="art_48__para_b">
             <num>(ב)</num>
             <content>
-              <p><organization eId="org_104" refersTo="#irgun-hamorim">ארגון המורים</organization> מתחייב שלא לנקוט נגד <term eId="trm_108" refersTo="#term_88a5098d">המעסיקים</term> או יחידה מיחידותיהם באמצעי שביתה, מלאה או חלקית, או כל פגיעה מאורגנת אחרת בהליכי העבודה ובסדריה, בקשר להשלכות תוכנית הבגרויות הגמישה כמפורט בסעיף <ref href="#art_29">29</ref> לעיל, בקשר להשלכות תוכנית האקדמיזציה כמפורט בסעיף <ref href="#art_30">30</ref> לעיל ובקשר להשלכות שינוי לוח החופשות כפי שפורט במכתבו של <role eId="rol_105" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_106" refersTo="#moe">משרד החינוך</organization> מיום <date date="2024-09-23">23.09.2024</date>.</p>
+              <p><organization eId="org_76" refersTo="#irgun-hamorim">ארגון המורים</organization> מתחייב שלא לנקוט נגד <term eId="trm_108" refersTo="#term_88a5098d">המעסיקים</term> או יחידה מיחידותיהם באמצעי שביתה, מלאה או חלקית, או כל פגיעה מאורגנת אחרת בהליכי העבודה ובסדריה, בקשר להשלכות תוכנית הבגרויות הגמישה כמפורט בסעיף <ref href="#art_29">29</ref> לעיל, בקשר להשלכות תוכנית האקדמיזציה כמפורט בסעיף <ref href="#art_30">30</ref> לעיל ובקשר להשלכות שינוי לוח החופשות כפי שפורט במכתבו של <role eId="rol_77" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_78" refersTo="#moe">משרד החינוך</organization> מיום <date date="2024-09-23">23.09.2024</date>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_48__para_c">
@@ -1882,13 +1895,13 @@
           <paragraph eId="art_49__para_a">
             <num>(א)</num>
             <content>
-              <p>מובהר כי אין בהסכם זה, ובפרט סעיף התחולה הכתוב בו ובכך שנעשתה בקשר <concept eId="dom_20" refersTo="#stage_chativa_elyona">לחטיבות העליונות</concept> בלבד, כדי להוות הסכמה משום סוג ביחס להגדרות מחייבות כלשהן בקשר ליחידת מיקוח נפרדת בתוך החינוך <concept eId="dom_21" refersTo="#stage_al_yesodi">העל יסודי</concept> (ז'-י"ד) ואין בהוראות הסכם זה כולו או חלקו, כדי להוות ויתור על טענה כלשהי בקשר לייצוגתו של <organization eId="org_107" refersTo="#irgun-hamorim">ארגון המורים</organization> בחינוך <concept eId="dom_22" refersTo="#stage_al_yesodi">העל יסודי</concept>.</p>
+              <p>מובהר כי אין בהסכם זה, ובפרט סעיף התחולה הכתוב בו ובכך שנעשתה בקשר <concept eId="dom_20" refersTo="#stage_chativa_elyona">לחטיבות העליונות</concept> בלבד, כדי להוות הסכמה משום סוג ביחס להגדרות מחייבות כלשהן בקשר ליחידת מיקוח נפרדת בתוך החינוך <concept eId="dom_21" refersTo="#stage_al_yesodi">העל יסודי</concept> (ז'-י"ד) ואין בהוראות הסכם זה כולו או חלקו, כדי להוות ויתור על טענה כלשהי בקשר לייצוגתו של <organization eId="org_79" refersTo="#irgun-hamorim">ארגון המורים</organization> בחינוך <concept eId="dom_22" refersTo="#stage_al_yesodi">העל יסודי</concept>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_49__para_b">
             <num>(ב)</num>
             <content>
-              <p>תנאים ותניות שנקבעו בעבר בהסכמים קיבוציים, לרבות בהסכם רפורמת <concept eId="con_108" refersTo="#reform_oz">עוז לתמורה</concept> על כל סעיפי המשנה שבו, או בהסדרים קיבוציים או בהתחייבויות אחרות שבכתב, ימשיכו להיות תקפים בתקופת תוקפו של הסכם זה, אלא אם תוקנו או בוטלו במפורש או במשתמע על-ידי הוראה מהוראות הסכם זה.</p>
+              <p>תנאים ותניות שנקבעו בעבר בהסכמים קיבוציים, לרבות <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">בהסכם רפורמת עוז לתמורה</ref> על כל סעיפי המשנה שבו, או בהסדרים קיבוציים או בהתחייבויות אחרות שבכתב, ימשיכו להיות תקפים בתקופת תוקפו של הסכם זה, אלא אם תוקנו או בוטלו במפורש או במשתמע על-ידי הוראה מהוראות הסכם זה.</p>
             </content>
           </paragraph>
         </article>
@@ -1904,7 +1917,7 @@
           <paragraph eId="art_50__para_b">
             <num>(ב)</num>
             <content>
-              <p>בדיוניה של ועדת המעקב ישתתפו נציגים של <organization eId="org_109" refersTo="#moe">משרד החינוך</organization> ושל <organization eId="org_110" refersTo="#mof">משרד האוצר</organization>. כל החלטה של ועדת המעקב תהיה טעונה הסכמה של נציגים אלו.</p>
+              <p>בדיוניה של ועדת המעקב ישתתפו נציגים של <organization eId="org_80" refersTo="#moe">משרד החינוך</organization> ושל <organization eId="org_81" refersTo="#mof">משרד האוצר</organization>. כל החלטה של ועדת המעקב תהיה טעונה הסכמה של נציגים אלו.</p>
             </content>
           </paragraph>
           <paragraph eId="art_50__para_c">
@@ -1922,16 +1935,16 @@
       <table>
         <tr>
           <th>
-            <p><organization eId="org_111" refersTo="#local-government">מרכז השלטון המקומי</organization>
+            <p><organization eId="org_82" refersTo="#local-government">מרכז השלטון המקומי</organization>
             </p>
           </th>
           <th>
-            <p><organization eId="org_112" refersTo="#irgun-hamorim">ארגון המורים</organization>
+            <p><organization eId="org_83" refersTo="#irgun-hamorim">ארגון המורים</organization>
             </p>
           </th>
         </tr>
       </table>
-      <p><organization eId="org_113" refersTo="#three-cities">שלוש הערים הגדולות</organization>
+      <p><organization eId="org_84" refersTo="#three-cities">שלוש הערים הגדולות</organization>
       </p>
       <p>מרכז השלטון האזורי</p>
     </conclusions>

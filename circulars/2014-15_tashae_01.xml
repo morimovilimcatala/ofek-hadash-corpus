@@ -175,7 +175,7 @@
         <paragraph eId="art_5__para_a">
           <num>א.</num>
           <content>
-            <p>אם עובד ההוראה מועסק עפ"י הסכמי טרום הרפורמה או מועסק על פי הסכם <concept eId="con_6" refersTo="#reform_ofek">אופק חדש</concept> כגנן: מורה אב יהיה רשאי לקצר מהיקף משרתו הקבוע, שיעור של עד <quantity eId="qty_3" refersTo="#percentage" normalized="10">10%</quantity> בש"ש, כך שהיקף המשרה המקוצר (העבודה בפועל) לא יפחת מ .<quantity eId="qty_4" refersTo="#percentage" normalized="79">79%</quantity>-היה ומנהל בית הספר לא יוכל לקבוע למורה משרה הכוללת חלקי שעות (שעות שאינן מספר</p>
+            <p>אם עובד ההוראה מועסק עפ"י הסכמי טרום הרפורמה או מועסק על פי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> כגנן: מורה אב יהיה רשאי לקצר מהיקף משרתו הקבוע, שיעור של עד <quantity eId="qty_3" refersTo="#percentage" normalized="10">10%</quantity> בש"ש, כך שהיקף המשרה המקוצר (העבודה בפועל) לא יפחת מ .<quantity eId="qty_4" refersTo="#percentage" normalized="79">79%</quantity>-היה ומנהל בית הספר לא יוכל לקבוע למורה משרה הכוללת חלקי שעות (שעות שאינן מספר</p>
             <p>שלם), המורה יהיה זכאי להפחתה של שעות שלמות מהיקף משרתו ולא מעבר לכך.</p>
             <p>וראה הבהרה בסעיף  <ref href="#art_7__para_a">7א'</ref> להלן.</p>
           </content>
@@ -183,14 +183,14 @@
         <paragraph eId="art_5__para_b">
           <num>ב.</num>
           <content>
-            <p>אם עובד ההוראה מועסק על-פי הסכם <concept eId="con_7" refersTo="#reform_ofek">אופק חדש</concept> (שלא כגנן)-בהיקף מינימאלי של , <quantity eId="qty_5" refersTo="#percentage" normalized="79">79%</quantity>ישובץ לפי מבנה שבוע עבודה של מורות אימהות ללא הפחתה בשכרו, ובלבד שהיקף עבודתו בפועל לא יפחת מ.<quantity eId="qty_6" refersTo="#percentage" normalized="79">79%</quantity> -</p>
+            <p>אם עובד ההוראה מועסק על-פי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> (שלא כגנן)-בהיקף מינימאלי של , <quantity eId="qty_5" refersTo="#percentage" normalized="79">79%</quantity>ישובץ לפי מבנה שבוע עבודה של מורות אימהות ללא הפחתה בשכרו, ובלבד שהיקף עבודתו בפועל לא יפחת מ.<quantity eId="qty_6" refersTo="#percentage" normalized="79">79%</quantity> -</p>
           </content>
         </paragraph>
         <paragraph eId="art_5__para_c">
           <num>ג.</num>
           <content>
-            <p>אם עובד ההוראה מועסק עפ"י הסכם <concept eId="con_8" refersTo="#reform_oz">עוז לתמורה</concept> -בהיקף העולה על, <quantity eId="qty_7" refersTo="#percentage" normalized="79">79%</quantity>ישובץ לפי מבנה שבוע עבודה הכולל הפחתה של שעה פרונטאלית אחת (וכן נגזרותיה בשעות תומכות הוראה ו/ או שעות פרטניות), הכל בהתאם לטבלאות מבנה שבוע העבודה המופיעות <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">בהסכם עוז לתמורה מיום  14.8.2011</ref> בנספח ג' (או בנספח ב', ככל שגילו  50 ומעלה) ובלבד שהיקף עבודתו בפועל לא יפחת מ .<quantity eId="qty_8" refersTo="#percentage" normalized="79">79%</quantity>-וראה הבהרה בסעיף  <ref href="#art_7__para_b">7ב'</ref> להלן.</p>
-            <p>מצ"ב טבלאות מבנה שבוע עבודה על-פי רפורמת עוז ועל-פי רפורמת <concept eId="con_9" refersTo="#reform_ofek">אופק חדש</concept>:</p>
+            <p>אם עובד ההוראה מועסק עפ"י <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">הסכם עוז לתמורה</ref> -בהיקף העולה על, <quantity eId="qty_7" refersTo="#percentage" normalized="79">79%</quantity>ישובץ לפי מבנה שבוע עבודה הכולל הפחתה של שעה פרונטאלית אחת (וכן נגזרותיה בשעות תומכות הוראה ו/ או שעות פרטניות), הכל בהתאם לטבלאות מבנה שבוע העבודה המופיעות <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">בהסכם עוז לתמורה מיום  14.8.2011</ref> בנספח ג' (או בנספח ב', ככל שגילו  50 ומעלה) ובלבד שהיקף עבודתו בפועל לא יפחת מ .<quantity eId="qty_8" refersTo="#percentage" normalized="79">79%</quantity>-וראה הבהרה בסעיף  <ref href="#art_7__para_b">7ב'</ref> להלן.</p>
+            <p>מצ"ב טבלאות מבנה שבוע עבודה על-פי רפורמת עוז ועל-פי רפורמת <concept eId="con_6" refersTo="#reform_ofek">אופק חדש</concept>:</p>
             <p><a href="http://meyda.education.gov.il/files/sherut/nc.pdf">http://meyda.education.gov.il/files/sherut/nc.pdf</a>
             </p>
             <p><a href="http://meyda.education.gov.il/files/sherut/nb.pdf">http://meyda.education.gov.il/files/sherut/nb.pdf</a>
@@ -222,7 +222,7 @@
         <paragraph eId="art_7__para_b">
           <num>ב)</num>
           <content>
-            <p>דוגמה לקיצור שבוע עבודה <concept eId="con_10" refersTo="#reform_oz">בעוז לתמורה</concept>-</p>
+            <p>דוגמה לקיצור שבוע עבודה <concept eId="con_7" refersTo="#reform_oz">בעוז לתמורה</concept>-</p>
             <p>עובד הוראה שעבד ערב זכאותו למשרת אב בהיקף של:</p>
             <p>24 פרונטאלי 6 +פרטני  10+תומכות הוראה, סה"כ  <quantity eId="qty_15" refersTo="#hour" normalized="40">40ש"ש</quantity> שהן  <quantity eId="qty_16" refersTo="#percentage" normalized="100">100%</quantity>משרה.</p>
             <p>אופן מימוש זכאותו למשרת אב יהיה כך:</p>
@@ -254,11 +254,11 @@
         </signature>
       </p>
       <p>העתק:</p>
-      <p>גב' <person eId="pers_2" refersTo="#p_6bb70ed1" as="#role-mankal">מיכל כהן</person> -<role eId="rol_11" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_12" refersTo="#moe">משרד החינוך</organization>
+      <p>גב' <person eId="pers_2" refersTo="#p_6bb70ed1" as="#role-mankal">מיכל כהן</person> -<role eId="rol_8" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_9" refersTo="#moe">משרד החינוך</organization>
       </p>
-      <p>מר <person eId="pers_3" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person> -<role eId="rol_13" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_14" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_3" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person> -<role eId="rol_10" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_11" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_4" refersTo="#p_adcb72bb" as="#role-segan-bakhir">קובי בר נתן</person>  -<role eId="hed_2" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_15" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_16" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_4" refersTo="#p_adcb72bb" as="#role-segan-bakhir">קובי בר נתן</person>  -<role eId="hed_2" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_12" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_13" refersTo="#mof">משרד האוצר</organization>
       </p>
       <p>גב' <person eId="pers_5" refersTo="#p_a1c0ea3a">אריאלה טוקר</person> -חשבת המשרד</p>
       <p>מר <person eId="pers_6" refersTo="#p_55e6c019">אייל רם</person>, סמנכ"ל ומנהל מינה לעו"ה</p>
@@ -266,17 +266,17 @@
       </p>
       <p>מר <person eId="pers_8" refersTo="#p_e8cd65cb" as="#role-samankal-bakhir">משה שגיא</person>, <role eId="hed_5" refersTo="#role-samankal-bakhir">סמנכ"ל בכיר</role> <organization eId="unt_4" refersTo="#unit_00ae5b17">למינהל כלכלה ותקציבים</organization>
       </p>
-      <p>עו"ד <person eId="pers_9" refersTo="#p_764ccce1">דורית מורג</person> -<role eId="rol_17" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      <p>עו"ד <person eId="pers_9" refersTo="#p_764ccce1">דורית מורג</person> -<role eId="rol_14" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
       </p>
       <p>דר' <person eId="pers_10" refersTo="#p_e6a72cc2" as="#role-menahel">עופר רימון</person> -<role eId="hed_6" refersTo="#role-menahel">מנהל</role> <organization eId="unt_5" refersTo="#unit_4667ddd4">מינהל תקשוב טכנולוגיה ומערכות מידע</organization>
       </p>
       <p>עו"ד <person eId="pers_11" refersTo="#p_4f19a187">איריס שלו-טל</person>, <organization eId="unt_6" refersTo="#unit_78decc8c">הלשכה המשפטית</organization>
       </p>
-      <p>מר <person eId="pers_12" refersTo="#p_4b7467e5" as="#role-yor">רן ארז</person> -<role eId="rol_18" refersTo="#role-yor">יו"ר</role> <organization eId="org_19" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל-יסודיים</organization>
+      <p>מר <person eId="pers_12" refersTo="#p_4b7467e5" as="#role-yor">רן ארז</person> -<role eId="rol_15" refersTo="#role-yor">יו"ר</role> <organization eId="org_16" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל-יסודיים</organization>
       </p>
-      <p>מר <person eId="pers_13" refersTo="#p_9317fe46" as="#role-mazkir-klali">יוסי וסרמן</person> -<role eId="rol_20" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_21" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      <p>מר <person eId="pers_13" refersTo="#p_9317fe46" as="#role-mazkir-klali">יוסי וסרמן</person> -<role eId="rol_17" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_18" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
       </p>
-      <p><role eId="rol_30" refersTo="#office_4ed2f902">מנהלות ומנהלי המחוזות</role>
+      <p><role eId="rol_27" refersTo="#office_4ed2f902">מנהלות ומנהלי המחוזות</role>
       </p>
       <p>גב' <person eId="pers_14" refersTo="#p_e03b783f" as="#role-menahel">דסי בארי</person> -<role eId="hed_7" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_7" refersTo="#unit_37ca893f">האגף לחינוך על-יסודי</organization>
       </p>
@@ -288,23 +288,23 @@
       </p>
       <p>מר <person eId="pers_18" refersTo="#p_ff5ed563" as="#role-menahel">בני בנימין</person> -<role eId="hed_9" refersTo="#role-menahel">מנהל</role> <organization eId="unt_12" refersTo="#unit_39d59c86">תחום בכיר משכורות</organization>, <organization eId="unt_13" refersTo="#unit_cc8f2238">חשבות המשרד</organization>
       </p>
-      <p>גב' <person eId="pers_19" refersTo="#p_94827b85" as="#role-menahel">ננולי טרוני</person> -<role eId="hed_10" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_14" refersTo="#unit_b6527b49">תחום תשלומים</organization> <organization eId="org_22" refersTo="#local-government">למרכז השלטון המקומי</organization>, <organization eId="unt_15" refersTo="#unit_cc8f2238">חשבות המשרד</organization>
+      <p>גב' <person eId="pers_19" refersTo="#p_94827b85" as="#role-menahel">ננולי טרוני</person> -<role eId="hed_10" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_14" refersTo="#unit_b6527b49">תחום תשלומים</organization> <organization eId="org_19" refersTo="#local-government">למרכז השלטון המקומי</organization>, <organization eId="unt_15" refersTo="#unit_cc8f2238">חשבות המשרד</organization>
       </p>
-      <p>מר <person eId="pers_20" refersTo="#p_5b10e7d8">משה בכר</person>  -רכז חינוך והשכלה גבוהה, <organization eId="org_23" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_20" refersTo="#p_5b10e7d8">משה בכר</person>  -רכז חינוך והשכלה גבוהה, <organization eId="org_20" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_21" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך <organization eId="org_24" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_21" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך <organization eId="org_21" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>גב' <person eId="pers_22" refersTo="#p_f71cee61" as="#office_293a6da2">רחל טייטלבום</person>  -<role eId="rol_33" refersTo="#office_293a6da2">ממונה על תנאי שירות עובדי הוראה</role>
+      <p>גב' <person eId="pers_22" refersTo="#p_f71cee61" as="#office_293a6da2">רחל טייטלבום</person>  -<role eId="rol_30" refersTo="#office_293a6da2">ממונה על תנאי שירות עובדי הוראה</role>
       </p>
-      <p>עו"ד <person eId="pers_23" refersTo="#p_faea6aa0" as="#role-menahel">דן בן חיים</person>-<role eId="hed_11" refersTo="#role-menahel">מנהל</role> <organization eId="unt_16" refersTo="#unit_e92e50da">המחלקה ליחסי עבודה ושכר</organization>, <organization eId="org_25" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>עו"ד <person eId="pers_23" refersTo="#p_faea6aa0" as="#role-menahel">דן בן חיים</person>-<role eId="hed_11" refersTo="#role-menahel">מנהל</role> <organization eId="unt_16" refersTo="#unit_e92e50da">המחלקה ליחסי עבודה ושכר</organization>, <organization eId="org_22" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>גב' <person eId="pers_24" refersTo="#p_bca8a4ab" as="#office_293a6da2">חגית מגן</person> -<role eId="rol_34" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_26" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>גב' <person eId="pers_24" refersTo="#p_bca8a4ab" as="#office_293a6da2">חגית מגן</person> -<role eId="rol_31" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_23" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>מר <person eId="pers_25" refersTo="#p_22148ae1" as="#role-mankal">שמואל ריפמן</person> -<role eId="rol_27" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_28" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
+      <p>מר <person eId="pers_25" refersTo="#p_22148ae1" as="#role-mankal">שמואל ריפמן</person> -<role eId="rol_24" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_25" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
       </p>
-      <p><role eId="rol_31" refersTo="#office_021a1da6">מנהלי תחומי כח אדם בהוראה במחוזות</role>
+      <p><role eId="rol_28" refersTo="#office_021a1da6">מנהלי תחומי כח אדם בהוראה במחוזות</role>
       </p>
-      <p><role eId="rol_32" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      <p><role eId="rol_29" refersTo="#office_987a4a52">חשבי המחוזות</role>
       </p>
     </conclusions>
   </doc>

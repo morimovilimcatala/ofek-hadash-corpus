@@ -34,7 +34,6 @@
       <references source="#repo-generator">
         <TLCOrganization eId="repo-generator" href="/ontology/organization/repo/akn-corpus" showAs="tools/akn_corpus.py" />
         <TLCConcept eId="day" href="/ontology/concept/quantity/day" showAs="יום" />
-        <TLCConcept eId="reform_ofek" href="/ontology/concept/il/reform/ofek-hadash" showAs="אופק חדש" />
         <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
         <TLCLocation eId="loc_b1e2548c" href="/ontology/location/il/b1e2548c" showAs="רח' קפלן 1" />
         <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
@@ -57,19 +56,19 @@
     </meta>
     <preface>
       <longTitle>
-        <p>הסכם רפורמת <concept eId="con_1" refersTo="#reform_ofek">אופק חדש</concept> — ההארכה הנוספת של תקופת תוקפו של <ref href="/akn/il/act/collectiveAgreement/2007-09-10/2007-09-10-ofek-hadash-reform-founding-agreement">ההסכם הקיבוצי מיום 10.9.07</ref>
+        <p><ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref> — ההארכה הנוספת של תקופת תוקפו של <ref href="/akn/il/act/collectiveAgreement/2007-09-10/2007-09-10-ofek-hadash-reform-founding-agreement">ההסכם הקיבוצי מיום 10.9.07</ref>
         </p>
       </longTitle>
     </preface>
     <body>
       <hcontainer eId="hc_1" name="text" repo:structure="flat">
         <content>
-          <p>הסכם רפורמת <concept eId="con_2" refersTo="#reform_ofek">אופק חדש</concept>
+          <p><ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref>
           </p>
-          <p><organization eId="org_3" refersTo="#mof">משרד האוצר</organization>
+          <p><organization eId="org_1" refersTo="#mof">משרד האוצר</organization>
           </p>
           <p>Ministry of Finance</p>
-          <p><role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+          <p><role eId="rol_2" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
           </p>
           <p><date date="2008-11-03">ה' בחשון התשס"ט</date>
           </p>
@@ -81,9 +80,10 @@
           <p>לכבוד:</p>
           <p>מר <person eId="pers_1" refersTo="#p_9317fe46">יוסי וסרמן</person>
           </p>
-          <p><role eId="rol_5" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_6" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> בישראל</p>
+          <p><role eId="rol_3" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_4" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> בישראל</p>
           <p>שלום רב,</p>
-          <p>הנדון: <docTitle eId="doctitle_1">הסכם רפורמת <concept eId="con_7" refersTo="#reform_ofek">אופק חדש</concept>
+          <p>הנדון: <docTitle eId="doctitle_1">
+              <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref>
             </docTitle>
           </p>
           <p>בהמשך למכתבי אליך בעניין שבנדון, מיום <date date="2008-08-31">31.8.08</date>, מוסכם עלי כי תקופת תוקפו של <ref href="/akn/il/act/collectiveAgreement/2007-09-10/2007-09-10-ofek-hadash-reform-founding-agreement">ההסכם שנחתם ביום 10.9.07</ref> תוארך ב – <quantity eId="qty_1" refersTo="#day" normalized="60">60 ימים</quantity> נוספים, או עד לחתימת הסכם סופי לרפורמה, לפי המוקדם, בכפוף ובהתאם לכל התנאים המפורטים במכתבי האמור לעיל.</p>
@@ -97,7 +97,7 @@
       <p repo:role="running-head">[חתימות]</p>
       <p><person eId="pers_2" refersTo="#p_35958635">אילן לוין</person>
       </p>
-      <p repo:note="stamp">[חותמת: דואר נכנס 10 -11- 2008 לשכת <role eId="rol_8" refersTo="#role-mazkir-klali">המזכיר הכללי</role>]</p>
+      <p repo:note="stamp">[חותמת: דואר נכנס 10 -11- 2008 לשכת <role eId="rol_5" refersTo="#role-mazkir-klali">המזכיר הכללי</role>]</p>
       <p><location eId="locref_1" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_2" refersTo="#loc_8e0dfe1e">ירושלים</location> 91030 ת.ד. 3100 טל': <a href="tel:+97225317415">02-5317415</a> פקס': <a href="tel:+97225695372">02-5695372</a>
       </p>
       <p>אוצר ברשת: <a href="https://www.mof.gov.il">www.mof.gov.il</a> gov שער הממשלה: <a href="https://www.gov.il">www.gov.il</a>
@@ -144,12 +144,12 @@
                 <p>לכבוד:</p>
                 <p>מר <person eId="pers_3" refersTo="#p_35958635">אילן לוין</person>
                 </p>
-                <p><role eId="rol_9" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+                <p><role eId="rol_6" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
                 </p>
-                <p repo:role="running-head"><organization eId="org_10" refersTo="#mof">משרד האוצר</organization>
+                <p repo:role="running-head"><organization eId="org_7" refersTo="#mof">משרד האוצר</organization>
                 </p>
                 <p>שלום רב,</p>
-                <p>הנדון: הסכם רפורמת <concept eId="con_11" refersTo="#reform_ofek">אופק חדש</concept>
+                <p>הנדון: <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם רפורמת אופק חדש</ref>
                 </p>
                 <p>מכתבך אלי מיום <date date="2008-11-03">3.11.08</date>
                 </p>
@@ -162,7 +162,7 @@
             <p>בכבוד רב,</p>
             <p repo:role="running-head">[חתימות]</p>
             <p><signature eId="signature_1">
-                <person eId="pers_4" refersTo="#p_9317fe46">יוסי וסרמן</person> <role eId="rol_12" refersTo="#role-mazkir-klali">המזכיר הכללי</role>
+                <person eId="pers_4" refersTo="#p_9317fe46">יוסי וסרמן</person> <role eId="rol_8" refersTo="#role-mazkir-klali">המזכיר הכללי</role>
               </signature>
             </p>
           </conclusions>

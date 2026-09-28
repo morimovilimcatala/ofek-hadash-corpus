@@ -89,7 +89,7 @@
           <p>דרגת שכר מדריך</p>
           <p>טבלאות שכר <concept eId="dom_2" refersTo="#stage_chativa_elyona">בחטיבות העליונות</concept> בהתאם <ref href="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022">להסכם שכר מיום 14.3.2018</ref>
           </p>
-          <p>טבלאות שכר לעובדי הוראה בהסכם <concept eId="con_8" refersTo="#reform_ofek">אופק חדש</concept>
+          <p>טבלאות שכר לעובדי הוראה <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>
           </p>
         </content>
       </hcontainer>
@@ -276,15 +276,15 @@
           <mainBody>
             <hcontainer eId="att_4__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלאות שכר לעובדי הוראה בהסכם <concept eId="con_9" refersTo="#reform_ofek">אופק חדש</concept>
+                <p>טבלאות שכר לעובדי הוראה <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>
                 </p>
-                <p>טבלאות שכר לסגנים <concept eId="con_10" refersTo="#reform_ofek">באופק חדש</concept> החל מיום <date date="2023-09-01">1/9/2023</date>
+                <p>טבלאות שכר לסגנים <concept eId="con_8" refersTo="#reform_ofek">באופק חדש</concept> החל מיום <date date="2023-09-01">1/9/2023</date>
                 </p>
                 <p>סגנים מוסמכים</p>
                 <p>סגנים בכירים</p>
                 <p>סגנים מתמחים</p>
                 <p>סגנים בלתי מוסמכים</p>
-                <p>​טבלאות שכר <concept eId="con_11" refersTo="#reform_ofek">אופק חדש</concept> בהתאם <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם מיום 19/10/2022</ref>
+                <p>​טבלאות שכר <concept eId="con_9" refersTo="#reform_ofek">אופק חדש</concept> בהתאם <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם מיום 19/10/2022</ref>
                 </p>
               </content>
             </hcontainer>
@@ -804,13 +804,13 @@
           <mainBody>
             <hcontainer eId="att_19__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טבלאות שכר לסגנים <concept eId="con_12" refersTo="#reform_ofek">באופק חדש</concept> החל מיום <date date="2022-09-01">1/9/2022</date>
+                <p>טבלאות שכר לסגנים <concept eId="con_10" refersTo="#reform_ofek">באופק חדש</concept> החל מיום <date date="2022-09-01">1/9/2022</date>
                 </p>
                 <p>סגנים בלתי מוסמכים</p>
                 <p>סגנים מוסמכים</p>
                 <p>סגנים בכירים</p>
                 <p>סגנים מתמחים</p>
-                <p>טבלאות שכר <concept eId="con_13" refersTo="#reform_ofek">אופק חדש</concept> המעודכנות לתאריך <date date="2016-09-01">1/9/2016</date>
+                <p>טבלאות שכר <concept eId="con_11" refersTo="#reform_ofek">אופק חדש</concept> המעודכנות לתאריך <date date="2016-09-01">1/9/2016</date>
                 </p>
                 <p>טבלאות המרה לשכר מורים קיימים תואר ba</p>
                 <p>טבלאות השכר למורים בעלי תואר ma</p>

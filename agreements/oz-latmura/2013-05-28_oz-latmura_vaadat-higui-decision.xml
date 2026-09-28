@@ -208,7 +208,7 @@
     </meta>
     <preface>
       <longTitle>
-        <p>החלטת ועדת ההיגוי מיום <date date="2013-05-28">28.5.2013</date> לפי סעיף 59 להסכם <concept eId="con_1" refersTo="#reform_oz">עוז לתמורה</concept>
+        <p>החלטת ועדת ההיגוי מיום <date date="2013-05-28">28.5.2013</date> לפי סעיף <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_59">59</ref> <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">להסכם עוז לתמורה</ref>
         </p>
       </longTitle>
     </preface>
@@ -255,7 +255,7 @@
                     <subparagraph eId="art_3__para_a__mod_1__qstr_1__para_h1__subpara_1">
                       <num>(1)</num>
                       <content>
-                        <p>קיבל "כתב היתר" (לעניין השלמת רישיון הוראה קבוע) <organization eId="unt_1" refersTo="#unit_f2a5318d">מאגף כוח אדם בהוראה</organization> <organization eId="org_2" refersTo="#moe">במשרד החינוך</organization>.</p>
+                        <p>קיבל "כתב היתר" (לעניין השלמת רישיון הוראה קבוע) <organization eId="unt_1" refersTo="#unit_f2a5318d">מאגף כוח אדם בהוראה</organization> <organization eId="org_1" refersTo="#moe">במשרד החינוך</organization>.</p>
                       </content>
                     </subparagraph>
                     <subparagraph eId="art_3__para_a__mod_1__qstr_1__para_h1__subpara_2">
@@ -851,7 +851,7 @@
                   <paragraph eId="art_15__para_c__mod_1__qstr_1__para_d">
                     <num>(ד)</num>
                     <content>
-                      <p>סעיפים קטנים <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_16__para_a">(א)</ref> עד <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_16__para_c">(ג)</ref> לעיל יחולו על עובד הוראה בשנת התמחות, אולם לגבי עובד הוראה כאמור, יהיו ערכיהן של תוספת <concept eId="con_3" refersTo="#reform_oz">עוז לתמורה</concept>, תוספת 87' ותוספת 94' בשווי של <quantity eId="qty_38" refersTo="#percentage" normalized="90">90%</quantity> מערכיהן לפי הסעיפים-הקטנים האמורים.</p>
+                      <p>סעיפים קטנים <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_16__para_a">(א)</ref> עד <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main#art_16__para_c">(ג)</ref> לעיל יחולו על עובד הוראה בשנת התמחות, אולם לגבי עובד הוראה כאמור, יהיו ערכיהן של תוספת <concept eId="con_2" refersTo="#reform_oz">עוז לתמורה</concept>, תוספת 87' ותוספת 94' בשווי של <quantity eId="qty_38" refersTo="#percentage" normalized="90">90%</quantity> מערכיהן לפי הסעיפים-הקטנים האמורים.</p>
                     </content>
                   </paragraph>
                 </quotedStructure>
@@ -866,7 +866,7 @@
                   <paragraph eId="art_15__para_d__mod_1__qstr_1__para_b">
                     <num>(ב)</num>
                     <content>
-                      <p>הוראות סעיף-קטן (א) יחולו על עובד הוראה בשנת התמחות, אולם לגבי עובד הוראה כאמור, יהיו ערכיהן של תוספת <concept eId="con_4" refersTo="#reform_oz">עוז לתמורה</concept>, תוספת 87' ותוספת 94' בשווי של <quantity eId="qty_39" refersTo="#percentage" normalized="90">90%</quantity> מערכיהן לפי ההוראות האמורות.</p>
+                      <p>הוראות סעיף-קטן (א) יחולו על עובד הוראה בשנת התמחות, אולם לגבי עובד הוראה כאמור, יהיו ערכיהן של תוספת <concept eId="con_3" refersTo="#reform_oz">עוז לתמורה</concept>, תוספת 87' ותוספת 94' בשווי של <quantity eId="qty_39" refersTo="#percentage" normalized="90">90%</quantity> מערכיהן לפי ההוראות האמורות.</p>
                     </content>
                   </paragraph>
                 </quotedStructure>.</mod>
@@ -948,17 +948,17 @@
       <table>
         <tr>
           <td>
-            <p>בשם <organization eId="org_5" refersTo="#local-government">מרכז השלטון המקומי</organization>
+            <p>בשם <organization eId="org_4" refersTo="#local-government">מרכז השלטון המקומי</organization>
             </p>
           </td>
           <td>
-            <p>בשם <organization eId="org_6" refersTo="#irgun-hamorim">ארגון המורים</organization>
+            <p>בשם <organization eId="org_5" refersTo="#irgun-hamorim">ארגון המורים</organization>
             </p>
           </td>
         </tr>
         <tr>
           <td>
-            <p>בשם <organization eId="org_7" refersTo="#three-cities">שלוש הערים הגדולות</organization>
+            <p>בשם <organization eId="org_6" refersTo="#three-cities">שלוש הערים הגדולות</organization>
             </p>
           </td>
           <td>

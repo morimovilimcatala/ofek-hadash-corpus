@@ -142,22 +142,22 @@
           <p>הוראות חוזר זה יחולו על כל עובד המדורג <concept eId="dom_4" refersTo="#scale_ovdei_horaa">בדירוג עובדי הוראה</concept>, המועסק על-ידי הבעלויות על מוסדות החינוך המפוקחים על ידי <organization eId="org_6" refersTo="#moe">משרד החינוך</organization> (להלן": <def refersTo="#term_9c553b17">עובד הוראה</def>") ואשר מועסק בשלבי החינוך הבאים: <concept eId="dom_5" refersTo="#stage_gan">גני ילדים</concept>, <concept eId="dom_6" refersTo="#stage_yesodi">בתי ספר יסודיים</concept>, <concept eId="dom_7" refersTo="#stage_chativat_beinayim">חטיבת ביניים</concept> ומכללות להכשרת עובדי הוראה.</p>
           <p>למען הס ר ספק, ההוראות יחולו הן לגבי עובדי הוראה המועסקים לפי תנאי רפורמת <concept eId="con_7" refersTo="#reform_ofek">אופק חדש</concept> והן לגבי עובדי הוראה המועסקים שלא עפ"י תנאי הרפורמה.</p>
           <p>החל מיום  <date date="2026-01-01">1.1.2026</date> סכום <concept eId="cmp_5" refersTo="#comp_sheklit-2016">תוספת שקלית  2016</concept> <term eId="trm_1" refersTo="#term_9c553b17">לעובד הוראה</term> במשרה מלאה יהיה כדלקמן:</p>
-          <p><term eId="trm_2" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_1" refersTo="#grade" normalized="1">בדרגה  1</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי הסכם <concept eId="con_13" refersTo="#reform_ofek">אופק חדש</concept> <quantity eId="qty_2" refersTo="#ILS" normalized="1280.34">₪ 1,280.34</quantity>
+          <p><term eId="trm_2" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_1" refersTo="#grade" normalized="1">בדרגה  1</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> <quantity eId="qty_2" refersTo="#ILS" normalized="1280.34">₪ 1,280.34</quantity>
           </p>
-          <p><term eId="trm_3" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_3" refersTo="#grade" normalized="1.5">בדרגה  1.5</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי הסכם <concept eId="con_14" refersTo="#reform_ofek">אופק חדש</concept> <quantity eId="qty_4" refersTo="#ILS" normalized="1205.39">₪ 1,205.39</quantity>
+          <p><term eId="trm_3" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_3" refersTo="#grade" normalized="1.5">בדרגה  1.5</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> <quantity eId="qty_4" refersTo="#ILS" normalized="1205.39">₪ 1,205.39</quantity>
           </p>
-          <p><term eId="trm_4" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_5" refersTo="#grade" normalized="2">בדרגה  2</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי הסכם <concept eId="con_15" refersTo="#reform_ofek">אופק חדש</concept> .<quantity eId="qty_6" refersTo="#ILS" normalized="1130.45">₪ 1,130.45</quantity>.</p>
-          <p><term eId="trm_5" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_7" refersTo="#grade" normalized="2.5">בדרגה  2.5</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי הסכם <concept eId="con_16" refersTo="#reform_ofek">אופק חדש</concept> .<quantity eId="qty_8" refersTo="#ILS" normalized="1039.73">₪ 1,039.73</quantity>
+          <p><term eId="trm_4" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_5" refersTo="#grade" normalized="2">בדרגה  2</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> .<quantity eId="qty_6" refersTo="#ILS" normalized="1130.45">₪ 1,130.45</quantity>.</p>
+          <p><term eId="trm_5" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_7" refersTo="#grade" normalized="2.5">בדרגה  2.5</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> .<quantity eId="qty_8" refersTo="#ILS" normalized="1039.73">₪ 1,039.73</quantity>
           </p>
-          <p><term eId="trm_6" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_9" refersTo="#grade" normalized="3">בדרגה  3</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי הסכם <concept eId="con_17" refersTo="#reform_ofek">אופק חדש</concept> .<quantity eId="qty_10" refersTo="#ILS" normalized="949.03">₪ 949.03</quantity>
+          <p><term eId="trm_6" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_9" refersTo="#grade" normalized="3">בדרגה  3</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> .<quantity eId="qty_10" refersTo="#ILS" normalized="949.03">₪ 949.03</quantity>
           </p>
-          <p><term eId="trm_7" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_11" refersTo="#grade" normalized="3.5">בדרגה  3.5</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי הסכם <concept eId="con_18" refersTo="#reform_ofek">אופק חדש</concept> .<quantity eId="qty_12" refersTo="#ILS" normalized="900.47">₪ 900.47</quantity>
+          <p><term eId="trm_7" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_11" refersTo="#grade" normalized="3.5">בדרגה  3.5</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> .<quantity eId="qty_12" refersTo="#ILS" normalized="900.47">₪ 900.47</quantity>
           </p>
-          <p><term eId="trm_8" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_13" refersTo="#grade" normalized="4">בדרגה  4</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי הסכם <concept eId="con_19" refersTo="#reform_ofek">אופק חדש</concept> .<quantity eId="qty_14" refersTo="#ILS" normalized="851.91">₪ 851.91</quantity>
+          <p><term eId="trm_8" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_13" refersTo="#grade" normalized="4">בדרגה  4</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים לפי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> .<quantity eId="qty_14" refersTo="#ILS" normalized="851.91">₪ 851.91</quantity>
           </p>
-          <p><term eId="trm_9" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_15" refersTo="#grade" normalized="4.5">בדרגה  4.5</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים פי הסכם <concept eId="con_20" refersTo="#reform_ofek">אופק חדש</concept> .<quantity eId="qty_16" refersTo="#ILS" normalized="749.54">₪ 749.54</quantity>
+          <p><term eId="trm_9" refersTo="#term_9c553b17">לעובד הוראה</term> המשובץ <quantity eId="qty_15" refersTo="#grade" normalized="4.5">בדרגה  4.5</quantity> בטבלאות השכר למורים אקדמאיים ולא אקדמאיים פי <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">הסכם אופק חדש</ref> .<quantity eId="qty_16" refersTo="#ILS" normalized="749.54">₪ 749.54</quantity>
           </p>
-          <p>לכל יתר עובדי ההוראה עליהם חל חוזר זה ושאינם מצוינים לעיל, המועסקים על פי תנאי <concept eId="con_21" refersTo="#reform_ofek">אופק חדש</concept> ושאינם מועסקים על פי תנאי <concept eId="con_22" refersTo="#reform_ofek">אופק חדש</concept> –.<quantity eId="qty_17" refersTo="#ILS" normalized="647.49">₪ 647.49</quantity>.₪</p>
+          <p>לכל יתר עובדי ההוראה עליהם חל חוזר זה ושאינם מצוינים לעיל, המועסקים על פי תנאי <concept eId="con_13" refersTo="#reform_ofek">אופק חדש</concept> ושאינם מועסקים על פי תנאי <concept eId="con_14" refersTo="#reform_ofek">אופק חדש</concept> –.<quantity eId="qty_17" refersTo="#ILS" normalized="647.49">₪ 647.49</quantity>.₪</p>
           <p>יתר הכללים וההנחיות לתשלום תוספת זו הינם כפי שפורסם בחוזרנו לבעלויות <ref href="/akn/il/doc/circular/2017-04-05/2016-17-tashaz-03">תשע"ז:3/</ref>
           </p>
           <p><a href="http://meyda.education.gov.il/files/Sherut/tosefetshiklit.pdf">http://meyda.education.gov.il/files/Sherut/tosefetshiklit.pdf</a>
@@ -172,23 +172,23 @@
       <p><person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person>                                                    <person eId="pers_2" refersTo="#p_88bb0a53">תמר כהן</person>
       </p>
       <p>סמנכ"לית ומנהלת                                              מנהלת תחום בכיר</p>
-      <p><organization eId="org_28" refersTo="#unit_f2a5318d">אגף בכיר כח-אדם בהוראה</organization>                                       משכורות לעובדי הוראה</p>
+      <p><organization eId="org_20" refersTo="#unit_f2a5318d">אגף בכיר כח-אדם בהוראה</organization>                                       משכורות לעובדי הוראה</p>
       <p>העתקים:</p>
-      <p>מר <person eId="pers_3" refersTo="#p_4a7c0e08" as="#role-mankal">מאיר שמעוני</person>, <role eId="rol_29" refersTo="#role-mankal">המנהל הכללי</role>, <organization eId="org_30" refersTo="#moe">משרד החינוך</organization>
+      <p>מר <person eId="pers_3" refersTo="#p_4a7c0e08" as="#role-mankal">מאיר שמעוני</person>, <role eId="rol_21" refersTo="#role-mankal">המנהל הכללי</role>, <organization eId="org_22" refersTo="#moe">משרד החינוך</organization>
       </p>
-      <p>מר <person eId="pers_4" refersTo="#p_2e900d7f" as="#role-memuneh-sachar">אפי מלכין</person>, <role eId="rol_31" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_32" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_4" refersTo="#p_2e900d7f" as="#role-memuneh-sachar">אפי מלכין</person>, <role eId="rol_23" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_24" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_5" refersTo="#p_172aa0ad" as="#role-segan-bakhir">אוהד אלקבץ</person>, <role eId="hed_1" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_33" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_34" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_5" refersTo="#p_172aa0ad" as="#role-segan-bakhir">אוהד אלקבץ</person>, <role eId="hed_1" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_25" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_26" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_6" refersTo="#p_9dca1676">רונן לוי</person>, <role eId="rol_35" refersTo="#role-chashav">חשב המשרד</role>
+      <p>מר <person eId="pers_6" refersTo="#p_9dca1676">רונן לוי</person>, <role eId="rol_27" refersTo="#role-chashav">חשב המשרד</role>
       </p>
       <p>מר <person eId="pers_7" refersTo="#p_2fca5b77" as="#role-samankal-bakhir">דודי מזרחי</person>, <role eId="hed_2" refersTo="#role-samankal-bakhir">סמנכ"ל בכיר</role> <role eId="hed_3" refersTo="#role-menahel">ומנהל</role> <organization eId="unt_1" refersTo="#unit_00ae5b17">מינהל כלכלה ותקציבים</organization>
       </p>
-      <p>עו"ד <person eId="pers_8" refersTo="#p_3f99a273">שרית חאיק שפיגלשטיין</person>, <role eId="rol_36" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      <p>עו"ד <person eId="pers_8" refersTo="#p_3f99a273">שרית חאיק שפיגלשטיין</person>, <role eId="rol_28" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
       </p>
-      <p>גב' <person eId="pers_9" refersTo="#p_3ba19377" as="#role-mazkir-klali">יפה בן דויד</person>, <role eId="rol_37" refersTo="#role-mazkir-klali">מזכ"לית</role> <organization eId="org_38" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      <p>גב' <person eId="pers_9" refersTo="#p_3ba19377" as="#role-mazkir-klali">יפה בן דויד</person>, <role eId="rol_29" refersTo="#role-mazkir-klali">מזכ"לית</role> <organization eId="org_30" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
       </p>
-      <p><role eId="rol_45" refersTo="#office_4ed2f902">מנהלי מחוזות</role>
+      <p><role eId="rol_37" refersTo="#office_4ed2f902">מנהלי מחוזות</role>
       </p>
       <p>גב' <person eId="pers_10" refersTo="#p_794520a0" as="#role-samankal-bakhir">אינה זלצמן</person>, <role eId="hed_4" refersTo="#role-samankal-bakhir">סמנכ"לית בכירה</role> <role eId="hed_5" refersTo="#role-menahel">ומנהלת</role> <organization eId="unt_2" refersTo="#unit_12732fdd">המינהל הפדגוגי</organization>
       </p>
@@ -200,21 +200,21 @@
       </p>
       <p>עו"ד <person eId="pers_14" refersTo="#p_1de853f6">ענבל וילנר</person>, ממונה בכירה הסכמי שכר, <organization eId="unt_8" refersTo="#unit_78decc8c">לשכה משפטית</organization>
       </p>
-      <p>מר <person eId="pers_15" refersTo="#p_a63e4cdb">עמית ענבר בן זאב</person> רכז חינוך שכר והסכמי עבודה, <organization eId="org_39" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_15" refersTo="#p_a63e4cdb">עמית ענבר בן זאב</person> רכז חינוך שכר והסכמי עבודה, <organization eId="org_31" refersTo="#mof">משרד האוצר</organization>
       </p>
       <p>גב' <person eId="pers_16" refersTo="#p_f71cee61" as="#role-menahel">רחל טייטלבום</person>, <role eId="hed_9" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_9" refersTo="#unit_2d161a3e">תחום תנאי שירות עובדי הוראה</organization>
       </p>
-      <p>גב' <person eId="pers_17" refersTo="#p_bca8a4ab" as="#role-rosh">חגית מגן</person>, <role eId="hed_10" refersTo="#role-rosh">ראש</role> <organization eId="unt_10" refersTo="#unit_98139015">מנהל שכר והסכמי עבודה</organization>, <organization eId="org_40" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>גב' <person eId="pers_17" refersTo="#p_bca8a4ab" as="#role-rosh">חגית מגן</person>, <role eId="hed_10" refersTo="#role-rosh">ראש</role> <organization eId="unt_10" refersTo="#unit_98139015">מנהל שכר והסכמי עבודה</organization>, <organization eId="org_32" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>גב' <person eId="pers_18" refersTo="#p_0da2f0d4" as="#role-yor">שלי קרן</person>, <role eId="rol_41" refersTo="#role-yor">יו"ר</role> <organization eId="unt_11" refersTo="#unit_ccbc3766">איגוד מנהלי אגפי החינוך ברשויות המקומיות</organization>
+      <p>גב' <person eId="pers_18" refersTo="#p_0da2f0d4" as="#role-yor">שלי קרן</person>, <role eId="rol_33" refersTo="#role-yor">יו"ר</role> <organization eId="unt_11" refersTo="#unit_ccbc3766">איגוד מנהלי אגפי החינוך ברשויות המקומיות</organization>
       </p>
-      <p>עו"ד <person eId="pers_19" refersTo="#p_bfdd3a7b" as="#office_293a6da2">עידית ורונין</person>, <role eId="rol_48" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_42" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>עו"ד <person eId="pers_19" refersTo="#p_bfdd3a7b" as="#office_293a6da2">עידית ורונין</person>, <role eId="rol_40" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_34" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>מר <person eId="pers_20" refersTo="#p_6f9e1f28" as="#role-yor">שי חג'ג'</person>, <role eId="rol_43" refersTo="#role-yor">יו"ר</role> <organization eId="org_44" refersTo="#regional-councils-centre">מרכז המועצות האיזוריות</organization>
+      <p>מר <person eId="pers_20" refersTo="#p_6f9e1f28" as="#role-yor">שי חג'ג'</person>, <role eId="rol_35" refersTo="#role-yor">יו"ר</role> <organization eId="org_36" refersTo="#regional-councils-centre">מרכז המועצות האיזוריות</organization>
       </p>
-      <p><role eId="rol_46" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      <p><role eId="rol_38" refersTo="#office_987a4a52">חשבי המחוזות</role>
       </p>
-      <p><role eId="rol_47" refersTo="#office_021a1da6">מנהלי תחומי כח אדם במחוזות</role>
+      <p><role eId="rol_39" refersTo="#office_021a1da6">מנהלי תחומי כח אדם במחוזות</role>
       </p>
       <p>הנהלת <organization eId="unt_12" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>
       </p>

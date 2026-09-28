@@ -113,7 +113,7 @@
     </meta>
     <preface>
       <longTitle>
-        <p>חוזר לבעלויות <docNumber>תשפ"ד/1</docNumber> - העסקת עו"ה, עובדי בעלות, בבתי ספר יסודים מוכרים שאינם רשמיים שהם בבעלות רשת מעיין החינוך התורני ורשת החינוך העצמאי, בהתאם לרפורמת <concept eId="con_164" refersTo="#reform_ofek">אופק חדש</concept> בשנה"ל תשפ"ד</p>
+        <p>חוזר לבעלויות <docNumber>תשפ"ד/1</docNumber> - העסקת עו"ה, עובדי בעלות, בבתי ספר יסודים מוכרים שאינם רשמיים שהם בבעלות רשת מעיין החינוך התורני ורשת החינוך העצמאי, בהתאם לרפורמת <concept eId="con_158" refersTo="#reform_ofek">אופק חדש</concept> בשנה"ל תשפ"ד</p>
       </longTitle>
     </preface>
     <preamble>
@@ -206,45 +206,45 @@
       <article eId="art_4" repo:prose="same-source">
         <num>4</num>
         <intro>
-          <p>העסקת עובדי ההוראה בבתי הספר המוכרים שאינם רשמיים, העומדים בתנאי ההצטרפות לרפורמת <concept eId="con_18" refersTo="#reform_ofek">אופק חדש</concept>. העסקתם תהיה עפ"י תנאי השכר ועפ"י מבנה שבוע העבודה המוגדר בהסכם רפורמת <concept eId="con_19" refersTo="#reform_ofek">אופק חדש</concept> בהתאם לעדכונים שנחתמו בהסכם אוקטובר  2022 לרבות עדכונים קודמים (כפי שיפורט בסעיף <ref href="#art_4">4</ref> להלן).</p>
+          <p>העסקת עובדי ההוראה בבתי הספר המוכרים שאינם רשמיים, העומדים בתנאי ההצטרפות לרפורמת <concept eId="con_18" refersTo="#reform_ofek">אופק חדש</concept>. העסקתם תהיה עפ"י תנאי השכר ועפ"י מבנה שבוע העבודה המוגדר <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם רפורמת אופק חדש</ref> בהתאם לעדכונים שנחתמו בהסכם אוקטובר  2022 לרבות עדכונים קודמים (כפי שיפורט בסעיף <ref href="#art_4">4</ref> להלן).</p>
           <p>פעולת המתבצעות ע"י מנהל בית הספר</p>
         </intro>
         <paragraph eId="art_4__para_1">
           <num>1.</num>
           <content>
-            <p>הנחיית המורים בפתיחת תיק מקוון, המלמדים בבית הספר, ואשר אין להם תיק באגף כח אדם בהוראה <organization eId="org_20" refersTo="#moe">במשרד החינוך</organization> וביצוע הפעולות הנדרשות מהמנהל בתהליך פתיחת התיק המקוון.</p>
+            <p>הנחיית המורים בפתיחת תיק מקוון, המלמדים בבית הספר, ואשר אין להם תיק באגף כח אדם בהוראה <organization eId="org_19" refersTo="#moe">במשרד החינוך</organization> וביצוע הפעולות הנדרשות מהמנהל בתהליך פתיחת התיק המקוון.</p>
           </content>
         </paragraph>
         <paragraph eId="art_4__para_2">
           <num>2.</num>
           <content>
-            <p>קביעת מערכת שעות לעובדי ההוראה המלמדים עפ"י תנאי רפורמת אופק, בהתאם למבנה שבוע העבודה של <concept eId="con_21" refersTo="#reform_ofek">אופק חדש</concept>, כמפורט בסעיף  <ref href="#art_4">4</ref> להלן.</p>
+            <p>קביעת מערכת שעות לעובדי ההוראה המלמדים עפ"י תנאי רפורמת אופק, בהתאם למבנה שבוע העבודה של <concept eId="con_20" refersTo="#reform_ofek">אופק חדש</concept>, כמפורט בסעיף  <ref href="#art_4">4</ref> להלן.</p>
           </content>
         </paragraph>
         <paragraph eId="art_4__para_3">
           <num>3.</num>
           <intro>
-            <p>שיבוץ כלל עו"ה המלמדים בבית הספר ומועסקים ע"י <term eId="trm_6" refersTo="#term_43cffbce">הבעלות</term>, הן עובדי ההוראה העומדים בתנאים להצטרפות <concept eId="con_22" refersTo="#reform_ofek">לאופק חדש</concept> (אשר יועסקו בתנאי הרפורמה) והן המורים אשר אינם עומדים בתנאי ההצטרפות (אשר ימשיכו להיות מועסקים בתנאי טרום רפורמה), במערכת שיבוץ (משכית).</p>
+            <p>שיבוץ כלל עו"ה המלמדים בבית הספר ומועסקים ע"י <term eId="trm_6" refersTo="#term_43cffbce">הבעלות</term>, הן עובדי ההוראה העומדים בתנאים להצטרפות <concept eId="con_21" refersTo="#reform_ofek">לאופק חדש</concept> (אשר יועסקו בתנאי הרפורמה) והן המורים אשר אינם עומדים בתנאי ההצטרפות (אשר ימשיכו להיות מועסקים בתנאי טרום רפורמה), במערכת שיבוץ (משכית).</p>
             <p>.2.2 שלב שני</p>
             <p><term eId="trm_7" refersTo="#term_43cffbce">הבעלות</term> תבצע את הפעולות הבאות לצורך קביעת דרגת שכר ראשונית לעו"ה :</p>
           </intro>
           <subparagraph eId="art_4__para_3__subpara_1">
             <num>1.</num>
             <content>
-              <p>לאחר השלמת עדכון הנתונים לגבי כל עובדי ההוראה בבית הספר, <term eId="trm_8" refersTo="#term_43cffbce">הבעלות</term> תעביר לחברת יוניק (הזכי ין שנבחר ע"י <organization eId="org_23" refersTo="#moe">משרד החינוך</organization>) ממשק של השכר ששולם על ידה לעובדי ההוראה בבית הספר בחודש שעבורו תתבקש, בהתאם למבנה הממשק ולכללים שהוגדרו ע"י <organization eId="org_24" refersTo="#moe">משרד החינוך</organization>. בהתאם לכך יקבע <organization eId="org_25" refersTo="#moe">משרד החינוך</organization> את דרגת <concept eId="con_26" refersTo="#reform_ofek">אופק חדש</concept> לעובדי ההוראה הקיימים ויבצע את ההמרה לטבלאות השכר החדשות. הנחיות המפרטות כיצד יש לקיים קשר עם זכיין המשרד, אילו נתוני שכר יש להעביר אליו ובאיזה אופן לבנות את הממשק, לשם קביעת דרגתם של עו"ה <concept eId="con_27" refersTo="#reform_ofek">באופק חדש</concept> בכפוף להוראות ההסכמים בנושא מצורפות בקישור להלן.</p>
+              <p>לאחר השלמת עדכון הנתונים לגבי כל עובדי ההוראה בבית הספר, <term eId="trm_8" refersTo="#term_43cffbce">הבעלות</term> תעביר לחברת יוניק (הזכי ין שנבחר ע"י <organization eId="org_22" refersTo="#moe">משרד החינוך</organization>) ממשק של השכר ששולם על ידה לעובדי ההוראה בבית הספר בחודש שעבורו תתבקש, בהתאם למבנה הממשק ולכללים שהוגדרו ע"י <organization eId="org_23" refersTo="#moe">משרד החינוך</organization>. בהתאם לכך יקבע <organization eId="org_24" refersTo="#moe">משרד החינוך</organization> את דרגת <concept eId="con_25" refersTo="#reform_ofek">אופק חדש</concept> לעובדי ההוראה הקיימים ויבצע את ההמרה לטבלאות השכר החדשות. הנחיות המפרטות כיצד יש לקיים קשר עם זכיין המשרד, אילו נתוני שכר יש להעביר אליו ובאיזה אופן לבנות את הממשק, לשם קביעת דרגתם של עו"ה <concept eId="con_26" refersTo="#reform_ofek">באופק חדש</concept> בכפוף להוראות ההסכמים בנושא מצורפות בקישור להלן.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_4__para_3__subpara_2">
             <num>2.</num>
             <content>
-              <p>עם קביעת הדרגה על ידי <organization eId="org_28" refersTo="#moe">משרד החינוך</organization> ועדכון <term eId="trm_9" refersTo="#term_43cffbce">הבעלות</term> באמצעות הזכיין (חברת יוניק), <term eId="trm_10" refersTo="#term_43cffbce">הבעלות</term> תשלם שכר לעובדי ההוראה אשר צורפו לרפורמת <concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept>, בהתאם לדרגה שנקבעה להם ולכללי הסכם "<concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept>", בגין התקופה שתחילתה במועד ההצטרפות של עובד ההוראה לרפורמה ובמקביל תנכה את מקדמות השכר ששולמו לעובדי ההוראה כאמור בסעיף  <ref href="#art_15">15</ref> להלן.</p>
-              <p><organization eId="org_31" refersTo="#moe">משרד החינוך</organization> יבצע את הפעולות הבאות:</p>
+              <p>עם קביעת הדרגה על ידי <organization eId="org_27" refersTo="#moe">משרד החינוך</organization> ועדכון <term eId="trm_9" refersTo="#term_43cffbce">הבעלות</term> באמצעות הזכיין (חברת יוניק), <term eId="trm_10" refersTo="#term_43cffbce">הבעלות</term> תשלם שכר לעובדי ההוראה אשר צורפו לרפורמת <concept eId="con_28" refersTo="#reform_ofek">אופק חדש</concept>, בהתאם לדרגה שנקבעה להם ולכללי הסכם "<concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept>", בגין התקופה שתחילתה במועד ההצטרפות של עובד ההוראה לרפורמה ובמקביל תנכה את מקדמות השכר ששולמו לעובדי ההוראה כאמור בסעיף  <ref href="#art_15">15</ref> להלן.</p>
+              <p><organization eId="org_30" refersTo="#moe">משרד החינוך</organization> יבצע את הפעולות הבאות:</p>
               <p>יעדכן את נתוני עובדי ההוראה בהתאם לנתוניהם העדכניים. רק לאחר עדכון הנתונים ניתן יהיה                               .1</p>
               <p>להתקדם לשלב הבא.</p>
-              <p>יצרף את מוסדות החינוך המבקשים להצטרף <concept eId="con_32" refersTo="#reform_ofek">לאופק חדש</concept> במערכות הממוחשבות של המשרד.                                .2</p>
-              <p>יבדוק את עמידתו של כל אחד מעו"ה עובדי <term eId="trm_11" refersTo="#term_43cffbce">הבעלות</term> בתנאי ההצטרפות לרפורמת <concept eId="con_33" refersTo="#reform_ofek">אופק חדש</concept> ויקבע את                              .3</p>
-              <p>הצטרפותו  /אי הצטרפותו של עו"ה לרפורמת <concept eId="con_34" refersTo="#reform_ofek">אופק חדש</concept>. פעולה זו תבוצע לאחר דיווח המשרה העדכני של המורה במערכת שיבוץ לשנת הלימודים תשפ"ד.</p>
-              <p>יקבע דרגה <concept eId="con_35" refersTo="#reform_ofek">באופק חדש</concept> לכל עובדי ההוראה אשר צורפו <concept eId="con_36" refersTo="#reform_ofek">לאופק חדש</concept>.                     .4</p>
+              <p>יצרף את מוסדות החינוך המבקשים להצטרף <concept eId="con_31" refersTo="#reform_ofek">לאופק חדש</concept> במערכות הממוחשבות של המשרד.                                .2</p>
+              <p>יבדוק את עמידתו של כל אחד מעו"ה עובדי <term eId="trm_11" refersTo="#term_43cffbce">הבעלות</term> בתנאי ההצטרפות לרפורמת <concept eId="con_32" refersTo="#reform_ofek">אופק חדש</concept> ויקבע את                              .3</p>
+              <p>הצטרפותו  /אי הצטרפותו של עו"ה לרפורמת <concept eId="con_33" refersTo="#reform_ofek">אופק חדש</concept>. פעולה זו תבוצע לאחר דיווח המשרה העדכני של המורה במערכת שיבוץ לשנת הלימודים תשפ"ד.</p>
+              <p>יקבע דרגה <concept eId="con_34" refersTo="#reform_ofek">באופק חדש</concept> לכל עובדי ההוראה אשר צורפו <concept eId="con_35" refersTo="#reform_ofek">לאופק חדש</concept>.                     .4</p>
             </content>
           </subparagraph>
         </paragraph>
@@ -261,31 +261,31 @@
             <p>.3.1 הגדרות</p>
             <p>.3.1.1 עו"ה חדש: עו"ה שלא הוכרו לו בעבר שנות ותק בהוראה בפועל ממעסיק שאינו בשירות המדינה או שנות ותק בהוראה בשירות המדינה (למעט שנת התמחות (סטאז'), שירות בצה"ל בהוראה או שירות לאומי בהוראה).</p>
             <p>.3.1.2 עו"ה קיים: עובד הוראה הזכאי להכרה, לצורך ותק לשכר, בגין שנות העסקה בהוראה בפועל.</p>
-            <p>.3.2 תנאי ההצטרפות של עו"ה קיימים לרפורמת <concept eId="con_37" refersTo="#reform_ofek">אופק חדש</concept>
+            <p>.3.2 תנאי ההצטרפות של עו"ה קיימים לרפורמת <concept eId="con_36" refersTo="#reform_ofek">אופק חדש</concept>
             </p>
             <p>.3.2.1 עו"ה קיימים אקדמאים</p>
             <p>עו"ה בעל תואר אקדמי (או עו"ה בעל דרגת שכר שוות ערך לדרגת שכר אקדמית,</p>
-            <p>שאושרה על-ידי <organization eId="unt_1" refersTo="#unit_f2a5318d">אגף כוח אדם בהוראה</organization> <organization eId="org_38" refersTo="#moe">במשרד החינוך</organization>) המועסק במוסד שצורף</p>
-            <p><concept eId="con_39" refersTo="#reform_ofek">לאופק חדש</concept>, יצורף לרפורמה בהתקיים התנאים הבאים:</p>
+            <p>שאושרה על-ידי <organization eId="unt_1" refersTo="#unit_f2a5318d">אגף כוח אדם בהוראה</organization> <organization eId="org_37" refersTo="#moe">במשרד החינוך</organization>) המועסק במוסד שצורף</p>
+            <p><concept eId="con_38" refersTo="#reform_ofek">לאופק חדש</concept>, יצורף לרפורמה בהתקיים התנאים הבאים:</p>
             <p>לעובד ההוראה קיימת הסמכה להוראה (בעל תעודה הוראה)                    -</p>
             <p>עובד ההוראה מועסק בהיקף של שליש משרה ומעלה.                   -</p>
             <p>עו"ה שהינו חסר הסמכה להוראה (תעודת הוראה) המבקש להצטרף לרפורמה כחריג -יגיש בקשה לוועדת החריגים של <organization eId="unt_2" refersTo="#unit_f2a5318d">אגף בכיר לכוח אדם בהוראה</organization> בטופס  -<ref href="#att_2">נספח ב'</ref>.</p>
             <p>הטופס יוגש על ידי מנהל בית הספר באמצעות כתובת המייל <a href="mailto:ofekhadash@education.gov.il">ofekhadash@education.gov.il</a> :</p>
             <p>מורה שאינו בעל תעודת הוראה או הסמכה להוראה ואשר הינו בעל ותק בהוראה הנמוך מ25 -</p>
-            <p>שנים, לא יוכל להתקדם בדרגות עד אשר יהיה זכאי לתעודת הוראה או להסמכה להוראה (ע"פ ההוראות של <organization eId="org_40" refersTo="#moe">משרד החינוך</organization> לעניין זה). תקופת עבודתו וחלק מלימודיו יוכרו לצורך הקידום בדרגות כמפורט בסעיף .12.2.2</p>
+            <p>שנים, לא יוכל להתקדם בדרגות עד אשר יהיה זכאי לתעודת הוראה או להסמכה להוראה (ע"פ ההוראות של <organization eId="org_39" refersTo="#moe">משרד החינוך</organization> לעניין זה). תקופת עבודתו וחלק מלימודיו יוכרו לצורך הקידום בדרגות כמפורט בסעיף .12.2.2</p>
             <p>.3.3 עו"ה קיימים שאינם אקדמאים</p>
             <p>.3.3.1 עו"ה בעל ותק של  <quantity eId="qty_2" refersTo="#year" normalized="28">28 שנים</quantity> ומעלה שאינו אקדמאי יועסק בכל מקרה עפ"י תנאי הרפורמה.</p>
             <p>.3.3.2 עו''ה שאינו אקדמאי בעל ותק הנמוך מ <quantity eId="qty_3" refersTo="#year" normalized="28">28 -שנה</quantity> לא יועסק על פי תנאי הרפורמה.</p>
-            <p>.3.4 צירוף עו"ה חדשים <concept eId="con_41" refersTo="#reform_ofek">לאופק חדש</concept>
+            <p>.3.4 צירוף עו"ה חדשים <concept eId="con_40" refersTo="#reform_ofek">לאופק חדש</concept>
             </p>
-            <p>עו"ה חדש בעל תואר אקדמי (או עו"ה בעל דרגת שכר שוות ערך לדרגת שכר אקדמית, שאושרה על-ידי <organization eId="unt_3" refersTo="#unit_f2a5318d">אגף כוח אדם בהוראה</organization> <organization eId="org_42" refersTo="#moe">במשרד החינוך</organization>) המועסק במוסד שצורף <concept eId="con_43" refersTo="#reform_ofek">לאופק חדש</concept> ישובץ בטבלאות השכר <quantity eId="qty_4" refersTo="#grade" normalized="1">בדרגה  1</quantity> ובותק .1</p>
+            <p>עו"ה חדש בעל תואר אקדמי (או עו"ה בעל דרגת שכר שוות ערך לדרגת שכר אקדמית, שאושרה על-ידי <organization eId="unt_3" refersTo="#unit_f2a5318d">אגף כוח אדם בהוראה</organization> <organization eId="org_41" refersTo="#moe">במשרד החינוך</organization>) המועסק במוסד שצורף <concept eId="con_42" refersTo="#reform_ofek">לאופק חדש</concept> ישובץ בטבלאות השכר <quantity eId="qty_4" refersTo="#grade" normalized="1">בדרגה  1</quantity> ובותק .1</p>
             <p>עו"ה בעל תואר ראשון (או דרגת שכר שוות ערך) ישובץ בטבלת השכר לבעלי תואר ראשון.</p>
             <p>עו"ה בעל תואר שני (או דרגת שכר שוות ערך) ישובץ בטבלת השכר לבעלי תואר שני.</p>
             <p>עו"ה בעל תואר שלישי (ד"ר) (או דרגת שכר שוות ערך): ישובץ בטבלת השכר לבעלי תואר שני.</p>
             <p>יהיה זכאי בנוסף לתוספת שכר בשיעור של  <quantity eId="qty_5" refersTo="#percentage" normalized="5">5%</quantity>משכרו המשולב בטבלה.</p>
-            <p>עובדי הוראה חדשים אשר אינם אקדמאיים ואינם זכאים לשכר מתמחה בהוראה על פי הוראות 145-148 להסכם <concept eId="con_44" refersTo="#reform_ofek">אופק חדש</concept>, ישובצו בטבלאות השכר בהתאם להשכלתם (בכיר, מוסמך או בלתי מוסמך).</p>
+            <p>עובדי הוראה חדשים אשר אינם אקדמאיים ואינם זכאים לשכר מתמחה בהוראה על פי הוראות 145-148 <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, ישובצו בטבלאות השכר בהתאם להשכלתם (בכיר, מוסמך או בלתי מוסמך).</p>
             <p>.3.4 מורים מתמחים (סטאז'רים)</p>
-            <p>.3.4.1 בבית ספר שצורף לרפורמת <concept eId="con_45" refersTo="#reform_ofek">אופק חדש</concept>, מתמחים בהוראה יועסקו אך ורק בתנאי הרפורמה. שנת ההתמחות תוכר ככזו רק במידה והמתמחה מועסק בלא פחות מ <quantity eId="qty_6" refersTo="#position" normalized="1/3">1/3 -משרה</quantity>.</p>
+            <p>.3.4.1 בבית ספר שצורף לרפורמת <concept eId="con_43" refersTo="#reform_ofek">אופק חדש</concept>, מתמחים בהוראה יועסקו אך ורק בתנאי הרפורמה. שנת ההתמחות תוכר ככזו רק במידה והמתמחה מועסק בלא פחות מ <quantity eId="qty_6" refersTo="#position" normalized="1/3">1/3 -משרה</quantity>.</p>
             <p>.3.4.2 תקופת ההתמחות לא תעלה על שנתיים, אשר במהלכן יחויב המתמחה להשלים זכאות לתואר אקדמי ולתעודת הוראה. במידה ולא יעשה כן לא יוכל להמשיך להיות מועסק בביה"ס עפ"י תנאי הרפורמה.</p>
             <p>.3.4.3 תקופת ההתמחות לא תובא בחשבון לעניין חישוב ותק לשכר ולעניין פרק הזמן המינימאלי לקידום בדרגה. תקופת ההתמחות תובא בחשבון לעניין ותק לצורך קביעת מעמד (היינו קביעות), ותק למענק יובל וותק להבראה.</p>
             <p>.3.4.4 פרטים על הערכת מתמחים בקישור</p>
@@ -301,7 +301,7 @@
         </paragraph>
         <paragraph eId="art_5__para_4">
           <num>4.</num>
-          <heading>מבנה שבוע העבודה למורים <concept eId="con_46" refersTo="#reform_ofek">באופק חדש</concept>
+          <heading>מבנה שבוע העבודה למורים <concept eId="con_44" refersTo="#reform_ofek">באופק חדש</concept>
           </heading>
           <intro>
             <p>4.1 מורה <concept eId="dom_4" refersTo="#stage_yesodi">בבית ספר יסודי</concept> הכולל כיתות א'-ו', א'-ח' או א'-ט'</p>
@@ -309,7 +309,7 @@
             <p>4.2 שבוע העבודה של עו"ה בבית יסודי</p>
             <p>4.2.1 שבוע העבודה בבית הספר יהיה בהיקף של  <quantity eId="qty_8" refersTo="#hour" normalized="36">36 שעות</quantity>, בחלוקה כמפורט להלן.</p>
             <p>4.2.2 מספר שעות העבודה הפרונטליות בפני כיתה (מתוך השעות המפורטות בסעיף  ) 4.3.1 יהיה <quantity eId="qty_9" refersTo="#hour" normalized="26">26 שעות</quantity> שבועיות.</p>
-            <p>4.2.3 מספר שעות העבודה הפרטניות בהן יעבוד המורה עם קבוצת תלמידים (עד  <quantity eId="qty_10" refersTo="#student" normalized="5">5 תלמידים</quantity>) או באופן פרטני עם תלמיד (מתוך השעות המפורטות בסעיף  )4.3.1 יהיה  <quantity eId="qty_11" refersTo="#hour" normalized="5">5 שעות</quantity> שבועיות. תוכן השעות הפרטניות יקבע על ידי מנהל בית-הספר על פי הנחייה כללית מטעם <organization eId="org_47" refersTo="#moe">משרד החינוך</organization>.</p>
+            <p>4.2.3 מספר שעות העבודה הפרטניות בהן יעבוד המורה עם קבוצת תלמידים (עד  <quantity eId="qty_10" refersTo="#student" normalized="5">5 תלמידים</quantity>) או באופן פרטני עם תלמיד (מתוך השעות המפורטות בסעיף  )4.3.1 יהיה  <quantity eId="qty_11" refersTo="#hour" normalized="5">5 שעות</quantity> שבועיות. תוכן השעות הפרטניות יקבע על ידי מנהל בית-הספר על פי הנחייה כללית מטעם <organization eId="org_45" refersTo="#moe">משרד החינוך</organization>.</p>
             <p>4.2.4 מספר שעות השהיה (יתרת השעות) יהיה  <quantity eId="qty_12" refersTo="#hour" normalized="5">5 שעות</quantity> שבועיות ובהן ישהה המורה בבית הספר ויעסוק בפעילויות הבאות:</p>
           </intro>
           <subparagraph eId="art_5__para_4__subpara_1">
@@ -362,7 +362,7 @@
       </article>
       <article eId="art_6" repo:prose="same-source">
         <num>6</num>
-        <heading>העסקה מעל  <quantity eId="qty_18" refersTo="#percentage" normalized="100">100%</quantity>משרה <concept eId="con_48" refersTo="#reform_ofek">באופק חדש</concept>:</heading>
+        <heading>העסקה מעל  <quantity eId="qty_18" refersTo="#percentage" normalized="100">100%</quantity>משרה <concept eId="con_46" refersTo="#reform_ofek">באופק חדש</concept>:</heading>
         <paragraph eId="art_6__para_6-1">
           <num>6.1</num>
           <content>
@@ -478,7 +478,7 @@
         <paragraph eId="art_9__para_9-3">
           <num>9.3</num>
           <content>
-            <p>רמת המורכבות של בית הספר, קובעת את הן את היקף שעות ההוראה של המנהל ושל סגן מנהל ראשון בבית הספר <concept eId="con_49" refersTo="#reform_ofek">באופק חדש</concept>, ואת שכרם.</p>
+            <p>רמת המורכבות של בית הספר, קובעת את הן את היקף שעות ההוראה של המנהל ושל סגן מנהל ראשון בבית הספר <concept eId="con_47" refersTo="#reform_ofek">באופק חדש</concept>, ואת שכרם.</p>
           </content>
         </paragraph>
         <paragraph eId="art_9__para_9-4">
@@ -490,7 +490,7 @@
         <paragraph eId="art_9__para_9-5">
           <num>9.5</num>
           <content>
-            <p>חישוב רמת מורכבות של בתי ספר, לקראת שנת הלימודים, נעשה בתחילת חודש מאי של שנת הלימודים הקודמת ועל בסיס נתוני המוסד במערכות המחשוב של <organization eId="org_50" refersTo="#moe">משרד החינוך</organization>, באותו חודש.</p>
+            <p>חישוב רמת מורכבות של בתי ספר, לקראת שנת הלימודים, נעשה בתחילת חודש מאי של שנת הלימודים הקודמת ועל בסיס נתוני המוסד במערכות המחשוב של <organization eId="org_48" refersTo="#moe">משרד החינוך</organization>, באותו חודש.</p>
           </content>
         </paragraph>
         <paragraph eId="art_9__para_9-6">
@@ -694,7 +694,7 @@
           <num>9.13</num>
           <content>
             <p>שכר מנהלים וסגני מנהלים ראשונים – שכר גלובאלי</p>
-            <p>בהתאם להסכם הקיבוצי מיום, <date date="2022-10-19">19.10.2022</date> סעיף, 31.1 מובהר כי השכר אשר נקבע למנהלים וסגני מנהלים ראשונים בהסכמים הקיבוציים אשר נחתמו בין הצדדים הוא שכר כולל המתגמל בגין כל העבודה הכרוכה במילוי תפקידם הניהולי במועדים בהם היא מבוצעת.</p>
+            <p>בהתאם <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי מיום, 19.10.2022</ref> סעיף, 31.1 מובהר כי השכר אשר נקבע למנהלים וסגני מנהלים ראשונים בהסכמים הקיבוציים אשר נחתמו בין הצדדים הוא שכר כולל המתגמל בגין כל העבודה הכרוכה במילוי תפקידם הניהולי במועדים בהם היא מבוצעת.</p>
           </content>
         </paragraph>
       </article>
@@ -749,18 +749,18 @@
       </article>
       <article eId="art_11" repo:prose="same-source">
         <num>11</num>
-        <heading>יציאה <concept eId="con_51" refersTo="#reform_ofek">מאופק חדש</concept>
+        <heading>יציאה <concept eId="con_49" refersTo="#reform_ofek">מאופק חדש</concept>
         </heading>
         <paragraph eId="art_11__para_11-1">
           <num>11.1</num>
           <content>
-            <p>ככלל, על כל עובדי הוראה העומדים בתנאי ההצטרפות <concept eId="con_52" refersTo="#reform_ofek">לאופק חדש</concept> להצטרף <concept eId="con_53" refersTo="#reform_ofek">לאופק חדש</concept>.</p>
+            <p>ככלל, על כל עובדי הוראה העומדים בתנאי ההצטרפות <concept eId="con_50" refersTo="#reform_ofek">לאופק חדש</concept> להצטרף <concept eId="con_51" refersTo="#reform_ofek">לאופק חדש</concept>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_11__para_11-2">
           <num>11.2</num>
           <content>
-            <p>במקרים חריגים, ולמעט מורים חדשים, ניתן יהיה לדון בבקשה של עובדי הוראה לצאת <concept eId="con_54" refersTo="#reform_ofek">מאופק חדש</concept> בגין הסיבות הבאות:</p>
+            <p>במקרים חריגים, ולמעט מורים חדשים, ניתן יהיה לדון בבקשה של עובדי הוראה לצאת <concept eId="con_52" refersTo="#reform_ofek">מאופק חדש</concept> בגין הסיבות הבאות:</p>
             <p>מצב בריאותי פיזי או נפשי של עובד הוראה או של בן משפחה מדרגה ראשונה, בצירוף                               -</p>
             <p>אישורים רפואיים עדכניים המעידים על מצב בריאותם.</p>
             <p>סיבות הומניות: עובד הוראה שלאחר הצטרפותו לרפורמה חל שינוי לרעה במצבו                                      -</p>
@@ -770,7 +770,7 @@
         <paragraph eId="art_11__para_11-3">
           <num>11.3</num>
           <content>
-            <p>עובד הוראה אשר יבקש לצאת <concept eId="con_55" refersTo="#reform_ofek">מאופק חדש</concept> יגיש באמצעות מנהל בית הספר בקשה על גבי הטופס <ref href="#att_3">בנספח ג'</ref>.</p>
+            <p>עובד הוראה אשר יבקש לצאת <concept eId="con_53" refersTo="#reform_ofek">מאופק חדש</concept> יגיש באמצעות מנהל בית הספר בקשה על גבי הטופס <ref href="#att_3">בנספח ג'</ref>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_11__para_11-4">
@@ -792,7 +792,7 @@
         <paragraph eId="art_12__para_12-2">
           <num>12.2</num>
           <content>
-            <p>על אף האמור בסעיף, 13.1 לגביי עובד הוראה קיים, ייכללו בותק המוכר כל שנות הותק אשר הוכרו לצורך שכר ערב המעבר שלו להעסקה על פי <concept eId="con_56" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+            <p>על אף האמור בסעיף, 13.1 לגביי עובד הוראה קיים, ייכללו בותק המוכר כל שנות הותק אשר הוכרו לצורך שכר ערב המעבר שלו להעסקה על פי <concept eId="con_54" refersTo="#reform_ofek">אופק חדש</concept>.</p>
           </content>
         </paragraph>
       </article>
@@ -802,11 +802,11 @@
         <paragraph eId="art_13__para_13-1">
           <num>13.1</num>
           <content>
-            <p>קידום מדרגה לדרגה של כלל עובדי ההוראה <concept eId="con_57" refersTo="#reform_ofek">באופק חדש</concept> מותנה בעמידה בקריטריונים הבאים:</p>
+            <p>קידום מדרגה לדרגה של כלל עובדי ההוראה <concept eId="con_55" refersTo="#reform_ofek">באופק חדש</concept> מותנה בעמידה בקריטריונים הבאים:</p>
             <p>פז"נ  -פרק זמן נדרש          </p>
-            <p>שפ"מ  -שעות פיתוח מקצועי בהתאם למתווה הפיתוח המקצועי והנחיות <organization eId="org_58" refersTo="#moe">משרד החינוך</organization>.                            </p>
-            <p>הערכה – בהתאם להנחיות <organization eId="org_59" refersTo="#moe">משרד החינוך</organization>                       </p>
-            <p>פרטים על הערכה לקידום בדרגות <concept eId="con_60" refersTo="#reform_ofek">אופק חדש</concept> בקישור להלן:</p>
+            <p>שפ"מ  -שעות פיתוח מקצועי בהתאם למתווה הפיתוח המקצועי והנחיות <organization eId="org_56" refersTo="#moe">משרד החינוך</organization>.                            </p>
+            <p>הערכה – בהתאם להנחיות <organization eId="org_57" refersTo="#moe">משרד החינוך</organization>                       </p>
+            <p>פרטים על הערכה לקידום בדרגות <concept eId="con_58" refersTo="#reform_ofek">אופק חדש</concept> בקישור להלן:</p>
             <p><a href="https://poh.education.gov.il/PituachMiktzoi/Pages/Harachot.aspx">https://poh.education.gov.il/PituachMiktzoi/Pages/Harachot.aspx</a>
             </p>
             <p>מפת המדדים בקישור להלן</p>
@@ -818,7 +818,7 @@
         <paragraph eId="art_13__para_13-2">
           <num>13.2</num>
           <content>
-            <p>קידום בדרגות <concept eId="con_61" refersTo="#reform_ofek">אופק חדש</concept> למורים:</p>
+            <p>קידום בדרגות <concept eId="con_59" refersTo="#reform_ofek">אופק חדש</concept> למורים:</p>
             <p>אקדמאים מוסמכים להוראה יקודמו בהתאם <a href="http://meyda.education.gov.il/files/PortalOvdeyHoraa/AkademaimMusmachim.pdf">לטבלת דרישות לקידום בדרגת אופק</a>                                   13.2.1</p>
             <p>חדש למורים ולגננות:</p>
             <table>
@@ -977,12 +977,12 @@
                 </td>
               </tr>
             </table>
-            <p>עובדי הוראה ותיקים בעלי ותק עד  <quantity eId="qty_57" refersTo="#year" normalized="25">25 שנה</quantity> המצטרפים להעסקה על פי רפורמת <concept eId="con_62" refersTo="#reform_ofek">אופק חדש</concept> באישור חריג, אינם יכולים להתקדם בדרגות עד שישלימו את הסמכתם. כאשר עובדי הוראה אלה ישלימו את הסמכתם, יהיו זכאים לשתי הטבות:</p>
+            <p>עובדי הוראה ותיקים בעלי ותק עד  <quantity eId="qty_57" refersTo="#year" normalized="25">25 שנה</quantity> המצטרפים להעסקה על פי רפורמת <concept eId="con_60" refersTo="#reform_ofek">אופק חדש</concept> באישור חריג, אינם יכולים להתקדם בדרגות עד שישלימו את הסמכתם. כאשר עובדי הוראה אלה ישלימו את הסמכתם, יהיו זכאים לשתי הטבות:</p>
             <p>תקופת הפז"נ והשפ"מ שתוכר לצורך קידום בדרגה, תחל ממועד העסקתם                                -</p>
             <p>ברפורמה ותאפשר קידום אחד בלבד.</p>
             <p>עד  <quantity eId="qty_58" refersTo="#hour" normalized="60">60 שעות</quantity> מתוך הלימודים יובאו בחשבון לעניין צבירת השפ"מ.                  -</p>
-            <p>עובדי הוראה בעלי ותק של  <quantity eId="qty_59" refersTo="#year" normalized="25">25 שנה</quantity> ומעלה אינם נדרשים להשלים את הסמכתם להוראה, וזכאים לקידום דרגות <concept eId="con_63" refersTo="#reform_ofek">באופק חדש</concept> בהתאם ליתר הכללים הרלוונטיים לעובדי הוראה אקדמאים מוסמכים להוראה.</p>
-            <p>עובדי הוראה חדשים המצטרפים להעסקה על פי רפורמת <concept eId="con_64" refersTo="#reform_ofek">אופק חדש</concept> באישור חריג אינם יכולים להתקדם בדרגות עד שישלימו את הסמכתם ואינם זכאים להטבות המפורטות עבור עובדי הוראה ותיקים. עם סיום הסמכתם להוראה יחלו לצבור שפ"מ ופז"נ ממועד ההסמכה.</p>
+            <p>עובדי הוראה בעלי ותק של  <quantity eId="qty_59" refersTo="#year" normalized="25">25 שנה</quantity> ומעלה אינם נדרשים להשלים את הסמכתם להוראה, וזכאים לקידום דרגות <concept eId="con_61" refersTo="#reform_ofek">באופק חדש</concept> בהתאם ליתר הכללים הרלוונטיים לעובדי הוראה אקדמאים מוסמכים להוראה.</p>
+            <p>עובדי הוראה חדשים המצטרפים להעסקה על פי רפורמת <concept eId="con_62" refersTo="#reform_ofek">אופק חדש</concept> באישור חריג אינם יכולים להתקדם בדרגות עד שישלימו את הסמכתם ואינם זכאים להטבות המפורטות עבור עובדי הוראה ותיקים. עם סיום הסמכתם להוראה יחלו לצבור שפ"מ ופז"נ ממועד ההסמכה.</p>
             <p>מוסמכים להוראה שאינם אקדמאים:                                    13.2.3</p>
             <p>עובדי הוראה בעלי ותק של  <quantity eId="qty_60" refersTo="#year" normalized="28">28 שנים</quantity> ומעלה אינם חייבים להשלים את השכלתם האקדמית. קידום הדרגות יהיה לפי הטבלה הבאה:</p>
             <table>
@@ -1102,7 +1102,7 @@
         <paragraph eId="art_13__para_13-3">
           <num>13.3</num>
           <intro>
-            <p>קידום בדרגות <concept eId="con_65" refersTo="#reform_ofek">אופק חדש</concept> למנהלים ולסגנים</p>
+            <p>קידום בדרגות <concept eId="con_63" refersTo="#reform_ofek">אופק חדש</concept> למנהלים ולסגנים</p>
           </intro>
           <subparagraph eId="art_13__para_13-3__subpara_13-3-1">
             <num>13.3.1</num>
@@ -1248,12 +1248,12 @@
       </article>
       <article eId="art_14" repo:prose="same-source">
         <num>14</num>
-        <heading>קביעת הדרגה <concept eId="con_66" refersTo="#reform_ofek">באופק חדש</concept>
+        <heading>קביעת הדרגה <concept eId="con_64" refersTo="#reform_ofek">באופק חדש</concept>
         </heading>
         <paragraph eId="art_14__para_14-1">
           <num>14.1</num>
           <content>
-            <p>הגורם המוסמך היחיד לקביעת דרגה לעובדי הוראה <concept eId="con_67" refersTo="#reform_ofek">באופק חדש</concept> הינו <organization eId="org_68" refersTo="#moe">משרד החינוך</organization> בלבד.</p>
+            <p>הגורם המוסמך היחיד לקביעת דרגה לעובדי הוראה <concept eId="con_65" refersTo="#reform_ofek">באופק חדש</concept> הינו <organization eId="org_66" refersTo="#moe">משרד החינוך</organization> בלבד.</p>
           </content>
         </paragraph>
         <paragraph eId="art_14__para_14-2">
@@ -1265,7 +1265,7 @@
         <paragraph eId="art_14__para_14-3">
           <num>14.3</num>
           <content>
-            <p>ביצוע קביעת הדרגה (המרה) ע"י חשבות <organization eId="org_69" refersTo="#moe">משרד החינוך</organization> הינה בהתאם לנתוני השכר של חודש מרץ בשנה לפני הצטרפות של עו"ה לרפורמה, הכוללים נתונים על: ותק, דרגה, גמולי השתלמות, תפקידים ותוספת מקדם המרה בהתאם לסטאטוס עו"ה, כפי שמפורט בהסכם <concept eId="con_70" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+            <p>ביצוע קביעת הדרגה (המרה) ע"י חשבות <organization eId="org_67" refersTo="#moe">משרד החינוך</organization> הינה בהתאם לנתוני השכר של חודש מרץ בשנה לפני הצטרפות של עו"ה לרפורמה, הכוללים נתונים על: ותק, דרגה, גמולי השתלמות, תפקידים ותוספת מקדם המרה בהתאם לסטאטוס עו"ה, כפי שמפורט <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_14__para_14-4">
@@ -1285,7 +1285,7 @@
           <content>
             <p>מידע נוסף לגבי ביצוע ההמרות בהתאם <a href="https://meyda.education.gov.il/files/Sherut/xozerhamarotofektashpad.pdf">לחוברת בקישור להלן</a>.</p>
             <p>הסבר ודוגמאות על אופן חישוב ההמרה <ref href="#att_4">בנספח ד'</ref>.</p>
-            <p>קישור לטבלאות שכר <concept eId="con_71" refersTo="#reform_ofek">אופק חדש</concept>:</p>
+            <p>קישור לטבלאות שכר <concept eId="con_68" refersTo="#reform_ofek">אופק חדש</concept>:</p>
             <p><a href="https://edu.gov.il/tech/education/salary_table/Pages/salary_tables_ofek_hadash.aspx">https://edu.gov.il/tech/education/salary_table/Pages/salary_tables_ofek_hadash.aspx</a>
             </p>
             <p>קישור לחוזר <concept eId="cmp_1" refersTo="#comp_sheklit-2016">תוספת שקלית 2016</concept>:</p>
@@ -1299,7 +1299,7 @@
         <paragraph eId="art_14__para_14-7">
           <num>14.7</num>
           <intro>
-            <p>גמולי תפקיד <concept eId="con_72" refersTo="#reform_ofek">באופק חדש</concept>:</p>
+            <p>גמולי תפקיד <concept eId="con_69" refersTo="#reform_ofek">באופק חדש</concept>:</p>
             <p>– <quantity eId="qty_67" refersTo="#percentage" normalized="20">20%</quantity>                               סגן מנהל שני        </p>
             <p>– <quantity eId="qty_68" refersTo="#percentage" normalized="10">10%</quantity>                                 מחנך כיתה         </p>
             <p>– <quantity eId="qty_69" refersTo="#percentage" normalized="11.5">11.5%</quantity>                              מחנך כיתה א'         </p>
@@ -1315,10 +1315,10 @@
             <p>– <quantity eId="qty_79" refersTo="#percentage" normalized="6">6%</quantity>                       רכז הכלה והשתלבות           </p>
             <p>– <quantity eId="qty_80" refersTo="#percentage" normalized="8">8%</quantity>                                  רכז פדגוגי       </p>
             <p>– ( <quantity eId="qty_81" refersTo="#percentage" normalized="2.4">2.4%</quantity>למתמחה ,עד שלושה מתמחים)                                         חונך       </p>
-            <p>מינוי בעלי התפקידים יהיה על פי הוראות <organization eId="org_73" refersTo="#moe">משרד החינוך</organization>.</p>
+            <p>מינוי בעלי התפקידים יהיה על פי הוראות <organization eId="org_70" refersTo="#moe">משרד החינוך</organization>.</p>
             <p>עובד הוראה יהיה זכאי לכל היותר לשני גמולי תפקיד.</p>
             <p>גמול חינוך מיוחד</p>
-            <p>בהתאם להסכם הקיבוצי אשר נחתם ביום, <date date="2022-10-19">19.10.2022</date> החל מיום  <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול חינוך מיוחד הקבוע בסעיף (39א)( )3 להסכם רפורמת <concept eId="con_74" refersTo="#reform_ofek">אופק חדש</concept> (כפי שתוקן מעת לעת), באופן הבא:</p>
+            <p>בהתאם <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי אשר נחתם ביום, 19.10.2022</ref> החל מיום  <date date="2023-09-01">1.9.2023</date> יגדל שיעור גמול חינוך מיוחד הקבוע בסעיף (39א)( )3 <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref> (כפי שתוקן מעת לעת), באופן הבא:</p>
           </intro>
           <hcontainer eId="art_14__para_14-7__hc_1" name="group">
             <heading>לעו"ה בעל הסמכה לחינוך מיוחד, העומד בכללי הזכאות לגמול חינוך מיוחד-</heading>
@@ -1339,7 +1339,7 @@
             <subparagraph eId="art_14__para_14-7__hc_1__subpara_c">
               <num>ג.</num>
               <content>
-                <p>על אף האמור בסעיף ב' לעיל, לגבי עובד הוראה המלמד בכיתה שהוגדרה על ידי <organization eId="org_75" refersTo="#moe">משרד החינוך</organization> ככיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_76" refersTo="#moe">משרד החינוך</organization> נח(8/ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date> 1, באפריל  1998 וכפי שעודכן ויעודכן מזמן לזמן, שיעור גמול חינוך מיוחד יעמוד על .<quantity eId="qty_86" refersTo="#percentage" normalized="17">17%</quantity>
+                <p>על אף האמור בסעיף ב' לעיל, לגבי עובד הוראה המלמד בכיתה שהוגדרה על ידי <organization eId="org_71" refersTo="#moe">משרד החינוך</organization> ככיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_72" refersTo="#moe">משרד החינוך</organization> נח(8/ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date> 1, באפריל  1998 וכפי שעודכן ויעודכן מזמן לזמן, שיעור גמול חינוך מיוחד יעמוד על .<quantity eId="qty_86" refersTo="#percentage" normalized="17">17%</quantity>
                 </p>
               </content>
             </subparagraph>
@@ -1474,20 +1474,20 @@
       </article>
       <article eId="art_16" repo:prose="same-source">
         <num>16</num>
-        <heading>מקדמות שכר <concept eId="con_77" refersTo="#reform_ofek">באופק חדש</concept> עד לקביעת הדרגה</heading>
+        <heading>מקדמות שכר <concept eId="con_73" refersTo="#reform_ofek">באופק חדש</concept> עד לקביעת הדרגה</heading>
         <paragraph eId="art_16__para_16-1">
           <num>16.1</num>
           <content>
-            <p>בשלב הראשון, עד לקביעת דרגת עובדי ההוראה <concept eId="con_78" refersTo="#reform_ofek">באופק חדש</concept>, יש לשלם מקדמות לעובדי ההוראה אשר עובדים בתנאי <concept eId="con_79" refersTo="#reform_ofek">אופק חדש</concept> וצורפו <concept eId="con_80" refersTo="#reform_ofek">לאופק חדש</concept> ע"י <organization eId="org_81" refersTo="#moe">משרד החינוך</organization>. מקדמות אלו יהיו בנוסף לשכרם הנוכחי (לפי תנאי השכר שלא לפי <concept eId="con_82" refersTo="#reform_ofek">אופק חדש</concept>). המקדמה תחושב על -פי שכרם הנוכחי.</p>
+            <p>בשלב הראשון, עד לקביעת דרגת עובדי ההוראה <concept eId="con_74" refersTo="#reform_ofek">באופק חדש</concept>, יש לשלם מקדמות לעובדי ההוראה אשר עובדים בתנאי <concept eId="con_75" refersTo="#reform_ofek">אופק חדש</concept> וצורפו <concept eId="con_76" refersTo="#reform_ofek">לאופק חדש</concept> ע"י <organization eId="org_77" refersTo="#moe">משרד החינוך</organization>. מקדמות אלו יהיו בנוסף לשכרם הנוכחי (לפי תנאי השכר שלא לפי <concept eId="con_78" refersTo="#reform_ofek">אופק חדש</concept>). המקדמה תחושב על -פי שכרם הנוכחי.</p>
             <p>תשלום המקדמה יחושב עבור רכיבי השכר הבאים: שכר משולב, תוספת, 87 תוספת, 94 <concept eId="cmp_3" refersTo="#comp_tosefet-2001">תוספת 2001</concept>, תוספת 2008, גמול פיצול, גמולי השתלמות, גמול כפל תואר, <concept eId="cmp_4" refersTo="#comp_tosefet-2011">תוספת 2011</concept>.</p>
-            <p>המקדמה תינתן עבור חלקיות העסקה בבית ספר שצורף לרפורמת <concept eId="con_83" refersTo="#reform_ofek">אופק חדש</concept> בלבד, בגין התקופה שתחילתה במועד ההצטרפות של עובד ההוראה לרפורמה. <term eId="trm_13" refersTo="#term_43cffbce">הבעלות</term> תחשב את שיעור המקדמה לכל עו"ה ותעביר לו את התוספת, המקדמה תיקרא "מקדמת <concept eId="con_84" refersTo="#reform_ofek">אופק חדש</concept>".</p>
-            <p>לאחר קביעת דרגת עובד ההוראה <concept eId="con_85" refersTo="#reform_ofek">באופק חדש</concept>, יבוצע לעובד חישוב ותשלום שכר רטרואקטיבי למועד כניסתו לרפורמת <concept eId="con_86" refersTo="#reform_ofek">אופק חדש</concept>, בהתאם לתנאי רפורמת <concept eId="con_87" refersTo="#reform_ofek">אופק חדש</concept>. למען הסר ספק, השכר ששולם לו בגין התקופה שתחילתה במועד ההצטרפות של עובד ההוראה לרפורמה (לפי תנאי השכר שלא לפי <concept eId="con_88" refersTo="#reform_ofek">אופק חדש</concept>) לרבות, מקדמה זו, יקוזזו.</p>
+            <p>המקדמה תינתן עבור חלקיות העסקה בבית ספר שצורף לרפורמת <concept eId="con_79" refersTo="#reform_ofek">אופק חדש</concept> בלבד, בגין התקופה שתחילתה במועד ההצטרפות של עובד ההוראה לרפורמה. <term eId="trm_13" refersTo="#term_43cffbce">הבעלות</term> תחשב את שיעור המקדמה לכל עו"ה ותעביר לו את התוספת, המקדמה תיקרא "מקדמת <concept eId="con_80" refersTo="#reform_ofek">אופק חדש</concept>".</p>
+            <p>לאחר קביעת דרגת עובד ההוראה <concept eId="con_81" refersTo="#reform_ofek">באופק חדש</concept>, יבוצע לעובד חישוב ותשלום שכר רטרואקטיבי למועד כניסתו לרפורמת <concept eId="con_82" refersTo="#reform_ofek">אופק חדש</concept>, בהתאם לתנאי רפורמת <concept eId="con_83" refersTo="#reform_ofek">אופק חדש</concept>. למען הסר ספק, השכר ששולם לו בגין התקופה שתחילתה במועד ההצטרפות של עובד ההוראה לרפורמה (לפי תנאי השכר שלא לפי <concept eId="con_84" refersTo="#reform_ofek">אופק חדש</concept>) לרבות, מקדמה זו, יקוזזו.</p>
           </content>
         </paragraph>
         <paragraph eId="art_16__para_16-2">
           <num>16.2</num>
           <content>
-            <p>שיעור מקדמת <concept eId="con_89" refersTo="#reform_ofek">אופק חדש</concept>
+            <p>שיעור מקדמת <concept eId="con_85" refersTo="#reform_ofek">אופק חדש</concept>
             </p>
             <p>גובה המקדמה לעו"ה אקדמאים שאינם מנהלים או סגנים ראשונים <quantity eId="qty_122" refersTo="#percentage" normalized="14">14%</quantity> -                         -</p>
             <p>לגבי מנהלים וסגנים ראשונים אקדמאים -</p>
@@ -1524,7 +1524,7 @@
           </content>
         </paragraph>
         <wrapUp>
-          <p>18 חוזר זה מטרתו לרכז את הכללים האמורים בהסכמים הקיבוציים השונים המסדירים את רפורמת "<concept eId="con_90" refersTo="#reform_ofek">אופק חדש</concept>". בכל מקום בו קיימת סתירה בין האמור בחוזר זה לבין האמור בהסכמים הקיבוציים (בין אם לטובת העובד או לרעתו) – יחול האמור בהסכמים הקיבוציים.</p>
+          <p>18 חוזר זה מטרתו לרכז את הכללים האמורים בהסכמים הקיבוציים השונים המסדירים את רפורמת "<concept eId="con_86" refersTo="#reform_ofek">אופק חדש</concept>". בכל מקום בו קיימת סתירה בין האמור בחוזר זה לבין האמור בהסכמים הקיבוציים (בין אם לטובת העובד או לרעתו) – יחול האמור בהסכמים הקיבוציים.</p>
           <p>19 למידע מפורט ניתן לפנות לכתובות המפורטות <ref href="#att_5">בנספח ה'</ref>.</p>
         </wrapUp>
       </article>
@@ -1534,24 +1534,24 @@
       <p><person eId="pers_1" refersTo="#p_1e57b451">סוניה פרץ</person>                                                    <person eId="pers_2" refersTo="#p_88bb0a53">תמר כהן</person>
       </p>
       <p>סמנכ"לית ומנהלת                                              מנהלת תחום בכיר</p>
-      <p><organization eId="org_91" refersTo="#unit_f2a5318d">אגף בכיר כח-אדם בהוראה</organization>                                       משכורות לעובדי הוראה</p>
+      <p><organization eId="org_87" refersTo="#unit_f2a5318d">אגף בכיר כח-אדם בהוראה</organization>                                       משכורות לעובדי הוראה</p>
       <p>העתקים:</p>
-      <p>מר <person eId="pers_3" refersTo="#p_14b8bf1c">אסף צלאל</person>, <role eId="rol_92" refersTo="#role-mankal">המנהל הכללי</role>
+      <p>מר <person eId="pers_3" refersTo="#p_14b8bf1c">אסף צלאל</person>, <role eId="rol_88" refersTo="#role-mankal">המנהל הכללי</role>
       </p>
-      <p>מר <person eId="pers_4" refersTo="#p_2e900d7f" as="#role-memuneh-sachar">אפי מלכין</person>, <role eId="rol_93" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_94" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_4" refersTo="#p_2e900d7f" as="#role-memuneh-sachar">אפי מלכין</person>, <role eId="rol_89" refersTo="#role-memuneh-sachar">הממונה על השכר</role>, <organization eId="org_90" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_5" refersTo="#p_a21a15f1">יניב זוהר</person>, <role eId="rol_95" refersTo="#role-chashav">חשב המשרד</role>
+      <p>מר <person eId="pers_5" refersTo="#p_a21a15f1">יניב זוהר</person>, <role eId="rol_91" refersTo="#role-chashav">חשב המשרד</role>
       </p>
-      <p>גב' <person eId="pers_6" refersTo="#p_6cd6a9a6">נועה היימן</person>, סגנית הממונה על התקציבים, <organization eId="org_96" refersTo="#mof">משרד האוצר</organization>
+      <p>גב' <person eId="pers_6" refersTo="#p_6cd6a9a6">נועה היימן</person>, סגנית הממונה על התקציבים, <organization eId="org_92" refersTo="#mof">משרד האוצר</organization>
       </p>
       <p>גב' <person eId="pers_7" refersTo="#p_794520a0" as="#role-samankal-bakhir">אינה זלצמן</person>, <role eId="hed_1" refersTo="#role-samankal-bakhir">סמנכ"לית בכירה</role> <role eId="hed_2" refersTo="#role-menahel">ומנהלת</role> <organization eId="unt_4" refersTo="#unit_12732fdd">המינהל הפדגוגי</organization>
       </p>
       <p>מר <person eId="pers_8" refersTo="#p_e8cd65cb" as="#role-samankal-bakhir">משה שגיא</person>, <role eId="hed_3" refersTo="#role-samankal-bakhir">סמנכ"ל בכיר</role> <role eId="hed_4" refersTo="#role-menahel">ומנהל</role> <organization eId="unt_5" refersTo="#unit_00ae5b17">מינהל כלכלה ותקציבים</organization>
       </p>
       <p>מר <person eId="pers_9" refersTo="#p_00f4c6de">שי קלדרון</person>, מנהל מחוז חרדי</p>
-      <p>עו"ד <person eId="pers_10" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_97" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      <p>עו"ד <person eId="pers_10" refersTo="#p_19c967f8">אילת מלקמן</person>, <role eId="rol_93" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
       </p>
-      <p>עו"ד <person eId="pers_11" refersTo="#p_4f19a187" as="#role-segan-bakhir">איריס שלו-טל</person>, <role eId="hed_5" refersTo="#role-segan-bakhir">סגנית בכירה</role> <role eId="rol_98" refersTo="#role-yoetzet-mishpatit">ליועצת המשפטית</role>
+      <p>עו"ד <person eId="pers_11" refersTo="#p_4f19a187" as="#role-segan-bakhir">איריס שלו-טל</person>, <role eId="hed_5" refersTo="#role-segan-bakhir">סגנית בכירה</role> <role eId="rol_94" refersTo="#role-yoetzet-mishpatit">ליועצת המשפטית</role>
       </p>
       <p>עו"ד <person eId="pers_12" refersTo="#p_1de853f6">ענבל וילנר</person>, ממונה בכירה (הסכמי שכר)</p>
       <p>מר <person eId="pers_13" refersTo="#p_1653fdf7" as="#role-menahel">מנחם מזרחי</person>, <role eId="hed_6" refersTo="#role-menahel">מנהל</role> <organization eId="unt_6" refersTo="#unit_b38339b9">אגף בכיר, ארגון מוסדות חינוך</organization>, <organization eId="unt_7" refersTo="#unit_12732fdd">המינהל הפדגוגי</organization>
@@ -1565,17 +1565,17 @@
       <p>גב' <person eId="pers_18" refersTo="#p_8bddef3c">רונית אינהורן</person>, ממונה הערכת עובדי הוראה וניהול</p>
       <p>מר <person eId="pers_19" refersTo="#p_e496d0db">טל ביבס</person>, סגן חשב</p>
       <p>גב' <person eId="pers_20" refersTo="#p_a5b52cfe">שושי שוורץ</person>, חשבת הרשתות</p>
-      <p>מר <person eId="pers_21" refersTo="#p_ddb676f2">שמואל אפלבויים</person>, שכר והסכמי עבודה, <organization eId="org_99" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_21" refersTo="#p_ddb676f2">שמואל אפלבויים</person>, שכר והסכמי עבודה, <organization eId="org_95" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>גב' <person eId="pers_22" refersTo="#p_7efc0b82">שירה גרוס</person>, שכר והסכמי עבודה, <organization eId="org_100" refersTo="#mof">משרד האוצר</organization>
+      <p>גב' <person eId="pers_22" refersTo="#p_7efc0b82">שירה גרוס</person>, שכר והסכמי עבודה, <organization eId="org_96" refersTo="#mof">משרד האוצר</organization>
       </p>
       <p>גב' <person eId="pers_23" refersTo="#p_f71cee61" as="#role-menahel">רחל טייטלבום</person>, <role eId="hed_9" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_10" refersTo="#unit_2d161a3e">תחום תנאי שירות עובדי הוראה</organization>
       </p>
       <p>מר <person eId="pers_24" refersTo="#p_66c94fb9" as="#role-menahel">אביב מצא</person>, <role eId="hed_10" refersTo="#role-menahel">מנהל</role> <organization eId="unt_11" refersTo="#unit_5e0a8e3d">חטיבה בכירה יישומי שכר וכח אדם בהוראה</organization>, מינהל תקשוב</p>
       <p>גב' <person eId="pers_25" refersTo="#p_ebde7b57">מיכל אוריאל</person>, מנהלת חטיבה, מינהל תקשוב</p>
-      <p><role eId="rol_101" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
+      <p><role eId="rol_97" refersTo="#office_021a1da6">מנהלי תחומי כח-אדם בהוראה במחוזות</role>
       </p>
-      <p><role eId="rol_102" refersTo="#office_987a4a52">חשבי המחוזות</role>
+      <p><role eId="rol_98" refersTo="#office_987a4a52">חשבי המחוזות</role>
       </p>
     </conclusions>
     <attachments>
@@ -1611,11 +1611,11 @@
           <mainBody>
             <hcontainer eId="att_1__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>כתב התחייבות להצטרפות לרפורמת <concept eId="con_103" refersTo="#reform_ofek">אופק חדש</concept> החל משנה"ל תשפ"ד</p>
-                <p>הנני מורשה חתימה מטעם <term eId="trm_15" refersTo="#term_43cffbce">הבעלות</term> ברישיון של בית ספר מוכר שאינו רשמי (שם <term eId="trm_16" refersTo="#term_43cffbce">הבעלות</term>)__________________, שמספר המוטב שלה <organization eId="org_104" refersTo="#moe">במשרד החינוך</organization> __________ (להלן ": <def refersTo="#term_43cffbce">הבעלות</def>").</p>
+                <p>כתב התחייבות להצטרפות לרפורמת <concept eId="con_99" refersTo="#reform_ofek">אופק חדש</concept> החל משנה"ל תשפ"ד</p>
+                <p>הנני מורשה חתימה מטעם <term eId="trm_15" refersTo="#term_43cffbce">הבעלות</term> ברישיון של בית ספר מוכר שאינו רשמי (שם <term eId="trm_16" refersTo="#term_43cffbce">הבעלות</term>)__________________, שמספר המוטב שלה <organization eId="org_100" refersTo="#moe">במשרד החינוך</organization> __________ (להלן ": <def refersTo="#term_43cffbce">הבעלות</def>").</p>
                 <p>במסגרת זו הנני מתחייב ומצהיר בשם <term eId="trm_17" refersTo="#term_43cffbce">הבעלות</term> כי כל התשלומים <term eId="trm_18" refersTo="#term_43cffbce">שהבעלות</term> מחויבת בהם התבצעו, ובכלל זה -</p>
                 <p>כל ההפרשות לקרנות פנסיה, השתלמות, פיטורים, ושכל השכר שולם ללא הלנה</p>
-                <p>בשם <term eId="trm_19" refersTo="#term_43cffbce">הבעלות</term>, אני מתחייב להחיל משנת הלימודים תשפ"ד ואילך על עובדי ההוראה בבית /בבתי הספר שבבעלותי את כל ההוראות, ש<ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם רפורמת אופק חדש מיום  25.12.2008</ref> וכפי שהתעדכן בהסכמים הנוספים להסכם זה (להלן, לגבי כל ההסכמים יחד": <def refersTo="#term_88f3d712">רפורמת אופק חדש</def>"), ואשר מתייחסות לבית ספר ובכלל זה, בין היתר -קיום מבנה שבוע העבודה עפ"י רפורמת <concept eId="con_105" refersTo="#reform_ofek">אופק חדש</concept>, תשלום שכר לעובדי ההוראה בהתאם לרפורמת <concept eId="con_106" refersTo="#reform_ofek">אופק חדש</concept> וקיום ההנחיות הפדגוגיות הנוגעות ליישום רפורמת <concept eId="con_107" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+                <p>בשם <term eId="trm_19" refersTo="#term_43cffbce">הבעלות</term>, אני מתחייב להחיל משנת הלימודים תשפ"ד ואילך על עובדי ההוראה בבית /בבתי הספר שבבעלותי את כל ההוראות, <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">שבהסכם רפורמת אופק חדש</ref> מיום  <date date="2008-12-25">25.12.2008</date> וכפי שהתעדכן בהסכמים הנוספים להסכם זה (להלן, לגבי כל ההסכמים יחד": <def refersTo="#term_88f3d712">רפורמת אופק חדש</def>"), ואשר מתייחסות לבית ספר ובכלל זה, בין היתר -קיום מבנה שבוע העבודה עפ"י רפורמת <concept eId="con_101" refersTo="#reform_ofek">אופק חדש</concept>, תשלום שכר לעובדי ההוראה בהתאם לרפורמת <concept eId="con_102" refersTo="#reform_ofek">אופק חדש</concept> וקיום ההנחיות הפדגוגיות הנוגעות ליישום רפורמת <concept eId="con_103" refersTo="#reform_ofek">אופק חדש</concept>.</p>
                 <p>ידוע לי, כי אי עמידה בהתחייבותי לעיל עלולה להביא לנקיטה בסנקציות כנגד <term eId="trm_20" refersTo="#term_43cffbce">הבעלות</term> עד כדי שלילת הרישיון, שניתן לבעלות לצורך ניהול והפעלת מוסדות החינוך.</p>
                 <p>אני מאשר כי קראתי היטב את כתב ההתחייבות, מקבל עלי את כל האמור בו ומתחייב לפעול על פיו.</p>
                 <p>בתי הספר עליהם חלה התחייבות זו מפורטים במסמך להלן (יש לצרף את הרשימה של בתי הספר ולאשר על ידי מורשה חתימה)</p>
@@ -1623,11 +1623,11 @@
                 <p>(מורשה חתימה וחותמת                 שם פרטי ומשפחה מספר זהות (מורשה תפקיד</p>
                 <p>החתימה)          החתימה)   (מורשה החתימה)</p>
                 <p>תאריך______________ :</p>
-                <p repo:role="running-head"><organization eId="org_108" refersTo="#state-israel">מדינת ישראל</organization>
+                <p repo:role="running-head"><organization eId="org_104" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_109" refersTo="#moe">משרד החינוך</organization>
+                <p repo:role="running-head"><organization eId="org_105" refersTo="#moe">משרד החינוך</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_110" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  <organization eId="org_111" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
+                <p repo:role="running-head"><organization eId="org_106" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  <organization eId="org_107" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
                 </p>
                 <p repo:role="running-head">תאום משכורות עובדי הוראה</p>
               </content>
@@ -1667,7 +1667,7 @@
           <mainBody>
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טופס בקשה להצטרפות חריגה <concept eId="con_112" refersTo="#reform_ofek">לאופק חדש</concept> של עובד הוראה קיים שהוא בעל תואר אקדמי וללא תעודת הוראה</p>
+                <p>טופס בקשה להצטרפות חריגה <concept eId="con_108" refersTo="#reform_ofek">לאופק חדש</concept> של עובד הוראה קיים שהוא בעל תואר אקדמי וללא תעודת הוראה</p>
                 <p>פרטי העובד</p>
                 <p>שם משפחה________________________ :                     שם פרטי____________________ :</p>
                 <p>תעודת זהות __________________: תאריך כניסה לרפורמה_______________ :</p>
@@ -1675,16 +1675,16 @@
                 <p>פרטי המוסד</p>
                 <p>סמל מוסד________________________ :                      שם המוסד_________________ :</p>
                 <p>כתובת_____________________________ :                      בעלות מעסיקה _______________:</p>
-                <p>_______________            אני מבקש להצטרף <concept eId="con_113" refersTo="#reform_ofek">לאופק חדש</concept> באופן חריג בשנת הלימודים:</p>
-                <p>ידוע לי, כי לא אוכל להתקדם בדרגות <concept eId="con_114" refersTo="#reform_ofek">אופק חדש</concept> עד להשלמת הסמכתי להוראה.</p>
+                <p>_______________            אני מבקש להצטרף <concept eId="con_109" refersTo="#reform_ofek">לאופק חדש</concept> באופן חריג בשנת הלימודים:</p>
+                <p>ידוע לי, כי לא אוכל להתקדם בדרגות <concept eId="con_110" refersTo="#reform_ofek">אופק חדש</concept> עד להשלמת הסמכתי להוראה.</p>
                 <p>הנני מודע לכך, כי עם חתימתי על מסמך זה יחולו עלי תנאי ההעסקה לפי הסכם הרפורמה.</p>
                 <p>חתימת עובד ההוראה                                                 תאריך</p>
                 <p>את הטופס יש לשלוח בכתובת המייל <a href="mailto:ofekhadash@education.gov.il">ofekhadash@education.gov.il</a> :</p>
-                <p repo:role="running-head"><organization eId="org_115" refersTo="#state-israel">מדינת ישראל</organization>
+                <p repo:role="running-head"><organization eId="org_111" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_116" refersTo="#moe">משרד החינוך</organization>
+                <p repo:role="running-head"><organization eId="org_112" refersTo="#moe">משרד החינוך</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_117" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  <organization eId="org_118" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
+                <p repo:role="running-head"><organization eId="org_113" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  <organization eId="org_114" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
                 </p>
                 <p repo:role="running-head">תאום משכורות עובדי הוראה</p>
               </content>
@@ -1724,7 +1724,7 @@
           <mainBody>
             <hcontainer eId="att_3__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>טופס הגשת בקשה לוועדת חריגים ליציאה מרפורמת <concept eId="con_119" refersTo="#reform_ofek">אופק חדש</concept>
+                <p>טופס הגשת בקשה לוועדת חריגים ליציאה מרפורמת <concept eId="con_115" refersTo="#reform_ofek">אופק חדש</concept>
                 </p>
                 <p>לבתי ספר מוכר שאינו רשמי</p>
                 <p>פרטי העובד</p>
@@ -1740,11 +1740,11 @@
                 <p>התייחסות מנהל בית הספר:</p>
                 <p>תאריך  ____________:שם __________________:חתימה ___________________:</p>
                 <p>את הטופס יש לשלוח באמצעות כתובת המייל <a href="mailto:ofekhadash@education.gov.il">ofekhadash@education.gov.il</a> :</p>
-                <p repo:role="running-head"><organization eId="org_120" refersTo="#state-israel">מדינת ישראל</organization>
+                <p repo:role="running-head"><organization eId="org_116" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_121" refersTo="#moe">משרד החינוך</organization>
+                <p repo:role="running-head"><organization eId="org_117" refersTo="#moe">משרד החינוך</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_122" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  <organization eId="org_123" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
+                <p repo:role="running-head"><organization eId="org_118" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  <organization eId="org_119" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
                 </p>
                 <p repo:role="running-head">תאום משכורות עובדי הוראה</p>
               </content>
@@ -1784,11 +1784,11 @@
           <mainBody>
             <hcontainer eId="att_4__hc_1" name="text" repo:structure="enumerated">
               <intro>
-                <p>קביעת דרגה והמרות שכר ברפורמת "<concept eId="con_124" refersTo="#reform_ofek">אופק חדש</concept>"</p>
-                <p>לעובד הוראה "קיים", כהגדרתו בהסכם <concept eId="con_125" refersTo="#reform_ofek">אופק חדש</concept>, נקבעת דרגת שכר ברפורמת <concept eId="con_126" refersTo="#reform_ofek">אופק חדש</concept>, באמצעות תהליך המרת שכר.</p>
+                <p>קביעת דרגה והמרות שכר ברפורמת "<concept eId="con_120" refersTo="#reform_ofek">אופק חדש</concept>"</p>
+                <p>לעובד הוראה "קיים", כהגדרתו <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>, נקבעת דרגת שכר ברפורמת <concept eId="con_121" refersTo="#reform_ofek">אופק חדש</concept>, באמצעות תהליך המרת שכר.</p>
                 <p>דרגת השכר נקבעת בהתאם לנתוניו האישיים של העובד (השכלה, משרת אם וכד'), תפקידיו (מורה, מנהל, סגן מנהל ראשון) ובהתאם לשלב החינוך בו הועסק ערב ההצטרפות לרפורמה (יסודי, חטיבת בינים וכד') .</p>
-                <p>עובד הוראה חדש, כהגדרתו בהסכם <concept eId="con_127" refersTo="#reform_ofek">אופק חדש</concept>, ישובץ ישירות בטבלאות השכר ברפורמה, בדרגה, 1 בהתאם להשכלתו ותפקידו ולא תבוצע לו המרת שכר.</p>
-                <p><organization eId="org_128" refersTo="#moe">משרד החינוך</organization> הינו הגורם המוסמך היחיד לקבוע דרגות שכר ברפורמה.</p>
+                <p>עובד הוראה חדש, כהגדרתו <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם אופק חדש</ref>, ישובץ ישירות בטבלאות השכר ברפורמה, בדרגה, 1 בהתאם להשכלתו ותפקידו ולא תבוצע לו המרת שכר.</p>
+                <p><organization eId="org_122" refersTo="#moe">משרד החינוך</organization> הינו הגורם המוסמך היחיד לקבוע דרגות שכר ברפורמה.</p>
               </intro>
               <paragraph eId="att_4__hc_1__para_1">
                 <num>1.</num>
@@ -1816,11 +1816,11 @@
                     <p>ובגין גמולי תפקיד שלא ימשיכו להתקיים ברפורמה:</p>
                     <p>גמול פיצול, גמול הכשרות, גמול השתלמות, כפל תואר.</p>
                     <p>*במידה ולא קיימת העסקה בחודש מרץ טרום ההצטרפות השכר יחושב לפי חודש ההצטרפות.</p>
-                    <p repo:role="running-head"><organization eId="org_129" refersTo="#state-israel">מדינת ישראל</organization>
+                    <p repo:role="running-head"><organization eId="org_123" refersTo="#state-israel">מדינת ישראל</organization>
                     </p>
-                    <p repo:role="running-head"><organization eId="org_130" refersTo="#moe">משרד החינוך</organization>
+                    <p repo:role="running-head"><organization eId="org_124" refersTo="#moe">משרד החינוך</organization>
                     </p>
-                    <p repo:role="running-head"><organization eId="org_131" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  <organization eId="org_132" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
+                    <p repo:role="running-head"><organization eId="org_125" refersTo="#unit_f2a5318d">אגף בכיר כוח-אדם בהוראה</organization>                                                  <organization eId="org_126" refersTo="#unit_6f9cf346">אגף בכיר כספים</organization>
                     </p>
                     <p repo:role="running-head">תאום משכורות עובדי הוראה</p>
                     <p>מקדמי המרה למורים אקדמאיים</p>
@@ -1828,7 +1828,7 @@
                     <p>למורים המלמדים <concept eId="dom_12" refersTo="#stage_yesodi">בבית ספר יסודי</concept>, בכיתות ז' -ט', על בסיס  <quantity eId="qty_128" refersTo="#hour" normalized="24">24ש"ש</quantity> (<concept eId="dom_13" refersTo="#stage_chativat_beinayim">חט"ב</concept>), מקדם ההמרה יגדל ב,12.5% -</p>
                     <p>לגבי חלקיות משרתם בכיתות אלו. מורים אלו ילמדו ברפורמה לפי מבנה שבוע העובדה <concept eId="dom_14" refersTo="#stage_yesodi">בבית ספר יסודי</concept>.</p>
                     <p>דוגמא:</p>
-                    <p>תלוש של מורה אם, אקדמאית בעלת תואר ראשון, ותק בהוראה, 18 המלמדת ביסודי, עם מקדם משרה .<quantity eId="qty_129" refersTo="#percentage" normalized="100">100%</quantity> את ההמרה נבצע לפי תלוש השכר של חודש מרץ, 2023 טרום הצטרפות המורה ל"<concept eId="con_133" refersTo="#reform_ofek">אופק חדש</concept>"</p>
+                    <p>תלוש של מורה אם, אקדמאית בעלת תואר ראשון, ותק בהוראה, 18 המלמדת ביסודי, עם מקדם משרה .<quantity eId="qty_129" refersTo="#percentage" normalized="100">100%</quantity> את ההמרה נבצע לפי תלוש השכר של חודש מרץ, 2023 טרום הצטרפות המורה ל"<concept eId="con_127" refersTo="#reform_ofek">אופק חדש</concept>"</p>
                     <p>השכר טרום ההצטרפות לאופק הנכלל בהמרה:</p>
                     <p><quantity eId="qty_130" refersTo="#ILS" normalized="4944.63">₪ 4944.63</quantity>                           שכר משולב</p>
                     <p><quantity eId="qty_131" refersTo="#ILS" normalized="156.9">₪ 156.9</quantity>                             תגבור 94</p>
@@ -1911,7 +1911,7 @@
                     <p>סגנית מנהלת אקדמאית ביסודי, עם מקדם משרה .<quantity eId="qty_147" refersTo="#percentage" normalized="89.167">89.167%</quantity>
                     </p>
                     <p>רמת המורכבות של ביה"ס היא .8</p>
-                    <p>את ההמרה נבצע לפי תלוש השכר של חודש מרץ, טרום הצטרפות המורה ל"<concept eId="con_142" refersTo="#reform_ofek">אופק חדש</concept>"</p>
+                    <p>את ההמרה נבצע לפי תלוש השכר של חודש מרץ, טרום הצטרפות המורה ל"<concept eId="con_136" refersTo="#reform_ofek">אופק חדש</concept>"</p>
                     <p>השכר טרום ההצטרפות לאופק הנכלל בהמרה:</p>
                     <p>ל<quantity eId="qty_148" refersTo="#percentage" normalized="100">100%</quantity>       המשולמים         רכיבים</p>
                     <p>רכיבים המשולמים לפי היקף משרה</p>
@@ -1982,7 +1982,7 @@
                     <p>מנהלת בעלת תואר שני, עם <quantity eId="qty_166" refersTo="#seniority" normalized="30">ותק  30</quantity> <concept eId="dom_15" refersTo="#stage_yesodi">בבית ספר יסודי</concept>, מקדם משרה .<quantity eId="qty_167" refersTo="#percentage" normalized="140">140%</quantity>
                     </p>
                     <p>ותק בניהול,  16 רמת המורכבות של בית הספר 3 -</p>
-                    <p>את ההמרה נבצע לפי תלוש השכר של חודש מרץ, 2023 טרום הצטרפות המורה ל"<concept eId="con_151" refersTo="#reform_ofek">אופק חדש</concept>"</p>
+                    <p>את ההמרה נבצע לפי תלוש השכר של חודש מרץ, 2023 טרום הצטרפות המורה ל"<concept eId="con_145" refersTo="#reform_ofek">אופק חדש</concept>"</p>
                     <p>השכר שיילקח להמרה:</p>
                     <p>רכיבים המשולמים ל <quantity eId="qty_168" refersTo="#percentage" normalized="100">100%</quantity>משרה                                               רכיבים המשולמים לפי היקף משרה</p>
                     <p>גמול ניהול</p>

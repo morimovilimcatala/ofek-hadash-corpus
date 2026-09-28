@@ -512,7 +512,7 @@
           <num>17</num>
           <heading>מורה אם</heading>
           <content>
-            <p>מבנה שבוע העבודה של מורה אם בהיקף משרה של <quantity eId="qty_21" refersTo="#percentage" normalized="100">100%</quantity>, במסגרת הרפורמה, יהיה כמפורט בסעיפים <ref href="#art_14">14</ref> או 16 בהתאמה, ואולם, מורה אם תהיה זכאית להפחית <quantity eId="qty_22" refersTo="#hour" normalized="0.5">חצי שעה</quantity> ביום (<quantity eId="qty_23" refersTo="#hour" normalized="2.5">2.5 שעות</quantity> שבועיות) משעות השהיה המפורטות בסעיף <ref href="#art_14__para_d">14(ד)</ref> או 16(ד) בהתאמה, מבלי שיופחת שכרה או שיעור משרתה בשל כך.</p>
+            <p>מבנה שבוע העבודה של מורה אם בהיקף משרה של <quantity eId="qty_21" refersTo="#percentage" normalized="100">100%</quantity>, במסגרת הרפורמה, יהיה כמפורט בסעיפים <ref href="#art_14">14</ref> או <ref href="#art_16">16</ref> בהתאמה, ואולם, מורה אם תהיה זכאית להפחית <quantity eId="qty_22" refersTo="#hour" normalized="0.5">חצי שעה</quantity> ביום (<quantity eId="qty_23" refersTo="#hour" normalized="2.5">2.5 שעות</quantity> שבועיות) משעות השהיה המפורטות בסעיף <ref href="#art_14__para_d">14(ד)</ref> או 16(ד) בהתאמה, מבלי שיופחת שכרה או שיעור משרתה בשל כך.</p>
           </content>
         </article>
         <article eId="art_18" repo:prose="same-source">

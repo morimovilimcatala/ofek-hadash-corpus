@@ -234,7 +234,7 @@
           <num>א.4</num>
           <content>
             <p>במקרים חריגים, בהם <organization eId="org_12" refersTo="#moe">משרד החינוך</organization> יאשר מינוי לרכז מקצוע שש- שנתי, למורה שכל משרתו <concept eId="dom_29" refersTo="#stage_chativat_beinayim">בחטיבת הביניים</concept>- התגמול לרכז יהיה במלואו עפ"י הסכם "<concept eId="con_13" refersTo="#reform_ofek">אופק חדש</concept>" (או טרום הרפורמה, אם המורה אינו מועסק עפ"י תנאי הרפורמה).</p>
-            <p>במקרים חריגים, בהם <organization eId="org_14" refersTo="#moe">משרד החינוך</organization> יאשר מינוי לרכז מקצוע שש- שנתי, למורה שכל משרתו <concept eId="dom_30" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept>- התגמול לרכז יהיה במלואו עפ"י הסכם <concept eId="con_15" refersTo="#reform_oz">עוז לתמורה</concept> (או טרום הרפורמה, אם המורה אינו מועסק עפ"י תנאי הרפורמה).</p>
+            <p>במקרים חריגים, בהם <organization eId="org_14" refersTo="#moe">משרד החינוך</organization> יאשר מינוי לרכז מקצוע שש- שנתי, למורה שכל משרתו <concept eId="dom_30" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept>- התגמול לרכז יהיה במלואו עפ"י <ref href="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement">הסכם עוז לתמורה</ref> (או טרום הרפורמה, אם המורה אינו מועסק עפ"י תנאי הרפורמה).</p>
           </content>
         </paragraph>
         <paragraph eId="art_a__para_5">
@@ -261,13 +261,13 @@
         <paragraph eId="art_b__para_2">
           <num>ב.2</num>
           <content>
-            <p>עובד הוראה הזכאי לגמול פיצול <concept eId="dom_36" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> בבית ספר שש- שנתי רק בשל מס' הכיתות הכולל בהן הוא מלמד, <concept eId="dom_37" refersTo="#stage_chativat_beinayim">בחט"ב</concept> <concept eId="dom_38" refersTo="#stage_chativa_elyona">ובחט"ע</concept> יחד (ואשר אם תיבחן זכאותו לפי מספר הכיתות <concept eId="dom_39" refersTo="#stage_chativa_elyona">בחט"ע</concept> בלבד- לא יהיה זכאי לגמול פיצול), ומועסק <concept eId="dom_40" refersTo="#stage_chativat_beinayim">בחט"ב</concept> בתנאי רפורמת "<concept eId="con_16" refersTo="#reform_ofek">אופק חדש</concept>"- אחוז הגמול המגיע לו יקבע לפי מספר הכיתות הכולל <concept eId="dom_41" refersTo="#stage_chativat_beinayim">בחט"ב</concept> <concept eId="dom_42" refersTo="#stage_chativa_elyona">ובחט"ע</concept> יחד.</p>
+            <p>עובד הוראה הזכאי לגמול פיצול <concept eId="dom_36" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> בבית ספר שש- שנתי רק בשל מס' הכיתות הכולל בהן הוא מלמד, <concept eId="dom_37" refersTo="#stage_chativat_beinayim">בחט"ב</concept> <concept eId="dom_38" refersTo="#stage_chativa_elyona">ובחט"ע</concept> יחד (ואשר אם תיבחן זכאותו לפי מספר הכיתות <concept eId="dom_39" refersTo="#stage_chativa_elyona">בחט"ע</concept> בלבד- לא יהיה זכאי לגמול פיצול), ומועסק <concept eId="dom_40" refersTo="#stage_chativat_beinayim">בחט"ב</concept> בתנאי רפורמת "<concept eId="con_15" refersTo="#reform_ofek">אופק חדש</concept>"- אחוז הגמול המגיע לו יקבע לפי מספר הכיתות הכולל <concept eId="dom_41" refersTo="#stage_chativat_beinayim">בחט"ב</concept> <concept eId="dom_42" refersTo="#stage_chativa_elyona">ובחט"ע</concept> יחד.</p>
             <p>אולם, חישוב התשלום של גמול זה יהיה לפי חלקיות העסקתו <concept eId="dom_43" refersTo="#stage_chativa_elyona">בחט"ע</concept> בלבד (ביחס לחלקיות העסקתו הכוללת <concept eId="dom_44" refersTo="#stage_chativa_elyona">בחט"ע</concept> <concept eId="dom_45" refersTo="#stage_chativa_elyona">ובחט"ע</concept> יחד), ולא לפי משרה מלאה.</p>
-            <p>זאת, מאחר שגמול הפיצול אינו ממשיך להתקיים ברפורמת "<concept eId="con_17" refersTo="#reform_ofek">אופק חדש</concept>", אלא, הוא נלקח בחשבון בשכר להמרה ובטבלת השכר החדשה ברפורמת "<concept eId="con_18" refersTo="#reform_ofek">אופק חדש</concept>".</p>
+            <p>זאת, מאחר שגמול הפיצול אינו ממשיך להתקיים ברפורמת "<concept eId="con_16" refersTo="#reform_ofek">אופק חדש</concept>", אלא, הוא נלקח בחשבון בשכר להמרה ובטבלת השכר החדשה ברפורמת "<concept eId="con_17" refersTo="#reform_ofek">אופק חדש</concept>".</p>
             <p>לדוגמה :</p>
             <p>מורה מלמד ב- <quantity eId="qty_21" refersTo="#class" normalized="7">7 כיתות</quantity> במוסד, <concept eId="dom_46" refersTo="#stage_chativat_beinayim">בחט"ב</concept> <concept eId="dom_47" refersTo="#stage_chativa_elyona">ובחט"ע</concept> יחד וזכאי לגמול בשיעור של <quantity eId="qty_22" refersTo="#percentage" normalized="5">5%</quantity>.</p>
-            <p>היקף משרתו של המורה <concept eId="dom_48" refersTo="#stage_chativat_beinayim">בחט"ב</concept>, <concept eId="con_19" refersTo="#reform_ofek">באופק חדש</concept>- <quantity eId="qty_23" refersTo="#percentage" normalized="40">40%</quantity> משרה.</p>
-            <p>היקף משרתו של המורה <concept eId="dom_49" refersTo="#stage_chativa_elyona">בחט"ע</concept> <concept eId="con_20" refersTo="#reform_oz">בעוז לתמורה</concept> (או עולם ישן)- <quantity eId="qty_24" refersTo="#percentage" normalized="50">50%</quantity> משרה.</p>
+            <p>היקף משרתו של המורה <concept eId="dom_48" refersTo="#stage_chativat_beinayim">בחט"ב</concept>, <concept eId="con_18" refersTo="#reform_ofek">באופק חדש</concept>- <quantity eId="qty_23" refersTo="#percentage" normalized="40">40%</quantity> משרה.</p>
+            <p>היקף משרתו של המורה <concept eId="dom_49" refersTo="#stage_chativa_elyona">בחט"ע</concept> <concept eId="con_19" refersTo="#reform_oz">בעוז לתמורה</concept> (או עולם ישן)- <quantity eId="qty_24" refersTo="#percentage" normalized="50">50%</quantity> משרה.</p>
             <p>גמול הפיצול (<quantity eId="qty_25" refersTo="#percentage" normalized="5">5%</quantity>) ישולם לו על פי השכר <concept eId="dom_50" refersTo="#stage_chativa_elyona">בחט"ע</concept> , המתאים להיקף משרה של <quantity eId="qty_26" refersTo="#percentage" normalized="55.6">55.6%</quantity> משרה לפי החישוב <quantity eId="qty_27" refersTo="#percentage" normalized="55.6">55.6%</quantity> = <quantity eId="qty_28" refersTo="#percentage" normalized="50">50%</quantity>
             </p>
             <p><quantity eId="qty_29" refersTo="#percentage" normalized="90">90%</quantity>
@@ -277,7 +277,7 @@
         <paragraph eId="art_b__para_3">
           <num>ב.3</num>
           <intro>
-            <p>עובד הוראה המלמד בבית ספר שש- שנתי, <concept eId="dom_51" refersTo="#stage_chativat_beinayim">בחט"ב</concept> <concept eId="dom_52" refersTo="#stage_chativa_elyona">ובחט"ע</concept>, ומועסק <concept eId="dom_53" refersTo="#stage_chativat_beinayim">בחט"ב</concept> בתנאי רפורמת "<concept eId="con_21" refersTo="#reform_ofek">אופק חדש</concept>", אשר זכאי לגמול פיצול גם בשל מספר הכיתות <concept eId="dom_54" refersTo="#stage_chativa_elyona">בחט"ע</concept> בלבד, יהיה זכאי לגמול הפיצול שסכומו השקלי הינו הגבוה מבין השניים :</p>
+            <p>עובד הוראה המלמד בבית ספר שש- שנתי, <concept eId="dom_51" refersTo="#stage_chativat_beinayim">בחט"ב</concept> <concept eId="dom_52" refersTo="#stage_chativa_elyona">ובחט"ע</concept>, ומועסק <concept eId="dom_53" refersTo="#stage_chativat_beinayim">בחט"ב</concept> בתנאי רפורמת "<concept eId="con_20" refersTo="#reform_ofek">אופק חדש</concept>", אשר זכאי לגמול פיצול גם בשל מספר הכיתות <concept eId="dom_54" refersTo="#stage_chativa_elyona">בחט"ע</concept> בלבד, יהיה זכאי לגמול הפיצול שסכומו השקלי הינו הגבוה מבין השניים :</p>
           </intro>
           <subparagraph eId="art_b__para_3__subpara_a">
             <num>א.</num>
@@ -296,13 +296,13 @@
       </article>
       <article eId="art_c" repo:prose="same-source">
         <num>ג.</num>
-        <heading>תוספת אם למורה המועסק בסוגי העסקה שונים ( <concept eId="con_22" refersTo="#reform_oz">עוז לתמורה</concept>, <concept eId="con_23" refersTo="#reform_ofek">אופק חדש</concept>, עולם ישן)</heading>
+        <heading>תוספת אם למורה המועסק בסוגי העסקה שונים ( <concept eId="con_21" refersTo="#reform_oz">עוז לתמורה</concept>, <concept eId="con_22" refersTo="#reform_ofek">אופק חדש</concept>, עולם ישן)</heading>
         <paragraph eId="art_c__para_a">
           <num>א.</num>
           <content>
             <p>שיעור תוספת האם למורה</p>
-            <p>שיעור תוספת האם ביישום מלא של <concept eId="con_24" refersTo="#reform_oz">עוז לתמורה</concept>- <quantity eId="qty_31" refersTo="#percentage" normalized="7">7%</quantity>.</p>
-            <p>שיעור תוספת האם ביישום חלקי של <concept eId="con_25" refersTo="#reform_oz">עוז לתמורה</concept> בשנה"ל תשע"ד- <quantity eId="qty_32" refersTo="#percentage" normalized="7.6">7.6%</quantity>.</p>
+            <p>שיעור תוספת האם ביישום מלא של <concept eId="con_23" refersTo="#reform_oz">עוז לתמורה</concept>- <quantity eId="qty_31" refersTo="#percentage" normalized="7">7%</quantity>.</p>
+            <p>שיעור תוספת האם ביישום חלקי של <concept eId="con_24" refersTo="#reform_oz">עוז לתמורה</concept> בשנה"ל תשע"ד- <quantity eId="qty_32" refersTo="#percentage" normalized="7.6">7.6%</quantity>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_c__para_b">
@@ -312,8 +312,8 @@
             </p>
             <p>מנהלת שש שנתי/<concept eId="dom_63" refersTo="#stage_chativa_elyona">חטיבה עליונה</concept> אינה זכאית לתוספת אם אחוזית, אלא להפחתה של עד <quantity eId="qty_33" refersTo="#hour" normalized="2.4">2.4 ש"ש</quantity> ניהול מבלי שהיקף משרתה יפגע בשל כך. היקף משרתה לא יעלה על <quantity eId="qty_34" refersTo="#percentage" normalized="100">100%</quantity> בשל הפחתת שעות זו.</p>
             <p>ולדוגמה :</p>
-            <p>היקף משרתה של מנהלת אם העובדת בפועל בבי"ס (בו מיושמת רפורמת <concept eId="con_26" refersTo="#reform_oz">עוז לתמורה</concept> באופן מלא) <quantity eId="qty_35" refersTo="#hour" normalized="37.6">37.6 ש"ש</quantity> הינו <quantity eId="qty_36" refersTo="#percentage" normalized="100">100%</quantity> ולא <quantity eId="qty_37" refersTo="#percentage" normalized="94">94%</quantity>.</p>
-            <p>היקף משרתה של מנהלת אם העובדת בפועל בבי"ס (בו מיושמת רפורמת <concept eId="con_27" refersTo="#reform_oz">עוז לתמורה</concept> באופן מלא) <quantity eId="qty_38" refersTo="#hour" normalized="39">39 ש"ש</quantity> (לדוגמה) הינו <quantity eId="qty_39" refersTo="#percentage" normalized="100">100%</quantity> (לא <quantity eId="qty_40" refersTo="#percentage" normalized="97.5">97.5%</quantity> ולא <quantity eId="qty_41" refersTo="#percentage" normalized="103.5">103.5%</quantity>).</p>
+            <p>היקף משרתה של מנהלת אם העובדת בפועל בבי"ס (בו מיושמת רפורמת <concept eId="con_25" refersTo="#reform_oz">עוז לתמורה</concept> באופן מלא) <quantity eId="qty_35" refersTo="#hour" normalized="37.6">37.6 ש"ש</quantity> הינו <quantity eId="qty_36" refersTo="#percentage" normalized="100">100%</quantity> ולא <quantity eId="qty_37" refersTo="#percentage" normalized="94">94%</quantity>.</p>
+            <p>היקף משרתה של מנהלת אם העובדת בפועל בבי"ס (בו מיושמת רפורמת <concept eId="con_26" refersTo="#reform_oz">עוז לתמורה</concept> באופן מלא) <quantity eId="qty_38" refersTo="#hour" normalized="39">39 ש"ש</quantity> (לדוגמה) הינו <quantity eId="qty_39" refersTo="#percentage" normalized="100">100%</quantity> (לא <quantity eId="qty_40" refersTo="#percentage" normalized="97.5">97.5%</quantity> ולא <quantity eId="qty_41" refersTo="#percentage" normalized="103.5">103.5%</quantity>).</p>
           </content>
         </paragraph>
         <paragraph eId="art_c__para_c">
@@ -337,9 +337,9 @@
             <p>G</p>
             <p>וכן בהתאם אם המורה מועסק בבתי"ס נוספים.</p>
             <p>נמחיש זאת בדוגמה מספרית :</p>
-            <p>A= היקף העסקה בביה"ס א' בו המורה מועסק <concept eId="con_28" refersTo="#reform_oz">בעוז לתמורה</concept> מלא = <quantity eId="qty_42" refersTo="#percentage" normalized="30">30%</quantity>
+            <p>A= היקף העסקה בביה"ס א' בו המורה מועסק <concept eId="con_27" refersTo="#reform_oz">בעוז לתמורה</concept> מלא = <quantity eId="qty_42" refersTo="#percentage" normalized="30">30%</quantity>
             </p>
-            <p>B= היקף העסקה בביה"ס ב' בו המורה מועסק <concept eId="con_29" refersTo="#reform_oz">בעוז לתמורה</concept> חלקי = <quantity eId="qty_43" refersTo="#percentage" normalized="60">60%</quantity>
+            <p>B= היקף העסקה בביה"ס ב' בו המורה מועסק <concept eId="con_28" refersTo="#reform_oz">בעוז לתמורה</concept> חלקי = <quantity eId="qty_43" refersTo="#percentage" normalized="60">60%</quantity>
             </p>
             <p>G= היקף ההעסקה הכולל בכל בתיה"ס= <quantity eId="qty_44" refersTo="#percentage" normalized="90">90%</quantity>
             </p>
@@ -355,12 +355,12 @@
             </p>
             <p><quantity eId="qty_54" refersTo="#percentage" normalized="90">90%</quantity>
             </p>
-            <p>במידה וההעסקה של המורה <concept eId="dom_64" refersTo="#stage_chativat_beinayim">בחט"ב</concept> הינה ברפורמת "<concept eId="con_30" refersTo="#reform_ofek">אופק חדש</concept>" <concept eId="dom_65" refersTo="#stage_chativa_elyona">ובחט"ע</concept> ההעסקה הינה בעולם הישן או לפי רפורמת "<concept eId="con_31" refersTo="#reform_oz">עוז לתמורה</concept>", ההעסקה באופק תהיה על-פי מבנה שבוע העבודה המותאם למורה אם, עפ"י שיעור המשרה <concept eId="dom_66" refersTo="#stage_chativat_beinayim">בחט"ב</concept>.</p>
-            <p><concept eId="dom_67" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> תוספת האם האחוזית תחושב מהיקף המשרה <concept eId="dom_68" refersTo="#stage_chativa_elyona">בחט"ע</concept> ( <concept eId="con_32" refersTo="#reform_oz">עוז לתמורה</concept> או ללא רפורמה).</p>
+            <p>במידה וההעסקה של המורה <concept eId="dom_64" refersTo="#stage_chativat_beinayim">בחט"ב</concept> הינה ברפורמת "<concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept>" <concept eId="dom_65" refersTo="#stage_chativa_elyona">ובחט"ע</concept> ההעסקה הינה בעולם הישן או לפי רפורמת "<concept eId="con_30" refersTo="#reform_oz">עוז לתמורה</concept>", ההעסקה באופק תהיה על-פי מבנה שבוע העבודה המותאם למורה אם, עפ"י שיעור המשרה <concept eId="dom_66" refersTo="#stage_chativat_beinayim">בחט"ב</concept>.</p>
+            <p><concept eId="dom_67" refersTo="#stage_chativa_elyona">בחטיבה העליונה</concept> תוספת האם האחוזית תחושב מהיקף המשרה <concept eId="dom_68" refersTo="#stage_chativa_elyona">בחט"ע</concept> ( <concept eId="con_31" refersTo="#reform_oz">עוז לתמורה</concept> או ללא רפורמה).</p>
             <p>ולדוגמא :</p>
             <p>העסקה <concept eId="dom_69" refersTo="#stage_chativa_elyona">בחט"ע</concept> -<quantity eId="qty_55" refersTo="#percentage" normalized="60">60%</quantity> משרה, <concept eId="dom_70" refersTo="#stage_chativat_beinayim">וחט"ב</concept> באופק-<quantity eId="qty_56" refersTo="#percentage" normalized="40">40%</quantity> משרה.</p>
             <p>עבור העסקה <concept eId="dom_71" refersTo="#stage_chativa_elyona">בחט"ע</concept> תחושב הזכאות : <quantity eId="qty_57" refersTo="#percentage" normalized="7">7%</quantity> * <quantity eId="qty_58" refersTo="#position" normalized="0.6">0.6 משרה</quantity>=<quantity eId="qty_59" refersTo="#percentage" normalized="4.2">4.2%</quantity> תוספת בגין משרת אם.</p>
-            <p>כמו כן- העסקה <concept eId="dom_72" refersTo="#stage_chativat_beinayim">בחט"ב</concept> תהיה על-פי מבנה שבוע עבודה למשרת אם על פי חלקיות המשרה <concept eId="con_33" refersTo="#reform_ofek">באופק חדש</concept> ( <quantity eId="qty_60" refersTo="#percentage" normalized="40">40%</quantity>).</p>
+            <p>כמו כן- העסקה <concept eId="dom_72" refersTo="#stage_chativat_beinayim">בחט"ב</concept> תהיה על-פי מבנה שבוע עבודה למשרת אם על פי חלקיות המשרה <concept eId="con_32" refersTo="#reform_ofek">באופק חדש</concept> ( <quantity eId="qty_60" refersTo="#percentage" normalized="40">40%</quantity>).</p>
           </content>
         </paragraph>
       </article>
@@ -369,27 +369,27 @@
       <p>לשאלות בנוגע לחוזר זה, ניתן לפנות <organization eId="unt_1" refersTo="#unit_e2b7d788">ליחידה לתנאי שירות עובדי הוראה</organization> בטלפונים : <a href="tel:+97225604828">02-5604828</a>/757</p>
       <p>בברכה,</p>
       <p>[חתימות]</p>
-      <p><role eId="rol_52" refersTo="#office_4978bf1c">סמנכ"לית ומנהלת המינהל</role>
+      <p><role eId="rol_51" refersTo="#office_4978bf1c">סמנכ"לית ומנהלת המינהל</role>
       </p>
       <p>העתק:</p>
-      <p>גב' <person eId="pers_1" refersTo="#p_6bb70ed1" as="#role-mankal">מיכל כהן</person>- <role eId="rol_34" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_35" refersTo="#moe">משרד החינוך</organization>
+      <p>גב' <person eId="pers_1" refersTo="#p_6bb70ed1" as="#role-mankal">מיכל כהן</person>- <role eId="rol_33" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_34" refersTo="#moe">משרד החינוך</organization>
       </p>
-      <p>מר <person eId="pers_2" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person>- <role eId="rol_36" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_37" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_2" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person>- <role eId="rol_35" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_36" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_3" refersTo="#p_adcb72bb" as="#role-segan-bakhir">קובי בר נתן</person>, <role eId="hed_1" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_38" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_39" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_3" refersTo="#p_adcb72bb" as="#role-segan-bakhir">קובי בר נתן</person>, <role eId="hed_1" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_37" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_38" refersTo="#mof">משרד האוצר</organization>
       </p>
       <p>גב' <person eId="pers_4" refersTo="#p_a1c0ea3a">אריאלה טוקר</person> -חשבת המשרד</p>
       <p>מר <person eId="pers_5" refersTo="#p_e8cd65cb" as="#role-samankal-bakhir">משה שגיא</person>, <role eId="hed_2" refersTo="#role-samankal-bakhir">סמנכ"ל בכיר</role> <organization eId="unt_2" refersTo="#unit_00ae5b17">למינהל כלכלה ותקציבים</organization>
       </p>
-      <p>עו"ד <person eId="pers_6" refersTo="#p_764ccce1">דורית מורג</person>- <role eId="rol_40" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
+      <p>עו"ד <person eId="pers_6" refersTo="#p_764ccce1">דורית מורג</person>- <role eId="rol_39" refersTo="#role-yoetzet-mishpatit">היועצת המשפטית</role>
       </p>
-      <p>מר <person eId="pers_7" refersTo="#p_4b7467e5" as="#role-yor">רן ארז</person>- <role eId="rol_41" refersTo="#role-yor">יו"ר</role> <organization eId="org_42" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל-יסודיים</organization>
+      <p>מר <person eId="pers_7" refersTo="#p_4b7467e5" as="#role-yor">רן ארז</person>- <role eId="rol_40" refersTo="#role-yor">יו"ר</role> <organization eId="org_41" refersTo="#irgun-hamorim">ארגון המורים בבתי הספר העל-יסודיים</organization>
       </p>
-      <p>מר <person eId="pers_8" refersTo="#p_9317fe46" as="#role-mazkir-klali">יוסי וסרמן</person>- <role eId="rol_43" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_44" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      <p>מר <person eId="pers_8" refersTo="#p_9317fe46" as="#role-mazkir-klali">יוסי וסרמן</person>- <role eId="rol_42" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_43" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
       </p>
       <p>גב' <person eId="pers_9" refersTo="#p_7e00cea6">תמי יהושע</person>, מ"מ מנהל <organization eId="unt_3" refersTo="#unit_f2a5318d">אגף בכיר לכא"ב</organization>
       </p>
-      <p><role eId="rol_53" refersTo="#office_4ed2f902">מנהלת ומנהלי המחוזות</role>
+      <p><role eId="rol_52" refersTo="#office_4ed2f902">מנהלת ומנהלי המחוזות</role>
       </p>
       <p>מר <person eId="pers_10" refersTo="#p_e6a72cc2" as="#role-menahel">עופר רימון</person>- <role eId="hed_3" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_4" refersTo="#unit_47027eae">מינהל תקשוב ומערכות מידע</organization>
       </p>
@@ -397,7 +397,7 @@
       </p>
       <p>גב' <person eId="pers_12" refersTo="#p_e03b783f" as="#role-menahel">דסי בארי</person>- <role eId="hed_7" refersTo="#role-menahel">מנהלת</role> <organization eId="unt_7" refersTo="#unit_37ca893f">האגף לחינוך על-יסודי</organization>
       </p>
-      <p>גב' <person eId="pers_13" refersTo="#p_037a3044">אריאלה ישראלי</person>, מנהלת אגף <concept eId="con_45" refersTo="#reform_oz">עוז לתמורה</concept>
+      <p>גב' <person eId="pers_13" refersTo="#p_037a3044">אריאלה ישראלי</person>, מנהלת אגף <concept eId="con_44" refersTo="#reform_oz">עוז לתמורה</concept>
       </p>
       <p>גב' <person eId="pers_14" refersTo="#p_e53a46c3" as="#role-yoetz">אורית ריזל</person>, <role eId="hed_8" refersTo="#role-yoetz">יועצת</role> <organization eId="unt_8" refersTo="#unit_00ae5b17">למינהל כלכלה ותקציבים</organization>
       </p>
@@ -409,19 +409,19 @@
       </p>
       <p>גב' <person eId="pers_18" refersTo="#p_94827b85">ננולי טרוני</person>- מנהלת תחום, <organization eId="unt_13" refersTo="#unit_cc8f2238">חשבות המשרד</organization>
       </p>
-      <p>מר <person eId="pers_19" refersTo="#p_5b10e7d8">משה בכר</person> - רכז חינוך והשכלה גבוהה, <organization eId="org_46" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_19" refersTo="#p_5b10e7d8">משה בכר</person> - רכז חינוך והשכלה גבוהה, <organization eId="org_45" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>מר <person eId="pers_20" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך <organization eId="org_47" refersTo="#mof">משרד האוצר</organization>
+      <p>מר <person eId="pers_20" refersTo="#p_73257817">אבי פרידמן</person>, רכז חינוך <organization eId="org_46" refersTo="#mof">משרד האוצר</organization>
       </p>
-      <p>גב' <person eId="pers_21" refersTo="#p_f71cee61" as="#office_293a6da2">רחל טייטלבום</person> - <role eId="rol_55" refersTo="#office_293a6da2">ממונה על תנאי שירות עובדי הוראה</role>
+      <p>גב' <person eId="pers_21" refersTo="#p_f71cee61" as="#office_293a6da2">רחל טייטלבום</person> - <role eId="rol_54" refersTo="#office_293a6da2">ממונה על תנאי שירות עובדי הוראה</role>
       </p>
-      <p>עו"ד <person eId="pers_22" refersTo="#p_faea6aa0" as="#role-menahel">דן בן חיים</person>-<role eId="hed_10" refersTo="#role-menahel">מנהל</role> <organization eId="unt_14" refersTo="#unit_e92e50da">המחלקה ליחסי עבודה ושכר</organization>, <organization eId="org_48" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>עו"ד <person eId="pers_22" refersTo="#p_faea6aa0" as="#role-menahel">דן בן חיים</person>-<role eId="hed_10" refersTo="#role-menahel">מנהל</role> <organization eId="unt_14" refersTo="#unit_e92e50da">המחלקה ליחסי עבודה ושכר</organization>, <organization eId="org_47" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>גב' <person eId="pers_23" refersTo="#p_bca8a4ab" as="#office_293a6da2">חגית מגן</person>- <role eId="rol_56" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_49" refersTo="#local-government">מרכז השלטון המקומי</organization>
+      <p>גב' <person eId="pers_23" refersTo="#p_bca8a4ab" as="#office_293a6da2">חגית מגן</person>- <role eId="rol_55" refersTo="#office_293a6da2">ממונה על תנאי שירות</role>, <organization eId="org_48" refersTo="#local-government">מרכז השלטון המקומי</organization>
       </p>
-      <p>מר <person eId="pers_24" refersTo="#p_03d80d03" as="#role-mankal">שייע יצחק ישועה</person>- <role eId="rol_50" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_51" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
+      <p>מר <person eId="pers_24" refersTo="#p_03d80d03" as="#role-mankal">שייע יצחק ישועה</person>- <role eId="rol_49" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_50" refersTo="#regional-councils">ארגון המועצות האיזוריות</organization>
       </p>
-      <p><role eId="rol_54" refersTo="#office_e32b7007">גזברי המחוזות</role>
+      <p><role eId="rol_53" refersTo="#office_e32b7007">גזברי המחוזות</role>
       </p>
     </conclusions>
   </doc>

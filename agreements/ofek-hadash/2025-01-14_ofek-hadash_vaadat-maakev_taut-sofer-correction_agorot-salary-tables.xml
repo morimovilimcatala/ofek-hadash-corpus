@@ -112,7 +112,7 @@
         <paragraph eId="art_1__para_a">
           <num>1.א</num>
           <content>
-            <p>עובד הוראה קיים, כמשמעותו <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם הקיבוצי בעניין רפורמת אופק חדש מיום 25.12.2008</ref> כפי שתוקן מעת לעת (להלן – <def refersTo="#term_1e5a6829">הסכם רפורמת אופק חדש</def>), אשר עבר להעסקה בתנאי רפורמת <concept eId="con_1" refersTo="#reform_ofek">אופק חדש</concept> ביום <date date="2022-09-01">1.9.2022</date> ולפיכך נדרש שיבוצו בטבלאות השכר בהתאם להוראה הקבועה בסעיף 47 להסכם רפורמת <concept eId="con_2" refersTo="#reform_ofek">אופק חדש</concept>.</p>
+            <p>עובד הוראה קיים, כמשמעותו <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">בהסכם הקיבוצי בעניין רפורמת אופק חדש מיום 25.12.2008</ref> כפי שתוקן מעת לעת (להלן – <def refersTo="#term_1e5a6829">הסכם רפורמת אופק חדש</def>), אשר עבר להעסקה בתנאי רפורמת <concept eId="con_1" refersTo="#reform_ofek">אופק חדש</concept> ביום <date date="2022-09-01">1.9.2022</date> ולפיכך נדרש שיבוצו בטבלאות השכר בהתאם להוראה הקבועה בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_47">47</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם רפורמת אופק חדש</ref>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_1__para_b">
@@ -146,7 +146,7 @@
       <article eId="art_5" repo:prose="same-source">
         <num>5</num>
         <content>
-          <p>למען הסר כל ספק מובהר כי, בהתאם לסעיף 5.2 להסכם, מועד החלת הטבלה בנספח ג'3 <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי</ref> אשר כותרתו "<concept eId="cmp_1" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר BA (<concept eId="con_3" refersTo="#dirug_101">קוד דירוג 101</concept>)" הינו <date date="2023-09-01">1.9.23</date> ובשל טעות סופר נכתב בנספח האמור התאריך <date date="2023-01-01">1.1.23</date>.</p>
+          <p>למען הסר כל ספק מובהר כי, בהתאם לסעיף 5.2 להסכם, מועד החלת הטבלה בנספח ג'3 <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי</ref> אשר כותרתו "<concept eId="cmp_1" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר BA (<concept eId="con_2" refersTo="#dirug_101">קוד דירוג 101</concept>)" הינו <date date="2023-09-01">1.9.23</date> ובשל טעות סופר נכתב בנספח האמור התאריך <date date="2023-01-01">1.1.23</date>.</p>
         </content>
       </article>
       <article eId="art_6" repo:prose="same-source">
@@ -172,8 +172,8 @@
           <num>7.ב</num>
           <content>
             <p><mod eId="art_7__para_b__mod_1">לאחר סעיף קטן <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement/!main#art_29">29</ref>.1.3 יבוא:<quotedStructure eId="art_7__para_b__mod_1__qstr_1" startQuote="&quot;" endQuote="&quot;">
-                  <p>29.1.3א. עובד הוראה מהמגזר הערבי אשר שובץ לעבודה <organization eId="org_4" refersTo="#moe">במשרד החינוך</organization> במוסד/ מוסדות חינוך במגזר הערבי שלא לשנת לימודים מלאה ובהתאם לשיבוץ ולשעות המערכת הקבועות בעניינו עליו לעבוד ביום אחד מחופשת האביב (שהתקצרה), יהיה זכאי ליום חופשה אחד, כאמור בסעיף זה, בגין עבודתו באותה שנת לימודים.</p>
-                  <p>עובד הוראה מהמגזר הערבי אשר שובץ לעבודה <organization eId="org_5" refersTo="#moe">במשרד החינוך</organization> במוסד/ מוסדות חינוך במגזר הערבי שלא לשנת לימודים מלאה ובהתאם לשיבוץ ולשעות המערכת הקבועות בעניינו עליו לעבוד בשני ימים מחופשת האביב (שהתקצרה), יהיה זכאי לשני ימי חופשה, כאמור בסעיף זה, בגין עבודתו באותה שנת לימודים. למען הסר כל ספק, מובהר כי מס' ימי החופשה הכולל לעובד בשנת לימודים לא יעלה על הקבוע בסעיף 29.1.1.</p>
+                  <p>29.1.3א. עובד הוראה מהמגזר הערבי אשר שובץ לעבודה <organization eId="org_3" refersTo="#moe">במשרד החינוך</organization> במוסד/ מוסדות חינוך במגזר הערבי שלא לשנת לימודים מלאה ובהתאם לשיבוץ ולשעות המערכת הקבועות בעניינו עליו לעבוד ביום אחד מחופשת האביב (שהתקצרה), יהיה זכאי ליום חופשה אחד, כאמור בסעיף זה, בגין עבודתו באותה שנת לימודים.</p>
+                  <p>עובד הוראה מהמגזר הערבי אשר שובץ לעבודה <organization eId="org_4" refersTo="#moe">במשרד החינוך</organization> במוסד/ מוסדות חינוך במגזר הערבי שלא לשנת לימודים מלאה ובהתאם לשיבוץ ולשעות המערכת הקבועות בעניינו עליו לעבוד בשני ימים מחופשת האביב (שהתקצרה), יהיה זכאי לשני ימי חופשה, כאמור בסעיף זה, בגין עבודתו באותה שנת לימודים. למען הסר כל ספק, מובהר כי מס' ימי החופשה הכולל לעובד בשנת לימודים לא יעלה על הקבוע בסעיף 29.1.1.</p>
                 </quotedStructure>
               </mod>
             </p>
@@ -193,7 +193,7 @@
         </content>
       </article>
       <hcontainer eId="hc_meshulav_ba_2022_09_01" name="table" repo:csv="tables/meshulav_ba_2022-09-01.csv">
-        <heading>נספח א'1 — טבלת השכר המשולב למורים בעלי תואר BA (<concept eId="con_6" refersTo="#dirug_101">קוד דירוג 101</concept>), מיום <date date="2022-09-01">1.9.2022</date>
+        <heading>נספח א'1 — טבלת השכר המשולב למורים בעלי תואר BA (<concept eId="con_5" refersTo="#dirug_101">קוד דירוג 101</concept>), מיום <date date="2022-09-01">1.9.2022</date>
         </heading>
         <content>
           <p repo:note="provenance">source: law/agreements/ofek-hadash/2025-01-14_ofek-hadash_vaadat-maakev_taut-sofer-correction_agorot-salary-tables.pdf page 3 = Nispach Alef-1, BA (dirug 101), effective 1.9.2022, agorot-precision (corrects the shekel-rounded appendix of the 19.10.2022 agreement per the decision's clause 3) transcription: FULL grid darga 1-9 x vetek 1-36 (sparse: darga d starts at vetek 1/3/6/8/11/14/18/22/26 for d=1..9; absent cells do not exist in the printed table). verified 2026-07-11: OCR digit-stream + full visual sweep at 600dpi + integer cross-check against law/tables/2022-09-01_ofek-hadash_salary-table_BA.pdf (all 224 integers match) -- see tables/verify_tables.py</p>
@@ -2901,7 +2901,7 @@
         </content>
       </hcontainer>
       <hcontainer eId="hc_meshulav_ma_2022_09_01" name="table" repo:csv="tables/meshulav_ma_2022-09-01.csv">
-        <heading>נספח א'2 — טבלת השכר המשולב למורים בעלי תואר MA (<concept eId="con_7" refersTo="#dirug_102">קוד דירוג 102</concept>), מיום <date date="2022-09-01">1.9.2022</date>
+        <heading>נספח א'2 — טבלת השכר המשולב למורים בעלי תואר MA (<concept eId="con_6" refersTo="#dirug_102">קוד דירוג 102</concept>), מיום <date date="2022-09-01">1.9.2022</date>
         </heading>
         <content>
           <p repo:note="provenance">source: law/agreements/ofek-hadash/2025-01-14_ofek-hadash_vaadat-maakev_taut-sofer-correction_agorot-salary-tables.pdf page 4 = Nispach Alef-2, MA (dirug 102), effective 1.9.2022, agorot-precision (corrects the shekel-rounded appendix of the 19.10.2022 agreement per the decision's clause 3) transcription: FULL grid darga 1-9 x vetek 1-36 (same sparsity as BA: darga d starts at vetek 1/3/6/8/11/14/18/22/26 for d=1..9). verified 2026-07-11: OCR digit-stream + full visual sweep at 600dpi + integer cross-check against law/tables/2022-09-01_ofek-hadash_salary-table_MA.pdf (all 224 integers match) -- see tables/verify_tables.py</p>
@@ -5609,7 +5609,7 @@
         </content>
       </hcontainer>
       <hcontainer eId="hc_tosefet_ofek_ba_2022_09_01" name="table" repo:csv="tables/tosefet_ofek_ba_2022-09-01.csv">
-        <heading>נספח ב'1 — <concept eId="cmp_2" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר BA (<concept eId="con_8" refersTo="#dirug_101">קוד דירוג 101</concept>), מיום <date date="2022-09-01">1.9.2022</date>
+        <heading>נספח ב'1 — <concept eId="cmp_2" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר BA (<concept eId="con_7" refersTo="#dirug_101">קוד דירוג 101</concept>), מיום <date date="2022-09-01">1.9.2022</date>
         </heading>
         <content>
           <p repo:note="provenance">source: law/tables/2025-01-14_...agorot-salary-tables.pdf page 5 top = Nispach Bet-1, BA (101), effective 1.9.2022, agorot-precision. Darga-only (no vetek dimension), position-prorated per 19.10.2022 agreement sec. 5.3. Shekel-rounded cross-check 2026-08-30 against law/tables/2022-09-01_ofek-hadash_tosefet-ofek-2022_BA.pdf as read in reference/transcriptions/2022-09-01_ofek-hadash_tosefet-ofek-2022_BA.txt (793/668/543/418/293/168/93/18/0): all nine agree. This is a comparison against the repository's transcription of that page, not a second visual sweep of the scan — the MA twin's line records a 600dpi check and this one does not, because that is not what was done.</p>
@@ -5707,7 +5707,7 @@
         </content>
       </hcontainer>
       <hcontainer eId="hc_tosefet_ofek_ba_2023_09_01" name="table" repo:csv="tables/tosefet_ofek_ba_2023-09-01.csv">
-        <heading>נספח ג'1 — <concept eId="cmp_3" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר BA (<concept eId="con_9" refersTo="#dirug_101">קוד דירוג 101</concept>), מיום <date date="2023-09-01">1.9.2023</date>
+        <heading>נספח ג'1 — <concept eId="cmp_3" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר BA (<concept eId="con_8" refersTo="#dirug_101">קוד דירוג 101</concept>), מיום <date date="2023-09-01">1.9.2023</date>
         </heading>
         <content>
           <p repo:note="provenance">source: law/tables/2025-01-14_...agorot-salary-tables.pdf page 5 third table = Nispach Gimel-1, BA (101), effective 1.9.2023 (date itself corrected by the decision's clause 5: scribal "1.1.23" -&gt; 1.9.23), agorot-precision. Exactly 2x the Bet-1 values. Shekel-rounded cross-check 2026-08-30 against law/tables/2022-09-01_ofek-hadash_tosefet-ofek-2022_BA.pdf as read in reference/transcriptions/2022-09-01_ofek-hadash_tosefet-ofek-2022_BA.txt (1,586/1,336/1,086/836/586/336/186/36/0): all nine agree. A comparison against the repository's transcription of that page, not a second visual sweep of the scan.</p>
@@ -5805,7 +5805,7 @@
         </content>
       </hcontainer>
       <hcontainer eId="hc_tosefet_ofek_ma_2022_09_01" name="table" repo:csv="tables/tosefet_ofek_ma_2022-09-01.csv">
-        <heading>נספח ב'2 — <concept eId="cmp_4" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר MA (<concept eId="con_10" refersTo="#dirug_102">קוד דירוג 102</concept>), מיום <date date="2022-09-01">1.9.2022</date>
+        <heading>נספח ב'2 — <concept eId="cmp_4" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר MA (<concept eId="con_9" refersTo="#dirug_102">קוד דירוג 102</concept>), מיום <date date="2022-09-01">1.9.2022</date>
         </heading>
         <content>
           <p repo:note="provenance">source: law/tables/2025-01-14_...agorot-salary-tables.pdf page 5 second table = Nispach Bet-2, MA (102), effective 1.9.2022, agorot-precision. Darga-only (no vetek dimension), position-prorated per 19.10.2022 agreement sec. 5.3. Verified 2026-07-11 at 600dpi zoom; shekel-rounded cross-check against law/tables/2022-09-01_ofek-hadash_tosefet-ofek-2022_MA.pdf (832/701/570/439/307/176/97/19/0) consistent.</p>
@@ -5903,7 +5903,7 @@
         </content>
       </hcontainer>
       <hcontainer eId="hc_tosefet_ofek_ma_2023_09_01" name="table" repo:csv="tables/tosefet_ofek_ma_2023-09-01.csv">
-        <heading>נספח ג'2 — <concept eId="cmp_5" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר MA (<concept eId="con_11" refersTo="#dirug_102">קוד דירוג 102</concept>), מיום <date date="2023-09-01">1.9.2023</date>
+        <heading>נספח ג'2 — <concept eId="cmp_5" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר MA (<concept eId="con_10" refersTo="#dirug_102">קוד דירוג 102</concept>), מיום <date date="2023-09-01">1.9.2023</date>
         </heading>
         <content>
           <p repo:note="provenance">source: law/tables/2025-01-14_...agorot-salary-tables.pdf page 5 fourth table = Nispach Gimel-2, MA (102), effective 1.9.2023 (date itself corrected by the decision's clause 5: scribal "1.1.23" -&gt; 1.9.23), agorot-precision. NOTE: each value = 2 x Bet-2 MINUS 0.01 (unlike BA where Gimel-1 = exactly 2 x Bet-1) -- consistent with unrounded Bet-2 values ending in half-agorot (e.g. 832.435 -&gt; printed 832.44, doubled 1,664.87). Verified 2026-07-11 at 600dpi zoom; shekel-rounded cross-check against law/tables/2022-09-01_ofek-hadash_tosefet-ofek-2022_MA.pdf (1665/1402/1140/877/615/352/195/37/0).</p>
@@ -6003,11 +6003,11 @@
     </body>
     <conclusions>
       <p repo:role="running-head">[חתימות]</p>
-      <p><role eId="rol_12" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+      <p><role eId="rol_11" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
       </p>
-      <p><role eId="rol_13" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_14" refersTo="#moe">משרד החינוך</organization>
+      <p><role eId="rol_12" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_13" refersTo="#moe">משרד החינוך</organization>
       </p>
-      <p><role eId="rol_15" refersTo="#role-mazkir-klali">מזכ"לית</role> <organization eId="org_16" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+      <p><role eId="rol_14" refersTo="#role-mazkir-klali">מזכ"לית</role> <organization eId="org_15" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
       </p>
     </conclusions>
   </act>
