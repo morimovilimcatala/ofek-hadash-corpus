@@ -992,7 +992,7 @@
           <subparagraph eId="art_13__para_3__subpara_b">
             <num>ב.</num>
             <content>
-              <p>לשלוח לכל עובד הוראה מכתב בו יצויין, כי רכיב בגין <concept eId="con_128" refersTo="#reform_ofek">אופק חדש</concept> הינו מקדמה ולכן ינוכה במלואו עם תשלום השכר לעובד על פי הדרגה שתקבע לעובד <concept eId="con_129" refersTo="#reform_ofek">באופק חדש</concept> על ידי <organization eId="org_130" refersTo="#moe">משרד החינוך</organization> בהתאם לנוסח בקישור להלן(: <a href="https://meyda.education.gov.il/files/PortalBaaluyot/POB/kindergarten-ofek-a.pdf">נוסח המכתב</a>  -נספח א');</p>
+              <p>לשלוח לכל עובד הוראה מכתב בו יצויין, כי רכיב בגין <concept eId="con_128" refersTo="#reform_ofek">אופק חדש</concept> הינו מקדמה ולכן ינוכה במלואו עם תשלום השכר לעובד על פי הדרגה שתקבע לעובד <concept eId="con_129" refersTo="#reform_ofek">באופק חדש</concept> על ידי <organization eId="org_130" refersTo="#moe">משרד החינוך</organization> בהתאם לנוסח בקישור להלן(: <a href="https://meyda.education.gov.il/files/PortalBaaluyot/POB/kindergarten-ofek-a.pdf">נוסח המכתב</a>  -<ref href="#att_1">נספח א'</ref>);</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_13__para_3__subpara_c">

@@ -1431,7 +1431,7 @@
             <clause eId="art_f__para_17-3__subpara_3__cls_b">
               <num>ב.</num>
               <content>
-                <p>לשלוח לכל עובד הוראה מכתב בו יצוין, כי רכיב בגין <concept eId="con_147" refersTo="#reform_ofek">אופק חדש</concept> הינו מקדמה ולכן ינוכה במלואו עם תשלום השכר לעובד על פי הדרגה שתקבע לעובד <concept eId="con_148" refersTo="#reform_ofek">באופק חדש</concept> על ידי <organization eId="org_149" refersTo="#moe">משרד החינוך</organization> בהתאם לנוסח בקישור להלן(: <a href="https://meyda.education.gov.il/files/sherut/nispach-kinder-1.pdf">נוסח המכתב</a>  -נספח א');</p>
+                <p>לשלוח לכל עובד הוראה מכתב בו יצוין, כי רכיב בגין <concept eId="con_147" refersTo="#reform_ofek">אופק חדש</concept> הינו מקדמה ולכן ינוכה במלואו עם תשלום השכר לעובד על פי הדרגה שתקבע לעובד <concept eId="con_148" refersTo="#reform_ofek">באופק חדש</concept> על ידי <organization eId="org_149" refersTo="#moe">משרד החינוך</organization> בהתאם לנוסח בקישור להלן(: <a href="https://meyda.education.gov.il/files/sherut/nispach-kinder-1.pdf">נוסח המכתב</a>  -<ref href="#att_1">נספח א'</ref>);</p>
               </content>
             </clause>
             <clause eId="art_f__para_17-3__subpara_3__cls_c">
