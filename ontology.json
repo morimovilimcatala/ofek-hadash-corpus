@@ -5,7 +5,7 @@
  },
  "name": "מאגר אופק חדש — Ofek Hadash legal corpus — ontology",
  "url": "https://morimovilimcatala.github.io/ofek-hadash-corpus/ontology.html",
- "entityCount": 1047,
+ "entityCount": 1050,
  "concept": [
   {
    "@type": "skos:Concept",
@@ -24066,8 +24066,8 @@
    "page": "ontology/e-7b69d420f47f.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 257,
-   "markCount": 732,
+   "documentCount": 258,
+   "markCount": 735,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -24318,6 +24318,11 @@
      "path": "agreements/teachers-general/2009-06-17_teachers_wage-update-deferral.xml",
      "title": "הסכם קיבוצי — הפחתת שכר באמצעות דחיית מועד עדכון שכר",
      "html": "agreements/teachers-general/2009-06-17_teachers_wage-update-deferral.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
     },
     {
      "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
@@ -25364,8 +25369,8 @@
    "page": "ontology/e-85c4ea89759b.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 248,
-   "markCount": 434,
+   "documentCount": 249,
+   "markCount": 435,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -25501,6 +25506,11 @@
      "path": "agreements/teachers-general/2009-06-17_teachers_wage-update-deferral.xml",
      "title": "הסכם קיבוצי — הפחתת שכר באמצעות דחיית מועד עדכון שכר",
      "html": "agreements/teachers-general/2009-06-17_teachers_wage-update-deferral.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
     },
     {
      "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
@@ -27655,8 +27665,8 @@
    "page": "ontology/e-7cf53b3439c9.html",
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
-   "documentCount": 164,
-   "markCount": 457,
+   "documentCount": 165,
+   "markCount": 459,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -27752,6 +27762,11 @@
      "path": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.xml",
      "title": "הסכם קיבוצי — הסכם השכר לעובדי הוראה לתקופה שמיום 1.1.99 ועד ליום 31.12.01",
      "html": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
     },
     {
      "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
@@ -32337,7 +32352,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 78,
-   "markCount": 93,
+   "markCount": 95,
    "inDocuments": [
     {
      "path": "takam/2019-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v13.xml",
@@ -33459,6 +33474,359 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "שלוש הערים הגדולות",
+   "uri": "/ontology/organization/il/three-cities",
+   "html": "ontology.html#e-92b98a8f0b2f",
+   "page": "ontology/e-92b98a8f0b2f.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 68,
+   "markCount": 148,
+   "inDocuments": [
+    {
+     "path": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.xml",
+     "title": "החלטת ועדת ההיגוי מיום 28.5.2013 לפי סעיף 59 להסכם עוז לתמורה",
+     "html": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.html"
+    },
+    {
+     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת)",
+     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2023-07-17_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת) — המגזר הציבורי 2023",
+     "html": "agreements/framework/2023-07-17_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
+     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
+     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
+    },
+    {
+     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
+     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.xml",
+     "title": "הסכם קיבוצי (שטר בוררות) — שיעור השחיקה ודרך חישובה",
+     "html": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
+     "title": "הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\" בחטיבות העליונות",
+     "html": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.html"
+    },
+    {
+     "path": "agreements/framework/2012-05-17_framework-agreement_local-government.xml",
+     "title": "הסכם קיבוצי כללי — מסגרת עלות תוספת השכר, הרשויות המקומיות",
+     "html": "agreements/framework/2012-05-17_framework-agreement_local-government.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.xml",
+     "title": "הסכם קיבוצי כללי — שינוי מבנה שבוע העבודה",
+     "html": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.html"
+    },
+    {
+     "path": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.xml",
+     "title": "הסכם קיבוצי מיוחד בדבר שאילת והשאלת מורים בבית-ספר על-יסודי שש-שנתי",
+     "html": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
+     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
+     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
+     "title": "הסכם קיבוצי מיום 14.3.2018 בין מרכז השלטון המקומי, שלוש הערים הגדולות ומרכז המועצות האזוריות לבין ארגון המורים",
+     "html": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.xml",
+     "title": "הסכם קיבוצי מיום 23.3.2017 בין מרכז השלטון המקומי ושלוש הערים הגדולות לבין ארגון המורים",
+     "html": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.html"
+    },
+    {
+     "path": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.xml",
+     "title": "הסכם קיבוצי — הסכם השכר לעובדי הוראה לתקופה שמיום 1.1.99 ועד ליום 31.12.01",
+     "html": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
+    },
+    {
+     "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
+     "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
+    },
+    {
+     "path": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל, הסתדרות המורים",
+     "html": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.html"
+    },
+    {
+     "path": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.xml",
+     "title": "הסכם קיבוצי — התפשטות נגיף הקורונה: פתרונות לעובדים שנאסר עליהם להגיע לעבודה",
+     "html": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.xml",
+     "title": "הסכם קיבוצי — פסק בוררות בעניין שחיקת שכר עובדי הוראה",
+     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.html"
+    },
+    {
+     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
+     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
+     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.xml",
+     "title": "הסכם קיבוצי — שכר ותנאי עבודה ורפורמה בחינוך העל-יסודי",
+     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.html"
+    },
+    {
+     "path": "agreements/teachers-general/1993-05-11_histadrut-hamorim_wage-agreement-1993.xml",
+     "title": "הסכם קיבוצי — שכר ותנאי עבודה של העובדים המדורגים בדירוג עובדי הוראה",
+     "html": "agreements/teachers-general/1993-05-11_histadrut-hamorim_wage-agreement-1993.html"
+    },
+    {
+     "path": "agreements/oz-latmura/1998-09-08_oz-latmura_out-of-school-activity_livui-tiyulim-gmul.xml",
+     "title": "הסכם קיבוצי — תגמול בגין ליווי טיולים ופעילות חוץ בית ספרית",
+     "html": "agreements/oz-latmura/1998-09-08_oz-latmura_out-of-school-activity_livui-tiyulim-gmul.html"
+    },
+    {
+     "path": "agreements/teachers-general/1998-09-08_histadrut-hamorim_out-of-school-activity_livui-tiyulim-gmul.xml",
+     "title": "הסכם קיבוצי — תגמול בגין ליווי טיולים ופעילות חוץ בית ספרית עם תלמידים",
+     "html": "agreements/teachers-general/1998-09-08_histadrut-hamorim_out-of-school-activity_livui-tiyulim-gmul.html"
+    },
+    {
+     "path": "agreements/oz-latmura/1994-08-31_oz-latmura_wage-supplements-1994.xml",
+     "title": "הסכם קיבוצי — תוספות שכר לעובדי ההוראה: ערך תוספות השכר שניתנו לדירוג המהנדסים",
+     "html": "agreements/oz-latmura/1994-08-31_oz-latmura_wage-supplements-1994.html"
+    },
+    {
+     "path": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml",
+     "title": "הסכם קיבוצי — תיקונים והתאמות בהסכם עוז לתמורה בעקבות הרפורמה בבחינות הבגרות",
+     "html": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.html"
+    },
+    {
+     "path": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.xml",
+     "title": "הסכם קיבוצי — תשלום בגין שחיקת שכר עובדי הוראה מול שכר המהנדסים לשנים 2002 - 2007",
+     "html": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.html"
+    },
+    {
+     "path": "circulars/2019-20_tashaf_12.xml",
+     "title": "חוזר לבעלויות תש\"פ/12 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תש\"ף",
+     "html": "circulars/2019-20_tashaf_12.html"
+    },
+    {
+     "path": "circulars/2019-20_tashaf_02.xml",
+     "title": "חוזר לבעלויות תש\"פ/2 - גמול הכנה לבחינת הבגרות במתמטיקה ברמה של 4ו 5 -יח\"ל",
+     "html": "circulars/2019-20_tashaf_02.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_10.xml",
+     "title": "חוזר לבעלויות תשע\"ב/10 - שעות תפקיד לרכז מקצוע בחטיבה העליונה",
+     "html": "circulars/2011-12_tashab_10.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_11.xml",
+     "title": "חוזר לבעלויות תשע\"ב/11 - ביצוע שעה פרונטאלית במקום שעה תומכת הוראה ברפורמת עוז לתמורה",
+     "html": "circulars/2011-12_tashab_11.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_14.xml",
+     "title": "חוזר לבעלויות תשע\"ב/14 - הקצאה חליפית למענקים בשנת הלימודים תשע\"ב",
+     "html": "circulars/2011-12_tashab_14.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_02.xml",
+     "title": "חוזר לבעלויות תשע\"ב/2 - תשלום פעימה ראשונה של תוספת השכר במגזר הציבורי לעובדי הוראה",
+     "html": "circulars/2011-12_tashab_02.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_05.xml",
+     "title": "חוזר לבעלויות תשע\"ב/5 - תשלום תוספת מעונות לעובדי הוראה",
+     "html": "circulars/2011-12_tashab_05.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_06.xml",
+     "title": "חוזר לבעלויות תשע\"ב/6 - הפרשות לקופת גמל לקצבה לעובדי הוראה",
+     "html": "circulars/2011-12_tashab_06.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_07.xml",
+     "title": "חוזר לבעלויות תשע\"ב/7 - יישום רפורמת \"עוז לתמורה\" ביישום חלקי וביישום מלא",
+     "html": "circulars/2011-12_tashab_07.html"
+    },
+    {
+     "path": "circulars/2012-13_tashag_11.xml",
+     "title": "חוזר לבעלויות תשע\"ג/11 - תגמול עובדי הוראה בגין הישגי בית הספר",
+     "html": "circulars/2012-13_tashag_11.html"
+    },
+    {
+     "path": "circulars/2012-13_tashag_05.xml",
+     "title": "חוזר לבעלויות תשע\"ג/5 - ניצול ימי מחלה ופדיון בעקבות מעבר לרפורמת \"עוז לתמורה\"",
+     "html": "circulars/2012-13_tashag_05.html"
+    },
+    {
+     "path": "circulars/2014-15_tashae_02.xml",
+     "title": "חוזר לבעלויות תשע\"ה/2 - היבחנות חדשה",
+     "html": "circulars/2014-15_tashae_02.html"
+    },
+    {
+     "path": "circulars/2014-15_tashae_08.xml",
+     "title": "חוזר לבעלויות תשע\"ה/8 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ה",
+     "html": "circulars/2014-15_tashae_08.html"
+    },
+    {
+     "path": "circulars/2015-16_tashav_10.xml",
+     "title": "חוזר לבעלויות תשע\"ו/10 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ו",
+     "html": "circulars/2015-16_tashav_10.html"
+    },
+    {
+     "path": "circulars/2016-17_tashaz_04.xml",
+     "title": "חוזר לבעלויות תשע\"ז/4 - תוספת שקלית לעובדי הוראה בחטיבות העליונות החל מיום 1.9.2016; תוספת אחוזית לעובדי הוראה בחטיבות העליונות החל מיום 1.4.2017",
+     "html": "circulars/2016-17_tashaz_04.html"
+    },
+    {
+     "path": "circulars/2016-17_tashaz_07.xml",
+     "title": "חוזר לבעלויות תשע\"ז/7 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ז",
+     "html": "circulars/2016-17_tashaz_07.html"
+    },
+    {
+     "path": "circulars/2017-18_tashach_01.xml",
+     "title": "חוזר לבעלויות תשע\"ח/1 - מיזוג רכיבי שכר בחטיבה העליונה",
+     "html": "circulars/2017-18_tashach_01.html"
+    },
+    {
+     "path": "circulars/2017-18_tashach_03.xml",
+     "title": "חוזר לבעלויות תשע\"ח/3 - הסכם שכר קיבוצי עם ארגון המורים בחטיבות העליונות",
+     "html": "circulars/2017-18_tashach_03.html"
+    },
+    {
+     "path": "circulars/2017-18_tashach_08.xml",
+     "title": "חוזר לבעלויות תשע\"ח/8 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ח",
+     "html": "circulars/2017-18_tashach_08.html"
+    },
+    {
+     "path": "circulars/2018-19_tashat_01.xml",
+     "title": "חוזר לבעלויות תשע\"ט/1",
+     "html": "circulars/2018-19_tashat_01.html"
+    },
+    {
+     "path": "circulars/2018-19_tashat_10.xml",
+     "title": "חוזר לבעלויות תשע\"ט/10 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ט",
+     "html": "circulars/2018-19_tashat_10.html"
+    },
+    {
+     "path": "circulars/2020-21_tashpa_06.xml",
+     "title": "חוזר לבעלויות תשפ\"א/6",
+     "html": "circulars/2020-21_tashpa_06.html"
+    },
+    {
+     "path": "circulars/2020-21_tashpa_09.xml",
+     "title": "חוזר לבעלויות תשפ\"א/9 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"א",
+     "html": "circulars/2020-21_tashpa_09.html"
+    },
+    {
+     "path": "circulars/2022-23_tashpag_11.xml",
+     "title": "חוזר לבעלויות תשפ\"ג/11 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ג",
+     "html": "circulars/2022-23_tashpag_11.html"
+    },
+    {
+     "path": "circulars/2023-24_tashpad_12.xml",
+     "title": "חוזר לבעלויות תשפ\"ד/12 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ד",
+     "html": "circulars/2023-24_tashpad_12.html"
+    },
+    {
+     "path": "circulars/2024-25_tashpah_13.xml",
+     "title": "חוזר לבעלויות תשפ\"ה/13 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ה",
+     "html": "circulars/2024-25_tashpah_13.html"
+    },
+    {
+     "path": "circulars/2024-25_tashpah_05.xml",
+     "title": "חוזר לבעלויות תשפ\"ה/5 - הסכם קיבוצי עם ארגון המורים העל יסודיים מיום 23.09.2024",
+     "html": "circulars/2024-25_tashpah_05.html"
+    },
+    {
+     "path": "circulars/2009-10_tasha_03.xml",
+     "title": "חוזר תש\"ע/3 - קצובת הבראה ומענק יובל תשע",
+     "html": "circulars/2009-10_tasha_03.html"
+    },
+    {
+     "path": "circulars/2007-08_tashsach_02.xml",
+     "title": "חוזר תשס\"ח/2 - תשלום בגין שחיקה לשנים 1999-2001",
+     "html": "circulars/2007-08_tashsach_02.html"
+    },
+    {
+     "path": "circulars/2007-08_tashsach_04.xml",
+     "title": "חוזר תשס\"ח/4 - הסכמים קיבוציים שנחתמו בין מדינת ישראל והמעסיקים לבין ארגון המורים העל-יסודיים בתאריך 24/1/2008",
+     "html": "circulars/2007-08_tashsach_04.html"
+    },
+    {
+     "path": "circulars/2007-08_tashsach_08.xml",
+     "title": "חוזר תשס\"ח/8 - תשלום חד פעמי לעובדי הוראה בגין שחיקה לשנים 2000-2007",
+     "html": "circulars/2007-08_tashsach_08.html"
+    },
+    {
+     "path": "circulars/2008-09_tashsat_04.xml",
+     "title": "חוזר תשס\"ט/4 - הסכם קיבוצי עם ארגון המורים והוראות בנושא הסדר לתגמול עובדי הוראה עבור עבודה עם תלמידים ליקויי למידה",
+     "html": "circulars/2008-09_tashsat_04.html"
+    },
+    {
+     "path": "circulars/2006-07_tashsaz_04.xml",
+     "title": "חוזר תשסז/4 - תשלום בגין שחיקה לעובדי הוראה לשנים 1999-2001",
+     "html": "circulars/2006-07_tashsaz_04.html"
+    },
+    {
+     "path": "circulars/2011-12_tashab_04.xml",
+     "title": "חוזר תשע\"ב/4 - תשלום תוספת שחיקה לעובדי הוראה במסגרת הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\"",
+     "html": "circulars/2011-12_tashab_04.html"
+    },
+    {
+     "path": "circulars/2013-14_tashad_10.xml",
+     "title": "חוזר תשע\"ד/10 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ד",
+     "html": "circulars/2013-14_tashad_10.html"
+    },
+    {
+     "path": "circulars/2013-14_tashad_09.xml",
+     "title": "חוזר תשע\"ד/9 - הסכם קיבוצי עם ארגון המורים בנושא הרפורמה ללמידה משמעותית",
+     "html": "circulars/2013-14_tashad_09.html"
+    },
+    {
+     "path": "circulars/2021-22_tashpab_08.xml",
+     "title": "חוזר תשפ\"ב/8 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ב",
+     "html": "circulars/2021-22_tashpab_08.html"
+    },
+    {
+     "path": "circulars-sachar/2021-01_sachar_2021-1-2_maonot.xml",
+     "title": "תוספת מעונות (זכויות הוריות), עדכון התוספת",
+     "html": "circulars-sachar/2021-01_sachar_2021-1-2_maonot.html"
+    },
+    {
+     "path": "circulars-sachar/2022-01_sachar_2022-1-1_maonot.xml",
+     "title": "תוספת מעונות (זכויות הוריות), עדכון התוספת",
+     "html": "circulars-sachar/2022-01_sachar_2022-1-1_maonot.html"
+    },
+    {
+     "path": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.xml",
+     "title": "תוספת מעונות (זכויות הוריות), על פי הסכם המסגרת מיום 12.1.2011",
+     "html": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "איגוד מנהלי אגפי החינוך ברשויות המקומיות",
    "uri": "/ontology/organization/il/unit/ccbc3766",
    "html": "ontology.html#e-11749643fae5",
@@ -33802,354 +34170,6 @@
      "path": "circulars/2021-22_tashpab_08.xml",
      "title": "חוזר תשפ\"ב/8 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ב",
      "html": "circulars/2021-22_tashpab_08.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "שלוש הערים הגדולות",
-   "uri": "/ontology/organization/il/three-cities",
-   "html": "ontology.html#e-92b98a8f0b2f",
-   "page": "ontology/e-92b98a8f0b2f.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 67,
-   "markCount": 147,
-   "inDocuments": [
-    {
-     "path": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.xml",
-     "title": "החלטת ועדת ההיגוי מיום 28.5.2013 לפי סעיף 59 להסכם עוז לתמורה",
-     "html": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.html"
-    },
-    {
-     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת)",
-     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2023-07-17_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת) — המגזר הציבורי 2023",
-     "html": "agreements/framework/2023-07-17_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
-     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
-     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
-    },
-    {
-     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
-     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.xml",
-     "title": "הסכם קיבוצי (שטר בוררות) — שיעור השחיקה ודרך חישובה",
-     "html": "agreements/teachers-general/2007-02-01_teachers_erosion-arbitration-deed.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
-     "title": "הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\" בחטיבות העליונות",
-     "html": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.html"
-    },
-    {
-     "path": "agreements/framework/2012-05-17_framework-agreement_local-government.xml",
-     "title": "הסכם קיבוצי כללי — מסגרת עלות תוספת השכר, הרשויות המקומיות",
-     "html": "agreements/framework/2012-05-17_framework-agreement_local-government.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.xml",
-     "title": "הסכם קיבוצי כללי — שינוי מבנה שבוע העבודה",
-     "html": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.html"
-    },
-    {
-     "path": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.xml",
-     "title": "הסכם קיבוצי מיוחד בדבר שאילת והשאלת מורים בבית-ספר על-יסודי שש-שנתי",
-     "html": "agreements/teachers-general/1982-08-15_teachers_teacher-lending-six-year-schools.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
-     "title": "הסכם קיבוצי מיוחד — חידוש פעילות קרן ימי מחלה לעובדי הוראה",
-     "html": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.xml",
-     "title": "הסכם קיבוצי מיום 14.3.2018 בין מרכז השלטון המקומי, שלוש הערים הגדולות ומרכז המועצות האזוריות לבין ארגון המורים",
-     "html": "agreements/oz-latmura/2018-03-14_oz-latmura_wage-agreement-2017-2022.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.xml",
-     "title": "הסכם קיבוצי מיום 23.3.2017 בין מרכז השלטון המקומי ושלוש הערים הגדולות לבין ארגון המורים",
-     "html": "agreements/oz-latmura/2017-03-23_oz-latmura_wage-agreement-2013-2016.html"
-    },
-    {
-     "path": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.xml",
-     "title": "הסכם קיבוצי — הסכם השכר לעובדי הוראה לתקופה שמיום 1.1.99 ועד ליום 31.12.01",
-     "html": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.html"
-    },
-    {
-     "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
-     "title": "הסכם קיבוצי — הפרשה לקופת גמל, ארגון המורים",
-     "html": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.html"
-    },
-    {
-     "path": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.xml",
-     "title": "הסכם קיבוצי — הפרשה לקופת גמל, הסתדרות המורים",
-     "html": "agreements/teachers-general/1998-12-17_histadrut-hamorim_provident-fund.html"
-    },
-    {
-     "path": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.xml",
-     "title": "הסכם קיבוצי — התפשטות נגיף הקורונה: פתרונות לעובדים שנאסר עליהם להגיע לעבודה",
-     "html": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.xml",
-     "title": "הסכם קיבוצי — פסק בוררות בעניין שחיקת שכר עובדי הוראה",
-     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_erosion-arbitration-award.html"
-    },
-    {
-     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
-     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
-     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.xml",
-     "title": "הסכם קיבוצי — שכר ותנאי עבודה ורפורמה בחינוך העל-יסודי",
-     "html": "agreements/oz-latmura/2008-01-24_oz-latmura_tosefet-sachar_reform-model.html"
-    },
-    {
-     "path": "agreements/teachers-general/1993-05-11_histadrut-hamorim_wage-agreement-1993.xml",
-     "title": "הסכם קיבוצי — שכר ותנאי עבודה של העובדים המדורגים בדירוג עובדי הוראה",
-     "html": "agreements/teachers-general/1993-05-11_histadrut-hamorim_wage-agreement-1993.html"
-    },
-    {
-     "path": "agreements/oz-latmura/1998-09-08_oz-latmura_out-of-school-activity_livui-tiyulim-gmul.xml",
-     "title": "הסכם קיבוצי — תגמול בגין ליווי טיולים ופעילות חוץ בית ספרית",
-     "html": "agreements/oz-latmura/1998-09-08_oz-latmura_out-of-school-activity_livui-tiyulim-gmul.html"
-    },
-    {
-     "path": "agreements/teachers-general/1998-09-08_histadrut-hamorim_out-of-school-activity_livui-tiyulim-gmul.xml",
-     "title": "הסכם קיבוצי — תגמול בגין ליווי טיולים ופעילות חוץ בית ספרית עם תלמידים",
-     "html": "agreements/teachers-general/1998-09-08_histadrut-hamorim_out-of-school-activity_livui-tiyulim-gmul.html"
-    },
-    {
-     "path": "agreements/oz-latmura/1994-08-31_oz-latmura_wage-supplements-1994.xml",
-     "title": "הסכם קיבוצי — תוספות שכר לעובדי ההוראה: ערך תוספות השכר שניתנו לדירוג המהנדסים",
-     "html": "agreements/oz-latmura/1994-08-31_oz-latmura_wage-supplements-1994.html"
-    },
-    {
-     "path": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.xml",
-     "title": "הסכם קיבוצי — תיקונים והתאמות בהסכם עוז לתמורה בעקבות הרפורמה בבחינות הבגרות",
-     "html": "agreements/oz-latmura/2014-06-26_oz-latmura_bagrut-reform-amendments.html"
-    },
-    {
-     "path": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.xml",
-     "title": "הסכם קיבוצי — תשלום בגין שחיקת שכר עובדי הוראה מול שכר המהנדסים לשנים 2002 - 2007",
-     "html": "agreements/teachers-general/2008-02-21_teachers_erosion-arbitration-4pct-2002-2007.html"
-    },
-    {
-     "path": "circulars/2019-20_tashaf_12.xml",
-     "title": "חוזר לבעלויות תש\"פ/12 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תש\"ף",
-     "html": "circulars/2019-20_tashaf_12.html"
-    },
-    {
-     "path": "circulars/2019-20_tashaf_02.xml",
-     "title": "חוזר לבעלויות תש\"פ/2 - גמול הכנה לבחינת הבגרות במתמטיקה ברמה של 4ו 5 -יח\"ל",
-     "html": "circulars/2019-20_tashaf_02.html"
-    },
-    {
-     "path": "circulars/2011-12_tashab_10.xml",
-     "title": "חוזר לבעלויות תשע\"ב/10 - שעות תפקיד לרכז מקצוע בחטיבה העליונה",
-     "html": "circulars/2011-12_tashab_10.html"
-    },
-    {
-     "path": "circulars/2011-12_tashab_11.xml",
-     "title": "חוזר לבעלויות תשע\"ב/11 - ביצוע שעה פרונטאלית במקום שעה תומכת הוראה ברפורמת עוז לתמורה",
-     "html": "circulars/2011-12_tashab_11.html"
-    },
-    {
-     "path": "circulars/2011-12_tashab_14.xml",
-     "title": "חוזר לבעלויות תשע\"ב/14 - הקצאה חליפית למענקים בשנת הלימודים תשע\"ב",
-     "html": "circulars/2011-12_tashab_14.html"
-    },
-    {
-     "path": "circulars/2011-12_tashab_02.xml",
-     "title": "חוזר לבעלויות תשע\"ב/2 - תשלום פעימה ראשונה של תוספת השכר במגזר הציבורי לעובדי הוראה",
-     "html": "circulars/2011-12_tashab_02.html"
-    },
-    {
-     "path": "circulars/2011-12_tashab_05.xml",
-     "title": "חוזר לבעלויות תשע\"ב/5 - תשלום תוספת מעונות לעובדי הוראה",
-     "html": "circulars/2011-12_tashab_05.html"
-    },
-    {
-     "path": "circulars/2011-12_tashab_06.xml",
-     "title": "חוזר לבעלויות תשע\"ב/6 - הפרשות לקופת גמל לקצבה לעובדי הוראה",
-     "html": "circulars/2011-12_tashab_06.html"
-    },
-    {
-     "path": "circulars/2011-12_tashab_07.xml",
-     "title": "חוזר לבעלויות תשע\"ב/7 - יישום רפורמת \"עוז לתמורה\" ביישום חלקי וביישום מלא",
-     "html": "circulars/2011-12_tashab_07.html"
-    },
-    {
-     "path": "circulars/2012-13_tashag_11.xml",
-     "title": "חוזר לבעלויות תשע\"ג/11 - תגמול עובדי הוראה בגין הישגי בית הספר",
-     "html": "circulars/2012-13_tashag_11.html"
-    },
-    {
-     "path": "circulars/2012-13_tashag_05.xml",
-     "title": "חוזר לבעלויות תשע\"ג/5 - ניצול ימי מחלה ופדיון בעקבות מעבר לרפורמת \"עוז לתמורה\"",
-     "html": "circulars/2012-13_tashag_05.html"
-    },
-    {
-     "path": "circulars/2014-15_tashae_02.xml",
-     "title": "חוזר לבעלויות תשע\"ה/2 - היבחנות חדשה",
-     "html": "circulars/2014-15_tashae_02.html"
-    },
-    {
-     "path": "circulars/2014-15_tashae_08.xml",
-     "title": "חוזר לבעלויות תשע\"ה/8 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ה",
-     "html": "circulars/2014-15_tashae_08.html"
-    },
-    {
-     "path": "circulars/2015-16_tashav_10.xml",
-     "title": "חוזר לבעלויות תשע\"ו/10 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ו",
-     "html": "circulars/2015-16_tashav_10.html"
-    },
-    {
-     "path": "circulars/2016-17_tashaz_04.xml",
-     "title": "חוזר לבעלויות תשע\"ז/4 - תוספת שקלית לעובדי הוראה בחטיבות העליונות החל מיום 1.9.2016; תוספת אחוזית לעובדי הוראה בחטיבות העליונות החל מיום 1.4.2017",
-     "html": "circulars/2016-17_tashaz_04.html"
-    },
-    {
-     "path": "circulars/2016-17_tashaz_07.xml",
-     "title": "חוזר לבעלויות תשע\"ז/7 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ז",
-     "html": "circulars/2016-17_tashaz_07.html"
-    },
-    {
-     "path": "circulars/2017-18_tashach_01.xml",
-     "title": "חוזר לבעלויות תשע\"ח/1 - מיזוג רכיבי שכר בחטיבה העליונה",
-     "html": "circulars/2017-18_tashach_01.html"
-    },
-    {
-     "path": "circulars/2017-18_tashach_03.xml",
-     "title": "חוזר לבעלויות תשע\"ח/3 - הסכם שכר קיבוצי עם ארגון המורים בחטיבות העליונות",
-     "html": "circulars/2017-18_tashach_03.html"
-    },
-    {
-     "path": "circulars/2017-18_tashach_08.xml",
-     "title": "חוזר לבעלויות תשע\"ח/8 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ח",
-     "html": "circulars/2017-18_tashach_08.html"
-    },
-    {
-     "path": "circulars/2018-19_tashat_01.xml",
-     "title": "חוזר לבעלויות תשע\"ט/1",
-     "html": "circulars/2018-19_tashat_01.html"
-    },
-    {
-     "path": "circulars/2018-19_tashat_10.xml",
-     "title": "חוזר לבעלויות תשע\"ט/10 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ט",
-     "html": "circulars/2018-19_tashat_10.html"
-    },
-    {
-     "path": "circulars/2020-21_tashpa_06.xml",
-     "title": "חוזר לבעלויות תשפ\"א/6",
-     "html": "circulars/2020-21_tashpa_06.html"
-    },
-    {
-     "path": "circulars/2020-21_tashpa_09.xml",
-     "title": "חוזר לבעלויות תשפ\"א/9 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"א",
-     "html": "circulars/2020-21_tashpa_09.html"
-    },
-    {
-     "path": "circulars/2022-23_tashpag_11.xml",
-     "title": "חוזר לבעלויות תשפ\"ג/11 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ג",
-     "html": "circulars/2022-23_tashpag_11.html"
-    },
-    {
-     "path": "circulars/2023-24_tashpad_12.xml",
-     "title": "חוזר לבעלויות תשפ\"ד/12 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ד",
-     "html": "circulars/2023-24_tashpad_12.html"
-    },
-    {
-     "path": "circulars/2024-25_tashpah_13.xml",
-     "title": "חוזר לבעלויות תשפ\"ה/13 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ה",
-     "html": "circulars/2024-25_tashpah_13.html"
-    },
-    {
-     "path": "circulars/2024-25_tashpah_05.xml",
-     "title": "חוזר לבעלויות תשפ\"ה/5 - הסכם קיבוצי עם ארגון המורים העל יסודיים מיום 23.09.2024",
-     "html": "circulars/2024-25_tashpah_05.html"
-    },
-    {
-     "path": "circulars/2009-10_tasha_03.xml",
-     "title": "חוזר תש\"ע/3 - קצובת הבראה ומענק יובל תשע",
-     "html": "circulars/2009-10_tasha_03.html"
-    },
-    {
-     "path": "circulars/2007-08_tashsach_02.xml",
-     "title": "חוזר תשס\"ח/2 - תשלום בגין שחיקה לשנים 1999-2001",
-     "html": "circulars/2007-08_tashsach_02.html"
-    },
-    {
-     "path": "circulars/2007-08_tashsach_04.xml",
-     "title": "חוזר תשס\"ח/4 - הסכמים קיבוציים שנחתמו בין מדינת ישראל והמעסיקים לבין ארגון המורים העל-יסודיים בתאריך 24/1/2008",
-     "html": "circulars/2007-08_tashsach_04.html"
-    },
-    {
-     "path": "circulars/2007-08_tashsach_08.xml",
-     "title": "חוזר תשס\"ח/8 - תשלום חד פעמי לעובדי הוראה בגין שחיקה לשנים 2000-2007",
-     "html": "circulars/2007-08_tashsach_08.html"
-    },
-    {
-     "path": "circulars/2008-09_tashsat_04.xml",
-     "title": "חוזר תשס\"ט/4 - הסכם קיבוצי עם ארגון המורים והוראות בנושא הסדר לתגמול עובדי הוראה עבור עבודה עם תלמידים ליקויי למידה",
-     "html": "circulars/2008-09_tashsat_04.html"
-    },
-    {
-     "path": "circulars/2006-07_tashsaz_04.xml",
-     "title": "חוזר תשסז/4 - תשלום בגין שחיקה לעובדי הוראה לשנים 1999-2001",
-     "html": "circulars/2006-07_tashsaz_04.html"
-    },
-    {
-     "path": "circulars/2011-12_tashab_04.xml",
-     "title": "חוזר תשע\"ב/4 - תשלום תוספת שחיקה לעובדי הוראה במסגרת הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\"",
-     "html": "circulars/2011-12_tashab_04.html"
-    },
-    {
-     "path": "circulars/2013-14_tashad_10.xml",
-     "title": "חוזר תשע\"ד/10 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשע\"ד",
-     "html": "circulars/2013-14_tashad_10.html"
-    },
-    {
-     "path": "circulars/2013-14_tashad_09.xml",
-     "title": "חוזר תשע\"ד/9 - הסכם קיבוצי עם ארגון המורים בנושא הרפורמה ללמידה משמעותית",
-     "html": "circulars/2013-14_tashad_09.html"
-    },
-    {
-     "path": "circulars/2021-22_tashpab_08.xml",
-     "title": "חוזר תשפ\"ב/8 - תגמול עובדי הוראה בגין הישגי בית הספר לשנת הלימודים תשפ\"ב",
-     "html": "circulars/2021-22_tashpab_08.html"
-    },
-    {
-     "path": "circulars-sachar/2021-01_sachar_2021-1-2_maonot.xml",
-     "title": "תוספת מעונות (זכויות הוריות), עדכון התוספת",
-     "html": "circulars-sachar/2021-01_sachar_2021-1-2_maonot.html"
-    },
-    {
-     "path": "circulars-sachar/2022-01_sachar_2022-1-1_maonot.xml",
-     "title": "תוספת מעונות (זכויות הוריות), עדכון התוספת",
-     "html": "circulars-sachar/2022-01_sachar_2022-1-1_maonot.html"
-    },
-    {
-     "path": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.xml",
-     "title": "תוספת מעונות (זכויות הוריות), על פי הסכם המסגרת מיום 12.1.2011",
-     "html": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
@@ -36499,7 +36519,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 38,
-   "markCount": 94,
+   "markCount": 96,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -39259,6 +39279,69 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "שירות התעסוקה",
+   "uri": "/ontology/organization/il/employment-service",
+   "html": "ontology.html#e-1755185e944c",
+   "page": "ontology/e-1755185e944c.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 10,
+   "markCount": 55,
+   "inDocuments": [
+    {
+     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת)",
+     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2023-07-17_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת) — המגזר הציבורי 2023",
+     "html": "agreements/framework/2023-07-17_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
+     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
+     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
+    },
+    {
+     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
+     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
+     "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
+     "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
+    },
+    {
+     "path": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.xml",
+     "title": "הסכם קיבוצי — התפשטות נגיף הקורונה: פתרונות לעובדים שנאסר עליהם להגיע לעבודה",
+     "html": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.html"
+    },
+    {
+     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
+     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
+     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
+    },
+    {
+     "path": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.xml",
+     "title": "תוספת מעונות (זכויות הוריות), על פי הסכם המסגרת מיום 12.1.2011",
+     "html": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "תחום ארגון ותהליכים",
    "uri": "/ontology/organization/il/unit/d8f4bdc9",
    "html": "ontology.html#e-c2163801c81a",
@@ -39491,64 +39574,6 @@
      "path": "circulars/2013-14_tashad_07.xml",
      "title": "חוזר לבעלויות תשע\"ד/7 - תשלום דמי הבראה ומענק יובל לשנת הלימודים תשע\"ד",
      "html": "circulars/2013-14_tashad_07.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "שירות התעסוקה",
-   "uri": "/ontology/organization/il/employment-service",
-   "html": "ontology.html#e-1755185e944c",
-   "page": "ontology/e-1755185e944c.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 9,
-   "markCount": 54,
-   "inDocuments": [
-    {
-     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת)",
-     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2023-07-17_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת) — המגזר הציבורי 2023",
-     "html": "agreements/framework/2023-07-17_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
-     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
-     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
-    },
-    {
-     "path": "agreements/framework/2008-04-17_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת) — מסגרת עלות הסכמי השכר לעובדים בשירות המעסיקים",
-     "html": "agreements/framework/2008-04-17_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.xml",
-     "title": "הסכם קיבוצי מיוחד — הכנסת טכנולוגיות חדשות",
-     "html": "agreements/framework/2018-01-10_framework-agreement_public-sector_technologies.html"
-    },
-    {
-     "path": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.xml",
-     "title": "הסכם קיבוצי — התפשטות נגיף הקורונה: פתרונות לעובדים שנאסר עליהם להגיע לעבודה",
-     "html": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.html"
-    },
-    {
-     "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
-     "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
-     "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
-    },
-    {
-     "path": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.xml",
-     "title": "תוספת מעונות (זכויות הוריות), על פי הסכם המסגרת מיום 12.1.2011",
-     "html": "circulars-sachar/2011-08-07_sachar_2011-1-48_maonot-base.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
@@ -40320,6 +40345,39 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "ההסתדרות הציונית העולמית",
+   "uri": "/ontology/organization/il/world-zionist-organization",
+   "html": "ontology.html#e-584bf720fe29",
+   "page": "ontology/e-584bf720fe29.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 4,
+   "markCount": 6,
+   "inDocuments": [
+    {
+     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת)",
+     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
+     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
+     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "המחלקה לתנאי שירות",
    "uri": "/ontology/organization/il/unit/109d839e",
    "html": "ontology.html#e-7ca353098a1e",
@@ -40343,6 +40401,72 @@
      "path": "circulars/2008-09_tashsat_02.xml",
      "title": "חוזר תשס\"ט/2 - עדכון פרטי בעלויות תשס\"ט",
      "html": "circulars/2008-09_tashsat_02.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "הסוכנות היהודית לארץ ישראל",
+   "uri": "/ontology/organization/il/jewish-agency",
+   "html": "ontology.html#e-84caea5ce640",
+   "page": "ontology/e-84caea5ce640.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 4,
+   "markCount": 13,
+   "inDocuments": [
+    {
+     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת)",
+     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
+     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
+     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "הקרן הקיימת לישראל",
+   "uri": "/ontology/organization/il/jewish-national-fund",
+   "html": "ontology.html#e-aa84cbc837dd",
+   "page": "ontology/e-aa84cbc837dd.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 4,
+   "markCount": 5,
+   "inDocuments": [
+    {
+     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת)",
+     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
+     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
+     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
     },
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -40414,6 +40538,39 @@
      "path": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.xml",
      "title": "הסכם קיבוצי — התפשטות נגיף הקורונה: פתרונות לעובדים שנאסר עליהם להגיע לעבודה",
      "html": "agreements/framework/2020-03-18_framework-agreement_public-sector_covid-furlough.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "קרן היסוד",
+   "uri": "/ontology/organization/il/keren-hayesod",
+   "html": "ontology.html#e-28e5e3a57c27",
+   "page": "ontology/e-28e5e3a57c27.html",
+   "tlcKind": "TLCOrganization",
+   "kindLabel": "גופים",
+   "documentCount": 4,
+   "markCount": 6,
+   "inDocuments": [
+    {
+     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
+     "title": "הסכם קיבוצי (מסגרת)",
+     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
+    },
+    {
+     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
+     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
+     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
+    },
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
@@ -40574,90 +40731,6 @@
   },
   {
    "@type": "skos:Concept",
-   "skos:prefLabel": "ההסתדרות הציונית העולמית",
-   "uri": "/ontology/organization/il/world-zionist-organization",
-   "html": "ontology.html#e-584bf720fe29",
-   "page": "ontology/e-584bf720fe29.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 3,
-   "markCount": 5,
-   "inDocuments": [
-    {
-     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת)",
-     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
-     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
-     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "הסוכנות היהודית לארץ ישראל",
-   "uri": "/ontology/organization/il/jewish-agency",
-   "html": "ontology.html#e-84caea5ce640",
-   "page": "ontology/e-84caea5ce640.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 3,
-   "markCount": 11,
-   "inDocuments": [
-    {
-     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת)",
-     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
-     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
-     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "הקרן הקיימת לישראל",
-   "uri": "/ontology/organization/il/jewish-national-fund",
-   "html": "ontology.html#e-aa84cbc837dd",
-   "page": "ontology/e-aa84cbc837dd.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 3,
-   "markCount": 4,
-   "inDocuments": [
-    {
-     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת)",
-     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
-     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
-     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
    "skos:prefLabel": "מינהל רישוי, בקרה ואכיפה",
    "uri": "/ontology/organization/il/unit/160ddf56",
    "html": "ontology.html#e-ebbcb2253afc",
@@ -40681,34 +40754,6 @@
      "path": "circulars/2025-26_tashpo_04.xml",
      "title": "חוזר לבעלויות תשפ\"ו/4 - פתיחת תיקי גננות ודיווח משרות",
      "html": "circulars/2025-26_tashpo_04.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "קרן היסוד",
-   "uri": "/ontology/organization/il/keren-hayesod",
-   "html": "ontology.html#e-28e5e3a57c27",
-   "page": "ontology/e-28e5e3a57c27.html",
-   "tlcKind": "TLCOrganization",
-   "kindLabel": "גופים",
-   "documentCount": 3,
-   "markCount": 5,
-   "inDocuments": [
-    {
-     "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
-     "title": "הסכם קיבוצי (מסגרת)",
-     "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
-    },
-    {
-     "path": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.xml",
-     "title": "הסכם קיבוצי (מסגרת) — הקצאת מסגרת עלות התוספות ותוספת 2011",
-     "html": "agreements/framework/2011-01-12_framework-agreement_public-sector_tosefet-2011.html"
-    },
-    {
-     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
-     "title": "תקנון שירות עובדי הוראה",
-     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
@@ -51998,8 +52043,8 @@
    "page": "ontology/e-d6fb44906f7c.html",
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
-   "documentCount": 222,
-   "markCount": 9125,
+   "documentCount": 223,
+   "markCount": 9147,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -52160,6 +52205,11 @@
      "path": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.xml",
      "title": "הסכם קיבוצי — הסכם השכר לעובדי הוראה לתקופה שמיום 1.1.99 ועד ליום 31.12.01",
      "html": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
     },
     {
      "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
@@ -62865,8 +62915,8 @@
    "page": "ontology/e-d2493052ff97.html",
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
-   "documentCount": 24,
-   "markCount": 222,
+   "documentCount": 25,
+   "markCount": 244,
    "standsFor": [
     "/ontology/organization/il/bar-ilan-university",
     "/ontology/organization/il/ben-gurion-university",
@@ -62952,6 +63002,11 @@
      "path": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.xml",
      "title": "הסכם קיבוצי — הסכם השכר לעובדי הוראה לתקופה שמיום 1.1.99 ועד ליום 31.12.01",
      "html": "agreements/teachers-general/2001-12-18_histadrut-hamorim_wage-agreement-1999-2001.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
     },
     {
      "path": "agreements/oz-latmura/1998-12-17_oz-latmura_provident-fund.xml",
@@ -63420,8 +63475,8 @@
    "page": "ontology/e-270c8d533d3c.html",
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
-   "documentCount": 13,
-   "markCount": 148,
+   "documentCount": 14,
+   "markCount": 157,
    "standsFor": [
     "/ontology/organization/il/histadrut",
     "/ontology/organization/il/histadrut-hamorim"
@@ -63471,6 +63526,11 @@
      "path": "agreements/ofek-hadash/2016-08-31_ofek-hadash_framework-2013-application-stay-periods_INCOMPLETE-SCAN.xml",
      "title": "הסכם קיבוצי — החלת עלות הסכם המסגרת ופרקי זמן השהייה הנדרשים לצורך קידום בדרגות",
      "html": "agreements/ofek-hadash/2016-08-31_ofek-hadash_framework-2013-application-stay-periods_INCOMPLETE-SCAN.html"
+    },
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
     },
     {
      "path": "agreements/ofek-hadash/2016-09-30_ofek-hadash_september-2016-agreement.xml",
@@ -69614,6 +69674,24 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "ההוראות בהסכמי השכר",
+   "uri": "/ontology/term/il/d86edd6c",
+   "html": "ontology.html#e-d23c40bff42e",
+   "page": "ontology/e-d23c40bff42e.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 1,
+   "inDocuments": [
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "ההורה",
    "uri": "/ontology/term/il/a7cbdb55",
    "html": "ontology.html#e-a67dc0342f6c",
@@ -71324,6 +71402,24 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "השכר הקובע לפנסיה",
+   "uri": "/ontology/term/il/87db8a47",
+   "html": "ontology.html#e-e62aefaa344b",
+   "page": "ontology/e-e62aefaa344b.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 5,
+   "inDocuments": [
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "התגמול",
    "uri": "/ontology/term/il/7fc35ab8",
    "html": "ontology.html#e-d2a66efc3a5b",
@@ -72525,6 +72621,24 @@
      "path": "circulars/2018-19_tashat_02.xml",
      "title": "חוזר לבעלויות תשע\"ט/2 - הסכם בענין הרפורמות במכללות להכשרת עובדי הוראה -מתוקן",
      "html": "circulars/2018-19_tashat_02.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "מועד תחילת ההפרשה בפועל",
+   "uri": "/ontology/term/il/befe39f7",
+   "html": "ontology.html#e-cff767b01a8f",
+   "page": "ontology/e-cff767b01a8f.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 6,
+   "inDocuments": [
+    {
+     "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",
+     "title": "הסכם קיבוצי — הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים",
+     "html": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.html"
     }
    ]
   },
