@@ -318,7 +318,7 @@
         <paragraph eId="art_5__para_5-2">
           <num>5.2</num>
           <content>
-            <p>מובהר כי מקור העלות האמורה בסעיף 5.1, בשיעור <quantity eId="qty_4" refersTo="#percentage" normalized="1.2">1.2%</quantity>, נובע מסעיף <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי עם הסתדרות המורים מיום 19.9.94</ref>.</p>
+            <p>מובהר כי מקור העלות האמורה בסעיף <ref href="#art_5__para_5-1">5.1</ref>, בשיעור <quantity eId="qty_4" refersTo="#percentage" normalized="1.2">1.2%</quantity>, נובע מסעיף <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי עם הסתדרות המורים מיום 19.9.94</ref>.</p>
           </content>
         </paragraph>
       </article>
@@ -359,7 +359,7 @@
         <paragraph eId="art_10__para_10-1">
           <num>10.1</num>
           <content>
-            <p>מוסכם בין הצדדים, כי בגין התקופה המתחילה ב-<date date="1998-01-01">1.1.98</date>, תבוצע הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים אשר אינם פנסיוניים ואשר לא מבוצעת בגינם הפרשה לקרן "דפנה", למעט גילום מס וזקיפת הטבה, בהתאם כמפורט להלן, ובכפוף למסגרת עלות כאמור בסעיף 10.3.</p>
+            <p>מוסכם בין הצדדים, כי בגין התקופה המתחילה ב-<date date="1998-01-01">1.1.98</date>, תבוצע הפרשה לקופת גמל בגין רכיבי שכר ותשלומים אחרים אשר אינם פנסיוניים ואשר לא מבוצעת בגינם הפרשה לקרן "דפנה", למעט גילום מס וזקיפת הטבה, בהתאם כמפורט להלן, ובכפוף למסגרת עלות כאמור בסעיף <ref href="#art_10__para_10-3">10.3</ref>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_10__para_10-2">
@@ -377,7 +377,7 @@
         <paragraph eId="art_10__para_10-4">
           <num>10.4</num>
           <content>
-            <p>מוסכם כי מקור העלות האמורה בסעיף 10.3 נובע מסעיף <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי עם הסתדרות המורים מיום 19.9.94</ref>.</p>
+            <p>מוסכם כי מקור העלות האמורה בסעיף <ref href="#art_10__para_10-3">10.3</ref> נובע מסעיף <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי עם הסתדרות המורים מיום 19.9.94</ref>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_10__para_10-5">

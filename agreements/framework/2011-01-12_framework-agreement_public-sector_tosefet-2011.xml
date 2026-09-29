@@ -366,14 +366,14 @@
             <content>
               <p>החל מיום <date date="2011-01-01">1.1.2011</date> – <quantity eId="qty_5" refersTo="#percentage" normalized="2.25">2.25%</quantity> על בסיס השכר המפורט בסעיף <ref href="#art_6__para_6-1">6.1</ref> להלן.</p>
               <p>אופן הקצאת מלוא עלות זו הוא כמפורט בסעיף <ref href="#art_9">9</ref> (<term eId="trm_15" refersTo="#term_96daeca6">תוספת 2011</term>).</p>
-              <p>מובהר כי האמור לעיל יחול גם לגבי גופים או דירוגים שמתקיים לגביהם האמור בסעיף 4.1.1. סיפא.</p>
+              <p>מובהר כי האמור לעיל יחול גם לגבי גופים או דירוגים שמתקיים לגביהם האמור בסעיף <ref href="#art_4__para_4-1__subpara_4-1-1">4.1.1</ref>. סיפא.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_5__para_5-1__subpara_5-1-2">
             <num>5.1.2</num>
             <content>
               <p>החל מיום <date date="2012-01-01">1.1.2012</date> – השלמה ל-<quantity eId="qty_6" refersTo="#percentage" normalized="4.25">4.25%</quantity>, על בסיס השכר המפורט בסעיף <ref href="#art_6__para_6-1">6.1</ref> להלן.</p>
-              <p>האמור לעיל לא יחול, בשלב זה, לגבי גופים או דירוגים שמתקיים לגביהם האמור בסעיף 4.1.1 סיפא, עד להסדרת הנושא או להסכמה אחרת בין המעסיק <term eId="trm_16" refersTo="#term_0cdeaf5a">להסתדרות</term>, ומתן אישור לפי סעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_29">29</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref>, התשמ"ה-1985.</p>
+              <p>האמור לעיל לא יחול, בשלב זה, לגבי גופים או דירוגים שמתקיים לגביהם האמור בסעיף <ref href="#art_4__para_4-1__subpara_4-1-1">4.1.1</ref> סיפא, עד להסדרת הנושא או להסכמה אחרת בין המעסיק <term eId="trm_16" refersTo="#term_0cdeaf5a">להסתדרות</term>, ומתן אישור לפי סעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_29">29</ref> ל<ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref>, התשמ"ה-1985.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_5__para_5-1__subpara_5-1-3">
@@ -484,7 +484,7 @@
           <content>
             <p>החל מיום <date date="2011-01-01">1.1.2011</date> יהיו העובדים זכאים לתוספת שכר חדשה, בשיעור של <quantity eId="qty_9" refersTo="#percentage" normalized="2.25">2.25%</quantity> (במלים: <quantity refersTo="#percentage" normalized="2.25" eId="qty_10">שני אחוזים ועשרים וחמש מאיות האחוז</quantity>), (להלן - "<def refersTo="#term_96daeca6 #comp_tosefet-2011">תוספת 2011</def>").</p>
             <p>התוספת לפי סעיף זה תשולם בשיעור אחיד לכל עובד בכל דרגה.</p>
-            <p><term eId="trm_20" refersTo="#term_96daeca6">תוספת 2011</term> אינה חלה על עובדים בדירוג מעברי הגבול או בדירוג קלדניות שופטים, ועליהם יחול האמור בסעיף 10.6.</p>
+            <p><term eId="trm_20" refersTo="#term_96daeca6">תוספת 2011</term> אינה חלה על עובדים בדירוג מעברי הגבול או בדירוג קלדניות שופטים, ועליהם יחול האמור בסעיף <ref href="#art_10__para_10-6">10.6</ref>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_9__para_9-2">
@@ -587,7 +587,7 @@
         <paragraph eId="art_10__para_10-1">
           <num>10.1</num>
           <content>
-            <p>מוסכם כי סמוך לאחר חתימת הסכם זה ינהלו <term eId="trm_40" refersTo="#term_88a5098d">המעסיקים</term>, עם כל הסתדרות ואיגוד מקצועי, משא ומתן לקראת חתימת הסכם קיבוצי ליישום האמור בסעיפים <ref href="#art_5">5</ref> עד <ref href="#art_8">8</ref> לעיל, בכפוף למסגרת עלות התוספות ולבסיס החישוב כאמור בסעיף <ref href="#art_6">6</ref> לעיל, אך למעט בנוגע לעלות שהוקצתה לפי סעיף 5.1.1 וכמפורט סעיף 9 ("<term eId="trm_41" refersTo="#term_96daeca6">תוספת 2011</term>").</p>
+            <p>מוסכם כי סמוך לאחר חתימת הסכם זה ינהלו <term eId="trm_40" refersTo="#term_88a5098d">המעסיקים</term>, עם כל הסתדרות ואיגוד מקצועי, משא ומתן לקראת חתימת הסכם קיבוצי ליישום האמור בסעיפים <ref href="#art_5">5</ref> עד <ref href="#art_8">8</ref> לעיל, בכפוף למסגרת עלות התוספות ולבסיס החישוב כאמור בסעיף <ref href="#art_6">6</ref> לעיל, אך למעט בנוגע לעלות שהוקצתה לפי סעיף <ref href="#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> וכמפורט סעיף 9 ("<term eId="trm_41" refersTo="#term_96daeca6">תוספת 2011</term>").</p>
             <p>למען הסר ספק, לגבי מעסיקים הכפופים להוראות סעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_29">29</ref> <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref>, התשמ"ה-1985, האמור בסעיף זה הינו בכפוף להוראות סעיף 29.</p>
           </content>
         </paragraph>
@@ -602,15 +602,15 @@
         <paragraph eId="art_10__para_10-3">
           <num>10.3</num>
           <content>
-            <p>היה ועד ליום <date date="2011-11-30">30.11.2011</date>, לא ייחתם הסכם קיבוצי כאמור בסעיף 10.1 אשר בו תוקצה העלות שבסעיף 5.1.2, לגבי דירוג/ים מסוימ/ים, כי אז תוקצה מלוא העלות שבסעיף 5.1.2 להגדלת שיעורה של <term eId="trm_45" refersTo="#term_96daeca6">תוספת 2011</term> באופן אחיד לגבי כלל העובדים המדורגים באותו דירוג, ללא שינוי ביתר הכללים החלים לגבי תוספת זו, ולא יתקיים עוד כל משא ומתן בקשר לעלות זו.</p>
+            <p>היה ועד ליום <date date="2011-11-30">30.11.2011</date>, לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_10__para_10-1">10.1</ref> אשר בו תוקצה העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref>, לגבי דירוג/ים מסוימ/ים, כי אז תוקצה מלוא העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref> להגדלת שיעורה של <term eId="trm_45" refersTo="#term_96daeca6">תוספת 2011</term> באופן אחיד לגבי כלל העובדים המדורגים באותו דירוג, ללא שינוי ביתר הכללים החלים לגבי תוספת זו, ולא יתקיים עוד כל משא ומתן בקשר לעלות זו.</p>
             <p>על כן, אם לא ייחתם הסכם כאמור לגבי דירוג מסוים עד יום <date date="2011-11-30">30.11.2011</date>, כי אז יגדל, החל מיום <date date="2012-01-01">1.1.2012</date>, שיעורה של <term eId="trm_46" refersTo="#term_96daeca6">תוספת 2011</term> לגבי העובדים המדורגים באותו דירוג, מ-<quantity eId="qty_14" refersTo="#percentage" normalized="2.25">2.25%</quantity> ל-<quantity eId="qty_15" refersTo="#percentage" normalized="4.25">4.25%</quantity> (<quantity refersTo="#percentage" normalized="4.25" eId="qty_16">ארבעה אחוזים ועשרים וחמש מאיות האחוז</quantity>).</p>
           </content>
         </paragraph>
         <paragraph eId="art_10__para_10-4">
           <num>10.4</num>
           <content>
-            <p>היה ועד ליום <date date="2012-11-30">30.11.2012</date>, לא ייחתם הסכם קיבוצי כאמור בסעיף 10.1 אשר בו תוקצה העלות שבסעיף 5.1.3, לגבי דירוג/ים מסוימ/ים, כי אז תוקצה מלוא העלות שבסעיף 5.1.3 להגדלת שיעורה של <term eId="trm_47" refersTo="#term_96daeca6">תוספת 2011</term> באופן אחיד לגבי כלל העובדים המדורגים באותו דירוג, ללא שינוי ביתר הכללים החלים לגבי תוספת זו, ולא יתקיים עוד כל משא ומתן בקשר לעלות זו.</p>
-            <p>כך למשל, בהמשך לאמור בפסקה השניה של סעיף 10.3, אם לא ייחתם הסכם כאמור לגבי דירוג מסוים גם עד יום <date date="2012-11-30">30.11.2012</date>, כי אז יגדל, החל מיום <date date="2013-01-01">1.1.2013</date>, שיעורה של <term eId="trm_48" refersTo="#term_96daeca6">תוספת 2011</term> לגבי העובדים המדורגים באותו דירוג, מ-<quantity eId="qty_17" refersTo="#percentage" normalized="4.25">4.25%</quantity> ל-<quantity eId="qty_18" refersTo="#percentage" normalized="6.25">6.25%</quantity> (<quantity refersTo="#percentage" normalized="6.25" eId="qty_19">שישה אחוזים ועשרים וחמש מאיות האחוז</quantity>).</p>
+            <p>היה ועד ליום <date date="2012-11-30">30.11.2012</date>, לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_10__para_10-1">10.1</ref> אשר בו תוקצה העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-3">5.1.3</ref>, לגבי דירוג/ים מסוימ/ים, כי אז תוקצה מלוא העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-3">5.1.3</ref> להגדלת שיעורה של <term eId="trm_47" refersTo="#term_96daeca6">תוספת 2011</term> באופן אחיד לגבי כלל העובדים המדורגים באותו דירוג, ללא שינוי ביתר הכללים החלים לגבי תוספת זו, ולא יתקיים עוד כל משא ומתן בקשר לעלות זו.</p>
+            <p>כך למשל, בהמשך לאמור בפסקה השניה של סעיף <ref href="#art_10__para_10-3">10.3</ref>, אם לא ייחתם הסכם כאמור לגבי דירוג מסוים גם עד יום <date date="2012-11-30">30.11.2012</date>, כי אז יגדל, החל מיום <date date="2013-01-01">1.1.2013</date>, שיעורה של <term eId="trm_48" refersTo="#term_96daeca6">תוספת 2011</term> לגבי העובדים המדורגים באותו דירוג, מ-<quantity eId="qty_17" refersTo="#percentage" normalized="4.25">4.25%</quantity> ל-<quantity eId="qty_18" refersTo="#percentage" normalized="6.25">6.25%</quantity> (<quantity refersTo="#percentage" normalized="6.25" eId="qty_19">שישה אחוזים ועשרים וחמש מאיות האחוז</quantity>).</p>
           </content>
         </paragraph>
         <paragraph eId="art_10__para_10-5">
@@ -728,7 +728,7 @@
         <paragraph eId="art_11__para_11-7">
           <num>11.7</num>
           <intro>
-            <p>על אף האמור בסעיף 11.6, הוראותיו לא יחולו במקרה בו קיים הסדר כללי (ברמת הדירוג, המעסיק, מקום העבודה או אזור העבודה) אשר בו מתקיימים כל אלה:</p>
+            <p>על אף האמור בסעיף <ref href="#art_11__para_11-6">11.6</ref>, הוראותיו לא יחולו במקרה בו קיים הסדר כללי (ברמת הדירוג, המעסיק, מקום העבודה או אזור העבודה) אשר בו מתקיימים כל אלה:</p>
           </intro>
           <subparagraph eId="art_11__para_11-7__subpara_1">
             <num>1)</num>
@@ -879,7 +879,7 @@
           <subparagraph eId="art_14__para_14-1__subpara_14-1-2">
             <num>14.1.2</num>
             <content>
-              <p>בהתאם לתיקון, תוגדל <term eId="trm_61" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> לתשלום קצבה (להלן – "<def refersTo="#term_3a01aaf8">המשכורת הקובעת</def>") <term eId="trm_62" refersTo="#term_6a257662">לפורש זכאי</term> או לשאירו, לפי העניין, בשיעור שנקבע בטבלה המצורפת <ref href="#att_4">כנספח ד'</ref> להסכם זה (להלן – "<def refersTo="#term_66d8246a">הטבלה</def>"), בהתאם לחודש פרישתו מהשירות של הפורש הזכאי, ובהתאם למועדים המפורטים בסעיף 14.1.3.</p>
+              <p>בהתאם לתיקון, תוגדל <term eId="trm_61" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> לתשלום קצבה (להלן – "<def refersTo="#term_3a01aaf8">המשכורת הקובעת</def>") <term eId="trm_62" refersTo="#term_6a257662">לפורש זכאי</term> או לשאירו, לפי העניין, בשיעור שנקבע בטבלה המצורפת <ref href="#att_4">כנספח ד'</ref> להסכם זה (להלן – "<def refersTo="#term_66d8246a">הטבלה</def>"), בהתאם לחודש פרישתו מהשירות של הפורש הזכאי, ובהתאם למועדים המפורטים בסעיף <ref href="#art_14__para_14-1__subpara_14-1-3">14.1.3</ref>.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_14__para_14-1__subpara_14-1-3">
@@ -897,14 +897,14 @@
               <num>14.1.3.2</num>
               <content>
                 <p>החל מיום <date date="2012-01-01">1.1.2012</date> (הקצבה בעד חודש ינואר 2012) תוגדל <term eId="trm_65" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> בשיעור המפורט <term eId="trm_66" refersTo="#term_66d8246a">בטבלה</term>, בעמודה B, ובלבד שמועד הפרישה מהשירות הינו בתקופה שמיום <date date="2010-04-01">1.4.2010</date> עד יום <date date="2011-12-31">31.12.2011</date>;</p>
-                <p>מובהר כי לגבי מי שמשכורתו הקובעת תוגדל הן לפי האמור בסעיף 14.1.31 והן לפי האמור בסעיף 14.1.3.2, הגדלת <term eId="trm_67" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> כאמור בסעיף 14.1.3.2 תיעשה על בסיס הכולל את ההגדלה לפי סעיף 14.1.3.1.</p>
+                <p>מובהר כי לגבי מי שמשכורתו הקובעת תוגדל הן לפי האמור בסעיף 14.1.31 והן לפי האמור בסעיף <ref href="#art_14__para_14-1__subpara_14-1-3__cls_14-1-3-2">14.1.3.2</ref>, הגדלת <term eId="trm_67" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> כאמור בסעיף <ref href="#art_14__para_14-1__subpara_14-1-3__cls_14-1-3-2">14.1.3.2</ref> תיעשה על בסיס הכולל את ההגדלה לפי סעיף <ref href="#art_14__para_14-1__subpara_14-1-3__cls_14-1-3-1">14.1.3.1</ref>.</p>
               </content>
             </clause>
             <clause eId="art_14__para_14-1__subpara_14-1-3__cls_14-1-3-3">
               <num>14.1.3.3</num>
               <content>
                 <p>החל מיום <date date="2013-01-01">1.1.2013</date> (הקצבה בעד חודש ינואר 2013), תוגדל <term eId="trm_68" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> בשיעור המפורט <term eId="trm_69" refersTo="#term_66d8246a">בטבלה</term>, בעמודה C, ובלבד שמועד הפרישה מהשירות הינו בתקופה שמיום <date date="2011-05-01">1.5.2011</date> עד יום <date date="2012-12-31">31.12.2012</date>.</p>
-                <p>מובהר כי לגבי מי שמשכורתו הקובעת תוגדל הן לפי האמור בסעיף 14.1.3.2 והן לפי האמור בסעיף 14.1.3.3, הגדלת <term eId="trm_70" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> כאמור בסעיף 14.1.3.3 תיעשה על בסיס הכולל את ההגדלה לפי סעיף 14.1.3.2.</p>
+                <p>מובהר כי לגבי מי שמשכורתו הקובעת תוגדל הן לפי האמור בסעיף <ref href="#art_14__para_14-1__subpara_14-1-3__cls_14-1-3-2">14.1.3.2</ref> והן לפי האמור בסעיף <ref href="#art_14__para_14-1__subpara_14-1-3__cls_14-1-3-3">14.1.3.3</ref>, הגדלת <term eId="trm_70" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> כאמור בסעיף <ref href="#art_14__para_14-1__subpara_14-1-3__cls_14-1-3-3">14.1.3.3</ref> תיעשה על בסיס הכולל את ההגדלה לפי סעיף <ref href="#art_14__para_14-1__subpara_14-1-3__cls_14-1-3-2">14.1.3.2</ref>.</p>
               </content>
             </clause>
           </subparagraph>
@@ -930,7 +930,7 @@
         <paragraph eId="art_14__para_14-3">
           <num>14.3</num>
           <content>
-            <p>מובהר ומוסכם בין <term eId="trm_75" refersTo="#term_0cdeaf5a">ההסתדרות</term> לבין כל אחד <term eId="trm_76" refersTo="#term_88a5098d">מהמעסיקים</term> / ארגוני <term eId="trm_77" refersTo="#term_88a5098d">המעסיקים</term> הבאים: <organization eId="org_54" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_55" refersTo="#three-cities">שלוש הערים הגדולות</organization>, <organization eId="org_56" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>, <organization eId="org_57" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>, איגודי הערים לכבאות, <organization eId="org_58" refersTo="#nii">המוסד לביטוח לאומי</organization>, <organization eId="org_59" refersTo="#employment-service">שירות התעסוקה</organization> <organization eId="org_60" refersTo="#israel-post">וחברת דואר ישראל</organization> בע"מ, כי תיקון החקיקה הנזכר בסעיף 14.1 יחול גם על גופים אלו, לפי אותם כללים, לרבות בעניין מועדי התשלום, בשל העובדה כי חוק הגמלאות הוחל בקרבם מכוח הוראות חוק, הסכם או הסדר, לפי העניין. התיקון יוחל בהתאמה לדירוגים הקיימים בקרב מעסיקים אלו, ואשר כלולים <ref href="#att_1">בנספח א'</ref> להסכם זה.</p>
+            <p>מובהר ומוסכם בין <term eId="trm_75" refersTo="#term_0cdeaf5a">ההסתדרות</term> לבין כל אחד <term eId="trm_76" refersTo="#term_88a5098d">מהמעסיקים</term> / ארגוני <term eId="trm_77" refersTo="#term_88a5098d">המעסיקים</term> הבאים: <organization eId="org_54" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_55" refersTo="#three-cities">שלוש הערים הגדולות</organization>, <organization eId="org_56" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>, <organization eId="org_57" refersTo="#regional-councils-centre">מרכז המועצות האזוריות</organization>, איגודי הערים לכבאות, <organization eId="org_58" refersTo="#nii">המוסד לביטוח לאומי</organization>, <organization eId="org_59" refersTo="#employment-service">שירות התעסוקה</organization> <organization eId="org_60" refersTo="#israel-post">וחברת דואר ישראל</organization> בע"מ, כי תיקון החקיקה הנזכר בסעיף <ref href="#art_14__para_14-1">14.1</ref> יחול גם על גופים אלו, לפי אותם כללים, לרבות בעניין מועדי התשלום, בשל העובדה כי חוק הגמלאות הוחל בקרבם מכוח הוראות חוק, הסכם או הסדר, לפי העניין. התיקון יוחל בהתאמה לדירוגים הקיימים בקרב מעסיקים אלו, ואשר כלולים <ref href="#att_1">בנספח א'</ref> להסכם זה.</p>
           </content>
         </paragraph>
         <paragraph eId="art_14__para_14-4">
@@ -942,7 +942,7 @@
         <paragraph eId="art_14__para_14-5">
           <num>14.5</num>
           <content>
-            <p>כתוצאה מתיקון חוק הגמלאות הנזכר בסעיף 14.1, מובהר ומוסכם כי לגבי <term eId="trm_80" refersTo="#term_6a257662">פורש זכאי</term> אשר זכאי לתשלום <term eId="trm_81" refersTo="#term_db42967d">מענק יובל</term>, או לשאירו, לפי העניין, יוגדל, במועדי הגדלת <term eId="trm_82" refersTo="#term_3a01aaf8">המשכורת הקובעת</term>, כאמור לעיל, סכום רכיב "<term eId="trm_83" refersTo="#term_db42967d">מענק יובל</term>", וזאת באותו שיעור בה הוגדלה משכורתו הקובעת.</p>
+            <p>כתוצאה מתיקון חוק הגמלאות הנזכר בסעיף <ref href="#art_14__para_14-1">14.1</ref>, מובהר ומוסכם כי לגבי <term eId="trm_80" refersTo="#term_6a257662">פורש זכאי</term> אשר זכאי לתשלום <term eId="trm_81" refersTo="#term_db42967d">מענק יובל</term>, או לשאירו, לפי העניין, יוגדל, במועדי הגדלת <term eId="trm_82" refersTo="#term_3a01aaf8">המשכורת הקובעת</term>, כאמור לעיל, סכום רכיב "<term eId="trm_83" refersTo="#term_db42967d">מענק יובל</term>", וזאת באותו שיעור בה הוגדלה משכורתו הקובעת.</p>
             <p>לעניין זה, "<def refersTo="#term_db42967d">מענק יובל</def>" – כמשמעותו בפרק 25.5 לתקשי"ר ובהסדרים המקבילים אצל יתר <term eId="trm_84" refersTo="#term_88a5098d">המעסיקים</term>.</p>
             <p>מובהר כי אין באמור בסעיף זה כדי לשנות את מועד תשלום רכיב "<term eId="trm_85" refersTo="#term_db42967d">מענק יובל</term>".</p>
           </content>
@@ -1005,7 +1005,7 @@
           <subparagraph eId="art_16__para_16-1__subpara_3">
             <num>3)</num>
             <content>
-              <p>בהמשך <ref href="/akn/il/act/collectiveAgreement/2009-06-16/2009-06-16-framework-agreement-public-sector-havraa-reduction">להסכם הקיבוצי שנחתם ביום 16.6.2009</ref> בעניין הפחתת דמי הבראה, להחלטות ועדת המעקב שנחתמו בהמשך אליו <ref href="/akn/il/act/collectiveAgreement/2010-06-07/2010-06-07-framework-agreement-public-sector-havraa-reduction-deferral">ולהסכם הקיבוצי שנחתם ביום 7.6.2010</ref> בעניין דחיית ההפחתה, ובשונה מהאמור בו, מוסכם בין הצדדים כי ההפחתה בדמי ההבראה שבוצעה מכוח ההסכמים האמורים והחלטות ועדת המעקב, בתקופה שמיום <date date="2009-01-01">1.1.2009</date> ועד למועד חתימת הסכם זה, ממצה את מלוא ההפחתה הנדרשת בעניין זה ולא תבוצע הפחתה נוספת של דמי הבראה בשנת 2011. האמור בסעיף זה הינו בכפוף להשלמת חקיקתו של תיקון החקיקה הנזכר בסעיף 16.1.</p>
+              <p>בהמשך <ref href="/akn/il/act/collectiveAgreement/2009-06-16/2009-06-16-framework-agreement-public-sector-havraa-reduction">להסכם הקיבוצי שנחתם ביום 16.6.2009</ref> בעניין הפחתת דמי הבראה, להחלטות ועדת המעקב שנחתמו בהמשך אליו <ref href="/akn/il/act/collectiveAgreement/2010-06-07/2010-06-07-framework-agreement-public-sector-havraa-reduction-deferral">ולהסכם הקיבוצי שנחתם ביום 7.6.2010</ref> בעניין דחיית ההפחתה, ובשונה מהאמור בו, מוסכם בין הצדדים כי ההפחתה בדמי ההבראה שבוצעה מכוח ההסכמים האמורים והחלטות ועדת המעקב, בתקופה שמיום <date date="2009-01-01">1.1.2009</date> ועד למועד חתימת הסכם זה, ממצה את מלוא ההפחתה הנדרשת בעניין זה ולא תבוצע הפחתה נוספת של דמי הבראה בשנת 2011. האמור בסעיף זה הינו בכפוף להשלמת חקיקתו של תיקון החקיקה הנזכר בסעיף <ref href="#art_16__para_16-1">16.1</ref>.</p>
             </content>
           </subparagraph>
         </paragraph>

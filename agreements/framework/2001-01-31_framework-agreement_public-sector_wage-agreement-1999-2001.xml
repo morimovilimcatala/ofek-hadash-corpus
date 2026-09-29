@@ -188,7 +188,7 @@
           <subparagraph eId="art_2__para_2-1__subpara_2-1-2">
             <num>2.1.2</num>
             <content>
-              <p>על אף האמור בסעיף 2.1.1 עובד בשירות <term eId="trm_10" refersTo="#term_88a5098d">המעסיקים</term> שאינם המדינה, הזכאי למענק חד פעמי אשר פוטר או התפטר מעבודתו בשירות <term eId="trm_11" refersTo="#term_88a5098d">המעסיקים</term> שלא בדרך גמלאות, לפני יום חתימת הסכם זה, תחול חובה על המעסיק לשלם לו את המענק כאמור בסעיף 2.1.1 רק אם יפנה למעסיק בדרישה לקבלת <term eId="trm_12" refersTo="#term_e3d38431">המענק החד פעמי</term> תוך <quantity eId="qty_2" refersTo="#day" normalized="30">30 יום</quantity> מיום פנייתו למעסיק.</p>
+              <p>על אף האמור בסעיף <ref href="#art_2__para_2-1__subpara_2-1-1">2.1.1</ref> עובד בשירות <term eId="trm_10" refersTo="#term_88a5098d">המעסיקים</term> שאינם המדינה, הזכאי למענק חד פעמי אשר פוטר או התפטר מעבודתו בשירות <term eId="trm_11" refersTo="#term_88a5098d">המעסיקים</term> שלא בדרך גמלאות, לפני יום חתימת הסכם זה, תחול חובה על המעסיק לשלם לו את המענק כאמור בסעיף <ref href="#art_2__para_2-1__subpara_2-1-1">2.1.1</ref> רק אם יפנה למעסיק בדרישה לקבלת <term eId="trm_12" refersTo="#term_e3d38431">המענק החד פעמי</term> תוך <quantity eId="qty_2" refersTo="#day" normalized="30">30 יום</quantity> מיום פנייתו למעסיק.</p>
             </content>
           </subparagraph>
         </paragraph>
@@ -278,7 +278,7 @@
         <paragraph eId="art_3__para_3-4">
           <num>3.4</num>
           <content>
-            <p>במידה ותועלה טענה על ידי <term eId="trm_26" refersTo="#term_0cdeaf5a">ההסתדרות</term> בנוגע להכללתה של תוספת הנופלת בגדר סעיפים קטנים 3.3.1 עד 3.3.4 בבסיס השכר המפורט בסעיף <ref href="#art_3__para_3-3">3.3</ref>, יידון הענין בין <role eId="rol_20" refersTo="#role-memuneh-sachar">הממונה על השכר</role> לבין <role eId="rol_21" refersTo="#role-yor">יו"ר</role> <organization eId="unt_2" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>.</p>
+            <p>במידה ותועלה טענה על ידי <term eId="trm_26" refersTo="#term_0cdeaf5a">ההסתדרות</term> בנוגע להכללתה של תוספת הנופלת בגדר סעיפים קטנים <ref href="#art_3__para_3-3__subpara_3-3-1">3.3.1</ref> עד <ref href="#art_3__para_3-3__subpara_3-3-4">3.3.4</ref> בבסיס השכר המפורט בסעיף <ref href="#art_3__para_3-3">3.3</ref>, יידון הענין בין <role eId="rol_20" refersTo="#role-memuneh-sachar">הממונה על השכר</role> לבין <role eId="rol_21" refersTo="#role-yor">יו"ר</role> <organization eId="unt_2" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_3__para_3-5">
@@ -303,7 +303,7 @@
       <article eId="art_4" repo:prose="same-source">
         <num>4</num>
         <content>
-          <p>מובהר בזאת כי תוספות שכר שאינן מובאות בחשבון לענין חישוב ערך שעה ואינן מנויות בסעיפים 3.3.1 עד 3.3.4, תגדלנה בשיעור של <quantity eId="qty_4" refersTo="#percentage" normalized="3.6">3.6%</quantity>, החל מיום ה – <date date="2001-01-01">1.1.2001</date>.</p>
+          <p>מובהר בזאת כי תוספות שכר שאינן מובאות בחשבון לענין חישוב ערך שעה ואינן מנויות בסעיפים <ref href="#art_3__para_3-3__subpara_3-3-1">3.3.1</ref> עד <ref href="#art_3__para_3-3__subpara_3-3-4">3.3.4</ref>, תגדלנה בשיעור של <quantity eId="qty_4" refersTo="#percentage" normalized="3.6">3.6%</quantity>, החל מיום ה – <date date="2001-01-01">1.1.2001</date>.</p>
         </content>
       </article>
       <article eId="art_5" repo:prose="same-source">

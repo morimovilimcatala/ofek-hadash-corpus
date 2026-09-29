@@ -267,7 +267,7 @@
           <paragraph eId="art_5__para_5-1">
             <num>5.1</num>
             <content>
-              <p>החל מיום <date date="2022-09-01">1.9.2022</date> יהיו עובדי ההוראה עליהם חל סעיף זה אשר מועסקים במשרה מלאה (<quantity eId="qty_1" refersTo="#percentage" normalized="100">100%</quantity>), במוסדות חינוך <organization eId="org_25" refersTo="#moe">במשרד החינוך</organization> זכאים לתוספת שקלית בהתאם לדרגתם כמפורט בטבלאות המצורפות כנספחים ב1 עד ב7 להסכם זה, בכפוף לכללים המפורטים בסעיפים קטנים 5.3 עד 5.5 (להלן: "<def refersTo="#term_5502ffde #comp_ofek-2022">תוספת אופק 2022</def>"). התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
+              <p>החל מיום <date date="2022-09-01">1.9.2022</date> יהיו עובדי ההוראה עליהם חל סעיף זה אשר מועסקים במשרה מלאה (<quantity eId="qty_1" refersTo="#percentage" normalized="100">100%</quantity>), במוסדות חינוך <organization eId="org_25" refersTo="#moe">במשרד החינוך</organization> זכאים לתוספת שקלית בהתאם לדרגתם כמפורט בטבלאות המצורפות כנספחים ב1 עד ב7 להסכם זה, בכפוף לכללים המפורטים בסעיפים קטנים <ref href="#art_5__para_5-3">5.3</ref> עד <ref href="#art_5__para_5-5">5.5</ref> (להלן: "<def refersTo="#term_5502ffde #comp_ofek-2022">תוספת אופק 2022</def>"). התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_5__para_5-2">
@@ -305,7 +305,7 @@
           <num>6</num>
           <heading>תוספת אישית אחוזית למנהלים</heading>
           <intro>
-            <p>בכל אחד מן המועדים בהם תעודכנה טבלאות השכר המשולב כמפורט בסעיפים קטנים 4.1 עד 4.2 יעודכן שיעור התוספת האישית האחוזית למנהלים הזכאים לה מכוח הוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_72">72</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, כך שסכומה השקלי ישמר.</p>
+            <p>בכל אחד מן המועדים בהם תעודכנה טבלאות השכר המשולב כמפורט בסעיפים קטנים <ref href="#art_4__para_4-1">4.1</ref> עד <ref href="#art_4__para_4-2">4.2</ref> יעודכן שיעור התוספת האישית האחוזית למנהלים הזכאים לה מכוח הוראות סעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_72">72</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref>, כך שסכומה השקלי ישמר.</p>
             <p>השיעור המעודכן של התוספות האישית למנהלים לה זכאי <term eId="trm_31" refersTo="#term_e63066d9">המנהל</term> (C) יחושב על פי הנוסחה הבאה –</p>
             <p>A= הסכום השקלי של התוספת האישית ששולמה למנהל ערב עדכון טבלת השכר (להלן: "<def refersTo="#term_d471f2e0">סכום שקלי לתוספת אישית למנהלים</def>").</p>
             <p>B= השכר הטבלאי החדש של <term eId="trm_32" refersTo="#term_e63066d9">המנהל</term>, בהתאם לדרגתו ולרמת המורכבות לאחר עדכון טבלת השכר.</p>
@@ -548,7 +548,7 @@
           <paragraph eId="art_10__para_10-6">
             <num>10.6</num>
             <content>
-              <p>למען הסר כל ספק מובהר כי כל הכללים אשר יחולו על הגמול השקלי שבסעיפים קטנים 10.1 עד 10.5 לעיל יהיו זהים לכללים החלים ערב החתימה על הסכם זה על הגמול האחוזי שבסעיפים קטנים 10.1 עד 10.5 לעיל.</p>
+              <p>למען הסר כל ספק מובהר כי כל הכללים אשר יחולו על הגמול השקלי שבסעיפים קטנים <ref href="#art_10__para_10-1">10.1</ref> עד <ref href="#art_10__para_10-5">10.5</ref> לעיל יהיו זהים לכללים החלים ערב החתימה על הסכם זה על הגמול האחוזי שבסעיפים קטנים <ref href="#art_10__para_10-1">10.1</ref> עד <ref href="#art_10__para_10-5">10.5</ref> לעיל.</p>
               <p>למען הסר כל ספק מובהר כי הוראות סעיף <ref href="#art_10">10</ref> זה לא חלות לגבי עובד הוראה המועסק שלא בתנאי <concept eId="con_29" refersTo="#reform_ofek">אופק חדש</concept>.</p>
             </content>
           </paragraph>
@@ -819,7 +819,7 @@
             <subparagraph eId="art_17__para_17-1__subpara_17-1-5">
               <num>17.1.5</num>
               <content>
-                <p>על אף האמור בסעיף 17.1.4 לעיל, החל מיום <date date="2023-09-01">1.9.2023</date> לגבי <term eId="trm_40" refersTo="#term_7e6f90c0">מורה מתי"א זכאי</term> המלמד בכיתה שהוגדרה על ידי <organization eId="org_37" refersTo="#moe">משרד החינוך</organization> ככיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_38" refersTo="#moe">משרד החינוך</organization> נח/8(ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date>, <date date="1998-04-01">1 באפריל 1998</date> וכפי שעודכן ויעודכן מזמן לזמן, יגדל שיעור גמול חינוך מיוחד, בגין שעות הלימוד בכיתות אלו, מ-<quantity eId="qty_63" refersTo="#percentage" normalized="9">9%</quantity> לשיעור של <quantity eId="qty_64" refersTo="#percentage" normalized="17">17%</quantity>.</p>
+                <p>על אף האמור בסעיף <ref href="#art_17__para_17-1__subpara_17-1-4">17.1.4</ref> לעיל, החל מיום <date date="2023-09-01">1.9.2023</date> לגבי <term eId="trm_40" refersTo="#term_7e6f90c0">מורה מתי"א זכאי</term> המלמד בכיתה שהוגדרה על ידי <organization eId="org_37" refersTo="#moe">משרד החינוך</organization> ככיתה מסוג לקות "אוטיזם" או מסוג לקות "הפרעות נפשיות קשות (ח"נ)", בהתאם לחוזר מנכ"ל <organization eId="org_38" refersTo="#moe">משרד החינוך</organization> נח/8(ב), מיום <date date="1998-04-01">ה' בניסן התשנ"ח</date>, <date date="1998-04-01">1 באפריל 1998</date> וכפי שעודכן ויעודכן מזמן לזמן, יגדל שיעור גמול חינוך מיוחד, בגין שעות הלימוד בכיתות אלו, מ-<quantity eId="qty_63" refersTo="#percentage" normalized="9">9%</quantity> לשיעור של <quantity eId="qty_64" refersTo="#percentage" normalized="17">17%</quantity>.</p>
               </content>
             </subparagraph>
           </paragraph>
@@ -984,7 +984,7 @@
           <paragraph eId="art_21__para_21-10">
             <num>21.10</num>
             <intro>
-              <p>מובהר כי לגבי עובד אשר זכאי למענק לפי סעיף זה ואשר במועד ביצוע תשלום <term eId="trm_62" refersTo="#term_3e53ed76">המענק</term> כאמור בסעיף <ref href="#art_21__para_21-6">21.6</ref> לעיל, מתקיימות לגביו הנסיבות המפורטות באחד מן הסעיפים 21.10.1 עד 21.10.4 להלן, יבוצע תשלום <term eId="trm_63" refersTo="#term_3e53ed76">המענק</term> במשכורת החודש הראשונה שתשולם עם השיבה לעבודה במשכורת, ולכל היותר במשכורת החודש שאחריה:</p>
+              <p>מובהר כי לגבי עובד אשר זכאי למענק לפי סעיף זה ואשר במועד ביצוע תשלום <term eId="trm_62" refersTo="#term_3e53ed76">המענק</term> כאמור בסעיף <ref href="#art_21__para_21-6">21.6</ref> לעיל, מתקיימות לגביו הנסיבות המפורטות באחד מן הסעיפים <ref href="#art_21__para_21-10__subpara_21-10-1">21.10.1</ref> עד <ref href="#art_21__para_21-10__subpara_21-10-4">21.10.4</ref> להלן, יבוצע תשלום <term eId="trm_63" refersTo="#term_3e53ed76">המענק</term> במשכורת החודש הראשונה שתשולם עם השיבה לעבודה במשכורת, ולכל היותר במשכורת החודש שאחריה:</p>
             </intro>
             <subparagraph eId="art_21__para_21-10__subpara_21-10-1">
               <num>21.10.1</num>
@@ -1061,7 +1061,7 @@
             <num>22.5</num>
             <content>
               <p>התפקידים הבית ספריים ויחידות הגמול לכל תפקיד ייקבעו כאמור על ידי <term eId="trm_75" refersTo="#term_e63066d9">המנהל</term> בתחילת שנת הלימודים מידי שנה.</p>
-              <p>למען הסר ספק מובהר כי מנהל רשאי לקבוע את אותם תפקידים בית ספריים (או חלק מהם) מדי שנה וכן רשאי לקבוע מספר יחידות גמול שונה לכל תפקיד בית ספרי מדי שנה, הכל בהתאם למפורט בסעיפים קטנים 22.1 ו-22.2 לעיל.</p>
+              <p>למען הסר ספק מובהר כי מנהל רשאי לקבוע את אותם תפקידים בית ספריים (או חלק מהם) מדי שנה וכן רשאי לקבוע מספר יחידות גמול שונה לכל תפקיד בית ספרי מדי שנה, הכל בהתאם למפורט בסעיפים קטנים <ref href="#art_22__para_22-1">22.1</ref> ו-<ref href="#art_22__para_22-2">22.2</ref> לעיל.</p>
             </content>
           </paragraph>
           <paragraph eId="art_22__para_22-6">
@@ -1237,7 +1237,7 @@
           <paragraph eId="art_27__para_27-1">
             <num>27.1</num>
             <content>
-              <p>החל מיום <date date="2022-09-01">1.9.2022</date> יהיו עובדי ההוראה עליהם חל סעיף זה, זכאים לתוספת שקלית בסכום של <quantity eId="qty_103" refersTo="#ILS" normalized="500">500 ₪</quantity> למשרה מלאה (<quantity eId="qty_104" refersTo="#percentage" normalized="100">100%</quantity>) בכפוף לכללים המפורטים בסעיפים קטנים 27.2 עד 27.5 להלן (להלן: "<def refersTo="#term_98100f05 #comp_sheklit-2022">תוספת שקלית 2022</def>"). התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
+              <p>החל מיום <date date="2022-09-01">1.9.2022</date> יהיו עובדי ההוראה עליהם חל סעיף זה, זכאים לתוספת שקלית בסכום של <quantity eId="qty_103" refersTo="#ILS" normalized="500">500 ₪</quantity> למשרה מלאה (<quantity eId="qty_104" refersTo="#percentage" normalized="100">100%</quantity>) בכפוף לכללים המפורטים בסעיפים קטנים <ref href="#art_27__para_27-2">27.2</ref> עד <ref href="#art_27__para_27-5">27.5</ref> להלן (להלן: "<def refersTo="#term_98100f05 #comp_sheklit-2022">תוספת שקלית 2022</def>"). התשלום לפי סעיף זה יבוצע החל ממשכורת חודש ינואר 2023 למפרע ליום <date date="2022-09-01">1.9.2022</date>.</p>
             </content>
           </paragraph>
           <paragraph eId="art_27__para_27-2">
@@ -1311,7 +1311,7 @@
             <subparagraph eId="art_29__para_29-1__subpara_29-1-4">
               <num>29.1.4</num>
               <content>
-                <p>מוסכם כי עובד הוראה כאמור בסעיפים קטנים 29.1.2 ו- 29.1.3 יהיה זכאי לנצל את החופשה האמורה במהלך אותה שנת הלימודים ורק לאחר שעבד בפועל במועדים המפורטים בסעיפים האמורים בהתאם <term eId="trm_110" refersTo="#term_190ccc3c">לשעות המערכת</term> הקבועות בעניינו.</p>
+                <p>מוסכם כי עובד הוראה כאמור בסעיפים קטנים <ref href="#art_29__para_29-1__subpara_29-1-2">29.1.2</ref> ו- <ref href="#art_29__para_29-1__subpara_29-1-3">29.1.3</ref> יהיה זכאי לנצל את החופשה האמורה במהלך אותה שנת הלימודים ורק לאחר שעבד בפועל במועדים המפורטים בסעיפים האמורים בהתאם <term eId="trm_110" refersTo="#term_190ccc3c">לשעות המערכת</term> הקבועות בעניינו.</p>
                 <p>למען הסר ספק השיבוץ בסעיף זה הינו שיבוץ שלא במילוי מקום שעתי.</p>
               </content>
             </subparagraph>

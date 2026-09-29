@@ -433,7 +433,7 @@
           <subparagraph eId="art_5__para_5-2__subpara_5-2-4">
             <num>5.2.4</num>
             <content>
-              <p>מובהר כי המדינה תהא רשאית, על פי שיקול דעתה, להקדים את תשלום החלק השני של <term eId="trm_38" refersTo="#term_3e53ed76">המענק</term> כך שזה ישולם לפני המועד הקבוע בסעיף 5.2.2 לעיל, כפי שתחליט המדינה; אין בהקדמת תשלום על ידי המדינה כדי להשפיע על יתר <term eId="trm_39" refersTo="#term_88a5098d">המעסיקים</term> החתומים על ההסכם לשלם במועד.</p>
+              <p>מובהר כי המדינה תהא רשאית, על פי שיקול דעתה, להקדים את תשלום החלק השני של <term eId="trm_38" refersTo="#term_3e53ed76">המענק</term> כך שזה ישולם לפני המועד הקבוע בסעיף <ref href="#art_5__para_5-2__subpara_5-2-2">5.2.2</ref> לעיל, כפי שתחליט המדינה; אין בהקדמת תשלום על ידי המדינה כדי להשפיע על יתר <term eId="trm_39" refersTo="#term_88a5098d">המעסיקים</term> החתומים על ההסכם לשלם במועד.</p>
             </content>
           </subparagraph>
         </paragraph>
@@ -641,7 +641,7 @@
           <subparagraph eId="art_7__para_7-2__subpara_i">
             <num>(ט)</num>
             <content>
-              <p>על אף האמור בסעיפים קטנים <ref href="#art_7__para_7-2__subpara_g">(ז)</ref> ו-<ref href="#art_7__para_7-2__subpara_h">(ח)</ref> לעיל, לגבי "עובדים באחיד ובמח"ר", כהגדרתם בסעיף <ref href="#art_20__para_20-1">20.1</ref> להלן, יחול האמור בסעיף <ref href="#art_20">20</ref> להלן לגבי העלות שבסעיף 5.1.1 לעיל.</p>
+              <p>על אף האמור בסעיפים קטנים <ref href="#art_7__para_7-2__subpara_g">(ז)</ref> ו-<ref href="#art_7__para_7-2__subpara_h">(ח)</ref> לעיל, לגבי "עובדים באחיד ובמח"ר", כהגדרתם בסעיף <ref href="#art_20__para_20-1">20.1</ref> להלן, יחול האמור בסעיף <ref href="#art_20">20</ref> להלן לגבי העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> לעיל.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_7__para_7-2__subpara_j">
@@ -779,8 +779,8 @@
             <p repo:role="running-head">A + B = C</p>
             <p>למען הסר ספק מובהר כי קיים רק סכום שקלי אחד אשר מקיים את הנוסחה, והוא יהיה גובה התוספת השקלית לעובד המועסק במשרה מלאה.</p>
             <p>לעניין סעיף זה:</p>
-            <p>A - הסכום המצרפי של <term eId="trm_61" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, אילו היתה התוספת האמורה משולמת בשנת 2015 לכלל העובדים <term eId="trm_62" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים 10.3 עד 10.9 שלהלן.</p>
-            <p>B - הסכום המצרפי שבו היו גדלים בשנת 2015 כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) בסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל, אשר שולמו בפועל בשנת 2015, אילו <term eId="trm_63" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term> היתה משולמת לכלל העובדים <term eId="trm_64" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים 10.3 עד 10.9 שלהלן.</p>
+            <p>A - הסכום המצרפי של <term eId="trm_61" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, אילו היתה התוספת האמורה משולמת בשנת 2015 לכלל העובדים <term eId="trm_62" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים <ref href="#art_10__para_10-3">10.3</ref> עד <ref href="#art_10__para_10-9">10.9</ref> שלהלן.</p>
+            <p>B - הסכום המצרפי שבו היו גדלים בשנת 2015 כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) בסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל, אשר שולמו בפועל בשנת 2015, אילו <term eId="trm_63" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term> היתה משולמת לכלל העובדים <term eId="trm_64" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים <ref href="#art_10__para_10-3">10.3</ref> עד <ref href="#art_10__para_10-9">10.9</ref> שלהלן.</p>
             <p>C - סכום השווה ל-<quantity eId="qty_23" refersTo="#percentage" normalized="1">1%</quantity> מבסיס השכר כפי שחושב כאמור בסעיף <ref href="#art_6">6</ref> לעיל, לגבי <term eId="trm_65" refersTo="#term_2a1a2303">קבוצת החישוב</term>, למעט התוספות המיוחדות כהגדרתם בסעיף <ref href="#art_9">9</ref> לעיל של העובדים <term eId="trm_66" refersTo="#term_2a1a2303">בקבוצת החישוב</term> האמורה (אשר יעודכנו כאמור בסעיף <ref href="#art_9">9</ref> לעיל).</p>
           </content>
         </paragraph>
@@ -862,13 +862,13 @@
         <paragraph eId="art_11__para_11-1">
           <num>11.1</num>
           <content>
-            <p>הקצאת מסגרת עלות התוספות כאמור בסעיפים 5.1.2 עד 5.1.5 לעיל, בהפחתת העלות הנובעת מסעיף <ref href="#art_9">9</ref> לעיל, תעשה בהתאם להוראות <term eId="trm_79" refersTo="#term_926006b0">ברירת המחדל</term> להקצאת מסגרת העלות כאמור בסעיפים <ref href="#art_12">12</ref> עד <ref href="#art_15">15</ref> להלן (להלן: "<def refersTo="#term_926006b0">ברירת המחדל</def>"), או על פי חלוקה אחרת אשר תיקבע בהסכם בין הצדדים לפי האמור בסעיף זה ובלבד שהסכמה כאמור תביא במכלול לצמצום פערים <term eId="trm_80" refersTo="#term_2a1a2303">בקבוצת החישוב</term> ותקבל את אישור <role eId="rol_74" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מראש, במפורש ובכתב.</p>
+            <p>הקצאת מסגרת עלות התוספות כאמור בסעיפים <ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref> עד <ref href="#art_5__para_5-1__subpara_5-1-5">5.1.5</ref> לעיל, בהפחתת העלות הנובעת מסעיף <ref href="#art_9">9</ref> לעיל, תעשה בהתאם להוראות <term eId="trm_79" refersTo="#term_926006b0">ברירת המחדל</term> להקצאת מסגרת העלות כאמור בסעיפים <ref href="#art_12">12</ref> עד <ref href="#art_15">15</ref> להלן (להלן: "<def refersTo="#term_926006b0">ברירת המחדל</def>"), או על פי חלוקה אחרת אשר תיקבע בהסכם בין הצדדים לפי האמור בסעיף זה ובלבד שהסכמה כאמור תביא במכלול לצמצום פערים <term eId="trm_80" refersTo="#term_2a1a2303">בקבוצת החישוב</term> ותקבל את אישור <role eId="rol_74" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מראש, במפורש ובכתב.</p>
           </content>
         </paragraph>
         <paragraph eId="art_11__para_11-2">
           <num>11.2</num>
           <content>
-            <p>מוסכם כי סמוך לאחר חתימת הסכם זה ינהלו <term eId="trm_81" refersTo="#term_88a5098d">המעסיקים</term>, עם כל איגוד מקצועי, משא ומתן לחתימת הסכם קיבוצי לגבי כל קבוצת חישוב שהוא מייצג, ליישום האמור בסעיפים <ref href="#art_5">5</ref> עד <ref href="#art_8">8</ref> לעיל, אך למעט בנוגע לעלות שהוקצתה לפי סעיף 5.1.1 לעיל (ומשולמת לפי סעיף 10 <term eId="trm_82" refersTo="#term_ca0a1e3c">כתוספת שקלית 2016</term>) ולפי סעיף <ref href="#art_9">9</ref> לעיל.</p>
+            <p>מוסכם כי סמוך לאחר חתימת הסכם זה ינהלו <term eId="trm_81" refersTo="#term_88a5098d">המעסיקים</term>, עם כל איגוד מקצועי, משא ומתן לחתימת הסכם קיבוצי לגבי כל קבוצת חישוב שהוא מייצג, ליישום האמור בסעיפים <ref href="#art_5">5</ref> עד <ref href="#art_8">8</ref> לעיל, אך למעט בנוגע לעלות שהוקצתה לפי סעיף <ref href="#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> לעיל (ומשולמת לפי סעיף 10 <term eId="trm_82" refersTo="#term_ca0a1e3c">כתוספת שקלית 2016</term>) ולפי סעיף <ref href="#art_9">9</ref> לעיל.</p>
             <p>למען הסר ספק, לגבי מעסיקים הכפופים להוראות סעיף <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב#סעיף_29">29</ref> <ref href="https://he.wikisource.org/wiki/חוק_יסודות_התקציב">חוק יסודות התקציב</ref>, התשמ"ה-1985, האמור בסעיף זה הוא בכפוף להוראות סעיף 29.</p>
           </content>
         </paragraph>
@@ -890,7 +890,7 @@
           <num>11.5</num>
           <content>
             <p><term eId="trm_87" refersTo="#term_29185c06">דירוגים ייחודיים בשירות המדינה</term> (דירוג מעברי הגבול בשירות המדינה, דירוג קלדניות שופטים, דירוג יהלום ודירוג רשות מקרקעי ישראל):</p>
-            <p>בהמשך לאמור בסעיף <ref href="#art_7__para_7-2">7.2</ref>(ג) לעיל, מוסכם כי חלוקת מלוא עלות תוספות השכר לפי הסכם זה לדירוגים האמורים, תעשה לפי האמור <ref href="#att_5">בנספח ד'</ref> להסכם זה. מובהר כי לא תשולם להם <term eId="trm_88" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> ולא יחול לגביהם האמור לעיל בסעיפים קטנים 11.1 ו-11.2 לעיל וכן סעיפים <ref href="#art_12">12</ref> עד <ref href="#art_15">15</ref> להסכם זה. כמו-כן, מובהר כי לגבי דירוג קלדניות שופטים, דירוג יהלום ודירוג רשות מקרקעי ישראל, תשולם <term eId="trm_89" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term> כפי הקבוע בנספח האמור (לגבי דירוג מעברי הגבול, בעדכון טבלת שכר היסוד גלומה הקצאת מלוא מסגרת עלות התוספות מכוח הסכם זה לדירוג האמור).</p>
+            <p>בהמשך לאמור בסעיף <ref href="#art_7__para_7-2">7.2</ref>(ג) לעיל, מוסכם כי חלוקת מלוא עלות תוספות השכר לפי הסכם זה לדירוגים האמורים, תעשה לפי האמור <ref href="#att_5">בנספח ד'</ref> להסכם זה. מובהר כי לא תשולם להם <term eId="trm_88" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> ולא יחול לגביהם האמור לעיל בסעיפים קטנים <ref href="#art_11__para_11-1">11.1</ref> ו-<ref href="#art_11__para_11-2">11.2</ref> לעיל וכן סעיפים <ref href="#art_12">12</ref> עד <ref href="#art_15">15</ref> להסכם זה. כמו-כן, מובהר כי לגבי דירוג קלדניות שופטים, דירוג יהלום ודירוג רשות מקרקעי ישראל, תשולם <term eId="trm_89" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term> כפי הקבוע בנספח האמור (לגבי דירוג מעברי הגבול, בעדכון טבלת שכר היסוד גלומה הקצאת מלוא מסגרת עלות התוספות מכוח הסכם זה לדירוג האמור).</p>
             <p>מוסכם כי האמור בסעיף <ref href="#art_11__para_11-5">11.5</ref> זה יחול אלא אם כן יגיעו הצדדים להסכמה אחרת לגבי הקצאת עלות תוספות השכר לדירוגים אלו.</p>
           </content>
         </paragraph>
@@ -900,7 +900,7 @@
         <heading>ברירת מחדל להקצאת <quantity eId="qty_24" refersTo="#percentage" normalized="1.75">1.75%</quantity> החל מיום <date date="2017-03-01">1.3.2017</date>
         </heading>
         <intro>
-          <p>היה ועד ליום <date date="2016-12-31">31.12.2016</date>, לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף 5.1.2 לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2017-03-01">1.3.2017</date> תוקצה העלות בשיעור <quantity eId="qty_25" refersTo="#percentage" normalized="1.75">1.75%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה <term eId="trm_90" refersTo="#term_2a1a2303">קבוצת החישוב</term>, לטובת מתן תוספת שכר אחוזית בשיעור של <quantity eId="qty_26" refersTo="#percentage" normalized="1.375">1.375%</quantity> כאמור בסעיף <ref href="#art_12__para_12-1">12.1</ref> להלן, והיתרה תוקצה להגדלת <term eId="trm_91" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, כאמור בסעיף <ref href="#art_12__para_12-2">12.2</ref> להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה.</p>
+          <p>היה ועד ליום <date date="2016-12-31">31.12.2016</date>, לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref> לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2017-03-01">1.3.2017</date> תוקצה העלות בשיעור <quantity eId="qty_25" refersTo="#percentage" normalized="1.75">1.75%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה <term eId="trm_90" refersTo="#term_2a1a2303">קבוצת החישוב</term>, לטובת מתן תוספת שכר אחוזית בשיעור של <quantity eId="qty_26" refersTo="#percentage" normalized="1.375">1.375%</quantity> כאמור בסעיף <ref href="#art_12__para_12-1">12.1</ref> להלן, והיתרה תוקצה להגדלת <term eId="trm_91" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, כאמור בסעיף <ref href="#art_12__para_12-2">12.2</ref> להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה.</p>
         </intro>
         <paragraph eId="art_12__para_12-1">
           <num>12.1</num>
@@ -1003,8 +1003,8 @@
               <p repo:role="running-head">A + B = C</p>
               <p>למען הסר ספק מובהר כי קיים רק סכום שקלי אחד אשר מקיים את הנוסחה, והוא יהיה גובה הגדלת תוספת שקלית לעובד המועסק במשרה מלאה.</p>
               <p>לעניין סעיף זה:</p>
-              <p>"A" - הסכום המצרפי הנובע מתשלום הגדלת <term eId="trm_105" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term> אילו היו הייתה ההגדלה האמורה משולמת בשנת 2015 לכלל העובדים <term eId="trm_106" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים 10.3 עד 10.9 שלעיל.</p>
-              <p>"B" - הסכום המצרפי שבו היו גדלים בשנת 2015 כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) בסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל, אשר שולמו בפועל בשנת 2015, אילו הייתה משולמת הגדלת <term eId="trm_107" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term> לכלל העובדים <term eId="trm_108" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים 10.3 עד 10.9 שלעיל.</p>
+              <p>"A" - הסכום המצרפי הנובע מתשלום הגדלת <term eId="trm_105" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term> אילו היו הייתה ההגדלה האמורה משולמת בשנת 2015 לכלל העובדים <term eId="trm_106" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים <ref href="#art_10__para_10-3">10.3</ref> עד <ref href="#art_10__para_10-9">10.9</ref> שלעיל.</p>
+              <p>"B" - הסכום המצרפי שבו היו גדלים בשנת 2015 כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) בסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל, אשר שולמו בפועל בשנת 2015, אילו הייתה משולמת הגדלת <term eId="trm_107" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term> לכלל העובדים <term eId="trm_108" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, בהתאם לנתוני שנת 2015 (לרבות בנוגע לחלקיות המשרה וחלקיות ההעסקה), ובהתאם לכללים שבסעיפים קטנים <ref href="#art_10__para_10-3">10.3</ref> עד <ref href="#art_10__para_10-9">10.9</ref> שלעיל.</p>
               <p>"C" - הסכום המתקבל כתוצאת ההפרש שבין D ל- E.</p>
               <p>"D" - <quantity eId="qty_29" refersTo="#percentage" normalized="1.75">1.75%</quantity> מבסיס השכר כפי שחושב כאמור בסעיף <ref href="#art_6">6</ref> לעיל, לגבי <term eId="trm_109" refersTo="#term_2a1a2303">קבוצת החישוב</term>. ואולם, לעניין זה בסיס השכר לא יכלול את סכום התוספות המיוחדות כהגדרתם בסעיף <ref href="#art_9">9</ref> לעיל של העובדים <term eId="trm_110" refersTo="#term_2a1a2303">בקבוצת החישוב</term> האמורה ואת העלות הנובעת מהשפעתן על רכיבי השכר המפורטים בפסקאות (1) ו-(2) שבסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל.</p>
               <p>"E" - העלות שהוקצתה לתוספת השכר האחוזית לפי סעיף <ref href="#art_12__para_12-1">12.1</ref> לעיל, לגבי אותה קבוצת חישוב, בצירוף העלות הנובעת מהשפעתה של התוספת על כל רכיבי השכר המפורטים בפסקאות (1) ו-(2) שבסעיף <ref href="#art_6__para_6-2">6.2</ref> לעיל לגבי אותה קבוצה.</p>
@@ -1014,7 +1014,7 @@
             <num>(ג)</num>
             <content>
               <p>יובהר כי חישוב יתרת העלות לחלוקה (כלומר C) לצורך הגדלת סכום <term eId="trm_111" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, יביא בחשבון שהבסיס לחישוב <term eId="trm_112" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> קטן יותר מבסיס השכר לפי סעיף <ref href="#art_6">6</ref> לעיל ואינו כולל את ההשלמה לשכר מינימום.</p>
-              <p>לפיכך, העלות שלא הוקצתה לטובת התוספת האחוזית נלקחת בחשבון להגדלת התוספת השקלית, כך שתחולק כלל העלות שבסעיף 5.1.2.</p>
+              <p>לפיכך, העלות שלא הוקצתה לטובת התוספת האחוזית נלקחת בחשבון להגדלת התוספת השקלית, כך שתחולק כלל העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref>.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_12__para_12-2__subpara_d">
@@ -1030,7 +1030,7 @@
         <heading>ברירת מחדל להקצאת <quantity eId="qty_30" refersTo="#percentage" normalized="1.5">1.5%</quantity> החל מיום <date date="2018-01-01">1.1.2018</date>
         </heading>
         <intro>
-          <p>היה ועד ליום <date date="2017-10-31">31.10.2017</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף 5.1.3 לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-01-01">1.1.2018</date> תוקצה העלות בשיעור <quantity eId="qty_31" refersTo="#percentage" normalized="1.5">1.5%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה <term eId="trm_113" refersTo="#term_2a1a2303">קבוצת החישוב</term>, לטובת הגדלת <term eId="trm_114" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> ולטובת הגדלת <term eId="trm_115" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
+          <p>היה ועד ליום <date date="2017-10-31">31.10.2017</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-3">5.1.3</ref> לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-01-01">1.1.2018</date> תוקצה העלות בשיעור <quantity eId="qty_31" refersTo="#percentage" normalized="1.5">1.5%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה <term eId="trm_113" refersTo="#term_2a1a2303">קבוצת החישוב</term>, לטובת הגדלת <term eId="trm_114" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> ולטובת הגדלת <term eId="trm_115" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
         </intro>
         <paragraph eId="art_13__para_a">
           <num>(א)</num>
@@ -1068,7 +1068,7 @@
         <heading>ברירת מחדל להקצאת <quantity eId="qty_38" refersTo="#percentage" normalized="1.75">1.75%</quantity> החל מיום <date date="2018-06-01">1.6.2018</date>
         </heading>
         <intro>
-          <p>היה ועד ליום <date date="2018-03-31">31.3.2018</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף 5.1.4 לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-06-01">1.6.2018</date> תוקצה העלות בשיעור <quantity eId="qty_39" refersTo="#percentage" normalized="1.75">1.75%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה <term eId="trm_121" refersTo="#term_2a1a2303">קבוצת החישוב</term>, לטובת הגדלת <term eId="trm_122" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> ולטובת הגדלת <term eId="trm_123" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
+          <p>היה ועד ליום <date date="2018-03-31">31.3.2018</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-4">5.1.4</ref> לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-06-01">1.6.2018</date> תוקצה העלות בשיעור <quantity eId="qty_39" refersTo="#percentage" normalized="1.75">1.75%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה <term eId="trm_121" refersTo="#term_2a1a2303">קבוצת החישוב</term>, לטובת הגדלת <term eId="trm_122" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> ולטובת הגדלת <term eId="trm_123" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
         </intro>
         <paragraph eId="art_14__para_a">
           <num>(א)</num>
@@ -1104,7 +1104,7 @@
         <heading>ברירת מחדל להקצאת <quantity eId="qty_44" refersTo="#percentage" normalized="1.5">1.5%</quantity> החל מיום <date date="2018-12-01">1.12.2018</date>
         </heading>
         <intro>
-          <p>היה ועד ליום <date date="2018-09-30">30.9.2018</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף 5.1.5 לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-12-01">1.12.2018</date> תוקצה העלות בשיעור <quantity eId="qty_45" refersTo="#percentage" normalized="1.5">1.5%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה <term eId="trm_129" refersTo="#term_2a1a2303">קבוצת החישוב</term>, לטובת הגדלת <term eId="trm_130" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> ולטובת הגדלת <term eId="trm_131" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
+          <p>היה ועד ליום <date date="2018-09-30">30.9.2018</date> לא ייחתם הסכם קיבוצי כאמור בסעיף <ref href="#art_11__para_11-1">11.1</ref> לעיל, אשר בו תוקצה העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-5">5.1.5</ref> לעיל, לגבי קבוצת חישוב מסוימת, כי אז ביום <date date="2018-12-01">1.12.2018</date> תוקצה העלות בשיעור <quantity eId="qty_45" refersTo="#percentage" normalized="1.5">1.5%</quantity> מבסיס השכר כאמור בסעיף <ref href="#art_6">6</ref> לעיל לאותה <term eId="trm_129" refersTo="#term_2a1a2303">קבוצת החישוב</term>, לטובת הגדלת <term eId="trm_130" refersTo="#term_24bd47e9">תוספת אחוזית 2016</term> ולטובת הגדלת <term eId="trm_131" refersTo="#term_ca0a1e3c">תוספת שקלית 2016</term>, כמפורט להלן, ולא יתקיים עוד כל משא ומתן נוסף בקשר לעלות האמורה:</p>
         </intro>
         <paragraph eId="art_15__para_a">
           <num>(א)</num>
@@ -1251,7 +1251,7 @@
         <paragraph eId="art_18__para_18-4">
           <num>18.4</num>
           <intro>
-            <p>עובד אשר מתקיימים לגביו התנאים שבסעיפים 18.4.1 ו- 18.4.2 להלן, יהיה זכאי במקום <term eId="trm_142" refersTo="#term_ff00e072">שעות החופשה המיוחדות להורים</term>, ליום חופשה אחד (1) על חשבון המעסיק בכפוף לאמור בסעיף זה (להלן: "<def refersTo="#term_487e93dc">יום חופשה להורים</def>"):</p>
+            <p>עובד אשר מתקיימים לגביו התנאים שבסעיפים <ref href="#art_18__para_18-4__subpara_18-4-1">18.4.1</ref> ו- <ref href="#art_18__para_18-4__subpara_18-4-2">18.4.2</ref> להלן, יהיה זכאי במקום <term eId="trm_142" refersTo="#term_ff00e072">שעות החופשה המיוחדות להורים</term>, ליום חופשה אחד (1) על חשבון המעסיק בכפוף לאמור בסעיף זה (להלן: "<def refersTo="#term_487e93dc">יום חופשה להורים</def>"):</p>
           </intro>
           <subparagraph eId="art_18__para_18-4__subpara_18-4-1">
             <num>18.4.1</num>
@@ -1396,7 +1396,7 @@
           <subparagraph eId="art_19__para_19-1__subpara_19-1-6">
             <num>19.1.6</num>
             <content>
-              <p>בנוסף על האמור, יחול התיקון לגבי מי שפרש מהשירות, לפי חוק הגמלאות, בתקופה שמיום <date date="2013-03-01">1 במרץ 2013</date> עד יום <date date="2018-11-30">30 בנובמבר 2018</date>, וערב פרישתו דורג בדירוג רשות מקרקעי ישראל (להלן: "<def refersTo="#term_3974f0d0">פורש זכאי בדירוג רשות מקרקעי ישראל</def>") ואולם, לגבי <term eId="trm_152" refersTo="#term_3974f0d0">פורש זכאי בדירוג רשות מקרקעי ישראל</term>, במקום האמור בסעיפים קטנים 19.1.2 עד 19.1.5 יחול האמור להלן:</p>
+              <p>בנוסף על האמור, יחול התיקון לגבי מי שפרש מהשירות, לפי חוק הגמלאות, בתקופה שמיום <date date="2013-03-01">1 במרץ 2013</date> עד יום <date date="2018-11-30">30 בנובמבר 2018</date>, וערב פרישתו דורג בדירוג רשות מקרקעי ישראל (להלן: "<def refersTo="#term_3974f0d0">פורש זכאי בדירוג רשות מקרקעי ישראל</def>") ואולם, לגבי <term eId="trm_152" refersTo="#term_3974f0d0">פורש זכאי בדירוג רשות מקרקעי ישראל</term>, במקום האמור בסעיפים קטנים <ref href="#art_19__para_19-1__subpara_19-1-2">19.1.2</ref> עד <ref href="#art_19__para_19-1__subpara_19-1-5">19.1.5</ref> יחול האמור להלן:</p>
               <p>מכוח התיקון, עבור <term eId="trm_153" refersTo="#term_3974f0d0">פורש זכאי בדירוג רשות מקרקעי ישראל</term> או שאירו, לפי העניין, אשר לגביו, אלמלא הוראות פרק ג'2 לחוק הגמלאות, היתה "המשכורת ערב הפרישה", גבוהה מ"תקרת המשכורת", כהגדרת מונחים אלו בסעיפים 63יד ו-63יג לחוק הגמלאות, בהתאמה, יבוצע חישוב מחדש של הקצבה, בתחולה למועדים הקבועים בטבלה המצורפת <ref href="#att_7">כנספח ו'</ref> להסכם זה, כאילו תקרת המשכורת היתה גדולה משהיתה ערב פרישתו, בסכום Y שיחושב לפי הנוסחה שלהלן:</p>
               <p>X * 3.75 * A + X * B = Y</p>
               <p>X - המקדם הרלוונטי לגמלאי, בהתאם לחודש פרישתו, הקבוע בטבלה המצורפת <ref href="#att_7">כנספח ו'</ref> להסכם זה.</p>
@@ -1434,14 +1434,14 @@
         <paragraph eId="art_19__para_19-4">
           <num>19.4</num>
           <content>
-            <p>מוסכם, ללא כל התניות או דרישות נוספות, כי לגבי מעסיקים אשר לגביהם לא חל סעיף <ref href="#art_19__para_19-3">19.3</ref> לעיל, אך קיים אצלם הסדר פנסיה תקציבית אשר מעוגן בהסכם או הסדר, ייושמו הוראות תיקון החקיקה שיתקבל כאמור לעיל, באופן שלגבי מי שפרש משירות אצל אחד <term eId="trm_163" refersTo="#term_88a5098d">המעסיקים</term> בתנאים המפורטים בסעיף 19.1.1 לעיל, תוגדל <term eId="trm_164" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> לתשלום קצבה, בהתאם להוראות אשר ייקבעו בתיקון החקיקה האמור, בהתאמות הנדרשות. יישום כאמור יהיה טעון אישור של <role eId="rol_86" refersTo="#role-memuneh-sachar">הממונה על השכר</role>. מובהר כי לעניין <term eId="trm_165" refersTo="#term_88a5098d">המעסיקים</term> החתומים על הסכם זה, סעיף זה מתייחס <organization eId="org_87" refersTo="#huji">לאוניברסיטה העברית</organization> <organization eId="org_88" refersTo="#technion">ולטכניון</organization>.</p>
+            <p>מוסכם, ללא כל התניות או דרישות נוספות, כי לגבי מעסיקים אשר לגביהם לא חל סעיף <ref href="#art_19__para_19-3">19.3</ref> לעיל, אך קיים אצלם הסדר פנסיה תקציבית אשר מעוגן בהסכם או הסדר, ייושמו הוראות תיקון החקיקה שיתקבל כאמור לעיל, באופן שלגבי מי שפרש משירות אצל אחד <term eId="trm_163" refersTo="#term_88a5098d">המעסיקים</term> בתנאים המפורטים בסעיף <ref href="#art_19__para_19-1__subpara_19-1-1">19.1.1</ref> לעיל, תוגדל <term eId="trm_164" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> לתשלום קצבה, בהתאם להוראות אשר ייקבעו בתיקון החקיקה האמור, בהתאמות הנדרשות. יישום כאמור יהיה טעון אישור של <role eId="rol_86" refersTo="#role-memuneh-sachar">הממונה על השכר</role>. מובהר כי לעניין <term eId="trm_165" refersTo="#term_88a5098d">המעסיקים</term> החתומים על הסכם זה, סעיף זה מתייחס <organization eId="org_87" refersTo="#huji">לאוניברסיטה העברית</organization> <organization eId="org_88" refersTo="#technion">ולטכניון</organization>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_19__para_19-5">
           <num>19.5</num>
           <content>
-            <p>כתוצאה מתיקון חוק הגמלאות הנזכר בסעיף <ref href="#art_19__para_19-1">19.1</ref> לעיל, מובהר ומוסכם כי לגבי <term eId="trm_166" refersTo="#term_6a257662">פורש זכאי</term> אשר זכאי לתשלום <term eId="trm_167" refersTo="#term_db42967d">מענק יובל</term>, או לשאיריו, לפי העניין, יוגדל, בהדרגה באופן שבו תוגדל <term eId="trm_168" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> ובמועדי הגדלת <term eId="trm_169" refersTo="#term_3a01aaf8">המשכורת הקובעת</term>, כאמור בסעיף 19.1.5 לעיל, סכום המשכורת המהווה בסיס לחישוב רכיב <term eId="trm_170" refersTo="#term_db42967d">מענק יובל</term>, וזאת בסכום Y, ובלבד שהתוספות המרכיבות את הסכום Y הן תוספות המובאות בחשבון לחישוב ערך שעה.</p>
-            <p>לגבי <term eId="trm_171" refersTo="#term_3974f0d0">פורש זכאי בדירוג רשות מקרקעי ישראל</term> אשר זכאי לתשלום <term eId="trm_172" refersTo="#term_db42967d">מענק יובל</term>, או לשאיריו, לפי העניין, ואשר לגביו מבוצע חישוב מחדש של הקצבה כאמור בסעיף 19.1.6 לעיל, יבוצע גם חישוב מחדש של מענק היובל בתחולה למועדים הקבועים בטבלה המצורפת <ref href="#att_7">כנספח ו'</ref> להסכם זה, כאילו תקרת המשכורת היתה גדולה משהיתה ערב פרישתו, בסכום Y המחושב כאמור בסעיף 19.1.6 לעיל.</p>
+            <p>כתוצאה מתיקון חוק הגמלאות הנזכר בסעיף <ref href="#art_19__para_19-1">19.1</ref> לעיל, מובהר ומוסכם כי לגבי <term eId="trm_166" refersTo="#term_6a257662">פורש זכאי</term> אשר זכאי לתשלום <term eId="trm_167" refersTo="#term_db42967d">מענק יובל</term>, או לשאיריו, לפי העניין, יוגדל, בהדרגה באופן שבו תוגדל <term eId="trm_168" refersTo="#term_3a01aaf8">המשכורת הקובעת</term> ובמועדי הגדלת <term eId="trm_169" refersTo="#term_3a01aaf8">המשכורת הקובעת</term>, כאמור בסעיף <ref href="#art_19__para_19-1__subpara_19-1-5">19.1.5</ref> לעיל, סכום המשכורת המהווה בסיס לחישוב רכיב <term eId="trm_170" refersTo="#term_db42967d">מענק יובל</term>, וזאת בסכום Y, ובלבד שהתוספות המרכיבות את הסכום Y הן תוספות המובאות בחשבון לחישוב ערך שעה.</p>
+            <p>לגבי <term eId="trm_171" refersTo="#term_3974f0d0">פורש זכאי בדירוג רשות מקרקעי ישראל</term> אשר זכאי לתשלום <term eId="trm_172" refersTo="#term_db42967d">מענק יובל</term>, או לשאיריו, לפי העניין, ואשר לגביו מבוצע חישוב מחדש של הקצבה כאמור בסעיף <ref href="#art_19__para_19-1__subpara_19-1-6">19.1.6</ref> לעיל, יבוצע גם חישוב מחדש של מענק היובל בתחולה למועדים הקבועים בטבלה המצורפת <ref href="#att_7">כנספח ו'</ref> להסכם זה, כאילו תקרת המשכורת היתה גדולה משהיתה ערב פרישתו, בסכום Y המחושב כאמור בסעיף <ref href="#art_19__para_19-1__subpara_19-1-6">19.1.6</ref> לעיל.</p>
             <p>לעניין זה, "<def refersTo="#term_db42967d">מענק יובל</def>" - כמשמעותו בפרק 25.5 לתקשי"ר ובהסדרים המקבילים אצל יתר <term eId="trm_173" refersTo="#term_88a5098d">המעסיקים</term>.</p>
             <p>מובהר כי אין באמור בסעיף זה כדי לשנות את מועד תשלום רכיב "<term eId="trm_174" refersTo="#term_db42967d">מענק יובל</term>".</p>
           </content>
@@ -1466,13 +1466,13 @@
           <num>20.1</num>
           <content>
             <p>הוסכם בין <organization eId="org_89" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_90" refersTo="#three-cities">שלוש הערים הגדולות</organization> וחבר המועצות האזוריות לבין <term eId="trm_177" refersTo="#term_0cdeaf5a">ההסתדרות</term>, כדלקמן:</p>
-            <p>הקצאת מסגרת עלות התוספות כאמור בסעיפים 5.1.1 ו-5.1.2, לגבי <term eId="trm_178" refersTo="#term_88a5098d">המעסיקים</term> האמורים, בהתייחס לדירוג עובדי מינהל ושירותים (דירוג אחיד), ולדירוג המח"ר, למעט פסיכולוגים, ולמעט עובדים בדירוגים האחיד והמח"ר המועסקים בבתי חולים ממשלתיים-עירוניים (להלן בסעיף זה: "<def refersTo="#term_04fe6a35">העובדים באחיד ובמח"ר</def>"), תעשה באופן שיקבעו הצדדים בהסכם קיבוצי שייחתם לעניין זה עד יום <date date="2016-06-30">30.6.16</date>, כך שתביא במכלול לצמצום פערים <term eId="trm_179" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, ותקבל את אישור <role eId="rol_91" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מראש, במפורש ובכתב.</p>
+            <p>הקצאת מסגרת עלות התוספות כאמור בסעיפים <ref href="#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> ו-<ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref>, לגבי <term eId="trm_178" refersTo="#term_88a5098d">המעסיקים</term> האמורים, בהתייחס לדירוג עובדי מינהל ושירותים (דירוג אחיד), ולדירוג המח"ר, למעט פסיכולוגים, ולמעט עובדים בדירוגים האחיד והמח"ר המועסקים בבתי חולים ממשלתיים-עירוניים (להלן בסעיף זה: "<def refersTo="#term_04fe6a35">העובדים באחיד ובמח"ר</def>"), תעשה באופן שיקבעו הצדדים בהסכם קיבוצי שייחתם לעניין זה עד יום <date date="2016-06-30">30.6.16</date>, כך שתביא במכלול לצמצום פערים <term eId="trm_179" refersTo="#term_2a1a2303">בקבוצת החישוב</term>, ותקבל את אישור <role eId="rol_91" refersTo="#role-memuneh-sachar">הממונה על השכר</role> מראש, במפורש ובכתב.</p>
           </content>
         </paragraph>
         <paragraph eId="art_20__para_20-2">
           <num>20.2</num>
           <content>
-            <p>מובהר כי בהתאם לאמור בסעיף ט.9 <ref href="/akn/il/act/collectiveAgreement/2012-05-17/2012-05-17-framework-agreement-local-government">להסכם הקיבוצי מיום 17.5.2012</ref>, בין <organization eId="org_92" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_93" refersTo="#three-cities">שלוש הערים הגדולות</organization> <organization eId="org_94" refersTo="#regional-councils-centre">ומרכז המועצות האיזוריות</organization> ובין <term eId="trm_180" refersTo="#term_0cdeaf5a">ההסתדרות</term>, בעניין הקצאת מסגרת העלות אצל מעסיקים אלו, לתקופת השנים 2009 - 2012 (להלן: "<def refersTo="#term_f083cb9b">הסכם המעו"ף</def>"), תופחת עלות מסגרת התוספות לגבי <term eId="trm_181" refersTo="#term_04fe6a35">העובדים באחיד ובמח"ר</term> ב-<quantity eId="qty_71" refersTo="#percentage" normalized="0.075">0.075%</quantity>, ולפיכך הקצאת עלות מסגרת התוספות לגבי עובדים אלו תעמוד על שיעור של <quantity eId="qty_72" refersTo="#percentage" normalized="7.425">7.425%</quantity>. מוסכם כי ההפחתה כאמור תעשה מתוך הקצאת העלות שבסעיף 5.1.1 כך שהעלות לחלוקה לפי סעיף זה לעובדים האמורים תעמוד <quantity eId="qty_73" refersTo="#percentage" normalized="0.925">0.925%</quantity> במקום <quantity eId="qty_74" refersTo="#percentage" normalized="1">1%</quantity>.</p>
+            <p>מובהר כי בהתאם לאמור בסעיף ט.9 <ref href="/akn/il/act/collectiveAgreement/2012-05-17/2012-05-17-framework-agreement-local-government">להסכם הקיבוצי מיום 17.5.2012</ref>, בין <organization eId="org_92" refersTo="#local-government">מרכז השלטון המקומי</organization>, <organization eId="org_93" refersTo="#three-cities">שלוש הערים הגדולות</organization> <organization eId="org_94" refersTo="#regional-councils-centre">ומרכז המועצות האיזוריות</organization> ובין <term eId="trm_180" refersTo="#term_0cdeaf5a">ההסתדרות</term>, בעניין הקצאת מסגרת העלות אצל מעסיקים אלו, לתקופת השנים 2009 - 2012 (להלן: "<def refersTo="#term_f083cb9b">הסכם המעו"ף</def>"), תופחת עלות מסגרת התוספות לגבי <term eId="trm_181" refersTo="#term_04fe6a35">העובדים באחיד ובמח"ר</term> ב-<quantity eId="qty_71" refersTo="#percentage" normalized="0.075">0.075%</quantity>, ולפיכך הקצאת עלות מסגרת התוספות לגבי עובדים אלו תעמוד על שיעור של <quantity eId="qty_72" refersTo="#percentage" normalized="7.425">7.425%</quantity>. מוסכם כי ההפחתה כאמור תעשה מתוך הקצאת העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> כך שהעלות לחלוקה לפי סעיף זה לעובדים האמורים תעמוד <quantity eId="qty_73" refersTo="#percentage" normalized="0.925">0.925%</quantity> במקום <quantity eId="qty_74" refersTo="#percentage" normalized="1">1%</quantity>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_20__para_20-3">
@@ -1483,7 +1483,7 @@
           <subparagraph eId="art_20__para_20-3__subpara_a">
             <num>(א)</num>
             <content>
-              <p>בסעיף <ref href="#art_7">7</ref> לעיל: לעניין חישוב מסגרת עלות התוספות כאמור בסעיף 5.1.1 לעיל, החישוב יבוצע במאוחד; ולעניין יתרת מסגרת עלות התוספות (העלות שבסעיפים 5.1.2 עד 5.1.5) החישוב יבוצע כאמור בסעיף <ref href="#art_7">7</ref> לעיל.</p>
+              <p>בסעיף <ref href="#art_7">7</ref> לעיל: לעניין חישוב מסגרת עלות התוספות כאמור בסעיף <ref href="#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> לעיל, החישוב יבוצע במאוחד; ולעניין יתרת מסגרת עלות התוספות (העלות שבסעיפים <ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref> עד <ref href="#art_5__para_5-1__subpara_5-1-5">5.1.5</ref>) החישוב יבוצע כאמור בסעיף <ref href="#art_7">7</ref> לעיל.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_20__para_20-3__subpara_b">
@@ -1495,13 +1495,13 @@
           <subparagraph eId="art_20__para_20-3__subpara_c">
             <num>(ג)</num>
             <content>
-              <p>לעניין סעיף <ref href="#art_11">11</ref> לעיל, המשא ומתן ינוהל לגבי כל מסגרת עלות התוספות לפי הסכם זה, בהפחתת העלות הנובעת מסעיף <ref href="#art_9">9</ref> לעיל ולא רק על העלות שבסעיפים 5.1.2 עד 5.1.5 לעיל.</p>
+              <p>לעניין סעיף <ref href="#art_11">11</ref> לעיל, המשא ומתן ינוהל לגבי כל מסגרת עלות התוספות לפי הסכם זה, בהפחתת העלות הנובעת מסעיף <ref href="#art_9">9</ref> לעיל ולא רק על העלות שבסעיפים <ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref> עד <ref href="#art_5__para_5-1__subpara_5-1-5">5.1.5</ref> לעיל.</p>
             </content>
           </subparagraph>
           <subparagraph eId="art_20__para_20-3__subpara_d">
             <num>(ד)</num>
             <content>
-              <p>לעניין סעיף <ref href="#art_12">12</ref> לעיל: אם עד ליום <date date="2016-12-31">31.12.2016</date> לא יגיעו הצדדים להסכמה כאמור בסעיף <ref href="#art_20__para_20-1">20.1</ref> וב<ref href="#art_20__para_20-3__subpara_c">סעיף קטן (ג)</ref> לעיל, אשר תקבל את אישור <role eId="rol_95" refersTo="#role-memuneh-sachar">הממונה על השכר</role> כאמור בסעיף <ref href="#art_20__para_20-1">20.1</ref> לעיל, אזי החל מיום <date date="2017-03-01">1.3.2017</date>, תוקצה העלות שבסעיף 5.1.1 בשיעורה המופחת כאמור בסעיף <ref href="#art_20__para_20-2">20.2</ref> לעיל, לפי הוראות סעיף <ref href="#art_10">10</ref> לעיל, למפרע ליום <date date="2016-07-01">1.7.2016</date>; והעלות שבסעיף 5.1.2 לעיל תוקצה כאמור בסעיף <ref href="#art_12">12</ref> לעיל.</p>
+              <p>לעניין סעיף <ref href="#art_12">12</ref> לעיל: אם עד ליום <date date="2016-12-31">31.12.2016</date> לא יגיעו הצדדים להסכמה כאמור בסעיף <ref href="#art_20__para_20-1">20.1</ref> וב<ref href="#art_20__para_20-3__subpara_c">סעיף קטן (ג)</ref> לעיל, אשר תקבל את אישור <role eId="rol_95" refersTo="#role-memuneh-sachar">הממונה על השכר</role> כאמור בסעיף <ref href="#art_20__para_20-1">20.1</ref> לעיל, אזי החל מיום <date date="2017-03-01">1.3.2017</date>, תוקצה העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> בשיעורה המופחת כאמור בסעיף <ref href="#art_20__para_20-2">20.2</ref> לעיל, לפי הוראות סעיף <ref href="#art_10">10</ref> לעיל, למפרע ליום <date date="2016-07-01">1.7.2016</date>; והעלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-2">5.1.2</ref> לעיל תוקצה כאמור בסעיף <ref href="#art_12">12</ref> לעיל.</p>
               <p>ברירות המחדל הקבועות בסעיפים <ref href="#art_13">13</ref> עד <ref href="#art_15">15</ref> לעיל, יוותרו כברירות המחדל ככל שלא יוסכם על אופן החלוקה עד המועדים הקבועים בהם.</p>
             </content>
           </subparagraph>
@@ -1532,7 +1532,7 @@
           <subparagraph eId="art_20__para_20-4__subpara_20-4-4">
             <num>20.4.4</num>
             <content>
-              <p>סעיפים 20.3(ב) עד (ה) לעיל יחולו לגבי הדירוג האמור.</p>
+              <p>סעיפים <ref href="#art_20__para_20-3">20.3</ref>(ב) עד (ה) לעיל יחולו לגבי הדירוג האמור.</p>
             </content>
           </subparagraph>
         </paragraph>
@@ -1542,7 +1542,7 @@
         <heading>מימון הסכם קיבוצי מיום <date date="2015-02-09">9.2.2015</date>
         </heading>
         <content>
-          <p>מובהר כי בהתאם לאמור בסעיף 13 להסכם הקיבוצי המיוחד מיום <date date="2015-02-09">9.2.2015</date> בעניין גמול מומחיות לעובדים סוציאליים (להלן: "<def refersTo="#term_affea8fd">הסכם גמול מומחיות</def>"), תופחת עלות מסגרת התוספות לגבי העובדים בדירוג העובדים הסוציאליים ב-<quantity eId="qty_75" refersTo="#percentage" normalized="0.21">0.21%</quantity>, לפיכך הקצאת עלות מסגרת התוספות לגבי עובדים אלו תעמוד על שיעור של <quantity eId="qty_76" refersTo="#percentage" normalized="7.29">7.29%</quantity>. מוסכם כי ההפחתה כאמור תעשה מתוך הקצאת העלות שבסעיף 5.1.1 כך שהעלות לחלוקה לפי סעיף זה לעובדים האמורים תעמוד על <quantity eId="qty_77" refersTo="#percentage" normalized="0.79">0.79%</quantity> במקום <quantity eId="qty_78" refersTo="#percentage" normalized="1">1%</quantity> ולפיכך, בהגדרה C שבסעיף <ref href="#art_10">10</ref> לעיל במקום <quantity eId="qty_79" refersTo="#percentage" normalized="1">1%</quantity> יבוא <quantity eId="qty_80" refersTo="#percentage" normalized="0.79">0.79%</quantity> לגבי העובדים האמורים.</p>
+          <p>מובהר כי בהתאם לאמור בסעיף 13 להסכם הקיבוצי המיוחד מיום <date date="2015-02-09">9.2.2015</date> בעניין גמול מומחיות לעובדים סוציאליים (להלן: "<def refersTo="#term_affea8fd">הסכם גמול מומחיות</def>"), תופחת עלות מסגרת התוספות לגבי העובדים בדירוג העובדים הסוציאליים ב-<quantity eId="qty_75" refersTo="#percentage" normalized="0.21">0.21%</quantity>, לפיכך הקצאת עלות מסגרת התוספות לגבי עובדים אלו תעמוד על שיעור של <quantity eId="qty_76" refersTo="#percentage" normalized="7.29">7.29%</quantity>. מוסכם כי ההפחתה כאמור תעשה מתוך הקצאת העלות שבסעיף <ref href="#art_5__para_5-1__subpara_5-1-1">5.1.1</ref> כך שהעלות לחלוקה לפי סעיף זה לעובדים האמורים תעמוד על <quantity eId="qty_77" refersTo="#percentage" normalized="0.79">0.79%</quantity> במקום <quantity eId="qty_78" refersTo="#percentage" normalized="1">1%</quantity> ולפיכך, בהגדרה C שבסעיף <ref href="#art_10">10</ref> לעיל במקום <quantity eId="qty_79" refersTo="#percentage" normalized="1">1%</quantity> יבוא <quantity eId="qty_80" refersTo="#percentage" normalized="0.79">0.79%</quantity> לגבי העובדים האמורים.</p>
         </content>
       </article>
       <article eId="art_22" repo:prose="same-source">
@@ -1587,7 +1587,7 @@
         <paragraph eId="art_23__para_23-3">
           <num>23.3</num>
           <content>
-            <p>למען ספק מובהר, כי בכלל האמור בסעיפים-קטנים 23.1 ו-23.2 לעיל, בטל עם חתימת הסכם זה גם סכסוך העבודה מיום <date date="2015-11-25">25.11.2015</date>, שהעניינים שבו הם דרישת <term eId="trm_185" refersTo="#term_0cdeaf5a">ההסתדרות</term> לעדכון השכר במגזר הציבורי ומבוי סתום במשא ומתן לחתימה על הסכם שכר חדש.</p>
+            <p>למען ספק מובהר, כי בכלל האמור בסעיפים-קטנים <ref href="#art_23__para_23-1">23.1</ref> ו-<ref href="#art_23__para_23-2">23.2</ref> לעיל, בטל עם חתימת הסכם זה גם סכסוך העבודה מיום <date date="2015-11-25">25.11.2015</date>, שהעניינים שבו הם דרישת <term eId="trm_185" refersTo="#term_0cdeaf5a">ההסתדרות</term> לעדכון השכר במגזר הציבורי ומבוי סתום במשא ומתן לחתימה על הסכם שכר חדש.</p>
           </content>
         </paragraph>
       </article>
@@ -2724,7 +2724,7 @@
               <intro>
                 <p><term eId="trm_234" refersTo="#term_29185c06">דירוגים ייחודיים בשירות המדינה</term>
                 </p>
-                <p>(סעיפים 7.1(ג) ו-11.5-1)</p>
+                <p>(סעיפים <ref href="#art_7__para_7-1">7.1</ref>(ג) ו-11.5-1)</p>
               </intro>
               <paragraph eId="att_5__hc_1__para_a">
                 <num>א.</num>
@@ -4735,7 +4735,7 @@
           <mainBody>
             <hcontainer eId="att_6__hc_1" name="text" repo:structure="enumerated">
               <intro>
-                <p>רשימת הדירוגים לעניין סעיף 19.1.1:</p>
+                <p>רשימת הדירוגים לעניין סעיף <ref href="#art_19__para_19-1__subpara_19-1-1">19.1.1</ref>:</p>
               </intro>
               <paragraph eId="att_6__hc_1__para_1">
                 <num>1.</num>
