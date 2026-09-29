@@ -2558,8 +2558,12 @@
               </paragraph>
               <paragraph eId="att_2__hc_1__para_4">
                 <num>(4)</num>
-                <intro>
+                <content>
                   <p>הוא אינו מעסיק <term eId="trm_342" refersTo="#term_88a5098d">מהמעסיקים</term> המפורטים <ref href="#att_3">בנספח ב'2</ref> ובנוגע לעובדיו המפורטים <ref href="#att_3">בנספח ב'2</ref>.</p>
+                </content>
+              </paragraph>
+              <hcontainer eId="att_2__hc_1__hc_1" name="group">
+                <intro>
                   <p>לכבוד</p>
                   <p><role eId="rol_106" refersTo="#role-memuneh-rashi">הממונה הראשי על יחסי עבודה</role>
                   </p>
@@ -2568,31 +2572,31 @@
                   </p>
                   <p>הריני מודיע על רצון ____________[שם המעסיק] להצטרף להסכם הקיבוצי (מסגרת) מיום <date date="2023-07-17">17.7.2023</date> (להלן: "<def refersTo="#term_c81f9627">ההסכם הקיבוצי</def>") לגבי העובדים שאינם מפורטים בנספח ב'2 להסכם הקיבוצי.</p>
                 </intro>
-                <subparagraph eId="att_2__hc_1__para_4__subpara_1">
+                <paragraph eId="att_2__hc_1__hc_1__para_1">
                   <num>(1)</num>
                   <content>
                     <p>מובהר כי ההצטרפות להסכם הקיבוצי היא לכל הוראות ההסכם כמכלול ובהתאם להוראות התחולה בכל סעיף. למען הסר ספק, התשלומים ישולמו בהתאם למועדי התחילה לפי הוראות ההסכם ובמקרה שבו ההצטרפות תעשה לאחר מועד התחילה, ישולמו התשלומים באופן רטרואקטיבי.</p>
                   </content>
-                </subparagraph>
-                <subparagraph eId="att_2__hc_1__para_4__subpara_2">
+                </paragraph>
+                <paragraph eId="att_2__hc_1__hc_1__para_2">
                   <num>(2)</num>
                   <intro>
                     <p>על אף האמור לעיל, מעסיק יחיל את <term eId="trm_343" refersTo="#term_47ece83f">הקיצור ההסכמי</term> בראשון לחודש העוקב למועד ההצטרפות, ובהתאם לאמור להלן:</p>
                   </intro>
-                  <clause eId="att_2__hc_1__para_4__subpara_2__cls_a">
+                  <subparagraph eId="att_2__hc_1__hc_1__para_2__subpara_a">
                     <num>(א)</num>
                     <content>
                       <p>ככל שמעסיק יצטרף להסכם לפי נספח ב'1 לאחר מועד <term eId="trm_344" refersTo="#term_2df17158">הפעימה הראשונה</term> כהגדרתה בהסכם ועד לתום חודש ינואר 2024, יקדים המעסיק את מועד <term eId="trm_345" refersTo="#term_31afdd36">הפעימה השנייה</term>, כהגדרתה בהסכם, במספר החודשים שבהם נדחה יישום <term eId="trm_346" refersTo="#term_2df17158">הפעימה הראשונה</term>.</p>
                     </content>
-                  </clause>
-                  <clause eId="att_2__hc_1__para_4__subpara_2__cls_b">
+                  </subparagraph>
+                  <subparagraph eId="att_2__hc_1__hc_1__para_2__subpara_b">
                     <num>(ב)</num>
                     <content>
                       <p>ככל שמעסיק יצטרף להסכם לפי <ref href="#att_2">נספח ב'1</ref> מחודש פברואר 2024 ואילך, יחיל המעסיק את שתי <term eId="trm_347" refersTo="#term_4ec6c71b">הפעימות</term> בראשון לחודש העוקב למועד ההצטרפות. וועדת המעקב לפי <ref href="#chp_23">פרק כג'</ref> תדון ותכריע לגבי הסדר חליפי שיוסכם שהוא שווה ערך מבחינה כלכלית של פרק יד(1) להסכם.</p>
                     </content>
-                  </clause>
-                </subparagraph>
-                <subparagraph eId="att_2__hc_1__para_4__subpara_3">
+                  </subparagraph>
+                </paragraph>
+                <paragraph eId="att_2__hc_1__hc_1__para_3">
                   <num>(3)</num>
                   <content>
                     <p>מוסכם ומובהר כי עובדים של מעסיקים אשר כתב הצטרפות זה רלוונטי לגביהם, אשר הוסכם לגביהם ערב חתימת ההסכם הקיבוצי, כי יהיו זכאים לתוספות השכר וההטבות מכוח הסכם המסגרת שייחתם, בתנאים שנקבעו שם, או כי שכרם יעודכן בשיעורים שייקבעו בהסכמי מסגרת עתידיים (להלן בסעיף זה: "<def refersTo="#term_b3a7a82b">ההסכמות הקודמות</def>"), כי אז התשלומים לפי הוראות ההסכם הקיבוצי יהווה יישום מלא ומוחלט של <term eId="trm_348" refersTo="#term_b3a7a82b">ההסכמות הקודמות</term> לתקופה הרלוונטית, ולהסתדרות לא תהיה עוד כל טענה או דרישה בנוגע ליישום <term eId="trm_349" refersTo="#term_b3a7a82b">ההסכמות הקודמות</term> ולא ינוהל כל משא ומתן נוסף לגבי הטבות כספיות נוספות והכול <term eId="trm_350" refersTo="#term_bee4af21">לתקופת ההסכם</term> הקיבוצי אלא בהתאם להוראות ההסכם הקיבוצי לעניין ניהול משא ומתן. בכל מקרה מובהר כי לא יהיה כפל תשלומים בגין אותה תקופה מכוח <term eId="trm_351" refersTo="#term_b3a7a82b">ההסכמות הקודמות</term> ומכוח כתב הצטרפות זה.</p>
@@ -2600,8 +2604,8 @@
                     <p>חתימה [בשם המעסיק] ____________</p>
                     <p repo:role="running-head">[חתימות] [בכתב יד: א.ב.]</p>
                   </content>
-                </subparagraph>
-              </paragraph>
+                </paragraph>
+              </hcontainer>
             </hcontainer>
           </mainBody>
         </doc>
