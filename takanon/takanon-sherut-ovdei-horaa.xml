@@ -372,36 +372,40 @@
               </subparagraph>
               <subparagraph eId="chp_1א___sec_1_1__hc_2__para_c__subpara_3">
                 <num>3.</num>
-                <intro>
+                <content>
                   <p>החל מתאריך <date date="2010-01-01">1.1.2010</date> - השלמת <term eId="trm_6" refersTo="#term_3570fa1a">תוספת השכר</term> לשיעור של <quantity eId="chp_1א___sec_1_1__qty_5" refersTo="#percentage" normalized="5">5%</quantity>.</p>
+                </content>
+              </subparagraph>
+              <hcontainer eId="chp_1א___sec_1_1__hc_2__para_c__hc_1" name="group">
+                <intro>
                   <p>תוספת שכר זו תירשם כתוספת נפרדת, בשורה נפרדת בתלוש השכר של עובד ההוראה, ותהווה שכר לכל דבר וענין כנהוג לגבי שכר משולב, לעניין הפרשות וחישוב הגמולים (2).</p>
                   <p>הערה: יישום סעיף 3 הנ"ל נדחה לחודש אוקטובר 2011, עבור האוכלוסיות הבאות:</p>
                 </intro>
-                <clause eId="chp_1א___sec_1_1__hc_2__para_c__subpara_3__cls_1">
+                <subparagraph eId="chp_1א___sec_1_1__hc_2__para_c__hc_1__subpara_1">
                   <num>1.</num>
                   <content>
                     <p><term eId="trm_7" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בשירות המדינה בחינוך הרשמי (<concept eId="dom_1" refersTo="#stage_gan">גני ילדים</concept>, ביה"ס יסודיים, <concept eId="dom_2" refersTo="#stage_chativat_beinayim">חטיבות הביניים</concept>, ביה"ס לחינוך מיוחד וכו').</p>
                   </content>
-                </clause>
-                <clause eId="chp_1א___sec_1_1__hc_2__para_c__subpara_3__cls_2">
+                </subparagraph>
+                <subparagraph eId="chp_1א___sec_1_1__hc_2__para_c__hc_1__subpara_2">
                   <num>2.</num>
                   <content>
                     <p><term eId="trm_8" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בחינוך המוכר שאינו רשמי <concept eId="dom_3" refersTo="#stage_gan">בגני הילדים</concept>, ביה"ס יסודיים (לרבות רשתות החינוך) <concept eId="dom_4" refersTo="#stage_chativat_beinayim">ובחטיבות הביניים</concept>.</p>
                   </content>
-                </clause>
-                <clause eId="chp_1א___sec_1_1__hc_2__para_c__subpara_3__cls_3">
+                </subparagraph>
+                <subparagraph eId="chp_1א___sec_1_1__hc_2__para_c__hc_1__subpara_3">
                   <num>3.</num>
                   <content>
                     <p><term eId="trm_9" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים במכללות להכשרת <term eId="trm_10" refersTo="#term_2db30064">עובדי הוראה</term>.</p>
                   </content>
-                </clause>
-                <clause eId="chp_1א___sec_1_1__hc_2__para_c__subpara_3__cls_4">
+                </subparagraph>
+                <subparagraph eId="chp_1א___sec_1_1__hc_2__para_c__hc_1__subpara_4">
                   <num>4.</num>
                   <content>
                     <p><term eId="trm_11" refersTo="#term_2db30064">עובדי הוראה</term> המועסקים בביה"ס <concept eId="dom_5" refersTo="#stage_al_yesodi">העל-יסודיים</concept> הממשלתיים (3).</p>
                   </content>
-                </clause>
-              </subparagraph>
+                </subparagraph>
+              </hcontainer>
             </paragraph>
             <paragraph eId="chp_1א___sec_1_1__hc_2__para_d">
               <num>ד.</num>

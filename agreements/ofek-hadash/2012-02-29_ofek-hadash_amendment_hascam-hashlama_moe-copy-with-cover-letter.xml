@@ -1646,56 +1646,60 @@
                       </clause>
                       <clause eId="art_26__mod_1__qstr_1__para_38b__subpara_b__cls_3">
                         <num>(3)</num>
+                        <content>
+                          <p>בתפקידו האחרון כיהן כסגן מנהל ראשון, והתקופה (הכוללת) שבה כיהן בתפקידים (כולם או חלקם): מנהל, סגן מנהל ראשון, סגן שני, מנהל חטיבה צעירה, מנהל אשכול גנים ומנהל אשכול פיס, הינו <quantity eId="qty_25" refersTo="#year" normalized="8">8 שנים</quantity> ומעלה, ברצף או שלא ברצף;</p>
+                        </content>
+                      </clause>
+                      <hcontainer eId="art_26__mod_1__qstr_1__para_38b__subpara_b__hc_1" name="group">
                         <intro>
-                          <p>בתפקידו האחרון כיהן כסגן מנהל ראשון, והתקופה (הכוללת) שבה כיהן בתפקידים (כולם או חלקם): מנהל, סגן מנהל ראשון, סגן שני, מנהל חטיבה צעירה, מנהל אשכול גנים ומנהל אשכול פיס, הינו <quantity eId="qty_25" refersTo="#year" normalized="8">8 שנים</quantity> ומעלה, ברצף או שלא ברצף</p>
                           <p>יהיה זכאי, בנוסף לשכר המשולב, <concept eId="cmp_1" refersTo="#comp_shmirat-sachar">לתוספת שמירת שכר</concept> שקלית, המחושבת בהתאם למפורט להלן:</p>
                         </intro>
-                        <point eId="art_26__mod_1__qstr_1__para_38b__subpara_b__cls_3__pnt_1">
+                        <clause eId="art_26__mod_1__qstr_1__para_38b__subpara_b__hc_1__cls_1">
                           <num>(1)</num>
                           <content>
                             <p>A - סכום רכיבי המשכורת, הנכללים במשכורת הקובעת לעניין פנסיה תקציבית (למען הסר ספק - גם לגבי עובד הוראה אשר לגביו מבוטחים רכיבים אלה בפנסיה צוברת), אשר להם היה זכאי במשכורתו האחרונה כמנהל / סגן מנהל (ערב שיבוצו כמורה), למעט גמולי תפקיד אשר קיימים גם בתפקיד של מורה.</p>
                           </content>
-                        </point>
-                        <point eId="art_26__mod_1__qstr_1__para_38b__subpara_b__cls_3__pnt_2">
+                        </clause>
+                        <clause eId="art_26__mod_1__qstr_1__para_38b__subpara_b__hc_1__cls_2">
                           <num>(2)</num>
                           <content>
                             <p>B - סכום רכיבי המשכורת, הנכללים במשכורת הקובעת לעניין פנסיה תקציבית (למען הסר ספק - גם לגבי עובד הוראה אשר לגביו מבוטחים רכיבים אלה בפנסיה צוברת), אשר להם הינו זכאי בתפקידו כמורה, למעט גמולי התפקיד להם הינו זכאי בתפקידו כאמור.</p>
                           </content>
-                        </point>
-                        <point eId="art_26__mod_1__qstr_1__para_38b__subpara_b__cls_3__pnt_3">
+                        </clause>
+                        <clause eId="art_26__mod_1__qstr_1__para_38b__subpara_b__hc_1__cls_3">
                           <num>(3)</num>
                           <content>
                             <p>במועד השיבוץ של עובד ההוראה כמורה, תהיה תוספת שמירת השכר שווה להפרש :</p>
                             <p>C =A-B</p>
                             <p>ובלבד ש — C הינו חיובי.</p>
                           </content>
-                        </point>
-                        <point eId="art_26__mod_1__qstr_1__para_38b__subpara_b__cls_3__pnt_4">
+                        </clause>
+                        <clause eId="art_26__mod_1__qstr_1__para_38b__subpara_b__hc_1__cls_4">
                           <num>(4)</num>
                           <content>
                             <p><concept eId="cmp_2" refersTo="#comp_shmirat-sachar">תוספת שמירת שכר</concept> C תופחת, במועד כל עליה בשכר המשולב (למען הסר ספק — כתוצאה מעליה בותק או בדרגה, באותה טבלת שכר משולב) של המורה, בסכום המחושב כדלהלן:</p>
                             <p>0.3 &lt;כפול&gt; הסכום בו גדל השכר המשולב של המורה בעקבות העלייה בדרגה.</p>
                           </content>
-                        </point>
-                        <point eId="art_26__mod_1__qstr_1__para_38b__subpara_b__cls_3__pnt_5">
+                        </clause>
+                        <clause eId="art_26__mod_1__qstr_1__para_38b__subpara_b__hc_1__cls_5">
                           <num>(5)</num>
                           <content>
                             <p><concept eId="cmp_3" refersTo="#comp_shmirat-sachar">תוספת שמירת שכר</concept> (C) תעודכן בשיעורים של תוספות השכר בהן מתעדכן השכר המשולב, של תוספות שכר בכלל המגזר הציבורי המשולמות מחוץ לשכר המשולב (ככל שתהיינה כאלה) ושל תוספות היוקר, במועדי התשלום של תוספות אלו לעובדי הוראה בשירות המדינה.</p>
                           </content>
-                        </point>
-                        <point eId="art_26__mod_1__qstr_1__para_38b__subpara_b__cls_3__pnt_6">
+                        </clause>
+                        <clause eId="art_26__mod_1__qstr_1__para_38b__subpara_b__hc_1__cls_6">
                           <num>(6)</num>
                           <content>
                             <p><concept eId="cmp_4" refersTo="#comp_shmirat-sachar">תוספת שמירת שכר</concept> תהווה שכר לכל דבר ועניין, והיא תובא בחשבון לעניין גמלאות, לעניין הפרשות לקופת גמל לקצבה (עבור עובד הוראה המבוטח בפנסיה צוברת בגין המשכורת הקובעת) ולעניין הפרשות לקרן השתלמות.</p>
                           </content>
-                        </point>
-                        <point eId="art_26__mod_1__qstr_1__para_38b__subpara_b__cls_3__pnt_7">
+                        </clause>
+                        <clause eId="art_26__mod_1__qstr_1__para_38b__subpara_b__hc_1__cls_7">
                           <num>(7)</num>
                           <content>
                             <p><concept eId="cmp_5" refersTo="#comp_shmirat-sachar">תוספת שמירת שכר</concept> לא תהווה בסיס לחישוב תוספות אחוזיות.</p>
                           </content>
-                        </point>
-                      </clause>
+                        </clause>
+                      </hcontainer>
                     </subparagraph>
                     <subparagraph eId="art_26__mod_1__qstr_1__para_38b__subpara_c">
                       <num>(ג)</num>

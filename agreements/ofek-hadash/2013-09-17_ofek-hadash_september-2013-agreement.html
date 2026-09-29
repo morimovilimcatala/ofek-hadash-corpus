@@ -615,21 +615,33 @@
       }
       const from = top.id;
       const renamed = [];
+      // A GROUP IS NOT A LEVEL (MMS-314): an item inside one takes the
+      // address its number prints, unless the item before the group holds
+      // it — `minted` in tools/akn_composed.py, the same rule.
+      const groups = new Set([...top.querySelectorAll('[data-name="group"][id]')]
+                             .map(g => g.id));
+      const claimed = new Set();
       for(const el of [top, ...top.querySelectorAll('[id]')]){
         if(el !== top && !el.id.startsWith(from + '__')) continue;
-        let id = base;
+        if(groups.has(el.id)) continue;
+        let id = base, through = false;
         if(el !== top){
-          const steps = el.id.slice(from.length + 2).split('__').map(step => {
+          const parts = el.id.slice(from.length + 2).split('__');
+          const kept = parts.filter((step, i) =>
+            !groups.has(from + '__' + parts.slice(0, i + 1).join('__')));
+          through = kept.length < parts.length;
+          const steps = kept.map(step => {
             const cut = step.indexOf('_');
             const lv = LEVELS.indexOf(step.slice(0, cut)) + offset;
             return lv >= 0 && lv < LEVELS.length ? LEVELS[lv] + step.slice(cut) : null;
           });
-          if(steps.includes(null)) continue;
+          if(!steps.length || steps.includes(null)) continue;
           id = base + '__' + steps.join('__');
         }
         // An article's own id is its holder's (above); nothing that holds
         // an id already gives it up.
-        if(document.getElementById(id)) continue;
+        if(document.getElementById(id) || through && claimed.has(id)) continue;
+        claimed.add(id);
         renamed.push([el, id]);
       }
       for(const [el, id] of renamed){
