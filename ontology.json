@@ -58535,7 +58535,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 53,
-   "markCount": 396,
+   "markCount": 397,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2013-09-15_ofek-hadash_vaadat-maakav-248-2013_rikuz-tikshuv-gmul.xml",
@@ -70207,7 +70207,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 4,
+   "markCount": 2,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2015-03-04_ofek-hadash_principals-pay-changes.xml",

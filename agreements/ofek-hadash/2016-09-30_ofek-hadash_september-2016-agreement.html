@@ -487,6 +487,34 @@
       (tables[0].closest('.table-wrap') || tables[0]).after(holder);
       return holder;
     }
+    // THE CLAUSE'S TABLES, PLURAL (MMS-313): "במקום הטבלאות המופיעות
+    // בסעיף 90 (ב) … יבואו הטבלאות הבאות:" replaces every table the clause
+    // holds, each with the one line above it that says whom it is for, by
+    // the run the amendment prints, however many. A table an earlier
+    // amendment added sits in that amendment's holder, which goes with it.
+    if(op.type === 'substitution' && op.pos === 'inside' && op.tables){
+      const tables = [...at.querySelectorAll('table')];
+      if(!tables.length || !holder.querySelector('table')) return false;
+      const parts = [];
+      for(const t of tables){
+        const wrap = t.closest('.table-wrap') || t;
+        const caption = wrap.previousElementSibling;
+        if(caption && caption.classList.contains('akn-p')
+           && !caption.querySelector('table')) parts.push(caption);
+        parts.push(wrap);
+      }
+      const fresh = document.createElement('div');
+      fresh.className = 'amended' + (showDiff ? ' ins' : '');
+      fresh.append(...holder.childNodes);
+      parts[0].before(fresh);
+      for(const el of parts){
+        if(showDiff){ el.classList.add('del'); continue; }
+        const box = el.parentNode;
+        el.remove();
+        if(box.classList.contains('amended') && !box.children.length) box.remove();
+      }
+      return fresh;
+    }
     if(op.type === 'substitution' && op.pos === 'inside'){
       const tables = at.querySelectorAll('table');
       const table = holder.querySelector('table');

@@ -51,6 +51,11 @@
             <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_64" pos="inside" />
             <new href="#art_64__mod_1__qstr_1" />
           </textualMod>
+          <textualMod eId="amod_2" type="substitution" repo:tables="true">
+            <source href="#art_65__mod_1" />
+            <destination href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_90__para_b" pos="inside" />
+            <new href="#art_65__mod_1__qstr_1" />
+          </textualMod>
         </activeModifications>
       </analysis>
       <references source="#repo-generator">
@@ -1114,307 +1119,310 @@
         <article eId="art_65" repo:prose="same-source">
           <num>65</num>
           <content>
-            <p>במקום הטבלאות המופיעות בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_90__para_b">90 (ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> לסגני מנהלים ראשונים, יבואו הטבלאות הבאות:</p>
-            <p><term eId="trm_54" refersTo="#term_f7ff4310">בבית ספר</term> יסודי (לרבות חוות חקלאיות ומרכזים ימיים הנותנים שירות לתלמידים <concept eId="dom_9" refersTo="#stage_yesodi">בבתי ספר יסודיים</concept>, על פי הנחיות <organization eId="org_50" refersTo="#moe">משרד החינוך</organization>) –</p>
-            <table>
-              <tr>
-                <th>
-                  <p>רמת מורכבות בית הספר</p>
-                </th>
-                <th>
-                  <p>שעות שבועיות להוראה פרונטלית</p>
-                </th>
-              </tr>
-              <tr>
-                <td>
-                  <p>1</p>
-                </td>
-                <td>
-                  <p>21</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>2</p>
-                </td>
-                <td>
-                  <p>21</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>3</p>
-                </td>
-                <td>
-                  <p>21</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>4</p>
-                </td>
-                <td>
-                  <p>21</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>5</p>
-                </td>
-                <td>
-                  <p>20</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>6</p>
-                </td>
-                <td>
-                  <p>20</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>7</p>
-                </td>
-                <td>
-                  <p>19</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>8</p>
-                </td>
-                <td>
-                  <p>18</p>
-                </td>
-              </tr>
-            </table>
-            <p><concept eId="dom_10" refersTo="#stage_chativat_beinayim">בחטיבת ביניים</concept> (לרבות חוות חקלאיות ומרכזים ימיים הנותנים שירות לתלמידים <concept eId="dom_11" refersTo="#stage_chativat_beinayim">בחטיבות ביניים</concept>, על פי הנחיות <organization eId="org_51" refersTo="#moe">משרד החינוך</organization>)-</p>
-            <table>
-              <tr>
-                <th>
-                  <p>רמת מורכבות בית הספר</p>
-                </th>
-                <th>
-                  <p>שעות שבועיות להוראה פרונטלית</p>
-                </th>
-              </tr>
-              <tr>
-                <td>
-                  <p>1</p>
-                </td>
-                <td>
-                  <p>11</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>2</p>
-                </td>
-                <td>
-                  <p>11</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>3</p>
-                </td>
-                <td>
-                  <p>11</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>4</p>
-                </td>
-                <td>
-                  <p>11</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>5</p>
-                </td>
-                <td>
-                  <p>11</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>6</p>
-                </td>
-                <td>
-                  <p>11</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>7</p>
-                </td>
-                <td>
-                  <p>9</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>8</p>
-                </td>
-                <td>
-                  <p>9</p>
-                </td>
-              </tr>
-            </table>
-            <p><term eId="trm_55" refersTo="#term_f7ff4310">בבית ספר</term> רב שלבי לחינוך מיוחד –</p>
-            <table>
-              <tr>
-                <th>
-                  <p>רמת מורכבות בית הספר</p>
-                </th>
-                <th>
-                  <p>שעות שבועיות להוראה פרונטלית</p>
-                </th>
-              </tr>
-              <tr>
-                <td>
-                  <p>1</p>
-                </td>
-                <td>
-                  <p>-</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>2</p>
-                </td>
-                <td>
-                  <p>-</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>3</p>
-                </td>
-                <td>
-                  <p>15</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>4</p>
-                </td>
-                <td>
-                  <p>15</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>5</p>
-                </td>
-                <td>
-                  <p>14</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>6</p>
-                </td>
-                <td>
-                  <p>14</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>7</p>
-                </td>
-                <td>
-                  <p>13</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>8</p>
-                </td>
-                <td>
-                  <p>13</p>
-                </td>
-              </tr>
-            </table>
-            <p>בחווה חקלאית או במרכז ימי הנותנים שירות לתלמידים <concept eId="dom_12" refersTo="#stage_chativat_beinayim">מחטיבת ביניים</concept> ולתלמידים <concept eId="dom_13" refersTo="#stage_yesodi">מבתי ספר יסודיים</concept> (על פי הנחיות <organization eId="org_52" refersTo="#moe">משרד החינוך</organization>)–</p>
-            <table>
-              <tr>
-                <th>
-                  <p>רמת מורכבות בית הספר</p>
-                </th>
-                <th>
-                  <p>שעות שבועיות להוראה פרונטלית</p>
-                </th>
-              </tr>
-              <tr>
-                <td>
-                  <p>1</p>
-                </td>
-                <td>
-                  <p>16</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>2</p>
-                </td>
-                <td>
-                  <p>16</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>3</p>
-                </td>
-                <td>
-                  <p>16</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>4</p>
-                </td>
-                <td>
-                  <p>16</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>5</p>
-                </td>
-                <td>
-                  <p>15</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>6</p>
-                </td>
-                <td>
-                  <p>15</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>7</p>
-                </td>
-                <td>
-                  <p>14</p>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p>8</p>
-                </td>
-                <td>
-                  <p>13</p>
-                </td>
-              </tr>
-            </table>
+            <p><mod eId="art_65__mod_1">במקום הטבלאות המופיעות בסעיף <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base/!main#art_90__para_b">90 (ב)</ref> <ref href="/akn/il/act/collectiveAgreement/2008-12-25/ofek-hadash-base">להסכם אופק חדש</ref> לסגני מנהלים ראשונים, יבואו הטבלאות הבאות:<quotedStructure eId="art_65__mod_1__qstr_1">
+                  <p><concept eId="dom_9" refersTo="#stage_yesodi">בבית ספר יסודי</concept> (לרבות חוות חקלאיות ומרכזים ימיים הנותנים שירות לתלמידים <concept eId="dom_10" refersTo="#stage_yesodi">בבתי ספר יסודיים</concept>, על פי הנחיות <organization eId="org_50" refersTo="#moe">משרד החינוך</organization>) –</p>
+                  <table>
+                    <tr>
+                      <th>
+                        <p>רמת מורכבות בית הספר</p>
+                      </th>
+                      <th>
+                        <p>שעות שבועיות להוראה פרונטלית</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>1</p>
+                      </td>
+                      <td>
+                        <p>21</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>2</p>
+                      </td>
+                      <td>
+                        <p>21</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>3</p>
+                      </td>
+                      <td>
+                        <p>21</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>4</p>
+                      </td>
+                      <td>
+                        <p>21</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>5</p>
+                      </td>
+                      <td>
+                        <p>20</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>6</p>
+                      </td>
+                      <td>
+                        <p>20</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>7</p>
+                      </td>
+                      <td>
+                        <p>19</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>8</p>
+                      </td>
+                      <td>
+                        <p>18</p>
+                      </td>
+                    </tr>
+                  </table>
+                  <p><concept eId="dom_11" refersTo="#stage_chativat_beinayim">בחטיבת ביניים</concept> (לרבות חוות חקלאיות ומרכזים ימיים הנותנים שירות לתלמידים <concept eId="dom_12" refersTo="#stage_chativat_beinayim">בחטיבות ביניים</concept>, על פי הנחיות <organization eId="org_51" refersTo="#moe">משרד החינוך</organization>)-</p>
+                  <table>
+                    <tr>
+                      <th>
+                        <p>רמת מורכבות בית הספר</p>
+                      </th>
+                      <th>
+                        <p>שעות שבועיות להוראה פרונטלית</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>1</p>
+                      </td>
+                      <td>
+                        <p>11</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>2</p>
+                      </td>
+                      <td>
+                        <p>11</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>3</p>
+                      </td>
+                      <td>
+                        <p>11</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>4</p>
+                      </td>
+                      <td>
+                        <p>11</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>5</p>
+                      </td>
+                      <td>
+                        <p>11</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>6</p>
+                      </td>
+                      <td>
+                        <p>11</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>7</p>
+                      </td>
+                      <td>
+                        <p>9</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>8</p>
+                      </td>
+                      <td>
+                        <p>9</p>
+                      </td>
+                    </tr>
+                  </table>
+                  <p>בבית ספר רב שלבי לחינוך מיוחד –</p>
+                  <table>
+                    <tr>
+                      <th>
+                        <p>רמת מורכבות בית הספר</p>
+                      </th>
+                      <th>
+                        <p>שעות שבועיות להוראה פרונטלית</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>1</p>
+                      </td>
+                      <td>
+                        <p>-</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>2</p>
+                      </td>
+                      <td>
+                        <p>-</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>3</p>
+                      </td>
+                      <td>
+                        <p>15</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>4</p>
+                      </td>
+                      <td>
+                        <p>15</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>5</p>
+                      </td>
+                      <td>
+                        <p>14</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>6</p>
+                      </td>
+                      <td>
+                        <p>14</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>7</p>
+                      </td>
+                      <td>
+                        <p>13</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>8</p>
+                      </td>
+                      <td>
+                        <p>13</p>
+                      </td>
+                    </tr>
+                  </table>
+                  <p>בחווה חקלאית או במרכז ימי הנותנים שירות לתלמידים <concept eId="dom_13" refersTo="#stage_chativat_beinayim">מחטיבת ביניים</concept> ולתלמידים <concept eId="dom_14" refersTo="#stage_yesodi">מבתי ספר יסודיים</concept> (על פי הנחיות <organization eId="org_52" refersTo="#moe">משרד החינוך</organization>)–</p>
+                  <table>
+                    <tr>
+                      <th>
+                        <p>רמת מורכבות בית הספר</p>
+                      </th>
+                      <th>
+                        <p>שעות שבועיות להוראה פרונטלית</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>1</p>
+                      </td>
+                      <td>
+                        <p>16</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>2</p>
+                      </td>
+                      <td>
+                        <p>16</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>3</p>
+                      </td>
+                      <td>
+                        <p>16</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>4</p>
+                      </td>
+                      <td>
+                        <p>16</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>5</p>
+                      </td>
+                      <td>
+                        <p>15</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>6</p>
+                      </td>
+                      <td>
+                        <p>15</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>7</p>
+                      </td>
+                      <td>
+                        <p>14</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>8</p>
+                      </td>
+                      <td>
+                        <p>13</p>
+                      </td>
+                    </tr>
+                  </table>
+                </quotedStructure>
+              </mod>
+            </p>
           </content>
         </article>
       </chapter>
@@ -1770,7 +1778,7 @@
           <mainBody>
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>מנהלי <concept eId="dom_14" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה אקדמאים חדשים</p>
+                <p>מנהלי <concept eId="dom_15" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה אקדמאים חדשים</p>
                 <table>
                   <tr>
                     <th>
@@ -3519,7 +3527,7 @@
           <mainBody>
             <hcontainer eId="att_8__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>מנהלי <concept eId="dom_15" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה קיימים</p>
+                <p>מנהלי <concept eId="dom_16" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה קיימים</p>
                 <table>
                   <tr>
                     <th>
@@ -3849,7 +3857,7 @@
           <mainBody>
             <hcontainer eId="att_9__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>מנהלי <concept eId="dom_16" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה בכירים קיימים</p>
+                <p>מנהלי <concept eId="dom_17" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה בכירים קיימים</p>
                 <table>
                   <tr>
                     <th>
@@ -4179,7 +4187,7 @@
           <mainBody>
             <hcontainer eId="att_10__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>מנהלי <concept eId="dom_17" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה מוסמכים קיימים</p>
+                <p>מנהלי <concept eId="dom_18" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה מוסמכים קיימים</p>
                 <table>
                   <tr>
                     <th>
@@ -4509,7 +4517,7 @@
           <mainBody>
             <hcontainer eId="att_11__hc_1" name="text" repo:structure="flat">
               <content>
-                <p>מנהלי <concept eId="dom_18" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה בלתי מוסמכים קיימים</p>
+                <p>מנהלי <concept eId="dom_19" refersTo="#stage_chativat_beinayim">חט"ב</concept> צמודה בלתי מוסמכים קיימים</p>
                 <table>
                   <tr>
                     <th>
