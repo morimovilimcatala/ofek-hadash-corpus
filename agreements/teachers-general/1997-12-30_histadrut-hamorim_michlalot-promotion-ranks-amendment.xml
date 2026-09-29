@@ -50,7 +50,9 @@
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="מנכ&quot;ל" />
         <TLCRole eId="role-mazkir-klali" href="/ontology/role/il/mazkir-klali" showAs="מזכ&quot;ל" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
+        <TLCPerson eId="p_8bb34d82" href="/ontology/person/il/8bb34d82" showAs="אברהם בן שבת" />
         <TLCPerson eId="p_ade97dfd" href="/ontology/person/il/ade97dfd" showAs="בן ציון דל" />
+        <TLCPerson eId="p_d1ef052a" href="/ontology/person/il/d1ef052a" showAs="יוסי קוצ'יק" />
       </references>
       <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
         <repo:provenance>
@@ -128,13 +130,15 @@
         </tr>
         <tr>
           <td>
-            <p>אברהם בן שבת</p>
+            <p><person eId="pers_1" refersTo="#p_8bb34d82">אברהם בן שבת</person>
+            </p>
           </td>
           <td>
-            <p>יוסי קוצ'יק</p>
+            <p><person eId="pers_2" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            </p>
           </td>
           <td>
-            <p>מר <person eId="pers_1" refersTo="#p_ade97dfd">בן ציון דל</person>
+            <p>מר <person eId="pers_3" refersTo="#p_ade97dfd">בן ציון דל</person>
             </p>
           </td>
         </tr>
