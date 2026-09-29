@@ -319,7 +319,7 @@
                 </p>
                 <p>שכ, 289-1998</p>
                 <p>לכבוד</p>
-                <p repo:role="running-head">מר <person eId="pers_6" refersTo="#p_4b7467e5">רן ארז</person>
+                <p>מר <person eId="pers_6" refersTo="#p_4b7467e5">רן ארז</person>
                 </p>
                 <p><role eId="rol_22" refersTo="#role-yor">יו"ר</role> <organization eId="org_23" refersTo="#irgun-hamorim">ארגון המורים העל-יסודיים</organization>
                 </p>
@@ -335,9 +335,9 @@
             <p>ממונה על הזכר [כך במקור] והסכמי עבודה</p>
             <p>אישור</p>
             <p>הנני מאשר האמור לעיל.</p>
-            <p repo:role="running-head">מר <person eId="pers_8" refersTo="#p_4b7467e5">רן ארז</person>
-            </p>
-            <p repo:role="running-head"><role eId="rol_24" refersTo="#role-yor">יו"ר</role> <organization eId="org_25" refersTo="#irgun-hamorim">ארגון המורים</organization>
+            <p>מר <signature eId="signature_1">
+                <person eId="pers_8" refersTo="#p_4b7467e5">רן ארז</person> <role eId="rol_24" refersTo="#role-yor">יו"ר</role> <organization eId="org_25" refersTo="#irgun-hamorim">ארגון המורים</organization>
+              </signature>
             </p>
             <p><location eId="locref_1" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_2" refersTo="#loc_8e0dfe1e">ירושלים</location> 91131 ת.ד. 13185 טל': <a href="tel:+97225317111">02-5317111</a> פקס': <a href="tel:+97226528360">02-6528360</a>
             </p>
@@ -386,9 +386,9 @@
                 </p>
                 <p>שכ. 304 - 1998</p>
                 <p>לכבוד:</p>
-                <p repo:role="running-head">מר <person eId="pers_9" refersTo="#p_4b7467e5">רן ארז</person>
+                <p>מר <person eId="pers_9" refersTo="#p_4b7467e5">רן ארז</person>
                 </p>
-                <p repo:role="running-head"><role eId="rol_28" refersTo="#role-yor">יו"ר</role> <organization eId="org_29" refersTo="#irgun-hamorim">ארגון המורים</organization>
+                <p><role eId="rol_28" refersTo="#role-yor">יו"ר</role> <organization eId="org_29" refersTo="#irgun-hamorim">ארגון המורים</organization>
                 </p>
                 <p>הנדון: הפרשה בגין מענק יובל וקצובת ביגוד לקופת גמל – סעיף 5 (ב) להסכם הפרשת רכיבים לגמל.</p>
                 <p>הריני להעלות בזה את הסכמת הצדדים שהושגה במהלך המו"מ לכריתת ההסכם הקיבוצי שעניינו הפרשה וניכוי לקופת גמל, כדקלמן [כך במקור]:</p>
@@ -409,15 +409,15 @@
           </mainBody>
           <conclusions>
             <p>בכבוד רב,</p>
-            <p><signature eId="signature_1">
+            <p><signature eId="signature_2">
                 <person eId="pers_10" refersTo="#p_d1ef052a">יוסי קוצ'יק</person> <role eId="rol_30" refersTo="#role-memuneh-sachar">ממונה על השכר והסכמי עבודה</role>
               </signature>
             </p>
             <p>אישור</p>
             <p>הנני מאשר את האמור לעיל,</p>
-            <p repo:role="running-head">מר <person eId="pers_11" refersTo="#p_4b7467e5">רן ארז</person>
-            </p>
-            <p repo:role="running-head"><role eId="rol_31" refersTo="#role-yor">יו"ר</role> <organization eId="org_32" refersTo="#irgun-hamorim">ארגון המורים</organization>
+            <p>מר <signature eId="signature_3">
+                <person eId="pers_11" refersTo="#p_4b7467e5">רן ארז</person> <role eId="rol_31" refersTo="#role-yor">יו"ר</role> <organization eId="org_32" refersTo="#irgun-hamorim">ארגון המורים</organization>
+              </signature>
             </p>
           </conclusions>
         </doc>

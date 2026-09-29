@@ -94,7 +94,7 @@
     </body>
     <conclusions>
       <p>בכבוד רב,</p>
-      <p repo:role="running-head">[חתימות]</p>
+      <p>[חתימות]</p>
       <p><person eId="pers_2" refersTo="#p_35958635">אילן לוין</person>
       </p>
       <p repo:note="stamp">[חותמת: דואר נכנס 10 -11- 2008 לשכת <role eId="rol_5" refersTo="#role-mazkir-klali">המזכיר הכללי</role>]</p>
@@ -160,7 +160,7 @@
           </mainBody>
           <conclusions>
             <p>בכבוד רב,</p>
-            <p repo:role="running-head">[חתימות]</p>
+            <p>[חתימות]</p>
             <p><signature eId="signature_1">
                 <person eId="pers_4" refersTo="#p_9317fe46">יוסי וסרמן</person> <role eId="rol_8" refersTo="#role-mazkir-klali">המזכיר הכללי</role>
               </signature>

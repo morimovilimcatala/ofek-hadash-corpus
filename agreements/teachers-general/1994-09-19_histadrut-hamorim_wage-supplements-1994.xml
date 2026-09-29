@@ -1001,7 +1001,7 @@
       </article>
     </body>
     <conclusions>
-      <p repo:role="running-head">[חתימות]</p>
+      <p>[חתימות]</p>
       <table>
         <tr>
           <td>
@@ -3319,11 +3319,11 @@
                 <num>2.</num>
                 <content>
                   <p>שעור התוספת לכל שנת ותק בכל הדרגות יהיה כדלקמן:</p>
-                  <p repo:role="running-head">משנה 2 עד שנה 7 - <quantity eId="qty_540" refersTo="#percentage" normalized="5.0">5.0%</quantity>
+                  <p>משנה 2 עד שנה 7 - <quantity eId="qty_540" refersTo="#percentage" normalized="5.0">5.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 8 עד שנה 25 - <quantity eId="qty_541" refersTo="#percentage" normalized="2.0">2.0%</quantity>
+                  <p>משנה 8 עד שנה 25 - <quantity eId="qty_541" refersTo="#percentage" normalized="2.0">2.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 26 ואילך - <quantity eId="qty_542" refersTo="#percentage" normalized="1.0">1.0%</quantity>
+                  <p>משנה 26 ואילך - <quantity eId="qty_542" refersTo="#percentage" normalized="1.0">1.0%</quantity>
                   </p>
                 </content>
               </paragraph>
@@ -5626,11 +5626,11 @@
                 <num>2.</num>
                 <content>
                   <p>שעור התוספת לכל שנת ותק בכל הדרגות יהיה כדלקמן:</p>
-                  <p repo:role="running-head">משנה 2 עד שנה 7 - <quantity eId="qty_1047" refersTo="#percentage" normalized="5.0">5.0%</quantity>
+                  <p>משנה 2 עד שנה 7 - <quantity eId="qty_1047" refersTo="#percentage" normalized="5.0">5.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 8 עד שנה 25 - <quantity eId="qty_1048" refersTo="#percentage" normalized="2.0">2.0%</quantity>
+                  <p>משנה 8 עד שנה 25 - <quantity eId="qty_1048" refersTo="#percentage" normalized="2.0">2.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 26 ואילך - <quantity eId="qty_1049" refersTo="#percentage" normalized="1.0">1.0%</quantity>
+                  <p>משנה 26 ואילך - <quantity eId="qty_1049" refersTo="#percentage" normalized="1.0">1.0%</quantity>
                   </p>
                 </content>
               </paragraph>
@@ -7933,11 +7933,11 @@
                 <num>2.</num>
                 <content>
                   <p>שעור התוספת לכל שנת ותק בכל הדרגות יהיה כדלקמן:</p>
-                  <p repo:role="running-head">משנה 2 עד שנה 7 - <quantity eId="qty_1554" refersTo="#percentage" normalized="5.0">5.0%</quantity>
+                  <p>משנה 2 עד שנה 7 - <quantity eId="qty_1554" refersTo="#percentage" normalized="5.0">5.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 8 עד שנה 25 - <quantity eId="qty_1555" refersTo="#percentage" normalized="2.0">2.0%</quantity>
+                  <p>משנה 8 עד שנה 25 - <quantity eId="qty_1555" refersTo="#percentage" normalized="2.0">2.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 26 ואילך - <quantity eId="qty_1556" refersTo="#percentage" normalized="1.0">1.0%</quantity>
+                  <p>משנה 26 ואילך - <quantity eId="qty_1556" refersTo="#percentage" normalized="1.0">1.0%</quantity>
                   </p>
                 </content>
               </paragraph>
@@ -10241,11 +10241,11 @@
                 <num>2.</num>
                 <content>
                   <p>שעור התוספת לכל שנת ותק בכל הדרגות יהיה כדלקמן:</p>
-                  <p repo:role="running-head">משנה 2 עד שנה 7 - <quantity eId="qty_2063" refersTo="#percentage" normalized="5.0">5.0%</quantity>
+                  <p>משנה 2 עד שנה 7 - <quantity eId="qty_2063" refersTo="#percentage" normalized="5.0">5.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 8 עד שנה 25 - <quantity eId="qty_2064" refersTo="#percentage" normalized="2.0">2.0%</quantity>
+                  <p>משנה 8 עד שנה 25 - <quantity eId="qty_2064" refersTo="#percentage" normalized="2.0">2.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 26 ואילך - <quantity eId="qty_2065" refersTo="#percentage" normalized="1.0">1.0%</quantity>
+                  <p>משנה 26 ואילך - <quantity eId="qty_2065" refersTo="#percentage" normalized="1.0">1.0%</quantity>
                   </p>
                 </content>
               </paragraph>
@@ -12550,11 +12550,11 @@
                 <num>2.</num>
                 <content>
                   <p>שעור התוספת לכל שנת ותק בכל הדרגות יהיה כדלקמן:</p>
-                  <p repo:role="running-head">משנה 2 עד שנה 7 - <quantity eId="qty_2572" refersTo="#percentage" normalized="5.0">5.0%</quantity>
+                  <p>משנה 2 עד שנה 7 - <quantity eId="qty_2572" refersTo="#percentage" normalized="5.0">5.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 8 עד שנה 25 - <quantity eId="qty_2573" refersTo="#percentage" normalized="2.0">2.0%</quantity>
+                  <p>משנה 8 עד שנה 25 - <quantity eId="qty_2573" refersTo="#percentage" normalized="2.0">2.0%</quantity>
                   </p>
-                  <p repo:role="running-head">משנה 26 ואילך - <quantity eId="qty_2574" refersTo="#percentage" normalized="1.0">1.0%</quantity>
+                  <p>משנה 26 ואילך - <quantity eId="qty_2574" refersTo="#percentage" normalized="1.0">1.0%</quantity>
                   </p>
                 </content>
               </paragraph>
@@ -12594,11 +12594,11 @@
             <hcontainer eId="att_6__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר במשרד האוצר אל מזכ"ל הסתדרות המורים בנושא ההסכם הקיבוצי מיום <date date="1994-09-19">19.9.94</date>, מיום <date date="1994-09-19">19 בספטמבר 1994</date>, בדף העשרים-ואחד של הסריקה]</p>
-                <p repo:role="running-head"><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
+                <p><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
                 </p>
-                <p repo:role="running-head"><date date="1994-09-19">19 בספטמבר 1994</date>
+                <p><date date="1994-09-19">19 בספטמבר 1994</date>
                 </p>
-                <p repo:role="running-head">לכבוד</p>
+                <p>לכבוד</p>
                 <p>מר <person eId="pers_5" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
                 </p>
                 <p><role eId="rol_59" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_60" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
@@ -12630,12 +12630,12 @@
           </mainBody>
           <conclusions>
             <p>בברכה,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_6" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            <p>[חתימות]</p>
+            <p><signature eId="signature_1">
+                <person eId="pers_6" refersTo="#p_d1ef052a">יוסי קוצ'יק</person> <role eId="rol_61" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+              </signature>
             </p>
-            <p repo:role="running-head"><role eId="rol_61" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
-            </p>
-            <p repo:role="running-head"><organization eId="org_62" refersTo="#mof">משרד האוצר</organization>
+            <p><organization eId="org_62" refersTo="#mof">משרד האוצר</organization>
             </p>
           </conclusions>
         </doc>
@@ -12674,14 +12674,14 @@
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר במשרד האוצר אל מזכ"ל הסתדרות המורים בנושא תגמול ותמרוץ עובדי הוראה באזורי עדיפות לאומית א', מיום <date date="1994-09-19">19 בספטמבר 1994</date>, בדף העשרים-ושניים של הסריקה]</p>
                 <p><organization eId="org_63" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_64" refersTo="#mof">משרד האוצר</organization>
+                <p><organization eId="org_64" refersTo="#mof">משרד האוצר</organization>
                 </p>
-                <p repo:role="running-head"><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
+                <p><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
                 </p>
-                <p repo:role="running-head"><date date="1994-09-19">19 בספטמבר 1994</date>
+                <p><date date="1994-09-19">19 בספטמבר 1994</date>
                 </p>
                 <p>ת.94-38857</p>
-                <p repo:role="running-head">לכבוד</p>
+                <p>לכבוד</p>
                 <p>מר <person eId="pers_7" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
                 </p>
                 <p><role eId="rol_65" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_66" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
@@ -12698,23 +12698,23 @@
           </mainBody>
           <conclusions>
             <p>בכבוד רב</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_8" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            <p>[חתימות]</p>
+            <p><signature eId="signature_2">
+                <person eId="pers_8" refersTo="#p_d1ef052a">יוסי קוצ'יק</person> <role eId="rol_67" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+              </signature>
             </p>
-            <p repo:role="running-head"><role eId="rol_67" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+            <p><organization eId="org_68" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p repo:role="running-head"><organization eId="org_68" refersTo="#mof">משרד האוצר</organization>
-            </p>
-            <p repo:role="running-head">לכבוד</p>
+            <p>לכבוד</p>
             <p>מר <person eId="pers_9" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
             </p>
-            <p repo:role="running-head"><role eId="rol_69" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+            <p><role eId="rol_69" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
             </p>
-            <p repo:role="running-head"><organization eId="org_70" refersTo="#mof">משרד האוצר</organization>
+            <p><organization eId="org_70" refersTo="#mof">משרד האוצר</organization>
             </p>
             <p>הנני מאשר האמור במכתב.</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_10" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
+            <p>[חתימות]</p>
+            <p><person eId="pers_10" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
             </p>
             <p>מזכ"ל</p>
             <p><organization eId="org_71" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
@@ -12754,11 +12754,11 @@
             <hcontainer eId="att_8__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר במשרד האוצר אל מזכ"ל הסתדרות המורים בנושא קרן המצוקה, מיום <date date="1994-09-19">19 בספטמבר 1994</date>, בדף העשרים-ושלושה של הסריקה]</p>
-                <p repo:role="running-head"><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
+                <p><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
                 </p>
-                <p repo:role="running-head"><date date="1994-09-19">19 בספטמבר 1994</date>
+                <p><date date="1994-09-19">19 בספטמבר 1994</date>
                 </p>
-                <p repo:role="running-head">לכבוד</p>
+                <p>לכבוד</p>
                 <p>מר <person eId="pers_11" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
                 </p>
                 <p><role eId="rol_72" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_73" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
@@ -12772,26 +12772,26 @@
           </mainBody>
           <conclusions>
             <p>בברכה,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_12" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            <p>[חתימות]</p>
+            <p><signature eId="signature_4">
+                <person eId="pers_12" refersTo="#p_d1ef052a">יוסי קוצ'יק</person> <role eId="rol_80" refersTo="#office_e5f38791">הממונה על שכר</role>
+              </signature>
             </p>
-            <p><role eId="rol_80" refersTo="#office_e5f38791">הממונה על שכר</role>
+            <p><organization eId="org_75" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p repo:role="running-head"><organization eId="org_75" refersTo="#mof">משרד האוצר</organization>
-            </p>
-            <p repo:role="running-head">לכבוד</p>
+            <p>לכבוד</p>
             <p>מר <person eId="pers_13" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
             </p>
-            <p repo:role="running-head"><role eId="rol_76" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+            <p><role eId="rol_76" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
             </p>
-            <p repo:role="running-head"><organization eId="org_77" refersTo="#mof">משרד האוצר</organization>
+            <p><organization eId="org_77" refersTo="#mof">משרד האוצר</organization>
             </p>
             <p>האמור לעיל מוסכם ומקובל על <organization eId="org_78" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>.</p>
             <p>בברכה,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_14" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
+            <p>[חתימות]</p>
+            <p><person eId="pers_14" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
             </p>
-            <p repo:role="running-head"><role eId="rol_79" refersTo="#role-mazkir-klali">המזכיר הכללי</role>
+            <p><role eId="rol_79" refersTo="#role-mazkir-klali">המזכיר הכללי</role>
             </p>
           </conclusions>
         </doc>
@@ -12828,11 +12828,11 @@
             <hcontainer eId="att_9__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב המנהל הכללי של משרד החינוך והתרבות אל מזכ"ל הסתדרות המורים בנושא תקני רכב שירות, מיום <date date="1994-09-19">19 בספטמבר 1994</date>, בדף העשרים-וארבעה של הסריקה]</p>
-                <p repo:role="running-head"><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
+                <p><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
                 </p>
-                <p repo:role="running-head"><date date="1994-09-19">19 בספטמבר 1994</date>
+                <p><date date="1994-09-19">19 בספטמבר 1994</date>
                 </p>
-                <p repo:role="running-head">לכבוד</p>
+                <p>לכבוד</p>
                 <p>מר <person eId="pers_15" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
                 </p>
                 <p><role eId="rol_81" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_82" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
@@ -12867,8 +12867,8 @@
           </mainBody>
           <conclusions>
             <p>בכבוד רב,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p>ד"ר <signature eId="signature_1">
+            <p>[חתימות]</p>
+            <p>ד"ר <signature eId="signature_8">
                 <person eId="pers_16" refersTo="#p_b07a7e5e">שמשון שושני</person> <role eId="rol_84" refersTo="#role-mankal">המנהל הכללי</role>
               </signature>
             </p>
@@ -12907,11 +12907,11 @@
             <hcontainer eId="att_10__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר במשרד האוצר אל מזכ"ל הסתדרות המורים בנושא הלוואות לעובדי הוראה שאינם עובדי מדינה, מיום <date date="1994-09-19">19 בספטמבר 1994</date>, בדף העשרים-וחמישה של הסריקה]</p>
-                <p repo:role="running-head"><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
+                <p><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
                 </p>
-                <p repo:role="running-head"><date date="1994-09-19">19 בספטמבר 1994</date>
+                <p><date date="1994-09-19">19 בספטמבר 1994</date>
                 </p>
-                <p repo:role="running-head">לכבוד</p>
+                <p>לכבוד</p>
                 <p>מר <person eId="pers_17" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
                 </p>
                 <p><role eId="rol_85" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_86" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
@@ -12925,25 +12925,25 @@
           </mainBody>
           <conclusions>
             <p>בברכה,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_18" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            <p>[חתימות]</p>
+            <p><signature eId="signature_16">
+                <person eId="pers_18" refersTo="#p_d1ef052a">יוסי קוצ'יק</person> <role eId="rol_91" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+              </signature>
             </p>
-            <p repo:role="running-head"><role eId="rol_91" refersTo="#role-memuneh-sachar">הממונה על השכר</role>
+            <p><organization eId="org_92" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p repo:role="running-head"><organization eId="org_92" refersTo="#mof">משרד האוצר</organization>
-            </p>
-            <p repo:role="running-head">לכבוד</p>
+            <p>לכבוד</p>
             <p>מר <person eId="pers_19" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
             </p>
             <p>הממונ על האוצר [כך במקור]</p>
-            <p repo:role="running-head"><organization eId="org_93" refersTo="#mof">משרד האוצר</organization>
+            <p><organization eId="org_93" refersTo="#mof">משרד האוצר</organization>
             </p>
             <p>האמור לעיל מוסכם ומקובל על <organization eId="org_94" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>.</p>
             <p>בברכה,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_20" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
+            <p>[חתימות]</p>
+            <p><person eId="pers_20" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
             </p>
-            <p repo:role="running-head"><role eId="rol_95" refersTo="#role-mazkir-klali">המזכיר הכללי</role>
+            <p><role eId="rol_95" refersTo="#role-mazkir-klali">המזכיר הכללי</role>
             </p>
           </conclusions>
         </doc>
@@ -12980,9 +12980,9 @@
             <hcontainer eId="att_11__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב המשנה לממונה על השכר במשרד האוצר אל מנהל מחלקת גמלאות באגף החשב הכללי בנושא גמול מחנך, מיום <date date="1994-09-19">19 בספטמבר 1994</date>, בדף העשרים-ושישה של הסריקה]</p>
-                <p repo:role="running-head"><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
+                <p><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
                 </p>
-                <p repo:role="running-head"><date date="1994-09-19">19 בספטמבר 1994</date>
+                <p><date date="1994-09-19">19 בספטמבר 1994</date>
                 </p>
                 <p>אל מנהל מחלקת גמלאות</p>
                 <p><organization eId="org_96" refersTo="#unit_6b054941">אגף החשב הכללי</organization>
@@ -12996,12 +12996,12 @@
           </mainBody>
           <conclusions>
             <p>בברכה,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p><signature eId="signature_3">
+            <p>[חתימות]</p>
+            <p><signature eId="signature_32">
                 <person eId="pers_21" refersTo="#p_c9327b2c">יובל רכלבסקי</person> <role eId="hed_1" refersTo="#role-mishne">המשנה</role> <role eId="rol_97" refersTo="#role-memuneh-sachar">לממונה על השכר</role>
               </signature>
             </p>
-            <p repo:role="running-head"><organization eId="org_98" refersTo="#mof">משרד האוצר</organization>
+            <p><organization eId="org_98" refersTo="#mof">משרד האוצר</organization>
             </p>
           </conclusions>
         </doc>
@@ -13038,11 +13038,11 @@
             <hcontainer eId="att_12__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב סגן החשב אל מזכ"ל הסתדרות המורים בנושא מכסת בעלי התפקידים, מיום <date date="1994-09-19">19 בספטמבר 1994</date>, בדף העשרים-ושבעה של הסריקה]</p>
-                <p repo:role="running-head"><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
+                <p><date date="1994-09-19">י"ד בתשרי התשנ"ה</date>
                 </p>
-                <p repo:role="running-head"><date date="1994-09-19">19 בספטמבר 1994</date>
+                <p><date date="1994-09-19">19 בספטמבר 1994</date>
                 </p>
-                <p repo:role="running-head">לכבוד</p>
+                <p>לכבוד</p>
                 <p>מר <person eId="pers_22" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
                 </p>
                 <p><role eId="rol_99" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_100" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
@@ -13057,7 +13057,7 @@
           </mainBody>
           <conclusions>
             <p>בברכה,</p>
-            <p repo:role="running-head">[חתימות]</p>
+            <p>[חתימות]</p>
             <p><person eId="pers_23" refersTo="#p_922d2bb3">מוטי מרוז</person>
             </p>
             <p>סגן החשב</p>

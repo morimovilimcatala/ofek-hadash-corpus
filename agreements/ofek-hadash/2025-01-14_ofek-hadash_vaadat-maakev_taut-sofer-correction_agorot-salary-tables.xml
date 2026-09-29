@@ -139,7 +139,7 @@
         <content>
           <p>טבלאות השכר המצורפות כנספחים <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement-signed-appendices/!main#att_22">א8</ref> ו-<ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement-signed-appendices/!main#att_23">א9</ref> <ref href="/akn/il/act/collectiveAgreement/2022-10-19/2022-10-19-ofek-hadash-wage-agreement">להסכם הקיבוצי</ref> יוחלפו בטבלאות שכר המצורפות כנספחים א'8 ו-א'9 להחלטה זו, אשר יחולו על מנהלים, סגני מנהלים ראשונים ומנהלי <concept eId="dom_1" refersTo="#stage_chativat_beinayim">חט"ב</concept> בבית ספר שש שנתי שאינם אקדמאים, לפי העניין. למען הסר כל ספק יובהר כי בשל שגגה הושמטו חלק מטבלאות השכר בנספחים אלו.</p>
           <p>[בכתב יד: 1, 2, 3]</p>
-          <p repo:role="running-head">[חתימות]</p>
+          <p>[חתימות]</p>
           <p repo:note="stamp">[חותמת: נאמן למקור]</p>
         </content>
       </article>
@@ -6002,7 +6002,7 @@
       </hcontainer>
     </body>
     <conclusions>
-      <p repo:role="running-head">[חתימות]</p>
+      <p>[חתימות]</p>
       <p><role eId="rol_11" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
       </p>
       <p><role eId="rol_12" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_13" refersTo="#moe">משרד החינוך</organization>

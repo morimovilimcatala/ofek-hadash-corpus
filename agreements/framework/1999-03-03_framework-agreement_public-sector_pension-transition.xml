@@ -1166,7 +1166,7 @@
     </body>
     <conclusions>
       <p>ולראיה באו הצדדים על החתום</p>
-      <p repo:role="running-head">[חתימות]</p>
+      <p>[חתימות]</p>
       <table>
         <tr>
           <th>
@@ -1431,9 +1431,9 @@
           </td>
         </tr>
       </table>
-      <p repo:role="running-head">[חתימות]</p>
-      <p repo:role="running-head">[חתימות]</p>
-      <p repo:role="running-head">[חתימות]</p>
+      <p>[חתימות]</p>
+      <p>[חתימות]</p>
+      <p>[חתימות]</p>
     </conclusions>
     <attachments>
       <attachment eId="att_1">
@@ -1823,7 +1823,7 @@
                   <num>2.</num>
                   <content>
                     <p>אפשרות מעבר מפנסיית יסוד לפנסיה מקיפה למפרע לתקופה שלא תעלה על <quantity eId="qty_44" refersTo="#month" normalized="24">24 חודש</quantity>, באיזון אקטוארי מלא ובריבית שוק, לכל עובד.</p>
-                    <p repo:role="running-head">בכבוד רב,</p>
+                    <p>בכבוד רב,</p>
                     <p>ד"ר <person eId="pers_62" refersTo="#p_c0a6723f">רמי דיין</person>
                     </p>
                     <p>סגן בכיר לממונה על שוק ההון, ביטוח וחסכון</p>
@@ -2073,7 +2073,7 @@
                 </p>
                 <p><role eId="rol_143" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
-                <p repo:role="running-head"><location eId="locref_8" refersTo="#loc_8e0dfe1e">ירושלים</location>, [בכתב יד: לא קריא] 1999</p>
+                <p><location eId="locref_8" refersTo="#loc_8e0dfe1e">ירושלים</location>, [בכתב יד: לא קריא] 1999</p>
                 <p>ת.98-59090</p>
                 <p>לכבוד</p>
                 <p>מר <person eId="pers_65" refersTo="#p_d733e68d">שלמה שני</person>
@@ -2103,8 +2103,8 @@
             </hcontainer>
           </mainBody>
           <conclusions>
-            <p repo:role="running-head">בכבוד רב,</p>
-            <p repo:role="running-head"><person eId="pers_66" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            <p>בכבוד רב,</p>
+            <p><person eId="pers_66" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
             </p>
             <p>העתק:</p>
             <p>מר <person eId="pers_67" refersTo="#p_72da315a">בנימין נתניהו</person> - ראש הממשלה ושר האוצר</p>
@@ -2151,7 +2151,7 @@
                 </p>
                 <p><role eId="rol_154" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
-                <p repo:role="running-head"><location eId="locref_9" refersTo="#loc_8e0dfe1e">ירושלים</location>, [בכתב יד: לא קריא] 1999</p>
+                <p><location eId="locref_9" refersTo="#loc_8e0dfe1e">ירושלים</location>, [בכתב יד: לא קריא] 1999</p>
                 <p>ת.99-5024</p>
                 <p>לכבוד</p>
                 <p>מר <person eId="pers_70" refersTo="#p_d733e68d">שלמה שני</person>
@@ -2167,8 +2167,8 @@
             </hcontainer>
           </mainBody>
           <conclusions>
-            <p repo:role="running-head">בכבוד רב,</p>
-            <p repo:role="running-head"><person eId="pers_71" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            <p>בכבוד רב,</p>
+            <p><person eId="pers_71" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
             </p>
           </conclusions>
         </doc>
@@ -2206,7 +2206,7 @@
               <intro>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר והסכמי עבודה במשרד האוצר אל יו"ר ההסתדרות הכללית בדבר קביעת תקנים בשירות המדינה והקצאתם, בדפים השלושים ושניים עד השלושים וחמישה של הסריקה]</p>
                 <p repo:note="fax-banner">[כותרת פקס: 02 NOV '99 10:00 | P.3]</p>
-                <p repo:role="running-head"><location eId="locref_10" refersTo="#loc_8e0dfe1e">ירושלים</location>, [בכתב יד: לא קריא] 1999</p>
+                <p><location eId="locref_10" refersTo="#loc_8e0dfe1e">ירושלים</location>, [בכתב יד: לא קריא] 1999</p>
                 <p>ת.98-59109</p>
                 <p>לכבוד</p>
                 <p>מר <person eId="pers_72" refersTo="#p_85a8101f">עמיר פרץ</person>
@@ -2299,10 +2299,10 @@
             </hcontainer>
           </mainBody>
           <conclusions>
-            <p repo:role="running-head">בכבוד רב,</p>
-            <p repo:role="running-head"><person eId="pers_73" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
-            </p>
-            <p><role eId="rol_167" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+            <p>בכבוד רב,</p>
+            <p><signature eId="signature_1">
+                <person eId="pers_73" refersTo="#p_d1ef052a">יוסי קוצ'יק</person> <role eId="rol_167" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+              </signature>
             </p>
             <p><person eId="pers_74" refersTo="#p_c9327b2c">יובל רכלבסקי</person>
             </p>

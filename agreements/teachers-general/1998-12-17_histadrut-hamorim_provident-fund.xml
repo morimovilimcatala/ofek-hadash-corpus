@@ -313,9 +313,9 @@
                 </p>
                 <p>שכ, 291-1998</p>
                 <p>לכבוד</p>
-                <p repo:role="running-head">מר <person eId="pers_7" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
+                <p>מר <person eId="pers_7" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
                 </p>
-                <p repo:role="running-head"><role eId="rol_22" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_23" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+                <p><role eId="rol_22" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_23" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
                 </p>
                 <p>הנדון: הפרשה בגין מענק יובל וקצובת ביגוד לקופת גמל – סעיף 5 (ב) להסכם הפרשת רכיבים לגמל.</p>
                 <p>הריני להעלות בזה את הסכמת הצדדים שהושגה במהלך המו"מ לכריתת ההסכם הקיבוצי שעניינו הפרשה וניכוי לקופת גמל, כדלקמן:</p>
@@ -341,9 +341,9 @@
             <p>ממונה על הזכר [כך במקור] והסכמי עבודה</p>
             <p>אישור</p>
             <p>הנני מאשר האמור לעיל.</p>
-            <p repo:role="running-head">מר <person eId="pers_9" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
-            </p>
-            <p repo:role="running-head"><role eId="rol_24" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_25" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+            <p>מר <signature eId="signature_1">
+                <person eId="pers_9" refersTo="#p_50cffbd5">אברהם בן-שבת</person> <role eId="rol_24" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_25" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+              </signature>
             </p>
             <p repo:role="running-head"><location eId="locref_1" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_2" refersTo="#loc_8e0dfe1e">ירושלים</location> 91131 ת.ד. 13185 טל': <a href="tel:+97225317111">02-5317111</a> פקס': <a href="tel:+97226528360">02-6528360</a>
             </p>
@@ -393,9 +393,9 @@
                 </p>
                 <p>שכ, 301-1998</p>
                 <p>לכבוד</p>
-                <p repo:role="running-head">מר <person eId="pers_10" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
+                <p>מר <person eId="pers_10" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
                 </p>
-                <p repo:role="running-head"><role eId="rol_28" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_29" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+                <p><role eId="rol_28" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_29" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
                 </p>
                 <p>הנדון: הסכם הכללת רכיבים לקופת גמל – <term eId="trm_9" refersTo="#term_2db30064">עובדי הוראה</term> שאינם מועסקים בשנת תשנ"ט.</p>
                 <p>בהמשך לדיונים שקויימו בינינו בעניין ההפרשות לקופת גמל בגין רכיבי שכר ותשלומים שאינם פנסיונים, כמפורט בהסכם הקיבוצי מיום <date date="1998-12-17">17.12.98</date> (להלן: "<def refersTo="#term_afe898bb">ההסכם</def>"), הריני להעלות על הכתב את הסכמתנו כי סוגיית עובדי ההוראה אשר היו מועסקים אצל מי <term eId="trm_10" refersTo="#term_88a5098d">המעסיקים</term> בשנת הלימודים תשנ"ח לאחר יום <date date="1998-01-01">1.1.98</date>, ואשר אינם מועסקים בשנת הלימודים תשנ"ט ואשר לא חל עליהם סעיף 5(ו) או סעיף 10 להסכם, תועבר לדיון בועדה פריטטית של נציגי הצדדים להסכם לפי סעיף <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul/!main#art_13">13</ref> <ref href="/akn/il/act/collectiveAgreement/1998-09-08/1998-09-08-histadrut-hamorim-out-of-school-activity-livui-tiyulim-gmul">להסכם מיום 8.9.98</ref>.</p>
@@ -409,9 +409,9 @@
             <p>ממונה על הזכר [כך במקור] והסכמי עבודה</p>
             <p>אישור</p>
             <p>הנני מאשר האמור לעיל.</p>
-            <p repo:role="running-head">מר <person eId="pers_12" refersTo="#p_50cffbd5">אברהם בן-שבת</person>
-            </p>
-            <p repo:role="running-head"><role eId="rol_30" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_31" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+            <p>מר <signature eId="signature_2">
+                <person eId="pers_12" refersTo="#p_50cffbd5">אברהם בן-שבת</person> <role eId="rol_30" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_31" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+              </signature>
             </p>
             <p repo:role="running-head"><location eId="locref_3" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_4" refersTo="#loc_8e0dfe1e">ירושלים</location> 91131 ת.ד. 13185 טל': <a href="tel:+97225317111">02-5317111</a> פקס': <a href="tel:+97226528360">02-6528360</a>
             </p>

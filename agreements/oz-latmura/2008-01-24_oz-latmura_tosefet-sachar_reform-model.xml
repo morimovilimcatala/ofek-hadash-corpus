@@ -637,9 +637,9 @@
             <hcontainer eId="att_1__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב סגנית בכירה לממונה על השכר אל יו"ר ארגון המורים, מאותו יום]</p>
-                <p repo:role="running-head"><date date="2008-01-24">י"ז בשבט התשס"ח</date>
+                <p><date date="2008-01-24">י"ז בשבט התשס"ח</date>
                 </p>
-                <p repo:role="running-head"><date date="2008-01-24">24 בינואר 2008</date>
+                <p><date date="2008-01-24">24 בינואר 2008</date>
                 </p>
                 <p>לכבוד:</p>
                 <p>מר <person eId="pers_8" refersTo="#p_4b7467e5">רן ארז</person>
@@ -794,9 +794,9 @@
                 </p>
                 <p><role eId="rol_70" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
-                <p repo:role="running-head"><date date="2008-01-24">י"ז בשבט התשס"ח</date>
+                <p><date date="2008-01-24">י"ז בשבט התשס"ח</date>
                 </p>
-                <p repo:role="running-head"><date date="2008-01-24">24 בינואר 2008</date>
+                <p><date date="2008-01-24">24 בינואר 2008</date>
                 </p>
                 <p>שכ. 590-2008</p>
                 <p>תיק:</p>

@@ -550,7 +550,7 @@
     </body>
     <conclusions>
       <p>ולראיה באו הצדדים על החתום:</p>
-      <p repo:role="running-head">[חתימות]</p>
+      <p>[חתימות]</p>
       <table>
         <tr>
           <td>
@@ -558,7 +558,7 @@
             </p>
           </td>
           <td>
-            <p repo:role="running-head"><organization eId="org_28" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
+            <p><organization eId="org_28" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
             </p>
           </td>
         </tr>
@@ -663,7 +663,7 @@
             </hcontainer>
           </mainBody>
           <conclusions>
-            <p repo:role="running-head">[חתימות]</p>
+            <p>[חתימות]</p>
             <table>
               <tr>
                 <td>
@@ -799,7 +799,7 @@
                 </p>
                 <p><role eId="rol_50" refersTo="#role-yor">יו"ר</role> <organization eId="unt_8" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_51" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
+                <p><organization eId="org_51" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
                 </p>
                 <p>הנדון: תשלום פיצוי לגמלאים בפנסיה תקציבית על שחיקת קיצבתם בעבר</p>
                 <p>להלן פרוט העקרונות של התשלום שבנדון:</p>
@@ -832,16 +832,16 @@
           </mainBody>
           <conclusions>
             <p>בכבוד רב,</p>
-            <p repo:role="running-head">[חתימות]</p>
+            <p>[חתימות]</p>
             <p><person eId="pers_22" refersTo="#p_c9327b2c">יובל רכלבסקי</person>
             </p>
             <p>הריני מאשר את האמור במכתב זה.</p>
-            <p repo:role="running-head">[חתימות]</p>
+            <p>[חתימות]</p>
             <p><signature eId="signature_1">
                 <person eId="pers_23" refersTo="#p_d733e68d">שלמה שני</person> <role eId="rol_53" refersTo="#role-yor">יו"ר</role> <organization eId="unt_9" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>
               </signature>
             </p>
-            <p repo:role="running-head"><organization eId="org_54" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
+            <p><organization eId="org_54" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
             </p>
             <p repo:role="running-head"><location eId="locref_3" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_4" refersTo="#loc_8e0dfe1e">ירושלים</location> 91131 ת.ד 13185 טל':<a href="tel:+97225317111">02-5317111</a> פקס':<a href="tel:+97226528360">02-6528360</a>
             </p>
@@ -1619,7 +1619,7 @@
             </hcontainer>
           </mainBody>
           <conclusions>
-            <p repo:role="running-head">[חתימות]</p>
+            <p>[חתימות]</p>
             <table>
               <tr>
                 <td>

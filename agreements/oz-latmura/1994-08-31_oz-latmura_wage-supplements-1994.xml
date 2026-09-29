@@ -562,7 +562,7 @@
     </body>
     <conclusions>
       <p>ולראייה באו הצדדים על החתום</p>
-      <p repo:role="running-head">[חתימות]</p>
+      <p>[חתימות]</p>
       <table>
         <tr>
           <td>
@@ -656,8 +656,8 @@
           </mainBody>
           <conclusions>
             <p>בכבוד רב,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_7" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            <p>[חתימות]</p>
+            <p><person eId="pers_7" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
             </p>
             <p repo:role="running-head"><location eId="locref_2" refersTo="#loc_b1e2548c">רח' קפלן 1</location>, ת.ד. 13195 <location eId="locref_3" refersTo="#loc_8e0dfe1e">ירושלים</location> 91131 טל' 317111 פקס' <a href="tel:+9722528360">02-528360</a>
             </p>
@@ -721,8 +721,8 @@
           </mainBody>
           <conclusions>
             <p>בכבוד רב,</p>
-            <p repo:role="running-head">[חתימות]</p>
-            <p repo:role="running-head"><person eId="pers_9" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
+            <p>[חתימות]</p>
+            <p><person eId="pers_9" refersTo="#p_d1ef052a">יוסי קוצ'יק</person>
             </p>
             <p repo:role="running-head"><location eId="locref_5" refersTo="#loc_b1e2548c">רח' קפלן 1</location>, ת.ד. 13195 <location eId="locref_6" refersTo="#loc_8e0dfe1e">ירושלים</location> 91131 טל' 317111 פקס' <a href="tel:+9722528360">02-528360</a>
             </p>

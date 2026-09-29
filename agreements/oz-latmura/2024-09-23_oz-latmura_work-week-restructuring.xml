@@ -1989,7 +1989,7 @@
             <hcontainer eId="att_1__hc_1" name="text" repo:structure="flat">
               <content>
                 <p>טבלאות שבוע עבודה למורים (סעיף 8(ב) להסכם שנחתם ב <date date="2024-09-23">23.9.2024</date>)</p>
-                <p repo:role="running-head">[לא קריא]</p>
+                <p>[לא קריא]</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -2028,7 +2028,7 @@
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="flat">
               <content>
                 <p>שבוע עבודה למורות אמהות (סעיף 8(ג) להסכם שנחתם ב <date date="2024-09-23">23.9.2024</date>)</p>
-                <p repo:role="running-head">[לא קריא]</p>
+                <p>[לא קריא]</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -2069,10 +2069,10 @@
                 <p>טבלאות שבוע עבודה למורים הזכאים להפחתת שעות בשל גיל (סעיף 8(ד) להסכם שנחתם ב <date date="2024-09-23">23.9.2024</date>)</p>
                 <p>מורה <quantity eId="qty_134" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_135" refersTo="#age" normalized="55">גיל 55</quantity>
                 </p>
-                <p repo:role="running-head">[לא קריא]</p>
+                <p>[לא קריא]</p>
                 <p>מורה מעל <quantity eId="qty_136" refersTo="#age" normalized="55">גיל 55</quantity>
                 </p>
-                <p repo:role="running-head">[לא קריא]</p>
+                <p>[לא קריא]</p>
               </content>
             </hcontainer>
           </mainBody>
@@ -2110,7 +2110,7 @@
           <mainBody>
             <hcontainer eId="att_4__hc_1" name="text" repo:structure="flat">
               <content>
-                <p repo:role="running-head">[טבלה: מספר כיתות (שורות) על ותק בניהול 1-16 (עמודות)]</p>
+                <p>[טבלה: מספר כיתות (שורות) על ותק בניהול 1-16 (עמודות)]</p>
                 <table>
                   <tr>
                     <th>
@@ -4331,7 +4331,7 @@
           <mainBody>
             <hcontainer eId="att_5__hc_1" name="text" repo:structure="flat">
               <content>
-                <p repo:role="running-head">[טבלה: מספר כיתות (שורות) על ותק בניהול 1-16 (עמודות)]</p>
+                <p>[טבלה: מספר כיתות (שורות) על ותק בניהול 1-16 (עמודות)]</p>
                 <table>
                   <tr>
                     <th>
@@ -6488,7 +6488,7 @@
           <mainBody>
             <hcontainer eId="att_6__hc_1" name="text" repo:structure="flat">
               <content>
-                <p repo:role="running-head">[טבלה: מספר כיתות (שורות) על ותק בניהול 1-16 (עמודות)]</p>
+                <p>[טבלה: מספר כיתות (שורות) על ותק בניהול 1-16 (עמודות)]</p>
                 <table>
                   <tr>
                     <th>

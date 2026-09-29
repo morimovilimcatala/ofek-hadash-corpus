@@ -772,7 +772,7 @@
                 </p>
                 <p repo:role="running-head"><role eId="rol_40" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
-                <p repo:role="running-head"><date date="2014-07-23">כ"ה בתמוז התשע"ד</date>
+                <p><date date="2014-07-23">כ"ה בתמוז התשע"ד</date>
                 </p>
                 <p><date date="2014-07-23">23 ביולי 2014</date>
                 </p>
@@ -799,7 +799,7 @@
             <p><person eId="pers_8" refersTo="#p_39fdaf3d">קובי אמסלם</person>
             </p>
             <p>העתק:</p>
-            <p repo:role="running-head">גב' <person eId="pers_9" refersTo="#p_6bb70ed1">מיכל כהן</person> - מנכ"לית, <organization eId="org_48" refersTo="#moe">משרד החינוך</organization>
+            <p>גב' <person eId="pers_9" refersTo="#p_6bb70ed1">מיכל כהן</person> - מנכ"לית, <organization eId="org_48" refersTo="#moe">משרד החינוך</organization>
             </p>
             <p>מר <person eId="pers_10" refersTo="#p_4b7467e5" as="#role-yor">רן ארז</person> - <role eId="rol_49" refersTo="#role-yor">יו"ר</role>, <organization eId="org_50" refersTo="#irgun-hamorim">ארגון המורים העל יסודיים</organization>
             </p>
@@ -846,7 +846,7 @@
                 </p>
                 <p repo:role="running-head"><role eId="rol_52" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
-                <p repo:role="running-head"><date date="2014-07-23">כ"ה בתמוז התשע"ד</date>
+                <p><date date="2014-07-23">כ"ה בתמוז התשע"ד</date>
                 </p>
                 <p><date date="2014-07-23">23 ביולי 2014</date>
                 </p>
@@ -894,7 +894,7 @@
             <p><person eId="pers_13" refersTo="#p_39fdaf3d">קובי אמסלם</person>
             </p>
             <p>העתק:</p>
-            <p repo:role="running-head">גב' <person eId="pers_14" refersTo="#p_6bb70ed1">מיכל כהן</person> - מנכ"לית, <organization eId="org_60" refersTo="#moe">משרד החינוך</organization>
+            <p>גב' <person eId="pers_14" refersTo="#p_6bb70ed1">מיכל כהן</person> - מנכ"לית, <organization eId="org_60" refersTo="#moe">משרד החינוך</organization>
             </p>
             <p repo:role="running-head"><location eId="locref_3" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_4" refersTo="#loc_8e0dfe1e">ירושלים</location> 91030 ת.ד 3100 טל': <a href="tel:+97225317415">02-5317415</a> פקס': <a href="tel:+97225695372">02-5695372</a>
             </p>
@@ -935,13 +935,13 @@
             <hcontainer eId="att_3__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב מנכ"ל מרכז השלטון המקומי, נציג שלוש הערים הגדולות ומנכ"לית משרד החינוך אל יו"ר ארגון המורים, על הערכת מורים בבתי הספר העל יסודיים, מיום <date date="2014-06-26">26.6.2014</date>, בדף האחד-עשר של הסריקה]</p>
-                <p repo:role="running-head"><date date="2014-06-27">כ"ט בסיוון התשע"ד</date>
+                <p><date date="2014-06-27">כ"ט בסיוון התשע"ד</date>
                 </p>
-                <p repo:role="running-head"><date date="2014-06-26">26 ביוני 2014</date>
+                <p><date date="2014-06-26">26 ביוני 2014</date>
                 </p>
                 <p repo:note="filing-mark">[סימון תיוק: שכ. 2014-24199]</p>
                 <p>תיק:</p>
-                <p repo:role="running-head">לכבוד,</p>
+                <p>לכבוד,</p>
                 <p>מר <person eId="pers_15" refersTo="#p_4b7467e5">רן ארז</person>
                 </p>
                 <p><role eId="rol_61" refersTo="#role-yor">יו"ר</role> <organization eId="org_62" refersTo="#irgun-hamorim">ארגון המורים העל יסודיים</organization>
@@ -1006,10 +1006,10 @@
             </table>
             <p>העתק:</p>
             <p>ח"כ הרב שי פירון - שר החינוך</p>
-            <p repo:role="running-head">מר <person eId="pers_19" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person> - <role eId="rol_74" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_75" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_19" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person> - <role eId="rol_74" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_75" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p repo:role="running-head">מר <person eId="pers_20" refersTo="#p_06501117">חיים ביבס</person> - ראש עיריית מודיעין מכבים רעות, עיריית מודיעין - מכבים רעות</p>
-            <p repo:role="running-head">עו"ד <person eId="pers_21" refersTo="#p_faea6aa0">דן בן-חיים</person> - ממונה על הסכמי עבודה ושכר, <organization eId="org_76" refersTo="#local-government">מרכז השלטון המקומי</organization>
+            <p>מר <person eId="pers_20" refersTo="#p_06501117">חיים ביבס</person> - ראש עיריית מודיעין מכבים רעות, עיריית מודיעין - מכבים רעות</p>
+            <p>עו"ד <person eId="pers_21" refersTo="#p_faea6aa0">דן בן-חיים</person> - ממונה על הסכמי עבודה ושכר, <organization eId="org_76" refersTo="#local-government">מרכז השלטון המקומי</organization>
             </p>
           </conclusions>
         </doc>
@@ -1527,13 +1527,13 @@
             <hcontainer eId="att_6__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב יו"ר ארגון המורים אל מנכ"לית משרד החינוך, מנכ"ל מרכז השלטון המקומי וסמנכ"ל משאבי אנוש בעיריית חיפה, על הערכת מורים בבתי הספר העל יסודיים, מיום <date date="2014-06-26">26.6.2014</date>, בדף 21 של הסריקה]</p>
-                <p repo:role="running-head"><date date="2014-06-27">כ"ט בסיוון התשע"ד</date>
+                <p><date date="2014-06-27">כ"ט בסיוון התשע"ד</date>
                 </p>
                 <p>26 יוני, 2014</p>
                 <p repo:note="filing-mark">[סימון תיוק: שכ. 2014-24199]</p>
                 <p>תיק:</p>
-                <p repo:role="running-head">לכבוד,</p>
-                <p repo:role="running-head">גב' <person eId="pers_32" refersTo="#p_6bb70ed1">מיכל כהן</person>
+                <p>לכבוד,</p>
+                <p>גב' <person eId="pers_32" refersTo="#p_6bb70ed1">מיכל כהן</person>
                 </p>
                 <p><role eId="rol_94" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_95" refersTo="#moe">משרד החינוך</organization>
                 </p>
@@ -1561,10 +1561,10 @@
             </p>
             <p>העתק:</p>
             <p>ח"כ הרב שי פירון - שר החינוך</p>
-            <p repo:role="running-head">מר <person eId="pers_36" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person> - <role eId="rol_98" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_99" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_36" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person> - <role eId="rol_98" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_99" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p repo:role="running-head">מר <person eId="pers_37" refersTo="#p_06501117">חיים ביבס</person> - ראש עיריית מודיעין מכבים רעות, עיריית מודיעין - מכבים רעות</p>
-            <p repo:role="running-head">עו"ד <person eId="pers_38" refersTo="#p_faea6aa0">דן בן-חיים</person> - ממונה על הסכמי עבודה ושכר, <organization eId="org_100" refersTo="#local-government">מרכז השלטון המקומי</organization>
+            <p>מר <person eId="pers_37" refersTo="#p_06501117">חיים ביבס</person> - ראש עיריית מודיעין מכבים רעות, עיריית מודיעין - מכבים רעות</p>
+            <p>עו"ד <person eId="pers_38" refersTo="#p_faea6aa0">דן בן-חיים</person> - ממונה על הסכמי עבודה ושכר, <organization eId="org_100" refersTo="#local-government">מרכז השלטון המקומי</organization>
             </p>
           </conclusions>
         </doc>
@@ -1601,12 +1601,12 @@
             <hcontainer eId="att_7__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב מנכ"לית משרד החינוך אל יו"ר ארגון המורים, על בדיקת עבודות חקר ומטלות ביצוע, מיום <date date="2014-06-26">26.6.2014</date>, בדף 22 של הסריקה]</p>
-                <p repo:role="running-head"><date date="2014-06-27">כ"ט בסיוון התשע"ד</date>
+                <p><date date="2014-06-27">כ"ט בסיוון התשע"ד</date>
                 </p>
                 <p><date date="2014-06-26">26 יוני 2014</date>
                 </p>
                 <p repo:note="filing-mark">[סימון תיוק: שכ. 2014-24631]</p>
-                <p repo:role="running-head">לכבוד,</p>
+                <p>לכבוד,</p>
                 <p>מר <person eId="pers_39" refersTo="#p_4b7467e5">רן ארז</person>
                 </p>
                 <p><role eId="rol_101" refersTo="#role-yor">יו"ר</role> <organization eId="org_102" refersTo="#irgun-hamorim">ארגון המורים העל יסודיים</organization>
@@ -1640,13 +1640,13 @@
             <p>העתק:</p>
             <p>ח"כ הרב שי פירון - שר החינוך</p>
             <p>מר <person eId="pers_41" refersTo="#p_a061151b">שלמה דולברג</person> - מנכ"ל, המרכז לשלטון מקומי</p>
-            <p repo:role="running-head">עו"ד <person eId="pers_42" refersTo="#p_faea6aa0">דן בן-חיים</person> - ממונה על הסכמי עבודה ושכר, <organization eId="org_108" refersTo="#local-government">מרכז השלטון המקומי</organization>
+            <p>עו"ד <person eId="pers_42" refersTo="#p_faea6aa0">דן בן-חיים</person> - ממונה על הסכמי עבודה ושכר, <organization eId="org_108" refersTo="#local-government">מרכז השלטון המקומי</organization>
             </p>
-            <p repo:role="running-head">מר <person eId="pers_43" refersTo="#p_05515a80">משה בר סימן טוב</person> - משנה לממונה על התקציבים, <organization eId="org_109" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_43" refersTo="#p_05515a80">משה בר סימן טוב</person> - משנה לממונה על התקציבים, <organization eId="org_109" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p repo:role="running-head">מר <person eId="pers_44" refersTo="#p_e8cd65cb">משה שגיא</person> - סמנכ"ל ומנהל מנהל כלכלה ותקציבים, <organization eId="org_110" refersTo="#moe">משרד החינוך</organization>
+            <p>מר <person eId="pers_44" refersTo="#p_e8cd65cb">משה שגיא</person> - סמנכ"ל ומנהל מנהל כלכלה ותקציבים, <organization eId="org_110" refersTo="#moe">משרד החינוך</organization>
             </p>
-            <p repo:role="running-head">גב' <person eId="pers_45" refersTo="#p_a1c0ea3a">אריאלה טוקר</person> - חשבת, <organization eId="org_111" refersTo="#moe">משרד החינוך</organization>
+            <p>גב' <person eId="pers_45" refersTo="#p_a1c0ea3a">אריאלה טוקר</person> - חשבת, <organization eId="org_111" refersTo="#moe">משרד החינוך</organization>
             </p>
           </conclusions>
         </doc>
@@ -1685,8 +1685,8 @@
                 <p repo:note="enclosure">[מכתב נלווה: מכתב יו"ר ארגון המורים אל מנכ"לית משרד החינוך, על בדיקת עבודות חקר ומטלות ביצוע, מיום <date date="2014-06-26">26.6.2014</date>, בדף 23 של הסריקה]</p>
                 <p><date date="2014-06-26">26.6.2014</date>
                 </p>
-                <p repo:role="running-head">לכבוד,</p>
-                <p repo:role="running-head">גב' <person eId="pers_46" refersTo="#p_6bb70ed1">מיכל כהן</person>
+                <p>לכבוד,</p>
+                <p>גב' <person eId="pers_46" refersTo="#p_6bb70ed1">מיכל כהן</person>
                 </p>
                 <p><role eId="rol_112" refersTo="#role-mankal">מנכ"לית</role> <organization eId="org_113" refersTo="#moe">משרד החינוך</organization>
                 </p>
@@ -1707,13 +1707,13 @@
             <p>העתק:</p>
             <p>ח"כ הרב שי פירון - שר החינוך</p>
             <p>מר <person eId="pers_48" refersTo="#p_a061151b">שלמה דולברג</person> - מנכ"ל, המרכז לשלטון מקומי</p>
-            <p repo:role="running-head">עו"ד <person eId="pers_49" refersTo="#p_faea6aa0">דן בן-חיים</person> - ממונה על הסכמי עבודה ושכר, <organization eId="org_117" refersTo="#local-government">מרכז השלטון המקומי</organization>
+            <p>עו"ד <person eId="pers_49" refersTo="#p_faea6aa0">דן בן-חיים</person> - ממונה על הסכמי עבודה ושכר, <organization eId="org_117" refersTo="#local-government">מרכז השלטון המקומי</organization>
             </p>
-            <p repo:role="running-head">מר <person eId="pers_50" refersTo="#p_05515a80">משה בר סימן טוב</person> - משנה לממונה על התקציבים, <organization eId="org_118" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_50" refersTo="#p_05515a80">משה בר סימן טוב</person> - משנה לממונה על התקציבים, <organization eId="org_118" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p repo:role="running-head">מר <person eId="pers_51" refersTo="#p_e8cd65cb">משה שגיא</person> - סמנכ"ל ומנהל מנהל כלכלה ותקציבים, <organization eId="org_119" refersTo="#moe">משרד החינוך</organization>
+            <p>מר <person eId="pers_51" refersTo="#p_e8cd65cb">משה שגיא</person> - סמנכ"ל ומנהל מנהל כלכלה ותקציבים, <organization eId="org_119" refersTo="#moe">משרד החינוך</organization>
             </p>
-            <p repo:role="running-head">גב' <person eId="pers_52" refersTo="#p_a1c0ea3a">אריאלה טוקר</person> - חשבת, <organization eId="org_120" refersTo="#moe">משרד החינוך</organization>
+            <p>גב' <person eId="pers_52" refersTo="#p_a1c0ea3a">אריאלה טוקר</person> - חשבת, <organization eId="org_120" refersTo="#moe">משרד החינוך</organization>
             </p>
           </conclusions>
         </doc>
@@ -1750,11 +1750,11 @@
             <hcontainer eId="att_9__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב מנכ"לית משרד החינוך אל יו"ר ארגון המורים, על יישום רפורמת "עוז לתמורה" בשנות הלימודים תשע"ה - תשע"ז, מיום <date date="2014-06-26">26.6.2014</date>, בדף 24 של הסריקה]</p>
-                <p repo:role="running-head"><date date="2014-06-26">26 ביוני 2014</date>
+                <p><date date="2014-06-26">26 ביוני 2014</date>
                 </p>
                 <p repo:note="filing-mark">[סימון תיוק: שכ. 2014-24270]</p>
                 <p>תיק:</p>
-                <p repo:role="running-head">לכבוד,</p>
+                <p>לכבוד,</p>
                 <p>מר <person eId="pers_53" refersTo="#p_4b7467e5">רן ארז</person>
                 </p>
                 <p><role eId="rol_121" refersTo="#role-yor">יו"ר</role> <organization eId="org_122" refersTo="#irgun-hamorim">ארגון המורים העל יסודיים</organization>
@@ -1775,9 +1775,9 @@
             </p>
             <p>העתק:</p>
             <p>ח"כ הרב שי פירון - שר החינוך</p>
-            <p repo:role="running-head">מר <person eId="pers_55" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person> - <role eId="rol_131" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_132" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_55" refersTo="#p_39fdaf3d" as="#role-memuneh-sachar">קובי אמסלם</person> - <role eId="rol_131" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_132" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p repo:role="running-head">מר <person eId="pers_56" refersTo="#p_05515a80">משה בר סימן טוב</person> - משנה לממונה על התקציבים, <organization eId="org_133" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_56" refersTo="#p_05515a80">משה בר סימן טוב</person> - משנה לממונה על התקציבים, <organization eId="org_133" refersTo="#mof">משרד האוצר</organization>
             </p>
             <p>מר <person eId="pers_57" refersTo="#p_adcb72bb" as="#role-segan-bakhir">קובי בר-נתן</person> - <role eId="hed_1" refersTo="#role-segan-bakhir">סגן בכיר</role> <role eId="rol_134" refersTo="#role-memuneh-sachar">לממונה על השכר</role>, <organization eId="org_135" refersTo="#mof">משרד האוצר</organization>
             </p>

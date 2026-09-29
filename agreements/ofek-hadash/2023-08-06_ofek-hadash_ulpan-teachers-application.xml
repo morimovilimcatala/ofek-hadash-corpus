@@ -349,7 +349,7 @@
               <p><term eId="trm_36" refersTo="#term_83953001">עובד הוראה באולפן לעניין המענק</term>, אשר הועסק בשירות <term eId="trm_37" refersTo="#term_ddf2350a">המדינה</term> במשרה מלאה בחלק <term eId="trm_38" refersTo="#term_d934060e">מהתקופה למענק</term> כעובד הוראה באולפן, יהא זכאי לחלק יחסי של <term eId="trm_39" refersTo="#term_e3d38431">המענק החד פעמי</term>, כיחס בין תקופת העבודה שלו כעובד הוראה באולפן לבין תקופת העבודה של <term eId="trm_40" refersTo="#term_83953001">עובד הוראה באולפן לעניין המענק</term> שהועסק בכל <term eId="trm_41" refersTo="#term_d934060e">התקופה למענק</term>. לדוגמא – <term eId="trm_42" refersTo="#term_83953001">עובד הוראה באולפן לעניין המענק</term> אשר הועסק במשרה מלאה ביום <date date="2020-12-01">1.12.2020</date> ועד ליום <date date="2023-08-31">31.8.2023</date> יהיה זכאי למענק בסכום <quantity eId="qty_5" refersTo="#ILS" normalized="13750">13,750 ₪</quantity> לפי החישוב הבא:</p>
               <p>A = מספר החודשים הרלוונטיים לחישוב המענק בהם הועסק העובד = 33 (<quantity eId="qty_6" refersTo="#month" normalized="9">9 החודשים</quantity> שבין דצמבר 2020 ואוגוסט 2021 כולל + שנתיים * <quantity eId="qty_7" refersTo="#month" normalized="12">12 חודשים</quantity>).</p>
               <p>A • 15,000 = 33 • 15,000 = 13,750</p>
-              <p repo:role="running-head">36 36</p>
+              <p>36 36</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_b">
@@ -371,7 +371,7 @@
               <p>B = מספר החודשים הרלוונטיים למענק בהם העובד הועסק בהיקף של <quantity eId="qty_15" refersTo="#percentage" normalized="110">110%</quantity> משרה = 12. כאמור יילקח לצורך חישוב המענק היקף משרה של <quantity eId="qty_16" refersTo="#percentage" normalized="100">100%</quantity> בלבד.</p>
               <p>C = מספר החודשים הרלוונטיים למענק בהם העובד הועסק בהיקף של <quantity eId="qty_17" refersTo="#percentage" normalized="100">100%</quantity> משרה = 12.</p>
               <p>A • 0.7 + B • 1 + C • 1 • 15,000 = 7 • 0.7 + 12 • 1 + 12 • 1 • 15,000 = 12,042</p>
-              <p repo:role="running-head">36 36</p>
+              <p>36 36</p>
             </content>
           </paragraph>
           <paragraph eId="art_14__para_d">
