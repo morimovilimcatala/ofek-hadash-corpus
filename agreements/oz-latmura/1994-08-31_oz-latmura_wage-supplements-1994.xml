@@ -206,7 +206,7 @@
         <heading>הכללת רכיבים לפנסיה</heading>
         <content>
           <p><term eId="trm_14" refersTo="#term_88a5098d">המעסיקים</term> מתחייבים להקצות <quantity eId="qty_8" refersTo="#percentage" normalized="0.5">0.5%</quantity> מהשכר הקובע לפנסיה של עובדי ההוראה לצורך רכישת זכויות פנסיה בפנסיה צוברת בכל אחת משנות ההסכם החל מ-1993 ועד 1996 ובסך הכל <quantity eId="qty_9" refersTo="#percentage" normalized="2">2%</quantity> לתקופת ההסכם.</p>
-          <p>תוקם ועדה משותפת <organization eId="org_15" refersTo="#mof">למשרד האוצר</organization>, <organization eId="org_16" refersTo="#moe">משרד החינוך</organization> נציג השלטון המקומי ונציג שלשת הערים הגדולות <organization eId="org_17" refersTo="#irgun-hamorim">ולארגון המורים</organization> שתיישם לגבי עובדי ההוראה בהתאמה את המלצות ועדת מנכ"ל האוצר שהוקמה מכוח ההסכם הקיבוצי שנחתם ביום <date date="1994-04-29">29.4.94</date> בין המדינה <term eId="trm_15" refersTo="#term_88a5098d">והמעסיקים</term> הציבוריים לבין הסתדרות המהנדסים, לגבי רכיבי השכר שאינם נכללים במשכורת הקובעת לפנסיה צוברת אצל עובדי ההוראה.</p>
+          <p>תוקם ועדה משותפת <organization eId="org_15" refersTo="#mof">למשרד האוצר</organization>, <organization eId="org_16" refersTo="#moe">משרד החינוך</organization> נציג השלטון המקומי ונציג <organization eId="org_17" refersTo="#three-cities">שלשת הערים הגדולות</organization> <organization eId="org_18" refersTo="#irgun-hamorim">ולארגון המורים</organization> שתיישם לגבי עובדי ההוראה בהתאמה את המלצות ועדת מנכ"ל האוצר שהוקמה מכוח ההסכם הקיבוצי שנחתם ביום <date date="1994-04-29">29.4.94</date> בין המדינה <term eId="trm_15" refersTo="#term_88a5098d">והמעסיקים</term> הציבוריים לבין הסתדרות המהנדסים, לגבי רכיבי השכר שאינם נכללים במשכורת הקובעת לפנסיה צוברת אצל עובדי ההוראה.</p>
         </content>
       </article>
       <article eId="art_6" repo:prose="same-source">
@@ -389,7 +389,7 @@
         <heading>תוספת תקציב להשתלמות (סעיף 14 להסכם 1984)</heading>
         <content>
           <p>מוסכם כי הסכומים המועברים לארגוני המורים עבור ביצוע השתלמויות למורים החברים בארגונם יוגדלו ל-2 מיליון ש"ח.</p>
-          <p>סכומים אלו יועברו לארגונים כאמור בהתאם לתוכניות שיוגשו <organization eId="org_18" refersTo="#moe">למשרד החינוך</organization> בנושא ההשתלמויות. הסכום יחולק לארגונים בהתאם לגודלם היחסי של הארגונים.</p>
+          <p>סכומים אלו יועברו לארגונים כאמור בהתאם לתוכניות שיוגשו <organization eId="org_19" refersTo="#moe">למשרד החינוך</organization> בנושא ההשתלמויות. הסכום יחולק לארגונים בהתאם לגודלם היחסי של הארגונים.</p>
         </content>
       </article>
       <article eId="art_17" repo:prose="same-source">
@@ -419,7 +419,7 @@
         <paragraph eId="art_18__para_18-3">
           <num>18.3</num>
           <content>
-            <p>תוקם ועדה משותפת המורכבת <role eId="rol_19" refersTo="#role-memuneh-sachar">מהממונה על השכר</role> <organization eId="org_20" refersTo="#mof">במשרד האוצר</organization>, נציג <organization eId="org_21" refersTo="#local-government">מרכז השלטון המקומי</organization>, <role eId="rol_22" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_23" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> <role eId="rol_24" refersTo="#role-yor">ויו"ר</role> הנהלת <organization eId="org_25" refersTo="#irgun-hamorim">ארגון המורים</organization> לצורך בדיקת שחיקת קיצבאותיהם של הגימלאים בפנסיה תקציבית. (הועדה קמה בעקבות בדיקת שחיקה שהתבצעה לגבי פנסיונרים בשירות המדינה).</p>
+            <p>תוקם ועדה משותפת המורכבת <role eId="rol_20" refersTo="#role-memuneh-sachar">מהממונה על השכר</role> <organization eId="org_21" refersTo="#mof">במשרד האוצר</organization>, נציג <organization eId="org_22" refersTo="#local-government">מרכז השלטון המקומי</organization>, <role eId="rol_23" refersTo="#role-mazkir-klali">מזכ"ל</role> <organization eId="org_24" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> <role eId="rol_25" refersTo="#role-yor">ויו"ר</role> הנהלת <organization eId="org_26" refersTo="#irgun-hamorim">ארגון המורים</organization> לצורך בדיקת שחיקת קיצבאותיהם של הגימלאים בפנסיה תקציבית. (הועדה קמה בעקבות בדיקת שחיקה שהתבצעה לגבי פנסיונרים בשירות המדינה).</p>
           </content>
         </paragraph>
       </article>
@@ -453,10 +453,10 @@
         <heading>חוזים אישיים</heading>
         <content>
           <p>הוסכם בין הצדדים כי <term eId="trm_24" refersTo="#term_88a5098d">המעסיקים</term> יהיו רשאים להעסיק 100 <term eId="trm_25" refersTo="#term_2db30064">עובדי הוראה</term> בשנת הלימודים תשנ"ה בחוזים מיוחדים.</p>
-          <p>נוסח ההסכם המיוחד יהיה אחיד וינוסח ע"י יחידת <role eId="rol_26" refersTo="#role-memuneh-sachar">הממונה על השכר</role> באוצר (ההסכם המיוחד יהיה כמקובל בשרות המדינה בהתאמה למקצועות ההוראה).</p>
+          <p>נוסח ההסכם המיוחד יהיה אחיד וינוסח ע"י יחידת <role eId="rol_27" refersTo="#role-memuneh-sachar">הממונה על השכר</role> באוצר (ההסכם המיוחד יהיה כמקובל בשרות המדינה בהתאמה למקצועות ההוראה).</p>
           <p>נוסח ההסכם יצורף כנספח להסכם הקיבוצי.</p>
-          <p>הנוסח ימסר לכל הבעלויות <organization eId="org_27" refersTo="#moe">ומשרד החינוך</organization> ידאג שהבעלויות השונות יחתימו את עובדי ההוראה שיועסקו בהסכם מיוחד על ההסכם האחיד.</p>
-          <p>נוסח ההסכם יועבר לעיון <organization eId="org_28" refersTo="#irgun-hamorim">ארגון המורים</organization>.</p>
+          <p>הנוסח ימסר לכל הבעלויות <organization eId="org_28" refersTo="#moe">ומשרד החינוך</organization> ידאג שהבעלויות השונות יחתימו את עובדי ההוראה שיועסקו בהסכם מיוחד על ההסכם האחיד.</p>
+          <p>נוסח ההסכם יועבר לעיון <organization eId="org_29" refersTo="#irgun-hamorim">ארגון המורים</organization>.</p>
           <p>האזורים שבהם יופעל הסדר זה יהיו:</p>
           <p>ישובי קו עימות</p>
           <p>ישובי אזור עדיפות לאומית א'</p>
@@ -464,7 +464,7 @@
           <p>שכונות שיקום</p>
           <p>בשנת הלימודים תשנ"ו יעסיקו עוד 100 <term eId="trm_26" refersTo="#term_2db30064">עובדי הוראה</term> בהסדר זה עפ"י האמור לעיל.</p>
           <p>בתום כל שנה תועבר רשימה שמית של כל עובדי ההוראה שמועסקים בהסדר הנ"ל.</p>
-          <p>כמו-כן יעברו <organization eId="org_29" refersTo="#irgun-hamorim">לארגון המורים</organization> במהלך כל שנה נתונים בדבר הצלחת התוכנית, הישגיים לימודיים וכיו"ב.</p>
+          <p>כמו-כן יעברו <organization eId="org_30" refersTo="#irgun-hamorim">לארגון המורים</organization> במהלך כל שנה נתונים בדבר הצלחת התוכנית, הישגיים לימודיים וכיו"ב.</p>
         </content>
       </article>
       <article eId="art_22" repo:prose="same-source">
@@ -473,13 +473,13 @@
         <paragraph eId="art_22__para_a">
           <num>22.א</num>
           <content>
-            <p>מוסכם בזאת כי הסכם זה וההסכם הקיבוצי המשלימים האחד את השני יחולו על כל עובדי ההוראה בבתי-הספר <concept eId="dom_5" refersTo="#stage_al_yesodi">העל-יסודיים</concept> בסמינרים ובמכללות <organization eId="org_30" refersTo="#state-israel">במדינת ישראל</organization>.</p>
+            <p>מוסכם בזאת כי הסכם זה וההסכם הקיבוצי המשלימים האחד את השני יחולו על כל עובדי ההוראה בבתי-הספר <concept eId="dom_5" refersTo="#stage_al_yesodi">העל-יסודיים</concept> בסמינרים ובמכללות <organization eId="org_31" refersTo="#state-israel">במדינת ישראל</organization>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_22__para_b">
           <num>22.ב</num>
           <content>
-            <p>מוסכם כי המדינה תפקח ותפעל ליישום הוראות הסכם זה על עובדי ההוראה "בבעלויות" בפיקוח <organization eId="org_31" refersTo="#moe">משרד החינוך</organization> ומשרד העבודה נוכח היותה המפקחת של בעלויות אלה.</p>
+            <p>מוסכם כי המדינה תפקח ותפעל ליישום הוראות הסכם זה על עובדי ההוראה "בבעלויות" בפיקוח <organization eId="org_32" refersTo="#moe">משרד החינוך</organization> ומשרד העבודה נוכח היותה המפקחת של בעלויות אלה.</p>
           </content>
         </paragraph>
       </article>
@@ -506,18 +506,18 @@
       </article>
       <article eId="art_26" repo:prose="same-source">
         <num>26</num>
-        <heading>הסכם <organization eId="org_32" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
+        <heading>הסכם <organization eId="org_33" refersTo="#histadrut-hamorim">הסתדרות המורים</organization>
         </heading>
         <paragraph eId="art_26__para_26-1">
           <num>26.1</num>
           <content>
-            <p>מוסכם בין הצדדים כי כל הסכם שייחתם בין <term eId="trm_28" refersTo="#term_88a5098d">המעסיקים</term> לבין <organization eId="org_33" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> יהיה במסגרת עלות הסכם זה.</p>
+            <p>מוסכם בין הצדדים כי כל הסכם שייחתם בין <term eId="trm_28" refersTo="#term_88a5098d">המעסיקים</term> לבין <organization eId="org_34" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> יהיה במסגרת עלות הסכם זה.</p>
           </content>
         </paragraph>
         <paragraph eId="art_26__para_26-2">
           <num>26.2</num>
           <content>
-            <p>היה ובהסכם <organization eId="org_34" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> ישתנו תנאים או ינתנו תוספות שכר ו/או תשלומים נוספים החורגים מעלות הסכם זה יחולו שינויים אלה בהתאמה.</p>
+            <p>היה ובהסכם <organization eId="org_35" refersTo="#histadrut-hamorim">הסתדרות המורים</organization> ישתנו תנאים או ינתנו תוספות שכר ו/או תשלומים נוספים החורגים מעלות הסכם זה יחולו שינויים אלה בהתאמה.</p>
           </content>
         </paragraph>
       </article>
@@ -570,7 +570,7 @@
             </p>
           </td>
           <td>
-            <p>בשם <organization eId="org_35" refersTo="#irgun-hamorim">ארגון המורים</organization> בבתי"ס <concept eId="dom_6" refersTo="#stage_al_yesodi">העל-יסודיים</concept> בסמינרים ובמכללות</p>
+            <p>בשם <organization eId="org_36" refersTo="#irgun-hamorim">ארגון המורים</organization> בבתי"ס <concept eId="dom_6" refersTo="#stage_al_yesodi">העל-יסודיים</concept> בסמינרים ובמכללות</p>
           </td>
         </tr>
       </table>
@@ -609,11 +609,11 @@
             <hcontainer eId="att_1__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר והסכמי עבודה במשרד האוצר אל יו"ר הנהלת ארגון המורים בנושא ההסכם הקיבוצי מיום <date date="1994-08-31">31.8.94</date>, מיום <date date="1994-09-01">1.9.1994</date>, בדף האחד-עשר של הסריקה]</p>
-                <p repo:role="running-head"><organization eId="org_36" refersTo="#state-israel">מדינת ישראל</organization>
+                <p repo:role="running-head"><organization eId="org_37" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_37" refersTo="#mof">משרד האוצר</organization>
+                <p repo:role="running-head"><organization eId="org_38" refersTo="#mof">משרד האוצר</organization>
                 </p>
-                <p repo:role="running-head"><role eId="rol_38" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+                <p repo:role="running-head"><role eId="rol_39" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
                 <p><location eId="locref_1" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="1994-09-01">כ"ה באלול התשנ"ד</date>
                 </p>
@@ -623,7 +623,7 @@
                 <p>לכבוד</p>
                 <p>גב' <person eId="pers_6" refersTo="#p_79db0bb1">שושנה אורן</person>
                 </p>
-                <p><role eId="rol_39" refersTo="#role-yor">יו"ר</role> הנהלת <organization eId="org_40" refersTo="#irgun-hamorim">ארגון המורים</organization>
+                <p><role eId="rol_40" refersTo="#role-yor">יו"ר</role> הנהלת <organization eId="org_41" refersTo="#irgun-hamorim">ארגון המורים</organization>
                 </p>
                 <p><concept eId="dom_7" refersTo="#stage_al_yesodi">העל יסודיים</concept>
                 </p>
@@ -696,11 +696,11 @@
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="flat">
               <content>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר והסכמי עבודה במשרד האוצר אל יו"ר הנהלת ארגון המורים בנושא רכישת זכויות במבטחים לפנסיונרים, מיום <date date="1994-09-01">1.9.1994</date>, בדף השנים-עשר של הסריקה]</p>
-                <p repo:role="running-head"><organization eId="org_41" refersTo="#state-israel">מדינת ישראל</organization>
+                <p repo:role="running-head"><organization eId="org_42" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_42" refersTo="#mof">משרד האוצר</organization>
+                <p repo:role="running-head"><organization eId="org_43" refersTo="#mof">משרד האוצר</organization>
                 </p>
-                <p repo:role="running-head"><role eId="rol_43" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+                <p repo:role="running-head"><role eId="rol_44" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
                 <p><location eId="locref_4" refersTo="#loc_8e0dfe1e">ירושלים</location>, <date date="1994-09-01">כ"ה באלול התשנ"ד</date>
                 </p>
@@ -710,7 +710,7 @@
                 <p>לכבוד</p>
                 <p>הגב' <person eId="pers_8" refersTo="#p_78e48ced">שוש אורן</person>
                 </p>
-                <p><role eId="rol_44" refersTo="#role-yor">יו"ר</role> הנהלת <organization eId="org_45" refersTo="#irgun-hamorim">ארגון המורים</organization>
+                <p><role eId="rol_45" refersTo="#role-yor">יו"ר</role> הנהלת <organization eId="org_46" refersTo="#irgun-hamorim">ארגון המורים</organization>
                 </p>
                 <p><concept eId="dom_8" refersTo="#stage_al_yesodi">העל יסודיים</concept>
                 </p>

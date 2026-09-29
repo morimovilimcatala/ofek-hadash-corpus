@@ -318,7 +318,7 @@
         <paragraph eId="art_5__para_5-2">
           <num>5.2</num>
           <content>
-            <p>מובהר כי מקור העלות האמורה בסעיף 5.1, בשיעור <quantity eId="qty_4" refersTo="#percentage" normalized="1.2">1.2%</quantity>, נובע מסעיף 14 <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי עם הסתדרות המורים מיום 19.9.94</ref>.</p>
+            <p>מובהר כי מקור העלות האמורה בסעיף 5.1, בשיעור <quantity eId="qty_4" refersTo="#percentage" normalized="1.2">1.2%</quantity>, נובע מסעיף <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי עם הסתדרות המורים מיום 19.9.94</ref>.</p>
           </content>
         </paragraph>
       </article>
@@ -377,13 +377,13 @@
         <paragraph eId="art_10__para_10-4">
           <num>10.4</num>
           <content>
-            <p>מוסכם כי מקור העלות האמורה בסעיף 10.3 נובע מסעיף 14 <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי עם הסתדרות המורים מיום 19.9.94</ref>.</p>
+            <p>מוסכם כי מקור העלות האמורה בסעיף 10.3 נובע מסעיף <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי עם הסתדרות המורים מיום 19.9.94</ref>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_10__para_10-5">
           <num>10.5</num>
           <content>
-            <p>מוסכם בין הצדדים, כי האמור בסעיף זה מהווה מיצוי מלא ומוחלט של האמור בסעיף 14 <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם עם הסתדרות המורים מיום 19.9.94</ref>. ההסתדרות מתחייבת לא להעלות כל תביעה מכל מין וסוג שהוא בעניין הפרשה לקופת גמל או לפנסיה, בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים על בסיס הסעיף האמור.</p>
+            <p>מוסכם בין הצדדים, כי האמור בסעיף זה מהווה מיצוי מלא ומוחלט של האמור בסעיף <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994/!main#art_14">14</ref> <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם עם הסתדרות המורים מיום 19.9.94</ref>. ההסתדרות מתחייבת לא להעלות כל תביעה מכל מין וסוג שהוא בעניין הפרשה לקופת גמל או לפנסיה, בגין רכיבי שכר ותשלומים אחרים שאינם פנסיוניים על בסיס הסעיף האמור.</p>
           </content>
         </paragraph>
       </article>
@@ -391,7 +391,7 @@
         <num>11</num>
         <heading>תגמול ותמרוץ <term eId="trm_5" refersTo="#term_2db30064">עובדי הוראה</term> נדרשים:</heading>
         <content>
-          <p>הוראותיו של סעיף 9 <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי מיום 19.9.94</ref> יהיו בתוקף גם בהסכם הנוכחי (1998), בשינויים המפורטים להלן:</p>
+          <p>הוראותיו של סעיף <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994/!main#art_9">9</ref> <ref href="/akn/il/act/collectiveAgreement/1994-09-19/1994-09-19-histadrut-hamorim-wage-supplements-1994">להסכם הקיבוצי מיום 19.9.94</ref> יהיו בתוקף גם בהסכם הנוכחי (1998), בשינויים המפורטים להלן:</p>
           <p>לתגמול ותמרוץ <term eId="trm_6" refersTo="#term_2db30064">עובדי הוראה</term> נדרשים יהיו זכאים <term eId="trm_7" refersTo="#term_2db30064">עובדי הוראה</term> שענו על הקריטריונים שנקבעו בעבר וכן <term eId="trm_8" refersTo="#term_2db30064">עובדי הוראה</term> המלמדים בישובים נוספים עם צרכים חינוכיים מיוחדים עליהם יוחלט בועדה שתוקם <organization eId="org_15" refersTo="#moe">במשרד החינוך</organization>, בשיתוף עם <organization eId="org_16" refersTo="#mof">משרד האוצר</organization>, לצורך זה. הועדה תחליט על רשימת הישובים בתוך חודש מחתימת הסכם זה.</p>
           <p>הזכאים לקבלת תגמול ותמרוץ יהיו כל אותם <term eId="trm_9" refersTo="#term_2db30064">עובדי הוראה</term> העונים על הקריטריונים שפורסמו בחוזר <role eId="rol_17" refersTo="#role-mankal">המנהל הכללי</role> נ"ט/1(א') ספטמבר 1998.</p>
           <p repo:note="fax-banner">[כותרת פקס: [לא קריא] | 04 NOV '98 08:53]</p>

@@ -143,7 +143,7 @@
       </p>
       <p repo:role="party-marker">בין</p>
       <p><party eId="party_1" refersTo="#state">ממשלת ישראל</party>, בשם <party eId="party_2" refersTo="#state-israel">מדינת ישראל</party>, המיוצגת על-ידי <role eId="rol_4" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role> <organization eId="org_5" refersTo="#mof">במשרד האוצר</organization>, מר <person eId="pers_2" refersTo="#p_c9327b2c" as="#role-memuneh-sachar">יובל רכלבסקי</person>, ו/או נציב שירות המדינה, מר <person eId="pers_3" refersTo="#p_ec9b93a8">שמואל הולנדר</person>;</p>
-      <p><party eId="party_3" refersTo="#local-government">מרכז השלטון המקומי</party> בישראל, בשמו ובשם הרשויות המקומיות, למעט שלש הערים הגדולות, המיוצג על ידי מר <person eId="pers_4" refersTo="#p_f9d9468f" as="#role-mankal">גיורא רוזנטל</person>, <role eId="rol_7" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_8" refersTo="#local-government">מרכז השלטון המקומי</organization> ומר <person eId="pers_5" refersTo="#p_b7e59ed3">יעקב אגמון</person> סמנכ"ל <organization eId="org_9" refersTo="#local-government">מרכז השלטון המקומי</organization>;</p>
+      <p><party eId="party_3" refersTo="#local-government">מרכז השלטון המקומי</party> בישראל, בשמו ובשם הרשויות המקומיות, למעט <organization eId="org_7" refersTo="#three-cities">שלש הערים הגדולות</organization>, המיוצג על ידי מר <person eId="pers_4" refersTo="#p_f9d9468f" as="#role-mankal">גיורא רוזנטל</person>, <role eId="rol_8" refersTo="#role-mankal">מנכ"ל</role> <organization eId="org_9" refersTo="#local-government">מרכז השלטון המקומי</organization> ומר <person eId="pers_5" refersTo="#p_b7e59ed3">יעקב אגמון</person> סמנכ"ל <organization eId="org_10" refersTo="#local-government">מרכז השלטון המקומי</organization>;</p>
       <p><party eId="party_4" refersTo="#three-cities">שלוש הערים הגדולות</party> (ירושלים, תל-אביב וחיפה), המיוצגות על-ידי מר <person eId="pers_6" refersTo="#p_a1067bc3">דני בן חיים</person>;</p>
       <p>המוסדות להשכלה גבוהה, המיוצגים על ידי מר <person eId="pers_7" refersTo="#p_bab793d6">רפי בילוגורסקי</person>;</p>
       <p><party eId="party_5" refersTo="#hadassah">הסתדרות מדיצינית הדסה</party>, המיוצגת על-ידי מר <person eId="pers_8" refersTo="#p_38b1ffb6">אברהם שאולוב</person>;</p>
@@ -151,7 +151,7 @@
       <p><party eId="party_7" refersTo="#jewish-agency">הסוכנות היהודית</party> לארץ ישראל, בשמה ובשם <party eId="party_8" refersTo="#wzo">ההסתדרות הציונית העולמית</party>, <party eId="party_9" refersTo="#kkl">הקרן הקיימת לישראל</party> <party eId="party_10" refersTo="#keren-hayesod">וקרן היסוד</party>, המיוצגות על-ידי מר <person eId="pers_11" refersTo="#p_3dbb552a">שאול לילך</person>;</p>
       <p repo:role="aside">(להלן: "<def refersTo="#term_88a5098d #state #state-israel #local-government #three-cities #hadassah #clalit #jewish-agency #wzo #kkl #keren-hayesod">המעסיקים</def>") – מצד אחד</p>
       <p repo:role="party-marker">לבין</p>
-      <p><party eId="party_11" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</party>, המיוצגת על-ידי <role eId="rol_18" refersTo="#role-yor">יו"ר</role> <organization eId="unt_1" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>, מר <person eId="pers_12" refersTo="#p_d733e68d" as="#role-yor">שלמה שני</person>.</p>
+      <p><party eId="party_11" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</party>, המיוצגת על-ידי <role eId="rol_19" refersTo="#role-yor">יו"ר</role> <organization eId="unt_1" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>, מר <person eId="pers_12" refersTo="#p_d733e68d" as="#role-yor">שלמה שני</person>.</p>
       <p repo:role="aside">(להלן: "<def refersTo="#term_0cdeaf5a #histadrut">ההסתדרות</def>") – מצד שני</p>
       <recitals eId="recitals_1">
         <recital eId="rec_1">
@@ -278,7 +278,7 @@
         <paragraph eId="art_3__para_3-4">
           <num>3.4</num>
           <content>
-            <p>במידה ותועלה טענה על ידי <term eId="trm_26" refersTo="#term_0cdeaf5a">ההסתדרות</term> בנוגע להכללתה של תוספת הנופלת בגדר סעיפים קטנים 3.3.1 עד 3.3.4 בבסיס השכר המפורט בסעיף <ref href="#art_3__para_3-3">3.3</ref>, יידון הענין בין <role eId="rol_19" refersTo="#role-memuneh-sachar">הממונה על השכר</role> לבין <role eId="rol_20" refersTo="#role-yor">יו"ר</role> <organization eId="unt_2" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>.</p>
+            <p>במידה ותועלה טענה על ידי <term eId="trm_26" refersTo="#term_0cdeaf5a">ההסתדרות</term> בנוגע להכללתה של תוספת הנופלת בגדר סעיפים קטנים 3.3.1 עד 3.3.4 בבסיס השכר המפורט בסעיף <ref href="#art_3__para_3-3">3.3</ref>, יידון הענין בין <role eId="rol_20" refersTo="#role-memuneh-sachar">הממונה על השכר</role> לבין <role eId="rol_21" refersTo="#role-yor">יו"ר</role> <organization eId="unt_2" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>.</p>
           </content>
         </paragraph>
         <paragraph eId="art_3__para_3-5">
@@ -296,7 +296,7 @@
         <paragraph eId="art_3__para_3-7">
           <num>3.7</num>
           <content>
-            <p><organization eId="org_21" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בתוספת הקבועה בסעיף זה כתוספת קבועה לעניין חוק שירות המדינה [נוסח משולב] (גמלאות), התש"ל – 1970.</p>
+            <p><organization eId="org_22" refersTo="#state-israel">מדינת ישראל</organization> מתחייבת לפעול להכרה בתוספת הקבועה בסעיף זה כתוספת קבועה לעניין חוק שירות המדינה [נוסח משולב] (גמלאות), התש"ל – 1970.</p>
           </content>
         </paragraph>
       </article>
@@ -507,7 +507,7 @@
         <heading>גימלאים</heading>
         <content>
           <p>נושא שינוי מנגנון העדכון של קצבאות הגימלאים המשולמות בפנסיה תקציבית על פי חוק שירות המדינה [נוסח משולב] (גימלאות), התש"ל – 1970, למנגנון הצמדה מוסכם, יידון בועדה משותפת כאמור בסיכום דברים מיום <date date="2001-01-31">31.01.01</date>.</p>
-          <p>סעיף זה נחתם בעקבות מכתב <role eId="rol_22" refersTo="#role-memuneh-sachar">הממונה על השכר</role> <role eId="rol_23" refersTo="#role-yor">ליו"ר</role> <organization eId="unt_3" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization> מיום <date date="2001-01-31">31.01.01</date>.</p>
+          <p>סעיף זה נחתם בעקבות מכתב <role eId="rol_23" refersTo="#role-memuneh-sachar">הממונה על השכר</role> <role eId="rol_24" refersTo="#role-yor">ליו"ר</role> <organization eId="unt_3" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization> מיום <date date="2001-01-31">31.01.01</date>.</p>
         </content>
       </article>
       <article eId="art_9" repo:prose="same-source">
@@ -536,7 +536,7 @@
         <num>12</num>
         <heading>הכרעה בחילוקי דעות</heading>
         <content>
-          <p>ועדת מעקב בהשתתפות <role eId="rol_24" refersTo="#role-memuneh-sachar">הממונה על השכר</role> <role eId="rol_25" refersTo="#role-yor">ויו"ר</role> <organization eId="unt_4" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization> בהסתדרות תמשיך לעקוב ולסייע בביצוע של הסכם זה ולהכריע בחילוקי דעות הנוגעים לו.</p>
+          <p>ועדת מעקב בהשתתפות <role eId="rol_25" refersTo="#role-memuneh-sachar">הממונה על השכר</role> <role eId="rol_26" refersTo="#role-yor">ויו"ר</role> <organization eId="unt_4" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization> בהסתדרות תמשיך לעקוב ולסייע בביצוע של הסכם זה ולהכריע בחילוקי דעות הנוגעים לו.</p>
           <p>החלטותיה של ועדת המעקב תהיינה סופיות ותחייבנה את הצדדים.</p>
         </content>
       </article>
@@ -554,17 +554,17 @@
       <table>
         <tr>
           <td>
-            <p>בשם <organization eId="org_26" refersTo="#state-israel">מדינת ישראל</organization>
+            <p>בשם <organization eId="org_27" refersTo="#state-israel">מדינת ישראל</organization>
             </p>
           </td>
           <td>
-            <p repo:role="running-head"><organization eId="org_27" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
+            <p repo:role="running-head"><organization eId="org_28" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
             </p>
           </td>
         </tr>
         <tr>
           <td>
-            <p>בשם <organization eId="org_28" refersTo="#local-government">מרכז השלטון המקומי</organization>
+            <p>בשם <organization eId="org_29" refersTo="#local-government">מרכז השלטון המקומי</organization>
             </p>
           </td>
           <td>
@@ -573,7 +573,7 @@
         </tr>
         <tr>
           <td>
-            <p>בשם <organization eId="org_29" refersTo="#three-cities">שלוש הערים הגדולות</organization>
+            <p>בשם <organization eId="org_30" refersTo="#three-cities">שלוש הערים הגדולות</organization>
             </p>
           </td>
           <td>
@@ -590,7 +590,7 @@
         </tr>
         <tr>
           <td>
-            <p>בשם <organization eId="org_30" refersTo="#hadassah">הסתדרות מדיצינית הדסה</organization>
+            <p>בשם <organization eId="org_31" refersTo="#hadassah">הסתדרות מדיצינית הדסה</organization>
             </p>
           </td>
           <td>
@@ -599,7 +599,7 @@
         </tr>
         <tr>
           <td>
-            <p>בשם <organization eId="org_31" refersTo="#clalit">שירותי בריאות כללית</organization>
+            <p>בשם <organization eId="org_32" refersTo="#clalit">שירותי בריאות כללית</organization>
             </p>
           </td>
           <td>
@@ -608,7 +608,7 @@
         </tr>
         <tr>
           <td>
-            <p>בשם <organization eId="org_32" refersTo="#jewish-agency">הסוכנות היהודית</organization> לארץ ישראל, <organization eId="org_33" refersTo="#wzo">ההסתדרות הציונית העולמית</organization> <organization eId="org_34" refersTo="#kkl">הקרן הקיימת לישראל</organization> <organization eId="org_35" refersTo="#keren-hayesod">וקרן היסוד</organization>
+            <p>בשם <organization eId="org_33" refersTo="#jewish-agency">הסוכנות היהודית</organization> לארץ ישראל, <organization eId="org_34" refersTo="#wzo">ההסתדרות הציונית העולמית</organization> <organization eId="org_35" refersTo="#kkl">הקרן הקיימת לישראל</organization> <organization eId="org_36" refersTo="#keren-hayesod">וקרן היסוד</organization>
             </p>
           </td>
           <td>
@@ -667,15 +667,15 @@
             <table>
               <tr>
                 <td>
-                  <p><role eId="rol_36" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+                  <p><role eId="rol_37" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                   </p>
                 </td>
                 <td>
-                  <p><role eId="rol_39" refersTo="#office_37d14cf4">נציב שירות המדינה</role>
+                  <p><role eId="rol_40" refersTo="#office_37d14cf4">נציב שירות המדינה</role>
                   </p>
                 </td>
                 <td>
-                  <p><role eId="rol_37" refersTo="#role-yor">יו"ר</role> <organization eId="unt_5" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization> <organization eId="org_38" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
+                  <p><role eId="rol_38" refersTo="#role-yor">יו"ר</role> <organization eId="unt_5" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization> <organization eId="org_39" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
                   </p>
                 </td>
               </tr>
@@ -724,9 +724,9 @@
                 <p>לכבוד</p>
                 <p>מר <person eId="pers_13" refersTo="#p_d733e68d">שלמה שני</person>
                 </p>
-                <p><role eId="rol_40" refersTo="#role-yor">יו"ר</role> <organization eId="unt_6" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>
+                <p><role eId="rol_41" refersTo="#role-yor">יו"ר</role> <organization eId="unt_6" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>
                 </p>
-                <p><organization eId="org_41" refersTo="#histadrut">ההסתדרות הכללית</organization>
+                <p><organization eId="org_42" refersTo="#histadrut">ההסתדרות הכללית</organization>
                 </p>
                 <p>הנדון: עובדים בקרנות המחקר ובאגודות הידידים</p>
                 <p>המדינה תבחן את טענות <term eId="trm_41" refersTo="#term_0cdeaf5a">ההסתדרות</term> בנוגע לעובדים המועסקים בקרנות המחקר ובאגודות הידידים ותודיע עמדתה להסתדרות בעניין זה בתוך <quantity eId="qty_5" refersTo="#month" normalized="3">3 חודשים</quantity> מיום החתימה על הסכם זה.</p>
@@ -738,11 +738,11 @@
             <p><person eId="pers_14" refersTo="#p_ac0beb6d">אברהם (בייגה) שוחט</person>
             </p>
             <p>העתק:</p>
-            <p>מר <person eId="pers_15" refersTo="#p_c9327b2c" as="#role-memuneh-sachar">יובל רכלבסקי</person> – <role eId="rol_42" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_43" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_15" refersTo="#p_c9327b2c" as="#role-memuneh-sachar">יובל רכלבסקי</person> – <role eId="rol_43" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>, <organization eId="org_44" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p>מר <person eId="pers_16" refersTo="#p_29d44bab">אוהד מראני</person> – <term eId="trm_42" refersTo="#term_775d5aec">הממונה</term> על <organization eId="unt_7" refersTo="#unit_40995b12">אגף התקציבים</organization>, <organization eId="org_44" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_16" refersTo="#p_29d44bab">אוהד מראני</person> – <term eId="trm_42" refersTo="#term_775d5aec">הממונה</term> על <organization eId="unt_7" refersTo="#unit_40995b12">אגף התקציבים</organization>, <organization eId="org_45" refersTo="#mof">משרד האוצר</organization>
             </p>
-            <p>מר <person eId="pers_17" refersTo="#p_9f33957b">ניר גלעד</person> – החשב הכללי, <organization eId="org_45" refersTo="#mof">משרד האוצר</organization>
+            <p>מר <person eId="pers_17" refersTo="#p_9f33957b">ניר גלעד</person> – החשב הכללי, <organization eId="org_46" refersTo="#mof">משרד האוצר</organization>
             </p>
             <p>מר <person eId="pers_18" refersTo="#p_ec9b93a8">שמואל הולנדר</person> – נציב שרות המדינה</p>
             <p>ד"ר <person eId="pers_19" refersTo="#p_16d80051">בועז לב</person> – מנכ"ל משרד הבריאות</p>
@@ -784,11 +784,11 @@
             <hcontainer eId="att_3__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:note="enclosure">[מכתב נלווה: מכתב הממונה על השכר והסכמי עבודה במשרד האוצר אל יו"ר האגף לאיגוד מקצועי בהסתדרות בנושא תשלום פיצוי לגמלאים בפנסיה תקציבית על שחיקת קצבתם בעבר, מיום <date date="2001-01-31">31.1.2001</date>, בדף התשיעי של הסריקה]</p>
-                <p><organization eId="org_46" refersTo="#state-israel">מדינת ישראל</organization>
+                <p><organization eId="org_47" refersTo="#state-israel">מדינת ישראל</organization>
                 </p>
-                <p><organization eId="org_47" refersTo="#mof">משרד האוצר</organization>
+                <p><organization eId="org_48" refersTo="#mof">משרד האוצר</organization>
                 </p>
-                <p><role eId="rol_48" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
+                <p><role eId="rol_49" refersTo="#role-memuneh-sachar">הממונה על השכר והסכמי עבודה</role>
                 </p>
                 <p><date date="2001-01-30">ו' בשבט התשס"א</date> [כך במקור]</p>
                 <p><date date="2001-01-31">31 בינואר 2001</date>
@@ -797,9 +797,9 @@
                 <p>לכבוד:</p>
                 <p>מר <person eId="pers_21" refersTo="#p_d733e68d">שלמה שני</person>
                 </p>
-                <p><role eId="rol_49" refersTo="#role-yor">יו"ר</role> <organization eId="unt_8" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>
+                <p><role eId="rol_50" refersTo="#role-yor">יו"ר</role> <organization eId="unt_8" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>
                 </p>
-                <p repo:role="running-head"><organization eId="org_50" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
+                <p repo:role="running-head"><organization eId="org_51" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
                 </p>
                 <p>הנדון: תשלום פיצוי לגמלאים בפנסיה תקציבית על שחיקת קיצבתם בעבר</p>
                 <p>להלן פרוט העקרונות של התשלום שבנדון:</p>
@@ -819,7 +819,7 @@
               <paragraph eId="att_3__hc_1__para_3">
                 <num>3.</num>
                 <content>
-                  <p>אנו רואים באמור לעיל מיצוי מלא ומוחלט של כל טענות <organization eId="org_51" refersTo="#histadrut">ההסתדרות הכללית</organization> החדשה הנובעות מסעיף 10 להסכם הקיבוצי (מסגרת) מיום <date date="1999-05-13">13.5.99</date> וממזכר ההבנה מיום <date date="1999-05-13">13.5.99</date>, ושל כל טענותיה בעניין שחיקת קצבאותיהם של הגמלאים אשר פרשו עד ליום <date date="1999-12-31">31.12.99</date>, בגין התקופה שעד ליום <date date="1999-12-31">31.12.99</date>.</p>
+                  <p>אנו רואים באמור לעיל מיצוי מלא ומוחלט של כל טענות <organization eId="org_52" refersTo="#histadrut">ההסתדרות הכללית</organization> החדשה הנובעות מסעיף 10 להסכם הקיבוצי (מסגרת) מיום <date date="1999-05-13">13.5.99</date> וממזכר ההבנה מיום <date date="1999-05-13">13.5.99</date>, ושל כל טענותיה בעניין שחיקת קצבאותיהם של הגמלאים אשר פרשו עד ליום <date date="1999-12-31">31.12.99</date>, בגין התקופה שעד ליום <date date="1999-12-31">31.12.99</date>.</p>
                 </content>
               </paragraph>
               <paragraph eId="att_3__hc_1__para_4">
@@ -838,10 +838,10 @@
             <p>הריני מאשר את האמור במכתב זה.</p>
             <p repo:role="running-head">[חתימות]</p>
             <p><signature eId="signature_1">
-                <person eId="pers_23" refersTo="#p_d733e68d">שלמה שני</person> <role eId="rol_52" refersTo="#role-yor">יו"ר</role> <organization eId="unt_9" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>
+                <person eId="pers_23" refersTo="#p_d733e68d">שלמה שני</person> <role eId="rol_53" refersTo="#role-yor">יו"ר</role> <organization eId="unt_9" refersTo="#unit_c89dc67e">האגף לאיגוד מקצועי</organization>
               </signature>
             </p>
-            <p repo:role="running-head"><organization eId="org_53" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
+            <p repo:role="running-head"><organization eId="org_54" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization>
             </p>
             <p repo:role="running-head"><location eId="locref_3" refersTo="#loc_b1e2548c">רח' קפלן 1</location> <location eId="locref_4" refersTo="#loc_8e0dfe1e">ירושלים</location> 91131 ת.ד 13185 טל':<a href="tel:+97225317111">02-5317111</a> פקס':<a href="tel:+97226528360">02-6528360</a>
             </p>
@@ -1271,7 +1271,7 @@
                 <p>[לא קריא] 255-2001</p>
                 <p>סיכום דברים מיום <date date="2001-01-31">31/1/2001</date>
                 </p>
-                <p>סיכום הדברים בין שר האוצר לבין <role eId="rol_54" refersTo="#role-yor">יו"ר</role> <organization eId="org_55" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization> מיום <date date="1996-05-10">10/5/1996</date> בדבר תשלום תוספת לפנסיה למבוטחים בקרנות הפנסיה שעליהם חלה שיטת יחסי השכר, כאמור שם (להלן – <def refersTo="#term_fabfc1c6">התוספת</def>) וסיכום הדברים מיום <date date="1997-12-08">8/12/1997</date> המתייחס לסיכום הדברים מיום <date date="1996-05-10">10/5/1996</date> (שייקראו שניהם להלן – סיכומי הדברים), ייושמו באופן הבא:</p>
+                <p>סיכום הדברים בין שר האוצר לבין <role eId="rol_55" refersTo="#role-yor">יו"ר</role> <organization eId="org_56" refersTo="#histadrut">הסתדרות העובדים הכללית החדשה</organization> מיום <date date="1996-05-10">10/5/1996</date> בדבר תשלום תוספת לפנסיה למבוטחים בקרנות הפנסיה שעליהם חלה שיטת יחסי השכר, כאמור שם (להלן – <def refersTo="#term_fabfc1c6">התוספת</def>) וסיכום הדברים מיום <date date="1997-12-08">8/12/1997</date> המתייחס לסיכום הדברים מיום <date date="1996-05-10">10/5/1996</date> (שייקראו שניהם להלן – סיכומי הדברים), ייושמו באופן הבא:</p>
               </intro>
               <hcontainer eId="att_6__hc_1__hc_1" name="group">
                 <heading>כללי</heading>
@@ -1633,7 +1633,7 @@
               </tr>
               <tr>
                 <td>
-                  <p><role eId="rol_56" refersTo="#role-yor">יו"ר</role> <term eId="trm_171" refersTo="#term_0cdeaf5a">ההסתדרות</term>
+                  <p><role eId="rol_57" refersTo="#role-yor">יו"ר</role> <term eId="trm_171" refersTo="#term_0cdeaf5a">ההסתדרות</term>
                   </p>
                 </td>
                 <td>
