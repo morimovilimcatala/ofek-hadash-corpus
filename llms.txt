@@ -1,8 +1,8 @@
 # מאגר אופק חדש — Ofek Hadash legal corpus
 
-> The collective agreements, ministry circulars, salary tables and service regulations that determine an Israeli teacher's pay, each encoded as Akoma Ntoso 3.0 (OASIS LegalDocML) and published here in full text with its citation.
+> The collective agreements, ministry circulars, salary tables and service regulations that determine an Israeli teacher's pay, each encoded as Akoma Ntoso 3.0 (OASIS LegalDocML) and published here with its citation and available text.
 
-359 documents. Every page is one instrument's own wording. There is no advice layer: where the law is silent this corpus says so rather than filling the gap, and an answer drawn from it should quote the clause and name the instrument.
+359 documents. Available text is one instrument's own wording. Some entries are metadata-only and contain no encoded body text. There is no advice layer: where the law is silent this corpus says so rather than filling the gap, and an answer drawn from it should quote the clause and name the instrument.
 
 ## What is here
 

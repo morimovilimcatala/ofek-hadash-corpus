@@ -5,7 +5,7 @@
  "generated": "2026-09-30",
  "documentCount": 359,
  "ontology": "ontology.json",
- "note": "Every document is one legal instrument's own wording. There is no advice layer. The /akn/il/... identifiers are a repository convention, not an official namespace.",
+ "note": "Available text is one legal instrument's own wording. Some entries are metadata-only and contain no encoded body text. There is no advice layer. The /akn/il/... identifiers are a repository convention, not an official namespace.",
  "documents": [
   {
    "path": "agreements/framework/1995-08-10_framework-agreement_public-sector_gemel-components.xml",

@@ -1,8 +1,49 @@
 {
  "@context": {
+  "@base": "https://morimovilimcatala.github.io/ofek-hadash-corpus/",
   "skos": "http://www.w3.org/2004/02/skos/core#",
-  "prefLabel": "skos:prefLabel"
+  "schema": "https://schema.org/",
+  "corpus": "https://morimovilimcatala.github.io/ofek-hadash-corpus/vocab#",
+  "concept": "@graph",
+  "uri": "@id",
+  "path": "@id",
+  "prefLabel": "skos:prefLabel",
+  "name": "schema:name",
+  "title": "schema:name",
+  "url": {
+   "@id": "schema:url",
+   "@type": "@id"
+  },
+  "html": {
+   "@id": "corpus:html",
+   "@type": "@id"
+  },
+  "page": {
+   "@id": "schema:mainEntityOfPage",
+   "@type": "@id"
+  },
+  "entityCount": "corpus:entityCount",
+  "tlcKind": "corpus:tlcKind",
+  "kindLabel": "corpus:kindLabel",
+  "documentCount": "corpus:documentCount",
+  "markCount": "corpus:markCount",
+  "standsFor": {
+   "@id": "corpus:standsFor",
+   "@type": "@id"
+  },
+  "honorificPrefix": "schema:honorificPrefix",
+  "skos:narrower": {
+   "@id": "skos:narrower",
+   "@type": "@id"
+  },
+  "skos:broader": {
+   "@id": "skos:broader",
+   "@type": "@id"
+  },
+  "inDocuments": "schema:subjectOf"
  },
+ "@id": "https://morimovilimcatala.github.io/ofek-hadash-corpus/ontology.json",
+ "@type": "schema:Dataset",
  "name": "מאגר אופק חדש — Ofek Hadash legal corpus — ontology",
  "url": "https://morimovilimcatala.github.io/ofek-hadash-corpus/ontology.html",
  "entityCount": 1103,
