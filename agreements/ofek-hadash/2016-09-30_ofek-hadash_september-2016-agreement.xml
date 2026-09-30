@@ -274,7 +274,7 @@
                       <subparagraph eId="art_4__para_a__subpara_1__mod_1__qstr_1__para_a1__subpara_1">
                         <num>(1)</num>
                         <content>
-                          <p>התקיימות האמור בסעיפים קטנים <ref href="#art_4__para_a__subpara_1__mod_1__qstr_1__para_a">(א)</ref>(1) ו-(2) לעיל;</p>
+                          <p>התקיימות האמור בסעיפים קטנים <ref href="#art_4__para_a__subpara_1__mod_1__qstr_1__para_a__subpara_1">(א)(1)</ref> ו-<ref href="#art_4__para_a__subpara_1__mod_1__qstr_1__para_a__subpara_2">(2)</ref> לעיל;</p>
                         </content>
                       </subparagraph>
                       <subparagraph eId="art_4__para_a__subpara_1__mod_1__qstr_1__para_a1__subpara_2">
@@ -363,7 +363,7 @@
         <paragraph eId="art_4__para_c">
           <num>(ג)</num>
           <intro>
-            <p>בשים לב לכך שעד ליום <date date="2016-09-01">1.9.2016</date> היו <term eId="trm_7" refersTo="#term_2db30064">עובדי הוראה</term> אשר התקיימו לגביהם התנאים לקידום בדרגות 7, 8 או 9 לפני יום <date date="2016-09-01">1.9.2016</date> אך קידומם עוכב בשל ההגבלה שהייתה קיימת לפי אחד או יותר מהסעיפים שבוטלו כאמור ב<ref href="#art_4__para_a">סעיף קטן (א)</ref>(3) לעיל, אזי מוסכם כי יחולו ההוראות המפורטות להלן:</p>
+            <p>בשים לב לכך שעד ליום <date date="2016-09-01">1.9.2016</date> היו <term eId="trm_7" refersTo="#term_2db30064">עובדי הוראה</term> אשר התקיימו לגביהם התנאים לקידום בדרגות 7, 8 או 9 לפני יום <date date="2016-09-01">1.9.2016</date> אך קידומם עוכב בשל ההגבלה שהייתה קיימת לפי אחד או יותר מהסעיפים שבוטלו כאמור ב<ref href="#art_4__para_a__subpara_3">סעיף קטן (א)(3)</ref> לעיל, אזי מוסכם כי יחולו ההוראות המפורטות להלן:</p>
             <p><term eId="trm_8" refersTo="#term_2db30064">עובדי הוראה</term> אשר מילאו אחר כל התנאים המצטברים הבאים יקודמו <quantity eId="qty_33" refersTo="#grade" normalized="7">לדרגה 7</quantity>, <quantity eId="qty_34" refersTo="#grade" normalized="8">דרגה 8</quantity> או <quantity eId="qty_35" refersTo="#grade" normalized="9">דרגה 9</quantity>, לפי העניין, למפרע החל מיום <date date="2016-09-01">1.9.2016</date>:</p>
           </intro>
           <subparagraph eId="art_4__para_c__subpara_1">

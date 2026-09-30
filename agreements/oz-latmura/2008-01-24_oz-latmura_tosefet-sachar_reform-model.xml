@@ -305,7 +305,7 @@
           <subparagraph eId="art_5__para_a__subpara_2">
             <num>(2)</num>
             <content>
-              <p>החל מיום <date date="2009-01-01">1.1.09</date> (במשכורת חודש ינואר 2009), עובד הוראה המבצע <quantity eId="qty_16" refersTo="#hour" normalized="2">שתי שעות</quantity> הוראה פרטניות שבועיות (שעה נוספת על השעה המפורטת ב<ref href="#art_5__para_a">סעיף-קטן (א)</ref>(1) ובסך-הכל שעתיים), יקבל השלמה <term eId="trm_18" refersTo="#term_3570fa1a">לתוספת השכר</term> האמורה ב<ref href="#art_5__para_a">סעיף-קטן (א)</ref>(1), בשיעור של <quantity eId="qty_17" refersTo="#percentage" normalized="4">4%</quantity> נוספים (בסך הכל תהא <term eId="trm_19" refersTo="#term_3570fa1a">תוספת השכר</term> בשיעור של <quantity eId="qty_18" refersTo="#percentage" normalized="8.5">8.5%</quantity>).</p>
+              <p>החל מיום <date date="2009-01-01">1.1.09</date> (במשכורת חודש ינואר 2009), עובד הוראה המבצע <quantity eId="qty_16" refersTo="#hour" normalized="2">שתי שעות</quantity> הוראה פרטניות שבועיות (שעה נוספת על השעה המפורטת ב<ref href="#art_5__para_a__subpara_1">סעיף-קטן (א)(1)</ref> ובסך-הכל שעתיים), יקבל השלמה <term eId="trm_18" refersTo="#term_3570fa1a">לתוספת השכר</term> האמורה ב<ref href="#art_5__para_a__subpara_1">סעיף-קטן (א)(1)</ref>, בשיעור של <quantity eId="qty_17" refersTo="#percentage" normalized="4">4%</quantity> נוספים (בסך הכל תהא <term eId="trm_19" refersTo="#term_3570fa1a">תוספת השכר</term> בשיעור של <quantity eId="qty_18" refersTo="#percentage" normalized="8.5">8.5%</quantity>).</p>
             </content>
           </subparagraph>
         </paragraph>

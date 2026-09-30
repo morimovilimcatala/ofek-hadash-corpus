@@ -432,7 +432,7 @@
             <clause eId="art_3__para_b__subpara_1__cls_c">
               <num>(ג)</num>
               <content>
-                <p>עד יום <date date="2026-06-01">ט"ז בסיוון התשפ"ו</date> (<date date="2026-06-01">1 ביוני 2026</date>) יבצע <term eId="trm_46" refersTo="#term_3a13d293">המעסיק</term> חישוב של ההפרש בין סך ההפחתות שבוצעו לעובד <term eId="trm_47" refersTo="#term_c50fea4a">בתקופה הקובעת הראשונה</term> או בעדה, לפי סעיף קטן זה, ובין סך ההפחתות שהיו מבוצעות באותה תקופה לפי <ref href="#art_3__para_a">סעיף קטן (א)</ref>(1), אילולא הסדר ההפחתה; מצא <term eId="trm_48" refersTo="#term_3a13d293">המעסיק</term> כי הופחת לעובד ממשכורתו ביתר, ישיב לו את ההפרש; מצא כי הופחת ממשכורת <term eId="trm_49" refersTo="#term_2e131aef">העובד</term> בחסר, ובלי לגרוע מההפחתה בעד <term eId="trm_50" refersTo="#term_646fb7ab">התקופה הקובעת השנייה</term> לפי <ref href="#art_3__para_a">סעיף קטן (א)</ref>(2), יפחית ממשכורת <term eId="trm_51" refersTo="#term_2e131aef">העובד</term> את היתרה; השבה או הפחתה לפי פסקת משנה זו תבוצע במועד שבו יש לשלם משכורת של החודש העוקב;</p>
+                <p>עד יום <date date="2026-06-01">ט"ז בסיוון התשפ"ו</date> (<date date="2026-06-01">1 ביוני 2026</date>) יבצע <term eId="trm_46" refersTo="#term_3a13d293">המעסיק</term> חישוב של ההפרש בין סך ההפחתות שבוצעו לעובד <term eId="trm_47" refersTo="#term_c50fea4a">בתקופה הקובעת הראשונה</term> או בעדה, לפי סעיף קטן זה, ובין סך ההפחתות שהיו מבוצעות באותה תקופה לפי <ref href="#art_3__para_a__subpara_1">סעיף קטן (א)(1)</ref>, אילולא הסדר ההפחתה; מצא <term eId="trm_48" refersTo="#term_3a13d293">המעסיק</term> כי הופחת לעובד ממשכורתו ביתר, ישיב לו את ההפרש; מצא כי הופחת ממשכורת <term eId="trm_49" refersTo="#term_2e131aef">העובד</term> בחסר, ובלי לגרוע מההפחתה בעד <term eId="trm_50" refersTo="#term_646fb7ab">התקופה הקובעת השנייה</term> לפי <ref href="#art_3__para_a__subpara_2">סעיף קטן (א)(2)</ref>, יפחית ממשכורת <term eId="trm_51" refersTo="#term_2e131aef">העובד</term> את היתרה; השבה או הפחתה לפי פסקת משנה זו תבוצע במועד שבו יש לשלם משכורת של החודש העוקב;</p>
               </content>
             </clause>
             <clause eId="art_3__para_b__subpara_1__cls_d">
@@ -720,7 +720,7 @@
         <num>13</num>
         <heading>החלת הוראות חוק המרכז לגביית קנסות, אגרות והוצאות</heading>
         <content>
-          <p>על גבייתו של סכום חיסכון שלא הועבר לאוצר המדינה, בניגוד להוראות שקבע שר האוצר לפי סעיף <ref href="#art_10">10</ref>, יחולו הוראות חוק המרכז לגביית קנסות, אגרות והוצאות, התשנ"ה-1995; ואולם דרישת תשלום כאמור בסעיף 5 לחוק האמור תומצא לכתובת הדואר האלקטרוני שאליה נשלחה ההודעה למעסיק בדבר <term eId="trm_135" refersTo="#term_f53f357c">סכום החיסכון</term> שעליו להעביר לפי סעיף <ref href="#art_10">10</ref>(ג).</p>
+          <p>על גבייתו של סכום חיסכון שלא הועבר לאוצר המדינה, בניגוד להוראות שקבע שר האוצר לפי סעיף <ref href="#art_10">10</ref>, יחולו הוראות חוק המרכז לגביית קנסות, אגרות והוצאות, התשנ"ה-1995; ואולם דרישת תשלום כאמור בסעיף 5 לחוק האמור תומצא לכתובת הדואר האלקטרוני שאליה נשלחה ההודעה למעסיק בדבר <term eId="trm_135" refersTo="#term_f53f357c">סכום החיסכון</term> שעליו להעביר לפי סעיף <ref href="#art_10__para_c">10(ג)</ref>.</p>
         </content>
       </article>
       <article eId="art_14" repo:prose="same-source">
@@ -739,7 +739,7 @@
         <paragraph eId="art_15__para_1">
           <num>(1)</num>
           <content>
-            <p><ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, אולם לשם הפחתת <term eId="trm_136" refersTo="#term_4e3b0fc3">המשכורת</term> לפי חוק זה יובא בחשבון רכיב שכר כאמור בסעיף <ref href="#art_3__para_b__subpara_1">3(ב)(1)</ref> עד (3) או (ד) ל<ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, שאינו בא בחשבון שכר המינימום מכוח הסכם;</p>
+            <p><ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, אולם לשם הפחתת <term eId="trm_136" refersTo="#term_4e3b0fc3">המשכורת</term> לפי חוק זה יובא בחשבון רכיב שכר כאמור בסעיף <ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום#סעיף_3">3(ב)(1)</ref> עד (3) או (ד) ל<ref href="https://he.wikisource.org/wiki/חוק_שכר_מינימום">חוק שכר מינימום</ref>, שאינו בא בחשבון שכר המינימום מכוח הסכם;</p>
           </content>
         </paragraph>
         <paragraph eId="art_15__para_2">

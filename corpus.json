@@ -2,7 +2,7 @@
  "name": "מאגר אופק חדש — Ofek Hadash legal corpus",
  "url": "https://morimovilimcatala.github.io/ofek-hadash-corpus",
  "standard": "Akoma Ntoso 3.0 (OASIS LegalDocML)",
- "generated": "2026-09-29",
+ "generated": "2026-09-30",
  "documentCount": 359,
  "ontology": "ontology.json",
  "note": "Every document is one legal instrument's own wording. There is no advice layer. The /akn/il/... identifiers are a repository convention, not an official namespace.",

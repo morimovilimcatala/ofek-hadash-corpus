@@ -173,7 +173,7 @@
           <subparagraph eId="art_3__para_a__subpara_2">
             <num>(2)</num>
             <content>
-              <p>החל ביום <date date="2009-01-01">1.1.09</date>, עובד הוראה אשר יבצע <quantity eId="qty_3" refersTo="#hour" normalized="2">שתי שעות</quantity> הוראה פרטניות שבועיות, יקבל השלמה לתוספת השכר האמורה ב<ref href="#art_3__para_a">סעיף-קטן (א)</ref>(1), בשיעור של <quantity eId="qty_4" refersTo="#percentage" normalized="4">4%</quantity> נוספים (בסך הכל תהא תוספת השכר בשיעור של <quantity eId="qty_5" refersTo="#percentage" normalized="8.5">8.5%</quantity>).</p>
+              <p>החל ביום <date date="2009-01-01">1.1.09</date>, עובד הוראה אשר יבצע <quantity eId="qty_3" refersTo="#hour" normalized="2">שתי שעות</quantity> הוראה פרטניות שבועיות, יקבל השלמה לתוספת השכר האמורה ב<ref href="#art_3__para_a__subpara_1">סעיף-קטן (א)(1)</ref>, בשיעור של <quantity eId="qty_4" refersTo="#percentage" normalized="4">4%</quantity> נוספים (בסך הכל תהא תוספת השכר בשיעור של <quantity eId="qty_5" refersTo="#percentage" normalized="8.5">8.5%</quantity>).</p>
             </content>
           </subparagraph>
         </paragraph>
