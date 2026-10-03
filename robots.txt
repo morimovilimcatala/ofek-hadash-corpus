@@ -1,0 +1,29 @@
+# The Ofek Hadash legal corpus. Public, and meant to be read by assistants:
+# every page is a legal instrument's own text with its citation.
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# OpenAI: OAI-SearchBot builds the search index ChatGPT answers from;
+# ChatGPT-User fetches a page when a user follows a link in a conversation.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+Sitemap: https://morimovilimcatala.github.io/ofek-hadash-corpus/sitemap.xml
