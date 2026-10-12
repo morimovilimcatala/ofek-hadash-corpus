@@ -292,10 +292,16 @@ a{color:var(--accent);}
   color:var(--accent-ink);}
 /* AN INSTRUMENT THE CORPUS CITES AND DOES NOT HOLD (MMS-456): a row among
    the documents at its date, in a lighter shade and a dashed edge, saying
-   "לא במאגר". It opens its row on the coverage page, never a document. */
+   "לא במאגר" as a red token opening its name, the shape of a document's
+   number chip.
+   It opens its row on the coverage page, never a document. The label's
+   class is its own (MMS-471): it was `.absent` until the entity pages'
+   unscoped `.absent` note drew a dashed box around it. */
 .folder li a.miss{color:var(--ink-dim); border-inline-start:2px dashed var(--rule);}
-.folder li a .absent{font-size:10.5px; color:var(--ink-faint);}
-.folder li a.miss:hover .absent{color:var(--accent-ink);}
+.folder li a .miss-tag{display:inline-block; margin-inline-end:5px;
+  padding:0 .5em; border-radius:4px; background:var(--bad-soft);
+  color:var(--bad); font-size:10px; font-weight:500; line-height:1.55;
+  white-space:nowrap; vertical-align:1px;}
 
 /* ---------------- main pane ---------------- */
 .pane{min-width:0; display:flex; flex-direction:column;}
