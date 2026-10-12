@@ -53916,7 +53916,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 114,
-   "markCount": 663,
+   "markCount": 664,
    "inDocuments": [
     {
      "path": "circulars/2024-25_tashpah_08_clarif.xml",
@@ -54498,8 +54498,8 @@
    "page": "ontology/e-24592d646d08.html",
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
-   "documentCount": 94,
-   "markCount": 516,
+   "documentCount": 95,
+   "markCount": 519,
    "inDocuments": [
     {
      "path": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.xml",
@@ -54857,6 +54857,11 @@
      "html": "circulars/2023-24_tashpad_12.html"
     },
     {
+     "path": "circulars/2023-24_tashpad_02.xml",
+     "title": "חוזר לבעלויות תשפ\"ד/2 - חוזר העסקת עו\"ה, עובדי בעלות, בבתי ספר לחינוך מיוחד מוכרים שאינם רשמיים, בהתאם לרפורמת אופק חדש בשנה\"ל תשפ\"ד",
+     "html": "circulars/2023-24_tashpad_02.html"
+    },
+    {
      "path": "circulars/2023-24_tashpad_04.xml",
      "title": "חוזר לבעלויות תשפ\"ד/4 - הסכם קיבוצי כללי מיום 12.9.2023",
      "html": "circulars/2023-24_tashpad_04.html"
@@ -54981,8 +54986,8 @@
    "page": "ontology/e-adbca8f72f89.html",
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
-   "documentCount": 92,
-   "markCount": 1831,
+   "documentCount": 93,
+   "markCount": 1837,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2015-02-19_ofek-hadash_vaadat-maakav_darga-stay-periods-1800-quota.xml",
@@ -55183,6 +55188,11 @@
      "path": "circulars/2014-15_tashae_04.xml",
      "title": "חוזר לבעלויות תשע\"ה/4 - תשלום דמי הבראה ומענק יובל",
      "html": "circulars/2014-15_tashae_04.html"
+    },
+    {
+     "path": "circulars/2014-15_tashae_05.xml",
+     "title": "חוזר לבעלויות תשע\"ה/5 - טבלאות שכר אופק",
+     "html": "circulars/2014-15_tashae_05.html"
     },
     {
      "path": "circulars/2014-15_tashae_07.xml",
@@ -55923,7 +55933,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 90,
-   "markCount": 764,
+   "markCount": 769,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2013-03-12_ofek-hadash_vaadat-maakav_principal-pay-complexity.xml",
@@ -58446,7 +58456,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 55,
-   "markCount": 474,
+   "markCount": 475,
    "inDocuments": [
     {
      "path": "takanon/terms-service.education.gov.il/yaer-opening.xml",
@@ -65105,7 +65115,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 15,
-   "markCount": 415,
+   "markCount": 416,
    "inDocuments": [
     {
      "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
