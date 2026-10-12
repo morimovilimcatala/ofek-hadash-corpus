@@ -13,7 +13,6 @@
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -27,7 +26,6 @@
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRlanguage language="heb" />
@@ -58,7 +56,7 @@
         <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
-        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים" />
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />

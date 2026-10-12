@@ -7,11 +7,9 @@
           <FRBRthis value="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022/!main" />
           <FRBRuri value="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022" />
           <FRBRdate date="2018-03-14" name="issued" />
-          <FRBRauthor href="#moe" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#regional-councils-centre" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -20,11 +18,9 @@
           <FRBRthis value="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022/heb@/!main" />
           <FRBRuri value="/akn/il/act/collectiveAgreement/2018-03-14/2018-03-14-oz-latmura-wage-agreement-2017-2022/heb@" />
           <FRBRdate date="2018-03-14" name="issued" />
-          <FRBRauthor href="#moe" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#regional-councils-centre" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRlanguage language="heb" />
         </FRBRExpression>
@@ -90,13 +86,13 @@
         <TLCTerm eId="term_ec0bed03" href="/ontology/term/il/ec0bed03" showAs="מש&quot;מ" />
         <TLCTerm eId="term_f2aec556" href="/ontology/term/il/f2aec556" showAs="מורים שאינם ברפורמה" />
         <TLCTerm eId="term_f58ba480" href="/ontology/term/il/f58ba480" showAs="הסכום העודף" />
-        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
         <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
         <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="מנכ&quot;ל" />
         <TLCRole eId="role-yor" href="/ontology/role/il/yor" showAs="יו&quot;ר" />
         <TLCPerson eId="p_bca8a4ab" href="/ontology/person/il/bca8a4ab" showAs="חגית מגן" />

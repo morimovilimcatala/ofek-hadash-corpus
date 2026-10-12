@@ -192,7 +192,7 @@
           <p>מעודכן החל מיום <date date="2022-09-01">1.9.2022</date>
           </p>
           <p>נספח ג'6</p>
-          <p repo:role="running-head"><concept eId="cmp_3" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים קיימים בדרגת 'מוסמך' (<concept eId="con_3" refersTo="#dirug_105">קוד דירוג 105</concept>)</p>
+          <p><concept eId="cmp_3" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים קיימים בדרגת 'מוסמך' (<concept eId="con_3" refersTo="#dirug_105">קוד דירוג 105</concept>)</p>
           <table>
             <tr>
               <th>

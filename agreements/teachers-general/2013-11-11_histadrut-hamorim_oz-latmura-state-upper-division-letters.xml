@@ -8,7 +8,6 @@
           <FRBRuri value="/akn/il/act/collectiveAgreement/2013-11-11/2013-11-11-histadrut-hamorim-oz-latmura-state-upper-division-letters" />
           <FRBRdate date="2013-11-11" name="issued" />
           <FRBRauthor href="#histadrut-hamorim" as="#author" />
-          <FRBRauthor href="#moe" as="#author" />
           <FRBRauthor href="#mof" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -19,7 +18,6 @@
           <FRBRuri value="/akn/il/act/collectiveAgreement/2013-11-11/2013-11-11-histadrut-hamorim-oz-latmura-state-upper-division-letters/heb@" />
           <FRBRdate date="2013-11-11" name="issued" />
           <FRBRauthor href="#histadrut-hamorim" as="#author" />
-          <FRBRauthor href="#moe" as="#author" />
           <FRBRauthor href="#mof" as="#author" />
           <FRBRlanguage language="heb" />
         </FRBRExpression>
@@ -41,10 +39,10 @@
         <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
         <TLCLocation eId="loc_b1e2548c" href="/ontology/location/il/b1e2548c" showAs="רח' קפלן 1" />
         <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
-        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
         <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
         <TLCRole eId="role-mazkir-klali" href="/ontology/role/il/mazkir-klali" showAs="מזכ&quot;ל" />
         <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />

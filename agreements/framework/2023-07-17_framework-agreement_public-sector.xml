@@ -8,7 +8,6 @@
           <FRBRuri value="/akn/il/act/collectiveAgreement/2023-07-17/2023-07-17-framework-agreement-public-sector" />
           <FRBRdate date="2023-07-17" name="issued" />
           <FRBRauthor href="#state" as="#author" />
-          <FRBRauthor href="#moe" as="#author" />
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
@@ -17,7 +16,6 @@
           <FRBRauthor href="#employment-service" as="#author" />
           <FRBRauthor href="#clalit" as="#author" />
           <FRBRauthor href="#hadassah" as="#author" />
-          <FRBRauthor href="#israel-post" as="#author" />
           <FRBRauthor href="#huji" as="#author" />
           <FRBRauthor href="#biu" as="#author" />
           <FRBRauthor href="#bgu" as="#author" />
@@ -36,7 +34,6 @@
           <FRBRuri value="/akn/il/act/collectiveAgreement/2023-07-17/2023-07-17-framework-agreement-public-sector/heb@" />
           <FRBRdate date="2023-07-17" name="issued" />
           <FRBRauthor href="#state" as="#author" />
-          <FRBRauthor href="#moe" as="#author" />
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
@@ -45,7 +42,6 @@
           <FRBRauthor href="#employment-service" as="#author" />
           <FRBRauthor href="#clalit" as="#author" />
           <FRBRauthor href="#hadassah" as="#author" />
-          <FRBRauthor href="#israel-post" as="#author" />
           <FRBRauthor href="#huji" as="#author" />
           <FRBRauthor href="#biu" as="#author" />
           <FRBRauthor href="#bgu" as="#author" />
@@ -145,7 +141,6 @@
         <TLCTerm eId="term_e9bd32e3" href="/ontology/term/il/e9bd32e3" showAs="עובד בתקופת האכשרה" />
         <TLCTerm eId="term_f469d5d3" href="/ontology/term/il/f469d5d3" showAs="הדירוגים המזכים" />
         <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל" />
-        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
         <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
@@ -154,7 +149,6 @@
         <TLCOrganization eId="employment-service" href="/ontology/organization/il/employment-service" showAs="שירות התעסוקה" />
         <TLCOrganization eId="clalit" href="/ontology/organization/il/clalit-health-services" showAs="שירותי בריאות כללית" />
         <TLCOrganization eId="hadassah" href="/ontology/organization/il/hadassah-medical" showAs="הסתדרות מדיצינית הדסה" />
-        <TLCOrganization eId="israel-post" href="/ontology/organization/il/israel-post" showAs="חברת דואר ישראל בע&quot;מ" />
         <TLCOrganization eId="huji" href="/ontology/organization/il/hebrew-university" showAs="האוניברסיטה העברית בירושלים" />
         <TLCOrganization eId="biu" href="/ontology/organization/il/bar-ilan-university" showAs="אוניברסיטת בר-אילן" />
         <TLCOrganization eId="bgu" href="/ontology/organization/il/ben-gurion-university" showAs="אוניברסיטת בן גוריון בנגב" />
@@ -167,6 +161,8 @@
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCOrganization eId="israel-post" href="/ontology/organization/il/israel-post" showAs="חברת דואר ישראל בע&quot;מ" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
         <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />

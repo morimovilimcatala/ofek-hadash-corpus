@@ -29,7 +29,6 @@
           <FRBRauthor href="#wzo" as="#author" />
           <FRBRauthor href="#kkl" as="#author" />
           <FRBRauthor href="#keren-hayesod" as="#author" />
-          <FRBRauthor href="#cbs" as="#author" />
           <FRBRauthor href="#nii" as="#author" />
           <FRBRauthor href="#histadrut" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
@@ -63,7 +62,6 @@
           <FRBRauthor href="#wzo" as="#author" />
           <FRBRauthor href="#kkl" as="#author" />
           <FRBRauthor href="#keren-hayesod" as="#author" />
-          <FRBRauthor href="#cbs" as="#author" />
           <FRBRauthor href="#nii" as="#author" />
           <FRBRauthor href="#histadrut" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
@@ -200,12 +198,12 @@
         <TLCOrganization eId="wzo" href="/ontology/organization/il/world-zionist-organization" showAs="ההסתדרות הציונית העולמית" />
         <TLCOrganization eId="kkl" href="/ontology/organization/il/jewish-national-fund" showAs="הקרן הקיימת לישראל" />
         <TLCOrganization eId="keren-hayesod" href="/ontology/organization/il/keren-hayesod" showAs="קרן היסוד" />
-        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
         <TLCOrganization eId="nii" href="/ontology/organization/il/national-insurance" showAs="המוסד לביטוח לאומי" />
         <TLCOrganization eId="histadrut" href="/ontology/organization/il/histadrut" showAs="ההסתדרות הכללית" />
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
         <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />

@@ -8,15 +8,11 @@
           <FRBRuri value="/akn/il/act/collectiveAgreement/2008-01-24/2008-01-24-oz-latmura-tosefet-sachar-reform-model" />
           <FRBRdate date="2008-01-24" name="issued" />
           <FRBRauthor href="#state" as="#author" />
-          <FRBRauthor href="#histadrut-hamorim" as="#author" />
           <FRBRauthor href="#moe" as="#author" />
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#histadrut" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -27,15 +23,11 @@
           <FRBRuri value="/akn/il/act/collectiveAgreement/2008-01-24/2008-01-24-oz-latmura-tosefet-sachar-reform-model/heb@" />
           <FRBRdate date="2008-01-24" name="issued" />
           <FRBRauthor href="#state" as="#author" />
-          <FRBRauthor href="#histadrut-hamorim" as="#author" />
           <FRBRauthor href="#moe" as="#author" />
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#histadrut" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRlanguage language="heb" />
         </FRBRExpression>
@@ -71,16 +63,16 @@
         <TLCLocation eId="loc_b1e2548c" href="/ontology/location/il/b1e2548c" showAs="רח' קפלן 1" />
         <TLCRole eId="office_759e6642" href="/ontology/role/il/759e6642" showAs="הממונה על התקציבים" />
         <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל" />
-        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
         <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
         <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
         <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
-        <TLCOrganization eId="histadrut" href="/ontology/organization/il/histadrut" showAs="ההסתדרות הכללית" />
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="histadrut" href="/ontology/organization/il/histadrut" showAs="ההסתדרות הכללית" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="מנכ&quot;לית" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
         <TLCRole eId="role-yor" href="/ontology/role/il/yor" showAs="יו&quot;ר" />

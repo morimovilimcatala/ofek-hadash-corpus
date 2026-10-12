@@ -2,7 +2,7 @@
  "name": "מאגר אופק חדש — Ofek Hadash legal corpus",
  "url": "https://morimovilimcatala.github.io/ofek-hadash-corpus",
  "standard": "Akoma Ntoso 3.0 (OASIS LegalDocML)",
- "generated": "2026-10-11",
+ "generated": "2026-10-12",
  "documentCount": 359,
  "ontology": "ontology.json",
  "note": "Available text is one legal instrument's own wording. Some entries are metadata-only and contain no encoded body text. There is no advice layer. The /akn/il/... identifiers are a repository convention, not an official namespace.",
@@ -2577,7 +2577,7 @@
   },
   {
    "path": "circulars/2020-21_tashpa_03.xml",
-   "title": "חוזר לבעלויות תשפ\"א/3 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות -נוסח מעודכן נוהל זה מבטל את חוזר תשפ 8/",
+   "title": "חוזר לבעלויות תשפ\"א/3 - נוהל שיפויים לבעלויות על המכללות האקדמיות להכשרת עובדי הוראה בגין מענק יישום רפורמה במכללות -נוסח מעודכן נוהל זה מבטל את חוזר תשפ/8",
    "hasEncodedTitle": true,
    "kind": "circular",
    "kindLabel": "חוזרים",
@@ -2793,7 +2793,7 @@
   },
   {
    "path": "circulars/2022-23_tashpag_03_clarif.xml",
-   "title": "הבהרה לחוזרינו לבעלויות תשפ\"ג/3 - הבהרה לחוזרינו לבעלויות תשפ\"ג3/ הסדר לתגמול עובדי הוראה המגישים תלמידים לבחינת בגרות לפי התכנית שברפורמה להתחדשות הלמידה",
+   "title": "הבהרה לחוזרינו לבעלויות תשפ\"ג/3 - הבהרה לחוזרינו לבעלויות תשפ\"ג/3 הסדר לתגמול עובדי הוראה המגישים תלמידים לבחינת בגרות לפי התכנית שברפורמה להתחדשות הלמידה",
    "hasEncodedTitle": true,
    "kind": "circular",
    "kindLabel": "חוזרים",

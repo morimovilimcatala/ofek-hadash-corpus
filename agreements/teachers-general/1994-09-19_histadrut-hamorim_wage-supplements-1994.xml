@@ -13,7 +13,6 @@
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -29,7 +28,6 @@
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRlanguage language="heb" />
         </FRBRExpression>
@@ -74,10 +72,10 @@
         <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
-        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים" />
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
         <TLCRole eId="role-mazkir-klali" href="/ontology/role/il/mazkir-klali" showAs="המזכיר הכללי" />
         <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
@@ -1086,7 +1084,7 @@
             <hcontainer eId="att_1__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p><organization eId="org_54" refersTo="#mof">משרד האוצר</organization> - [לא קריא]ר והסכמי עבודה</p>
-                <p repo:role="running-head">משכורת משולבת בש"ח לחודש <concept eId="dom_7" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
+                <p>משכורת משולבת בש"ח לחודש <concept eId="dom_7" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
                 </p>
                 <table>
                   <tr>
@@ -3393,7 +3391,7 @@
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p><organization eId="org_55" refersTo="#mof">משרד האוצר</organization> - ש[לא קריא] והסכמי עבודה</p>
-                <p repo:role="running-head">משכורת משולבת בש"ח לחודש <concept eId="dom_8" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
+                <p>משכורת משולבת בש"ח לחודש <concept eId="dom_8" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
                 </p>
                 <table>
                   <tr>
@@ -5700,7 +5698,7 @@
             <hcontainer eId="att_3__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:role="running-head"><organization eId="org_56" refersTo="#mof">משרד האוצר</organization> - שכר והסכמי עבודה</p>
-                <p repo:role="running-head">משכורת משולבת בש"ח לחודש <concept eId="dom_9" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
+                <p>משכורת משולבת בש"ח לחודש <concept eId="dom_9" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
                 </p>
                 <table>
                   <tr>
@@ -8007,9 +8005,9 @@
             <hcontainer eId="att_4__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:role="running-head"><organization eId="org_57" refersTo="#mof">משרד האוצר</organization> - שכר והסכמי עבודה</p>
-                <p repo:role="running-head">משכורת משולבת בש"ח לחודש <concept eId="dom_10" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
+                <p>משכורת משולבת בש"ח לחודש <concept eId="dom_10" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
                 </p>
-                <p repo:role="running-head">(כולל תוס' יוקר מ-<date date="1994-02-01">1.2.94</date> (<quantity eId="qty_1557" refersTo="#percentage" normalized="2.3">2.3%</quantity>) ומ-<date date="1994-08-01">1.8.94</date> (<quantity eId="qty_1558" refersTo="#percentage" normalized="3.7">3.7%</quantity>))</p>
+                <p>(כולל תוס' יוקר מ-<date date="1994-02-01">1.2.94</date> (<quantity eId="qty_1557" refersTo="#percentage" normalized="2.3">2.3%</quantity>) ומ-<date date="1994-08-01">1.8.94</date> (<quantity eId="qty_1558" refersTo="#percentage" normalized="3.7">3.7%</quantity>))</p>
                 <table>
                   <tr>
                     <th>
@@ -10315,9 +10313,9 @@
             <hcontainer eId="att_5__hc_1" name="text" repo:structure="enumerated">
               <intro>
                 <p repo:role="running-head"><organization eId="org_58" refersTo="#mof">משרד האוצר</organization> - שכר והסכמי עבודה</p>
-                <p repo:role="running-head">משכורת משולבת בש"ח לחודש <concept eId="dom_11" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
+                <p>משכורת משולבת בש"ח לחודש <concept eId="dom_11" refersTo="#scale_ovdei_horaa">לדירוג עובדי הוראה</concept>
                 </p>
-                <p repo:role="running-head">(כולל תוס' יוקר מ-<date date="1994-02-01">1.2.94</date> (<quantity eId="qty_2066" refersTo="#percentage" normalized="2.3">2.3%</quantity>) ומ-<date date="1994-08-01">1.8.94</date> (<quantity eId="qty_2067" refersTo="#percentage" normalized="3.7">3.7%</quantity>))</p>
+                <p>(כולל תוס' יוקר מ-<date date="1994-02-01">1.2.94</date> (<quantity eId="qty_2066" refersTo="#percentage" normalized="2.3">2.3%</quantity>) ומ-<date date="1994-08-01">1.8.94</date> (<quantity eId="qty_2067" refersTo="#percentage" normalized="3.7">3.7%</quantity>))</p>
                 <table>
                   <tr>
                     <th>

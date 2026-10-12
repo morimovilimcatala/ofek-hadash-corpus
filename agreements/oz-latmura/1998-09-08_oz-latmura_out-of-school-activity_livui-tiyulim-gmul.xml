@@ -13,7 +13,6 @@
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -28,7 +27,6 @@
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRlanguage language="heb" />

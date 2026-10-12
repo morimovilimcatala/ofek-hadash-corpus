@@ -7,15 +7,8 @@
           <FRBRthis value="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/!main" />
           <FRBRuri value="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement" />
           <FRBRdate date="2011-08-14" name="issued" />
-          <FRBRauthor href="#moe" as="#author" />
-          <FRBRauthor href="#mof" as="#author" />
-          <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#cbs" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#histadrut" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -25,15 +18,8 @@
           <FRBRthis value="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/heb@/!main" />
           <FRBRuri value="/akn/il/act/collectiveAgreement/2011-08-14/2011-08-14-oz-latmura-founding-agreement/heb@" />
           <FRBRdate date="2011-08-14" name="issued" />
-          <FRBRauthor href="#moe" as="#author" />
-          <FRBRauthor href="#mof" as="#author" />
-          <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#cbs" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#histadrut" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRlanguage language="heb" />
         </FRBRExpression>
@@ -94,16 +80,16 @@
         <TLCTerm eId="term_f13d5efc" href="/ontology/term/il/f13d5efc" showAs="התוכנית" />
         <TLCTerm eId="term_ff258120" href="/ontology/term/il/ff258120" showAs="הדו&quot;ח המסכם" />
         <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
-        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
-        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
-        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
         <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
-        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
-        <TLCOrganization eId="histadrut" href="/ontology/organization/il/histadrut" showAs="ההסתדרות הכללית" />
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
+        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
+        <TLCOrganization eId="histadrut" href="/ontology/organization/il/histadrut" showAs="ההסתדרות הכללית" />
         <TLCRole eId="role-chashav" href="/ontology/role/il/chashav" showAs="חשב המשרד" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהל הכללי" />
         <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
@@ -3026,7 +3012,7 @@
               <content>
                 <p>טבלאות שבוע עבודה למורות אימהות ביישום מלא של <term eId="trm_202" refersTo="#term_0d75357b">הרפורמה</term>
                 </p>
-                <p repo:role="running-head">מורה אם לפי סעיף ___ <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_1" refersTo="#sic_omission" /> (א)</p>
+                <p>מורה אם לפי סעיף ___ <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_1" refersTo="#sic_omission" /> (א)</p>
                 <table>
                   <tr>
                     <th>
@@ -3856,7 +3842,7 @@
             <hcontainer eId="att_2__hc_1" name="text" repo:structure="flat">
               <content>
                 <p>טבלאות שבוע עבודה למורות אימהות ביישום חלקי של <term eId="trm_203" refersTo="#term_0d75357b">הרפורמה</term> בשנת הלימודים תשע"ב</p>
-                <p repo:role="running-head">מורה אם לפי סעיף ___ <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_7" refersTo="#sic_omission" /> (א)</p>
+                <p>מורה אם לפי סעיף ___ <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_7" refersTo="#sic_omission" /> (א)</p>
                 <table>
                   <tr>
                     <th>
@@ -4710,7 +4696,7 @@
             <hcontainer eId="att_3__hc_1" name="text" repo:structure="flat">
               <content>
                 <p>טבלאות שבוע עבודה למורות אימהות ביישום חלקי של <term eId="trm_204" refersTo="#term_0d75357b">הרפורמה</term> בשנת הלימודים תשע"ג</p>
-                <p repo:role="running-head">מורה אם לפי סעיף ___ <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_13" refersTo="#sic_omission" /> (א)</p>
+                <p>מורה אם לפי סעיף ___ <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_13" refersTo="#sic_omission" /> (א)</p>
                 <table>
                   <tr>
                     <th>
@@ -5539,7 +5525,7 @@
             <hcontainer eId="att_4__hc_1" name="text" repo:structure="flat">
               <content>
                 <p>טבלאות שבוע עבודה למורות אימהות ביישום חלקי של <term eId="trm_205" refersTo="#term_0d75357b">הרפורמה</term> בשנת הלימודים תשע"ד</p>
-                <p repo:role="running-head">מורה אם לפי סעיף ___ <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_19" refersTo="#sic_omission" /> (א)</p>
+                <p>מורה אם לפי סעיף ___ <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_19" refersTo="#sic_omission" /> (א)</p>
                 <table>
                   <tr>
                     <th>
@@ -6369,7 +6355,7 @@
               <content>
                 <p>טבלאות שבוע עבודה למורים הזכאים להפחתת שעות בשל גיל ביישום מלא של <term eId="trm_206" refersTo="#term_0d75357b">הרפורמה</term>
                 </p>
-                <p repo:role="running-head">מורה <quantity eId="qty_468" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_469" refersTo="#age" normalized="55">גיל 55</quantity>
+                <p>מורה <quantity eId="qty_468" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_469" refersTo="#age" normalized="55">גיל 55</quantity>
                 </p>
                 <table>
                   <tr>
@@ -7047,7 +7033,7 @@
             <hcontainer eId="att_6__hc_1" name="text" repo:structure="flat">
               <content>
                 <p>טבלאות שבוע עבודה למורים הזכאים להפחתת שעות בשל גיל ביישום חלקי של <term eId="trm_209" refersTo="#term_0d75357b">הרפורמה</term> בשנת הלימודים תשע"ב</p>
-                <p repo:role="running-head">מורה <quantity eId="qty_508" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_509" refersTo="#age" normalized="55">גיל 55</quantity>
+                <p>מורה <quantity eId="qty_508" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_509" refersTo="#age" normalized="55">גיל 55</quantity>
                 </p>
                 <table>
                   <tr>
@@ -7677,7 +7663,7 @@
             <hcontainer eId="att_7__hc_1" name="text" repo:structure="flat">
               <content>
                 <p>טבלאות שבוע עבודה למורים הזכאים להפחתת שעות בשל גיל ביישום חלקי של <term eId="trm_212" refersTo="#term_0d75357b">הרפורמה</term> בשנת הלימודים תשע"ג</p>
-                <p repo:role="running-head">מורה <quantity eId="qty_548" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_549" refersTo="#age" normalized="55">גיל 55</quantity>
+                <p>מורה <quantity eId="qty_548" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_549" refersTo="#age" normalized="55">גיל 55</quantity>
                 </p>
                 <table>
                   <tr>
@@ -8339,7 +8325,7 @@
             <hcontainer eId="att_8__hc_1" name="text" repo:structure="flat">
               <content>
                 <p>טבלאות שבוע עבודה למורים הזכאים להפחתת שעות בשל גיל ביישום חלקי של <term eId="trm_215" refersTo="#term_0d75357b">הרפורמה</term> בשנת הלימודים תשע"ד</p>
-                <p repo:role="running-head">מורה <quantity eId="qty_590" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_591" refersTo="#age" normalized="55">גיל 55</quantity>
+                <p>מורה <quantity eId="qty_590" refersTo="#age" normalized="50">מגיל 50</quantity> ועד <quantity eId="qty_591" refersTo="#age" normalized="55">גיל 55</quantity>
                 </p>
                 <table>
                   <tr>

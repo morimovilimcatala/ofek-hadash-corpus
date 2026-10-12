@@ -136,7 +136,7 @@
           <p>מעודכן החל מיום <date date="2022-09-01">1.9.2022</date>
           </p>
           <p>נספח ג'1</p>
-          <p repo:role="running-head"><concept eId="cmp_3" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר BA (<concept eId="con_2" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
+          <p><concept eId="cmp_3" refersTo="#comp_ofek-2022">תוספת אופק 2022</concept> למורים בעלי תואר BA (<concept eId="con_2" refersTo="#dirug_101">קוד דירוג 101</concept>)</p>
           <table>
             <tr>
               <th>

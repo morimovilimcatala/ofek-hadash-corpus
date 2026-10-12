@@ -7,14 +7,8 @@
           <FRBRthis value="/akn/il/act/collectiveAgreement/2017-03-23/2017-03-23-oz-latmura-wage-agreement-2013-2016/!main" />
           <FRBRuri value="/akn/il/act/collectiveAgreement/2017-03-23/2017-03-23-oz-latmura-wage-agreement-2013-2016" />
           <FRBRdate date="2017-03-23" name="issued" />
-          <FRBRauthor href="#moe" as="#author" />
-          <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#cbs" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#histadrut" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -23,14 +17,8 @@
           <FRBRthis value="/akn/il/act/collectiveAgreement/2017-03-23/2017-03-23-oz-latmura-wage-agreement-2013-2016/heb@/!main" />
           <FRBRuri value="/akn/il/act/collectiveAgreement/2017-03-23/2017-03-23-oz-latmura-wage-agreement-2013-2016/heb@" />
           <FRBRdate date="2017-03-23" name="issued" />
-          <FRBRauthor href="#moe" as="#author" />
-          <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#cbs" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#histadrut" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRlanguage language="heb" />
         </FRBRExpression>
@@ -65,15 +53,15 @@
         <TLCTerm eId="term_f3f03137" href="/ontology/term/il/f3f03137" showAs="התוספת השקלית לעובד הוראה" />
         <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
         <TLCLocation eId="loc_b1e2548c" href="/ontology/location/il/b1e2548c" showAs="רח' קפלן 1" />
-        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
-        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
         <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
-        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
-        <TLCOrganization eId="histadrut" href="/ontology/organization/il/histadrut" showAs="ההסתדרות הכללית" />
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
+        <TLCOrganization eId="cbs" href="/ontology/organization/il/central-bureau-statistics" showAs="הלשכה המרכזית לסטטיסטיקה" />
+        <TLCOrganization eId="histadrut" href="/ontology/organization/il/histadrut" showAs="ההסתדרות הכללית" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="מנכ&quot;ל" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
         <TLCRole eId="role-yor" href="/ontology/role/il/yor" showAs="יו&quot;ר" />

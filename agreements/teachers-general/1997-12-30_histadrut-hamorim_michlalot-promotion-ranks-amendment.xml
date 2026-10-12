@@ -10,7 +10,6 @@
           <FRBRauthor href="#state" as="#author" />
           <FRBRauthor href="#histadrut-hamorim" as="#author" />
           <FRBRauthor href="#moe" as="#author" />
-          <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRcountry value="il" />
           <FRBRsubtype value="collectiveAgreement" />
@@ -22,7 +21,6 @@
           <FRBRauthor href="#state" as="#author" />
           <FRBRauthor href="#histadrut-hamorim" as="#author" />
           <FRBRauthor href="#moe" as="#author" />
-          <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRlanguage language="heb" />
         </FRBRExpression>
@@ -43,10 +41,10 @@
         <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל" />
         <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
         <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
-        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="מנכ&quot;ל" />
         <TLCRole eId="role-mazkir-klali" href="/ontology/role/il/mazkir-klali" showAs="מזכ&quot;ל" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />

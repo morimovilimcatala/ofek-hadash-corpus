@@ -8,12 +8,9 @@
           <FRBRuri value="/akn/il/act/collectiveAgreement/1999-03-03/1999-03-03-framework-agreement-public-sector-pension-transition" />
           <FRBRdate date="1999-03-03" name="issued" />
           <FRBRauthor href="#state" as="#author" />
-          <FRBRauthor href="#histadrut-hamorim" as="#author" />
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#civil-service" as="#author" />
           <FRBRauthor href="#regional-councils-centre" as="#author" />
           <FRBRauthor href="#religious-councils" as="#author" />
           <FRBRauthor href="#employment-service" as="#author" />
@@ -32,12 +29,9 @@
           <FRBRuri value="/akn/il/act/collectiveAgreement/1999-03-03/1999-03-03-framework-agreement-public-sector-pension-transition/heb@" />
           <FRBRdate date="1999-03-03" name="issued" />
           <FRBRauthor href="#state" as="#author" />
-          <FRBRauthor href="#histadrut-hamorim" as="#author" />
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#civil-service" as="#author" />
           <FRBRauthor href="#regional-councils-centre" as="#author" />
           <FRBRauthor href="#religious-councils" as="#author" />
           <FRBRauthor href="#employment-service" as="#author" />
@@ -112,12 +106,9 @@
         <TLCLocation eId="loc_c8a86a83" href="/ontology/location/il/c8a86a83" showAs="רחוב ארלוזורוב 93" />
         <TLCRole eId="office_37d14cf4" href="/ontology/role/il/37d14cf4" showAs="נציב שירות המדינה" />
         <TLCOrganization eId="state" href="/ontology/organization/il/government" showAs="ממשלת ישראל" />
-        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
         <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
-        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
-        <TLCOrganization eId="civil-service" href="/ontology/organization/il/civil-service-commission" showAs="נציבות שירות המדינה" />
         <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
         <TLCOrganization eId="religious-councils" href="/ontology/organization/il/religious-councils" showAs="חבר המועצות הדתיות בישראל" />
         <TLCOrganization eId="employment-service" href="/ontology/organization/il/employment-service" showAs="שירות התעסוקה" />
@@ -129,6 +120,9 @@
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="histadrut-hamorim" href="/ontology/organization/il/histadrut-hamorim" showAs="הסתדרות המורים בישראל" />
+        <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
+        <TLCOrganization eId="civil-service" href="/ontology/organization/il/civil-service-commission" showAs="נציבות שירות המדינה" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="מנכ&quot;ל" />
         <TLCRole eId="role-memuneh-rashi" href="/ontology/role/il/memuneh-rashi" showAs="הממונה הראשי על יחסי עבודה" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />

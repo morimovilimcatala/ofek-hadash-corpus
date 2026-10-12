@@ -11,7 +11,6 @@
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#civil-service" as="#author" />
           <FRBRauthor href="#regional-councils-centre" as="#author" />
           <FRBRauthor href="#religious-councils" as="#author" />
           <FRBRauthor href="#employment-service" as="#author" />
@@ -33,7 +32,6 @@
           <FRBRauthor href="#mof" as="#author" />
           <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#civil-service" as="#author" />
           <FRBRauthor href="#regional-councils-centre" as="#author" />
           <FRBRauthor href="#religious-councils" as="#author" />
           <FRBRauthor href="#employment-service" as="#author" />
@@ -81,7 +79,6 @@
         <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
-        <TLCOrganization eId="civil-service" href="/ontology/organization/il/civil-service-commission" showAs="נציבות שירות המדינה" />
         <TLCOrganization eId="regional-councils-centre" href="/ontology/organization/il/regional-councils-centre" showAs="מרכז המועצות האזוריות" />
         <TLCOrganization eId="religious-councils" href="/ontology/organization/il/religious-councils" showAs="חבר המועצות הדתיות בישראל" />
         <TLCOrganization eId="employment-service" href="/ontology/organization/il/employment-service" showAs="שירות התעסוקה" />
@@ -94,6 +91,7 @@
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="civil-service" href="/ontology/organization/il/civil-service-commission" showAs="נציבות שירות המדינה" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="מנכ&quot;לית" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
         <TLCRole eId="role-yor" href="/ontology/role/il/yor" showAs="יו&quot;ר" />

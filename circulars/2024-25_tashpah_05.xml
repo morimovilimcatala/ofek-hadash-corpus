@@ -177,7 +177,17 @@
         <TLCConcept eId="comp_sheklit-2023" href="/ontology/concept/il/pay-component/sheklit-2023" showAs="תוספת שקלית 2023" />
         <TLCConcept eId="stage_al_yesodi" href="/ontology/concept/il/school-stage/al-yesodi" showAs="על-יסודי" />
         <TLCConcept eId="stage_chativa_elyona" href="/ontology/concept/il/school-stage/chativa-elyona" showAs="חטיבה עליונה" />
+        <TLCConcept eId="sic_numbering" href="/ontology/concept/sic/numbering" showAs="מספור" />
+        <TLCConcept eId="sic_punctuation" href="/ontology/concept/sic/punctuation" showAs="פיסוק ומירכאות" />
       </references>
+      <notes source="#repo-generator">
+        <note class="sic" marker="כך במקור" refersTo="#sic_punctuation" eId="note_sic_1">
+          <p>חסר סוגר פותח לפני א: צ"ל 38(א)(2), כבשורה שמעליה (MMS-344).</p>
+        </note>
+        <note class="sic" marker="כך במקור" refersTo="#sic_numbering" eId="note_sic_2">
+          <p>פריטי סעיף-קטן (ב) ממוספרים (1), (2), (3), (6), (7); אין בעמוד (4) ו-(5). סעיף-קטן (א) שלפניו ממוספר (1)–(5), ובו פריט התמורה הוא (4).</p>
+        </note>
+      </notes>
       <proprietary source="#repo-generator" xmlns:repo="https://github.com/ofek-hadash-checker/ns/akn-provenance/1.0">
         <repo:provenance>
           <repo:uriScheme>REPO-LOCAL CONVENTION. Israel has no official Akoma Ntoso country namespace or URI registry; these /akn/il/... names were coined in this repository and are not citable outside it.</repo:uriScheme>
@@ -207,7 +217,7 @@
       <p><date date="2024-10-10">10 אוקטובר 2024</date>
       </p>
       <p>סימוכין <docNumber>2000-1028-2024-0046556</docNumber> :</p>
-      <p>חוזר לבעלויות <docNumber>תשפ"ה5/</docNumber>
+      <p>חוזר לבעלויות <docNumber>תשפ"ה/5</docNumber>
       </p>
       <p>לכבוד</p>
       <p>הבעלויות על <concept eId="dom_1" refersTo="#stage_chativa_elyona">החטיבות העליונות</concept>
@@ -1554,7 +1564,7 @@
           <paragraph eId="art_38__para_b">
             <num>(ב)</num>
             <content>
-              <p>למען הסר כל ספק מובהר כי מורה אשר השתתף ביום היערכות יהיה רשאי שלא לבצע עד שעתיים פרטניות כמפורט בסעיף קטן (38א)( )1 לעיל ובנוסף עד  <quantity eId="qty_115" refersTo="#hour" normalized="4">4 שעות</quantity> תומכות הוראה כמפורט בסעיף קטן 38א)( )2 לעיל, סך הכל עד  <quantity eId="qty_116" refersTo="#hour" normalized="6">6 שעות</quantity> יחידות במהלך החודשיים הראשונים, ובכל מקרה לא יותר מסך כל שעות העבודה אשר ביצע במסגרת יום ההיערכות.</p>
+              <p>למען הסר כל ספק מובהר כי מורה אשר השתתף ביום היערכות יהיה רשאי שלא לבצע עד שעתיים פרטניות כמפורט בסעיף קטן 38(א)(1) לעיל ובנוסף עד  <quantity eId="qty_115" refersTo="#hour" normalized="4">4 שעות</quantity> תומכות הוראה כמפורט בסעיף קטן 38א)(2) <noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_1" refersTo="#sic_punctuation" /> לעיל, סך הכל עד  <quantity eId="qty_116" refersTo="#hour" normalized="6">6 שעות</quantity> יחידות במהלך החודשיים הראשונים, ובכל מקרה לא יותר מסך כל שעות העבודה אשר ביצע במסגרת יום ההיערכות.</p>
             </content>
           </paragraph>
         </article>
@@ -1687,7 +1697,7 @@
               <clause eId="art_42__para_1__subpara_b__cls_6">
                 <num>(6)</num>
                 <content>
-                  <p>התמורה לעובדי ההוראה אשר יועסקו <term eId="trm_101" refersTo="#term_1599c09e">בימי ההשלמה בפסח</term> תשולם כמקדמה במשכורת חודש ספטמבר  2024 המשתלמת בחודש אוקטובר  2024 באופן הבא -כנגד כל שיעור שיושלם ויבוצע <term eId="trm_102" refersTo="#term_1599c09e">בימי ההשלמה בפסח</term>, יהיה זכאי עובד ההוראה לשכר בגין שעת שביתה אחת בימים - <date date="2024-09-03">03.09.2024</date> .<date date="2024-09-05">05.09.2024</date>
+                  <p><noteRef class="sic" marker="כך במקור" placement="inline" href="#note_sic_2" refersTo="#sic_numbering" /> התמורה לעובדי ההוראה אשר יועסקו <term eId="trm_101" refersTo="#term_1599c09e">בימי ההשלמה בפסח</term> תשולם כמקדמה במשכורת חודש ספטמבר  2024 המשתלמת בחודש אוקטובר  2024 באופן הבא -כנגד כל שיעור שיושלם ויבוצע <term eId="trm_102" refersTo="#term_1599c09e">בימי ההשלמה בפסח</term>, יהיה זכאי עובד ההוראה לשכר בגין שעת שביתה אחת בימים - <date date="2024-09-03">03.09.2024</date> .<date date="2024-09-05">05.09.2024</date>
                   </p>
                 </content>
               </clause>
@@ -1828,8 +1838,8 @@
           </paragraph>
           <paragraph eId="art_42__para_3">
             <num>3.</num>
+            <heading>ימי העדרות שלא בשכר</heading>
             <content>
-              <p>ימי העדרות שלא בשכר</p>
               <p>לצד החזר חמישה ימי לימוד כמפורט לעיל, שכרו של עובד הוראה אשר השתתף בשביתה שהתקיימה בימים  <date date="2024-09-06">06.09.2024</date> עד  <date date="2024-09-08">08.09.2024</date> יופחת בהתאם למספר שעות העבודה שהיה אמור לעבוד על פי מערכת השעות הרגילה בימים אלו בהתאמה וזאת במשכורת חודש אוקטובר ( 2024 המשולמת בנובמבר )2024 ולכל המאוחר במשכורת חודש נובמבר ( 2024 המשולמת בחודש דצמבר  )2024 ובכל מקרה במועד תשלום המענק החד פעמי הקבוע בסעיף  7 להסכם מיום .<date date="2024-09-23">23.9.2024</date>
               </p>
             </content>

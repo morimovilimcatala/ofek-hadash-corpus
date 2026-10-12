@@ -7,12 +7,7 @@
           <FRBRthis value="/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments/!main" />
           <FRBRuri value="/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments" />
           <FRBRdate date="2014-06-26" name="issued" />
-          <FRBRauthor href="#moe" as="#author" />
-          <FRBRauthor href="#mof" as="#author" />
-          <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRcountry value="il" />
@@ -22,12 +17,7 @@
           <FRBRthis value="/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments/heb@/!main" />
           <FRBRuri value="/akn/il/act/collectiveAgreement/2014-06-26/2014-06-26-oz-latmura-bagrut-reform-amendments/heb@" />
           <FRBRdate date="2014-06-26" name="issued" />
-          <FRBRauthor href="#moe" as="#author" />
-          <FRBRauthor href="#mof" as="#author" />
-          <FRBRauthor href="#state-israel" as="#author" />
           <FRBRauthor href="#local-government" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
-          <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#irgun-hamorim" as="#author" />
           <FRBRauthor href="#three-cities" as="#author" />
           <FRBRlanguage language="heb" />
@@ -116,14 +106,13 @@
         <TLCLocation eId="loc_8e0dfe1e" href="/ontology/location/il/8e0dfe1e" showAs="ירושלים" />
         <TLCLocation eId="loc_b1e2548c" href="/ontology/location/il/b1e2548c" showAs="רח' קפלן 1" />
         <TLCOrganization eId="unit_2a0dc418" href="/ontology/organization/il/unit/2a0dc418" showAs="לשכת המנהלה הכללית" />
-        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
-        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
-        <TLCOrganization eId="state-israel" href="/ontology/organization/il/state" showAs="מדינת ישראל" />
         <TLCOrganization eId="local-government" href="/ontology/organization/il/local-government-centre" showAs="מרכז השלטון המקומי" />
         <TLCOrganization eId="irgun-hamorim" href="/ontology/organization/il/irgun-hamorim" showAs="ארגון המורים העל-יסודיים" />
         <TLCOrganization eId="three-cities" href="/ontology/organization/il/three-cities" showAs="שלוש הערים הגדולות" />
         <TLCRole eId="author" href="/ontology/role/author" showAs="מחבר" />
         <TLCRole eId="editor" href="/ontology/role/editor" showAs="עורך" />
+        <TLCOrganization eId="moe" href="/ontology/organization/il/education-ministry" showAs="משרד החינוך" />
+        <TLCOrganization eId="mof" href="/ontology/organization/il/finance-ministry" showAs="משרד האוצר" />
         <TLCRole eId="role-mankal" href="/ontology/role/il/mankal" showAs="המנהלת הכללית" />
         <TLCRole eId="role-memuneh-sachar" href="/ontology/role/il/memuneh-sachar" showAs="הממונה על השכר והסכמי עבודה" />
         <TLCRole eId="role-yor" href="/ontology/role/il/yor" showAs="יו&quot;ר" />
