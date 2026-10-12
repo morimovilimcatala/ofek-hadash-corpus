@@ -46,7 +46,7 @@
  "@type": "schema:Dataset",
  "name": "מאגר אופק חדש — Ofek Hadash legal corpus — ontology",
  "url": "https://morimovilimcatala.github.io/ofek-hadash-corpus/ontology.html",
- "entityCount": 1087,
+ "entityCount": 1099,
  "concept": [
   {
    "@type": "skos:Concept",
@@ -23065,7 +23065,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 286,
-   "markCount": 2112,
+   "markCount": 2143,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -24508,7 +24508,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 262,
-   "markCount": 763,
+   "markCount": 765,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -27104,7 +27104,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 205,
-   "markCount": 643,
+   "markCount": 654,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -28142,7 +28142,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 168,
-   "markCount": 467,
+   "markCount": 469,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -29713,7 +29713,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 133,
-   "markCount": 433,
+   "markCount": 436,
    "inDocuments": [
     {
      "path": "circulars/2015-16_tashav_04_clarif.xml",
@@ -32858,7 +32858,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 78,
-   "markCount": 102,
+   "markCount": 103,
    "inDocuments": [
     {
      "path": "takam/2019-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v13.xml",
@@ -40860,7 +40860,7 @@
    "tlcKind": "TLCOrganization",
    "kindLabel": "גופים",
    "documentCount": 5,
-   "markCount": 32,
+   "markCount": 35,
    "inDocuments": [
     {
      "path": "agreements/oz-latmura/2003-09-10_oz-latmura_sick-days-fund-renewal.xml",
@@ -42829,7 +42829,7 @@
    "tlcKind": "TLCRole",
    "kindLabel": "תפקידים",
    "documentCount": 201,
-   "markCount": 476,
+   "markCount": 478,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -44575,7 +44575,7 @@
    "tlcKind": "TLCRole",
    "kindLabel": "תפקידים",
    "documentCount": 138,
-   "markCount": 413,
+   "markCount": 421,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -52773,7 +52773,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 226,
-   "markCount": 9218,
+   "markCount": 9219,
    "inDocuments": [
     {
      "path": "circulars-sachar/2023-03-23_sachar_2023-1-13_pesach-leave.xml",
@@ -53916,7 +53916,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 114,
-   "markCount": 659,
+   "markCount": 663,
    "inDocuments": [
     {
      "path": "circulars/2024-25_tashpah_08_clarif.xml",
@@ -55455,7 +55455,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 91,
-   "markCount": 816,
+   "markCount": 826,
    "inDocuments": [
     {
      "path": "takam/2017-05-17_takam_H-13-4-2_kitzuvat-nesia_v4.xml",
@@ -55923,7 +55923,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 90,
-   "markCount": 755,
+   "markCount": 764,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2013-03-12_ofek-hadash_vaadat-maakav_principal-pay-complexity.xml",
@@ -56386,7 +56386,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 90,
-   "markCount": 469,
+   "markCount": 474,
    "inDocuments": [
     {
      "path": "circulars/2024-25_tashpah_08_clarif.xml",
@@ -56849,7 +56849,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 87,
-   "markCount": 497,
+   "markCount": 498,
    "inDocuments": [
     {
      "path": "takam/2017-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v11.xml",
@@ -57740,7 +57740,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 73,
-   "markCount": 1764,
+   "markCount": 1782,
    "inDocuments": [
     {
      "path": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.xml",
@@ -58118,7 +58118,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 63,
-   "markCount": 230,
+   "markCount": 231,
    "inDocuments": [
     {
      "path": "takam/2019-04-01_takam_HOD-13-4-2-1_luach-taarifei-nesia_v13.xml",
@@ -58446,7 +58446,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 55,
-   "markCount": 473,
+   "markCount": 474,
    "inDocuments": [
     {
      "path": "takanon/terms-service.education.gov.il/yaer-opening.xml",
@@ -58734,7 +58734,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 54,
-   "markCount": 402,
+   "markCount": 414,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2013-09-15_ofek-hadash_vaadat-maakav-248-2013_rikuz-tikshuv-gmul.xml",
@@ -59787,7 +59787,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 47,
-   "markCount": 267,
+   "markCount": 268,
    "inDocuments": [
     {
      "path": "circulars/2022-23_tashpag_09_clarif.xml",
@@ -63119,7 +63119,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 2,
-   "markCount": 20,
+   "markCount": 26,
    "inDocuments": [
     {
      "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
@@ -63751,7 +63751,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 56,
-   "markCount": 1284,
+   "markCount": 1313,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2022-10-19_ofek-hadash_wage-agreement.xml",
@@ -64234,7 +64234,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 34,
-   "markCount": 745,
+   "markCount": 767,
    "inDocuments": [
     {
      "path": "agreements/ofek-hadash/2026-06-29_ofek-hadash_approved-teacher-agreement_wage-reduction-2025-2026.xml",
@@ -68107,7 +68107,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 3,
-   "markCount": 235,
+   "markCount": 240,
    "inDocuments": [
     {
      "path": "agreements/oz-latmura/2024-09-23_oz-latmura_work-week-restructuring.xml",
@@ -68247,7 +68247,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 3,
-   "markCount": 230,
+   "markCount": 246,
    "inDocuments": [
     {
      "path": "agreements/framework/2001-01-31_framework-agreement_public-sector_wage-agreement-1999-2001.xml",
@@ -71083,6 +71083,42 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "בחינות השלמה",
+   "uri": "/ontology/term/il/d25e079d",
+   "html": "ontology.html#e-51ef29823002",
+   "page": "ontology/e-51ef29823002.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 37,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "בחינות מילואים",
+   "uri": "/ontology/term/il/8805e518",
+   "html": "ontology.html#e-bc44ce3c3c81",
+   "page": "ontology/e-bc44ce3c3c81.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 21,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "בחירת קופת גמל לקצבה",
    "uri": "/ontology/term/il/409e703c",
    "html": "ontology.html#e-2e1cada3715f",
@@ -71126,7 +71162,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 59,
+   "markCount": 61,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -71209,6 +71245,24 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "גננת",
+   "uri": "/ontology/term/il/925ea87f",
+   "html": "ontology.html#e-603031b64081",
+   "page": "ontology/e-603031b64081.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 69,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "דיון שקיפות הערכה",
    "uri": "/ontology/term/il/e4943221",
    "html": "ontology.html#e-9a5c77a38194",
@@ -71258,6 +71312,24 @@
      "path": "agreements/framework/2016-04-18_framework-agreement_public-sector.xml",
      "title": "הסכם קיבוצי (מסגרת)",
      "html": "agreements/framework/2016-04-18_framework-agreement_public-sector.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "דרגה",
+   "uri": "/ontology/term/il/d0ec10e2",
+   "html": "ontology.html#e-7a9b19e8c44f",
+   "page": "ontology/e-7a9b19e8c44f.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 23,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
@@ -71342,7 +71414,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 9,
+   "markCount": 11,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -71504,7 +71576,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 74,
+   "markCount": 82,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -71540,7 +71612,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 205,
+   "markCount": 217,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -71828,7 +71900,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 33,
+   "markCount": 34,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -72854,7 +72926,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 4,
+   "markCount": 5,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -73117,6 +73189,24 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "השאלון",
+   "uri": "/ontology/term/il/bf06c11d",
+   "html": "ontology.html#e-f6798ffe3851",
+   "page": "ontology/e-f6798ffe3851.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 5,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "השינוי העתידי",
    "uri": "/ontology/term/il/31e62161",
    "html": "ontology.html#e-8573cc83c334",
@@ -73130,6 +73220,24 @@
      "path": "agreements/framework/2023-07-17_framework-agreement_public-sector.xml",
      "title": "הסכם קיבוצי (מסגרת) — המגזר הציבורי 2023",
      "html": "agreements/framework/2023-07-17_framework-agreement_public-sector.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "השכלה פדגוגית",
+   "uri": "/ontology/term/il/b4a864af",
+   "html": "ontology.html#e-9341cba1e877",
+   "page": "ontology/e-9341cba1e877.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 25,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
@@ -74323,6 +74431,24 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "מוסד חינוך על-יסודי",
+   "uri": "/ontology/term/il/9a75df8c",
+   "html": "ontology.html#e-a451e5b88120",
+   "page": "ontology/e-a451e5b88120.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 9,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "מוסד חינוך רשמי אחר",
    "uri": "/ontology/term/il/3f32317c",
    "html": "ontology.html#e-2f0ee2cc65e2",
@@ -74510,7 +74636,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 164,
+   "markCount": 190,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -74899,6 +75025,60 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "מקצועות כלליים",
+   "uri": "/ontology/term/il/94b550e5",
+   "html": "ontology.html#e-bbd3f34ce8ee",
+   "page": "ontology/e-bbd3f34ce8ee.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 1,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "מקצועות עבריים",
+   "uri": "/ontology/term/il/e344020f",
+   "html": "ontology.html#e-1750d384a092",
+   "page": "ontology/e-1750d384a092.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 1,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "מקצועות פדגוגיים",
+   "uri": "/ontology/term/il/d227074f",
+   "html": "ontology.html#e-d2b5d8b80a82",
+   "page": "ontology/e-d2b5d8b80a82.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 7,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "מש\"מ",
    "uri": "/ontology/term/il/ec0bed03",
    "html": "ontology.html#e-9a7f5fff0f32",
@@ -74996,7 +75176,7 @@
    "tlcKind": "TLCTerm",
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
-   "markCount": 16,
+   "markCount": 19,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -75195,6 +75375,24 @@
    "kindLabel": "מונחים מוגדרים",
    "documentCount": 1,
    "markCount": 6,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "עבודה בהוראה או בחינוך",
+   "uri": "/ontology/term/il/ce630723",
+   "html": "ontology.html#e-7cf866da6971",
+   "page": "ontology/e-7cf866da6971.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 1,
    "inDocuments": [
     {
      "path": "takanon/takanon-sherut-ovdei-horaa.xml",
@@ -76986,6 +77184,24 @@
      "path": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.xml",
      "title": "הסכם קיבוצי — שינוי שיטת הפנסיה מפנסיה תקציבית לפנסיה צוברת",
      "html": "agreements/framework/1999-03-03_framework-agreement_public-sector_pension-transition.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
+   "skos:prefLabel": "תשלום יתר",
+   "uri": "/ontology/term/il/2bc965f7",
+   "html": "ontology.html#e-8f3f754d4148",
+   "page": "ontology/e-8f3f754d4148.html",
+   "tlcKind": "TLCTerm",
+   "kindLabel": "מונחים מוגדרים",
+   "documentCount": 1,
+   "markCount": 10,
+   "inDocuments": [
+    {
+     "path": "takanon/takanon-sherut-ovdei-horaa.xml",
+     "title": "תקנון שירות עובדי הוראה",
+     "html": "takanon/takanon-sherut-ovdei-horaa.html"
     }
    ]
   },
