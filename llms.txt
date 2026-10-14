@@ -4,6 +4,8 @@
 
 359 documents. Available text is one instrument's own wording. Some entries are metadata-only and contain no encoded body text. There is no advice layer: where the law is silent this corpus says so rather than filling the gap, and an answer drawn from it should quote the clause and name the instrument.
 
+Terms: you may read, quote and link to this site, and an assistant may fetch a page to answer a user's question. Its content, including this corpus's encoding, transcriptions and findings, may NOT be used to train, fine-tune or evaluate AI models, or mined for that purpose, without prior written permission: https://morimovilimcatala.github.io/ofek-hadash-corpus/terms.html
+
 ## What is here
 
 - **חוזרים** (circular): 210
