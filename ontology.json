@@ -64875,7 +64875,7 @@
    "tlcKind": "TLCConcept",
    "kindLabel": "מושגים",
    "documentCount": 28,
-   "markCount": 158,
+   "markCount": 160,
    "inDocuments": [
     {
      "path": "agreements/oz-latmura/2013-05-28_oz-latmura_vaadat-higui-decision.xml",
@@ -66861,6 +66861,29 @@
   },
   {
    "@type": "skos:Concept",
+   "skos:prefLabel": "סכום שגוי",
+   "uri": "/ontology/concept/sic/amount",
+   "html": "ontology.html#e-b9f7fbae0a9f",
+   "page": "ontology/e-b9f7fbae0a9f.html",
+   "tlcKind": "TLCConcept",
+   "kindLabel": "מושגים",
+   "documentCount": 2,
+   "markCount": 44,
+   "inDocuments": [
+    {
+     "path": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.xml",
+     "title": "הסכם קיבוצי כללי ליישום רפורמת \"עוז לתמורה\" בחטיבות העליונות",
+     "html": "agreements/oz-latmura/2011-08-14_oz-latmura_founding-agreement.html"
+    },
+    {
+     "path": "agreements/framework/2016-08-08_framework-agreement_public-sector_amendment.xml",
+     "title": "הסכם קיבוצי — תיקון הסכם 2016",
+     "html": "agreements/framework/2016-08-08_framework-agreement_public-sector_amendment.html"
+    }
+   ]
+  },
+  {
+   "@type": "skos:Concept",
    "skos:prefLabel": "קוד דירוג 110 — מנהלים אקדמאים",
    "uri": "/ontology/concept/il/dirug/110",
    "html": "ontology.html#e-3eefcc7f42eb",
@@ -67429,24 +67452,6 @@
      "path": "circulars/2024-25_tashpah_08.xml",
      "title": "חוזר לבעלויות תשפ\"ה/8 - הגשת בקשה לתקצוב שעות פרופסיונליות בשנה\"ל תשפ\"ה בשל השינוי במבנה שבוע העבודה בחטיבות העליונות",
      "html": "circulars/2024-25_tashpah_08.html"
-    }
-   ]
-  },
-  {
-   "@type": "skos:Concept",
-   "skos:prefLabel": "סכום שגוי",
-   "uri": "/ontology/concept/sic/amount",
-   "html": "ontology.html#e-b9f7fbae0a9f",
-   "page": "ontology/e-b9f7fbae0a9f.html",
-   "tlcKind": "TLCConcept",
-   "kindLabel": "מושגים",
-   "documentCount": 1,
-   "markCount": 12,
-   "inDocuments": [
-    {
-     "path": "agreements/framework/2016-08-08_framework-agreement_public-sector_amendment.xml",
-     "title": "הסכם קיבוצי — תיקון הסכם 2016",
-     "html": "agreements/framework/2016-08-08_framework-agreement_public-sector_amendment.html"
     }
    ]
   },
