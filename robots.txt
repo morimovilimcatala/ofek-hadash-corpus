@@ -1,0 +1,60 @@
+# The Ofek Hadash legal corpus. Public, and meant to be read by assistants:
+# every page is a legal instrument's own text with its citation. NOT to be
+# used to train AI models without permission: see https://morimovilimcatala.github.io/ofek-hadash-corpus/terms.html.
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# OpenAI: OAI-SearchBot builds the search index ChatGPT answers from;
+# ChatGPT-User fetches a page when a user follows a link in a conversation.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+# Training crawlers: refused (terms.html).
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+
+Sitemap: https://morimovilimcatala.github.io/ofek-hadash-corpus/sitemap.xml
